@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>لوحة الكريبتو</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#16181d;--mute:#6b7280;--line:#e5e7eb;--up:#0f9d58;--down:#d93025;--acc:#c99400;--soft:#f1f3f6}
+@media (prefers-color-scheme:dark){:root{--bg:#0e1116;--card:#171b22;--ink:#e8eaed;--mute:#9aa1ab;--line:#262c36;--up:#2ebd85;--down:#f6465d;--acc:#f0b90b;--soft:#1e232c}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 "IBM Plex Sans Arabic",system-ui,sans-serif}
+.wrap{max-width:960px;margin:0 auto;padding:20px 16px 48px}
+header{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;margin-bottom:16px}
+h1{font-size:22px;margin:0}
+.meta{color:var(--mute);font-size:13px}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--mute);margin-inline-end:6px;vertical-align:middle}
+.dot.on{background:var(--up);box-shadow:0 0 0 3px color-mix(in srgb,var(--up) 25%,transparent)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;margin-bottom:14px}
+.hero{display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:12px}
+.sym{font-weight:700;font-size:18px}
+.price{font-size:40px;font-weight:700;direction:ltr;line-height:1.1}
+.chg{font-weight:600;direction:ltr;display:inline-block}
+.up{color:var(--up)}.down{color:var(--down)}
+.hl{color:var(--mute);font-size:13px;direction:ltr;text-align:left}
+h2{font-size:15px;margin:0 0 12px;color:var(--mute);font-weight:600}
+.bar{position:relative;height:10px;border-radius:6px;margin:34px 6px 38px;background:linear-gradient(to left,var(--up),var(--soft) 50%,var(--down))}
+.mk{position:absolute;top:-6px;transform:translateX(50%);text-align:center;font-size:12px;white-space:nowrap}
+.mk i{display:block;width:2px;height:22px;margin:0 auto;background:var(--mute)}
+.mk b{display:block;direction:ltr}
+.mk.lbl-top{top:-32px}.mk.lbl-top i{margin-top:4px}
+.mk.now i{width:4px;background:var(--acc);height:26px;border-radius:2px}
+.mk.now b{color:var(--acc)}
+.status{font-weight:600}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
+.tile{background:var(--soft);border-radius:10px;padding:10px 12px}
+.tile .k{color:var(--mute);font-size:12px}
+.tile .v{font-weight:700;font-size:17px;direction:ltr;text-align:right}
+.tile .s{font-size:12px;color:var(--mute)}
+ul.news{list-style:none;margin:0;padding:0}
+ul.news li{padding:10px 0;border-top:1px solid var(--line)}
+ul.news li:first-child{border-top:0}
+ul.news a{color:var(--ink);text-decoration:none;font-weight:600;direction:ltr;display:block;text-align:left}
+ul.news a:hover{color:var(--acc)}
+ul.news .src{color:var(--mute);font-size:12px;direction:ltr;text-align:left}
+.n{direction:ltr;unicode-bidi:isolate;display:inline-block}
+.foot{color:var(--mute);font-size:12px;text-align:center;margin-top:20px}
+.err{color:var(--down);font-size:13px}
+@media (max-width:520px){.price{font-size:32px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>لوحة الكريبتو</h1>
+    <div class="meta"><span class="dot" id="dot"></span><span id="live">جاري التحميل…</span> · آخر تقرير: <span id="snapAt">—</span></div>
+  </header>
+  <div id="market"></div>
+  <div id="coins"></div>
+  <p class="foot">السعر المباشر من Binance يتحدث كل ١٥ ثانية. المؤشرات والأخبار تتحدث كل ساعة. للمعلومة فقط وليست نصيحة مالية.</p>
+</div>
+<script>
+const HOSTS=["https://data-api.binance.vision","https://api.binance.com"];
+const $=id=>document.getElementById(id);
+const n=(x,d=4)=>x==null?"—":Number(x).toLocaleString("en-US",{minimumFractionDigits:d,maximumFractionDigits:d});
+const p=(x,d=2)=>x==null?"—":`<span class="n">${(x>0?"+":"")+Number(x).toFixed(d)}%</span>`;
+const cls=x=>x>0?"up":x<0?"down":"";
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const LBL={entry:"الدخول",target:"الهدف",stop:"وقف الخسارة"};
+let snap=null;
+
+function ago(iso){if(!iso)return"?";const m=Math.round((Date.now()-new Date(iso))/60000);
+  return m<1?"الآن":m<60?`قبل ${m} د`:m<1440?`قبل ${Math.round(m/60)} س`:`قبل ${Math.round(m/1440)} يوم`}
+
+async function live(pair){
+  for(const h of HOSTS){try{const r=await fetch(`${h}/api/v3/ticker/24hr?symbol=${pair}`);if(r.ok)return await r.json()}catch(e){}}
+  return null;
+}
+
+function statusText(price,L){
+  const out=[];
+  if(L.entry){const d=(L.entry/price-1)*100;
+    out.push(d<0?`السعر أعلى من سعر الدخول بـ <span class="n">${Math.abs(d).toFixed(2)}%</span>`:`السعر وصل أو نزل تحت سعر الدخول (<span class="n">${n(L.entry)}</span>)`)}
+  if(L.stop&&price<=L.stop)out.push("⚠️ السعر عند أو تحت وقف الخسارة");
+  return out.join(" · ");
+}
+
+function levelBar(price,L){
+  const pts=Object.entries(L).filter(([,v])=>v).map(([k,v])=>[k,v.price??v]);
+  if(!pts.length)return"";
+  const vals=pts.map(x=>x[1]).concat(price);
+  const lo=Math.min(...vals)*0.99,hi=Math.max(...vals)*1.01;
+  const pos=v=>((hi-v)/(hi-lo)*100).toFixed(2); // RTL: high on the right
+  let h=`<div class="bar">`;
+  pts.forEach(([k,v])=>h+=`<div class="mk" style="right:${pos(v)}%"><i></i><b>${n(v)}</b>${LBL[k]||k}</div>`);
+  h+=`<div class="mk now lbl-top" style="right:${pos(price)}%"><b>${n(price)}</b><i></i></div></div>`;
+  return h;
+}
+
+function tile(k,v,s,c=""){return`<div class="tile"><div class="k">${k}</div><div class="v ${c}">${v}</div>${s?`<div class="s">${s}</div>`:""}</div>`}
+
+function render(liveData){
+  if(!snap)return;
+  $("snapAt").textContent=ago(snap.generated_utc);
+  const m=[];
+  for(const [s,c] of Object.entries(snap.context||{}))m.push(tile(s,n(c.price,0),`${p(c.change_24h_pct)} يوم · ${p(c.change_7d_pct)} أسبوع`));
+  if(snap.fear_greed){const f=snap.fear_greed;m.push(tile("الخوف والطمع",f.today,`${f.label} · أمس ${f.yesterday}`))}
+  $("market").innerHTML=m.length?`<div class="card"><h2>السوق العام</h2><div class="grid">${m.join("")}</div></div>`:"";
+
+  $("coins").innerHTML=snap.coins.map(c=>{
+    const a=c.analysis||{},L={};
+    for(const [k,v] of Object.entries(a.levels||{}))L[k]=v.price;
+    const lv=liveData[c.symbol];
+    const price=lv?+lv.lastPrice:a.price, chg=lv?+lv.priceChangePercent:a.change_24h_pct;
+    const hi=lv?+lv.highPrice:a.high_24h, lo=lv?+lv.lowPrice:a.low_24h;
+    const vs=m=>m?p((price/m-1)*100):"—";
+    const rsiNote=r=>r==null?"":r>=70?"مرتفع (تشبّع شراء)":r<=30?"منخفض (تشبّع بيع)":"محايد";
+    return`<div class="card"><div class="hero"><div><div class="sym">${esc(c.symbol)}/USDT</div>
+      <div class="price">${n(price)}</div><span class="chg ${cls(chg)}">${p(chg)} خلال 24 ساعة</span></div>
+      <div class="hl">24h High ${n(hi)}<br>24h Low ${n(lo)}<br>7d ${p(a.change_7d_pct)} · 30d ${p(a.change_30d_pct)}</div></div></div>
+    ${Object.keys(L).length?`<div class="card"><h2>خطتك</h2>${levelBar(price,L)}<div class="status">${statusText(price,L)}</div>
+      <div class="grid" style="margin-top:12px">${Object.entries(L).map(([k,v])=>tile(LBL[k]||k,n(v),`${p((v/price-1)*100)} من السعر الحالي`)).join("")}</div></div>`:""}
+    <div class="card"><h2>المؤشرات (يومي)</h2><div class="grid">
+      ${tile("MA7 · متوسط أسبوع",n(a.ma7),`السعر ${vs(a.ma7)}`)}
+      ${tile("MA25 · متوسط شهر",n(a.ma25),`السعر ${vs(a.ma25)}`)}
+      ${tile("MA99 · متوسط ٣ شهور",n(a.ma99),`السعر ${vs(a.ma99)}`)}
+      ${tile("RSI يومي / 4 ساعات",`${n(a.rsi14_daily,1)} / ${n(a.rsi14_4h,1)}`,rsiNote(a.rsi14_daily))}
+      ${tile("متوسط الحركة اليومية",n(a.atr14_pct,2)+"%","ATR14")}
+      ${tile("حجم التداول",n(a.volume_vs_20d_avg,2)+"x","مقارنة بمتوسط ٢٠ يوم")}
+      ${tile("أعلى ٩٠ يوم",n(a.high_90d),`<span class="n">${a.high_90d_date||""}</span> · السعر ${vs(a.high_90d)}`)}
+      ${tile("أقل ٩٠ يوم",n(a.low_90d),`<span class="n">${a.low_90d_date||""}</span> · السعر ${vs(a.low_90d)}`)}
+    </div></div>
+    <div class="card"><h2>أخبار آخر ${snap.news_hours} ساعة</h2>${(c.news||[]).length?`<ul class="news">${c.news.map(x=>
+      `<li><a href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.title)}</a><div class="src">${esc(x.source)} · ${ago(x.published)}</div></li>`).join("")}</ul>`:`<div class="meta">لا توجد أخبار مطابقة</div>`}</div>`;
+  }).join("")+(snap.errors?.length?`<div class="card err">${snap.errors.map(esc).join("<br>")}</div>`:"");
+}
+
+async function loadSnap(){
+  try{const r=await fetch("reports/latest.json?t="+Date.now());if(r.ok)snap=await r.json()}catch(e){}
+}
+async function tick(){
+  const out={};let ok=false;
+  if(snap)await Promise.all(snap.coins.map(async c=>{const d=await live(c.symbol+"USDT");if(d){out[c.symbol]=d;ok=true}}));
+  $("dot").className="dot"+(ok?" on":"");
+  $("live").textContent=ok?"مباشر · "+new Date().toLocaleTimeString("ar-SA",{hour:"2-digit",minute:"2-digit",second:"2-digit"}):"السعر المباشر غير متاح، يعرض سعر التقرير";
+  render(out);
+}
+(async()=>{await loadSnap();if(!snap){$("coins").innerHTML='<div class="card err">تعذّر تحميل التقرير</div>';return}
+  await tick();setInterval(tick,15000);setInterval(loadSnap,10*60000)})();
+</script>
+</body>
+</html>
