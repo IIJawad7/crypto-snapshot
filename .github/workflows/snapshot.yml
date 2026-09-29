@@ -3,7 +3,7 @@ name: Crypto snapshot
 on:
   workflow_dispatch:          # "Run workflow" button (web or GitHub mobile app)
   schedule:
-    - cron: "47 4 * * *"      # every day ~07:47 Riyadh time (04:47 UTC)
+    - cron: "17 * * * *"      # every hour at :17 (keeps the dashboard fresh)
 
 permissions:
   contents: write             # needed to commit the report back to the repo
@@ -26,8 +26,8 @@ jobs:
       - name: Build snapshot
         run: python snapshot.py
 
-      - name: Keep only the last 60 history files
-        run: ls -1t reports/history/*.md 2>/dev/null | tail -n +61 | xargs -r rm --
+      - name: Keep only the last 200 history files
+        run: ls -1t reports/history/*.md 2>/dev/null | tail -n +201 | xargs -r rm --
 
       - name: Commit report
         run: |
