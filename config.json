@@ -1,0 +1,18 @@
+{
+  "quote": "USDT",
+  "coins": [
+    {
+      "symbol": "XRP",
+      "news_keywords": ["xrp", "ripple", "garlinghouse"],
+      "levels": {
+        "entry": 1.43,
+        "target": 1.475,
+        "stop": 1.40
+      }
+    }
+  ],
+  "context_symbols": ["BTC"],
+  "news_hours": 48,
+  "max_news_items": 12,
+  "timezone_offset_hours": 3
+}
