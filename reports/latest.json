@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-09-29T21:19:43+00:00",
+  "generated_utc": "2026-09-29T21:23:01+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 83483.33,
-      "change_24h_pct": -0.037,
-      "change_7d_pct": -3.1612058013728572
+      "price": 83449.12,
+      "change_24h_pct": -0.041,
+      "change_7d_pct": -3.2008886356528876
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.4947,
-        "change_24h_pct": 0.161,
+        "price": 1.4937,
+        "change_24h_pct": 0.134,
         "high_24h": 1.5617,
         "low_24h": 1.4663,
         "range_24h_pct": 6.506171997544841,
-        "change_7d_pct": -4.959623577287475,
-        "change_30d_pct": 10.106813996316767,
-        "ma7": 1.5199857142857145,
-        "ma25": 1.4284640000000002,
-        "ma99": 1.2174979797979797,
-        "rsi14_daily": 56.36861372048053,
-        "rsi14_4h": 45.91743436257715,
-        "atr14_pct": 6.1847097840942755,
-        "realized_vol_30d_daily_pct": 3.8215728260055584,
-        "volume_24h_usdt": 277815990.34939,
-        "volume_vs_20d_avg": 0.9898501934761753,
+        "change_7d_pct": -5.023208494944997,
+        "change_30d_pct": 10.033149171270717,
+        "ma7": 1.5198428571428573,
+        "ma25": 1.428424,
+        "ma99": 1.217487878787879,
+        "rsi14_daily": 56.260265885216455,
+        "rsi14_4h": 45.63003207805446,
+        "atr14_pct": 6.188850314176684,
+        "realized_vol_30d_daily_pct": 3.8218709387628786,
+        "volume_24h_usdt": 278087239.94073,
+        "volume_vs_20d_avg": 0.990816647783325,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,110 +62,90 @@
           },
           {
             "date": "2026-09-29",
-            "close": 1.4947
+            "close": 1.4937
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": -4.328627818291297
+            "distance_pct": -4.26457789382072
           },
           "target": {
             "price": 1.475,
-            "distance_pct": -1.3179902321535986
+            "distance_pct": -1.25192475061926
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -6.335719542383089
+            "distance_pct": -6.27301332262169
           }
         },
-        "from_90d_high_pct": -12.071298311665391,
-        "from_90d_low_pct": 51.561549381464204
+        "from_90d_high_pct": -12.130125301488315,
+        "from_90d_low_pct": 51.46015007097952
       },
       "news": [
         {
-          "source": "Grand Haven Tribune",
-          "title": "'It only takes a ripple to make a wave': SL raises more than $5K at second annual KATwalk - Grand Haven Tribune",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPckwzSXVMUDhmZERCV2pWNE9qM2FkbDdIbXAxcThEQWtHaTJGd24wY1FzY1ROX1ptUVhUbURhUFdsZG1EOUlENUlTZ3RZQVpZcnJmM0pNTEoxdEJYYjlRZUh1R0dEV3ZnVWZMOV8yMEtTbGdOTFNoSTQzSV9rRnJLVHFnbGdYMmpjNEdBbFlRd2dIby0tRFc2bWViWFpWQ3dXbU42ZEtqZGZXblRpcVFVTFRpV3RDTGs1WTJ0OHVHYUlRLWNlU2lkS2JBRFJvdG1KYzlHMGFsZUZrb1ZRRmRxV1lTTy1zQUV3clhONFRTZklrZmRLUkpFcExqVlJSOHY0a1N3RkJ4TmhvTERVM3dhV09B?oc=5",
-          "published": "2026-09-29T20:43:22+00:00",
-          "summary": "'It only takes a ripple to make a wave': SL raises more than $5K at second annual KATwalk&nbsp;&nbsp;Grand Haven Tribune"
+          "source": "Robinhood",
+          "title": "XRP price at Sep 29, 2026 at 6pm EDT Crypto Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ21WUHV2SHZ1YWZtajN4dnpyZDk3aUdydUpLSnM5Umc4eWFXTm5maEVmSmhWZ3hRMUxzbDR4RnBDT0VYS2VnZ01sUm1yUFZBRDItcHltVWdWMjJ0eXdsWXhYRmxOMjNCbmNDVExGSnB0TXZtZ19QOTVUSXZVczRLWDZZcTI3ZEdLLXd2SmZMVnJET0YwS0E4dGNEZmQyMjVYZ1gxcTdscHFqVnJ3LVE?oc=5",
+          "published": "2026-09-29T21:11:16+00:00",
+          "summary": "",
+          "via": "Google News"
         },
         {
-          "source": "Brattleboro Reformer",
-          "title": "'Ripple effect': Education initiative focuses on local watershed - Brattleboro Reformer",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVHZ2d0xuaDlwNTBNMUxWVE1HNFg2djVzMTZyV2tYd2tjNV9EZkpnWUFnSUZwY0xiQ2wzTXY2VDBMV1dqRnN0VlE0N052ZDdyTU1wZ25URWxHRThhVlFJNUVYbE9UNDlkMzdWREVoN3VMdDA1bURPVXZrNVBCSGxRSDFqYVBranRRd1dYaG1CQWFXUzhRUms4QmNjSlQ5NzEzam9yYlpBc2dvTzJrWFJiTkkzenhfTmk5OFcxMXlobUNnUE15aVRTLUJMZ2s3Tnl4aXNRRTdHLV9rWXBwaHQwag?oc=5",
-          "published": "2026-09-29T20:00:00+00:00",
-          "summary": "'Ripple effect': Education initiative focuses on local watershed&nbsp;&nbsp;Brattleboro Reformer"
+          "source": "MarketForces Africa",
+          "title": "XRP Price Climbs After Ripple CEO Says \u2018Not XRP Maximalist\u2019 - MarketForces Africa",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYlJIZnI2WkpwTDJ4Q09odUpJRnBZbkhWc1h0OHlpM2YzTlhWeUh0cVlaTjdnTWZDcjVkSFFkQzdGdjc2WTNOSC1PbkttSk1iNi1NczhYdzhRbThkUFJBRmk1ZGxBQmJ0eFdYYjhSMWV2ai00bVNGMHJpUUNCS2dlSHhvWWpOUkNsZ2pSRQ?oc=5",
+          "published": "2026-09-29T20:38:51+00:00",
+          "summary": "",
+          "via": "Google News"
         },
         {
-          "source": "Economies.com",
-          "title": "Ripple steadies amid signs of tighter US monetary policy - Economies.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2RaUi1scWNlQlNfR0lBVWtBd1B0alpGWjc1Mk5GeWlDR0JMenp6QnZOZnRLVVJiRmF4LXlXaHVjZVo3ZllBbnJ4TlNpWGlZWFhNUW5Pb2dGVV9fWnliekZhOGtOdHlZSjFDT0dYSDBPb2RpcjQ2SlJ0WndXa2h1Wm9uN2htUkwwN1RhMWJUWTV3UDY2NklWWHFSMTY3SWMtR3c?oc=5",
-          "published": "2026-09-29T19:57:00+00:00",
-          "summary": "Ripple steadies amid signs of tighter US monetary policy&nbsp;&nbsp;Economies.com"
+          "source": "Benzinga",
+          "title": "Bitcoin, Ethereum, XRP, Dogecoin Hold Firm as Treasury Yield Hits 24-Year High - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObWJWVTNNeFZzZlF1U3k1MGNVRV9hWXBGYkFjMUdNWXpmOVgxOS1FMkdhODg1emwwV1FXWEdoemdPd0xNVlFoTnZBNHkxSkdXY0R1cVVWOTJLM05fREFwWUhQYlB4NWUtcGVmTU0xODdnbDNLY3VPQlJoUmlqbTdNNUtiRUVla1NjQ1VkRm1PWXVDbWozX0lLeUJhT0wtLTFlVVhDWnJLRnl5a2J1QUlqejhVUXByRWs1ZHJ0cG5xaWMzN3RIUVp6X1Z3eklKUFRkWWRZ?oc=5",
+          "published": "2026-09-29T20:34:01+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Cryptonews",
+          "title": "Anthropic Claude AI Predicts Uber Bearish $0.10 XRP Target by 2027 - Cryptonews",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vZWF1SUYzX0pRMGdDczFlZlNoeVYxcFB1TmdkWkd1eDVGS1FvRTU3c0UzOUlQRlJBWnpZMkdSWlJJYUFMQ2JFV3ozMHdYdUsteU9iVHJlX21Ob2RudENueVc0VC02UFlGMHpZa25Rd0paLXhHWEpndFAwSU5kZw?oc=5",
+          "published": "2026-09-29T20:16:00+00:00",
+          "summary": "",
+          "via": "Google News"
         },
         {
           "source": "Indiana Daily Student",
           "title": "XRP Dollar Infrastructure and Market Risks - Indiana Daily Student",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLVYyRkRzeEtBaU9lbTI3UG8zbHFyRmNHd3g4UWlYcnV1aHFlVWZWX2xWZ0FHV2pPLThoWnAwVjYycjczSXJrMXFSVUE1OXlQQWNEUWdBWkZvWkd5c0lSRERzVDRZZU1hSjVhbERwc1hyXzBwWUJkQVZjX09ZbkhYcHBpaHpGcGViYldPZm0xTFlyNV9tdXNERkt3ODdJd0tEUl82WWo4MlFDdw?oc=5",
           "published": "2026-09-29T19:55:43+00:00",
-          "summary": "XRP Dollar Infrastructure and Market Risks&nbsp;&nbsp;Indiana Daily Student"
-        },
-        {
-          "source": "Bitget",
-          "title": "Ripple CLO Defines What Crypto in America Means to Him - Bitget",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4cUVvWENvM0lhU08zanlMYWlLYmJyam9zMk1weW9JZzZSVFZseDdhSkVMdmdxdFV3bmdjVG9GWW9MNjFqRlJKRlpTRUswQ3FZZ0dHM3BmY0swZFNjRk1xZVY1c9IBY0FVX3lxTFB4cUVvWENvM0lhU08zanlMYWlLYmJyam9zMk1weW9JZzZSVFZseDdhSkVMdmdxdFV3bmdjVG9GWW9MNjFqRlJKRlpTRUswQ3FZZ0dHM3BmY0swZFNjRk1xZVY1cw?oc=5",
-          "published": "2026-09-29T19:46:02+00:00",
-          "summary": "Ripple CLO Defines What Crypto in America Means to Him&nbsp;&nbsp;Bitget"
-        },
-        {
-          "source": "Bitget",
-          "title": "XRP\u2019s 57% Setup Builds Ahead Of This Key Upgrade - Bitget",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fa2FaOEZxU2JMRXVQU3hGWWhfTzJjREdsTElNemdRMEprQ1pNbUR1d2R6Um5ja0t5ZTRKYXVLV1E3WGpzNDQwRWRtNjNDVzhOVk04ZjFSY01fdkRISXZEM0g3TQ?oc=5",
-          "published": "2026-09-29T19:46:02+00:00",
-          "summary": "XRP\u2019s 57% Setup Builds Ahead Of This Key Upgrade&nbsp;&nbsp;Bitget"
+          "summary": "",
+          "via": "Google News"
         },
         {
           "source": "Pluang",
           "title": "XRP may surge 57% ahead of key ledger upgrades and rising institutional ETF inflows. - Pluang",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbTBwcmhpTEIyRHhwN3huZWdYN2ZRT1NuaWNsMWI0VkpzZHJDWmFfMV9WbnktYXhjaFh0eTZDVUFCYWxnM3E4UTNfdEV5VzM3WmlBdVhxOFoxTkRpYnhUVEhMWkJZaWxmakZaNTdaZ3VqYVduSUgwNXVSNHdNN2YtbWpJWjhRX1JVVVE?oc=5",
           "published": "2026-09-29T19:33:52+00:00",
-          "summary": "XRP may surge 57% ahead of key ledger upgrades and rising institutional ETF inflows.&nbsp;&nbsp;Pluang"
+          "summary": "",
+          "via": "Google News"
         },
         {
-          "source": "Brave New Coin",
-          "title": "XRP Price Today: XRP Challenges $1.60 as Bullish Flag and EMA Crossover Align - Brave New Coin",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOak1ud3FGaWhvUjdnUEo3dlpvMzZWYWtndHNQdHlYMmVua2Q0MzJBWnhGMmZtWWtEN2R2NjY3bjRXelRvSENhcWxpdWxIbUE5QjVicS1rMF96QkJnYTNtUUtTM1RWa2tnd1RpcElBd2k2blZnRzQ5ZG1IVmFCMUZ4dkdDSEQzc1F1WEFRdDJMZ3licHJKckFiX3NvMXo3NlhVZ0ExdFV4M2VlZll6RWc?oc=5",
-          "published": "2026-09-29T19:33:07+00:00",
-          "summary": "XRP Price Today: XRP Challenges $1.60 as Bullish Flag and EMA Crossover Align&nbsp;&nbsp;Brave New Coin"
+          "source": "Cointelegraph",
+          "title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a \u2018fool coin\u2019",
+          "link": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-09-29T13:30:00+00:00",
+          "summary": "An October pullback could offer a buying opportunity before Bitcoin\u2019s next cycle peak, which Brandt expects between $300,000 and $600,000. He\u2019s not sold on \u201cfool coin\u201d XRP.",
+          "via": "Cointelegraph"
         },
         {
-          "source": "Cryptonews",
-          "title": "XRP News: Price Ceiling Versus ZEC and QNT Playbook - Cryptonews",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0WDd3dlZHTHhDM3c3WWpjRFBrSU8xT0M4V09XWXRqX2hNV1VucU1hakNZcHAwTGpwLXZsWjlrdktQOG9QRFpCUEdaekZXa1kzZnNBZDdiSC1tMFNBb2NPY2tFNjk0T0xRZ3ExUFlB?oc=5",
-          "published": "2026-09-29T18:41:00+00:00",
-          "summary": "XRP News: Price Ceiling Versus ZEC and QNT Playbook&nbsp;&nbsp;Cryptonews"
-        },
-        {
-          "source": "Pluang",
-          "title": "Ripple's XRP drops 4.52% to $1.48 amid signific... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYkdVWXh2MDlxWVEteEJ0SU9RZU9wOERHdWVGd0wzb19mY3Z6UWtoSEk4RUdOSVhBSkRMRGpzbHppYjMxRVFDNW05U3NSR0Y5SWNRUmxEMXUteGtTeUdjd3RxcHJ4YzFBZUFuSEtjRXM5YlZDeTZaQldFa0FCdS1rdDNJMkEtNlV2WTl6V1M5Y3dzX0QzeGF2M09RLUwzcFZuSG9TRg?oc=5",
-          "published": "2026-09-29T18:34:25+00:00",
-          "summary": "Ripple's XRP drops 4.52% to $1.48 amid signific...&nbsp;&nbsp;Pluang"
-        },
-        {
-          "source": "CryptoRank",
-          "title": "Top Trader Tells XRP Holders to Prepare for \u201cA Lot of Green\u201d - CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONVBSMW1YV3Y1NWpyQkdZQXJETlMwYm1yVTlwZVBwLVZaY0IyRC1BaWVsdTdib0p3U2I0RXlNc1lWVVo2SVA2c2R5VmhKR3hfeThweUcxQ2FGa0M3UU5MaS03T1JZcjZkRjhERjA1QkRQbzB4cnFpV2xwLWJpTUFIU1FvRGxIcmZqMjNSaXEtTE5fYjFHOE9qSmZJVU4?oc=5",
-          "published": "2026-09-29T18:30:10+00:00",
-          "summary": "Top Trader Tells XRP Holders to Prepare for \u201cA Lot of Green\u201d&nbsp;&nbsp;CryptoRank"
-        },
-        {
-          "source": "finance.biggo.com",
-          "title": "ACI Worldwide Adds Ripple's XRP Ledger as Settlement Rail in SWIFT Framework - finance.biggo.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmSTE4MkdaWlpKaGhpaVdwMlFsQ0drV29BQy1VMjhocndnVi1EbHF2R1djQWR1dUdZazNtUUVaUkVPTDRVQk15REFwSkJEMkYyOUNNM3ZHQzhhWnFjYk93MHN0a1dKTmJBTS1Lbkw1SmZWY2JUV3c?oc=5",
-          "published": "2026-09-29T18:22:00+00:00",
-          "summary": "ACI Worldwide Adds Ripple's XRP Ledger as Settlement Rail in SWIFT Framework&nbsp;&nbsp;finance.biggo.com"
+          "source": "Cointelegraph",
+          "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
+          "link": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-09-29T10:15:19+00:00",
+          "summary": "US spot crypto ETF inflows fell about 80% from Friday as Bitcoin, Ether, Solana and XRP funds attracted $64.8 million combined on Monday.",
+          "via": "Cointelegraph"
         }
       ]
     }
