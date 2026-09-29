@@ -9,6 +9,7 @@ Outputs:
   reports/history/     one timestamped .md per run
 """
 
+import html
 import json
 import math
 import os
@@ -216,15 +217,25 @@ def read_feed(source, url):
     return items
 
 
-def news_for(keywords, hours, limit, errors):
+CRYPTO_CONTEXT = re.compile(
+    r"\b(crypto\w*|token|coin|blockchain|ledger|etf|sec|stablecoin|rlusd|price|bitcoin|btc|altcoin)\b", re.I
+)
+
+
+def news_for(keywords, weak_keywords, hours, limit, errors):
+    """Headlines mentioning a strong keyword, or a weak (ambiguous) keyword plus
+    crypto context -- so "Ripple effect: local watershed" is dropped."""
     feeds = dict(NEWS_FEEDS)
-    q = " OR ".join(keywords)
+    q = " OR ".join(f'"{k}"' for k in keywords)
     feeds["Google News"] = (
         "https://news.google.com/rss/search?"
         + urllib.parse.urlencode({"q": f"({q}) when:2d", "hl": "en-US", "gl": "US", "ceid": "US:en"})
     )
     cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
-    pat = re.compile(r"\b(" + "|".join(map(re.escape, keywords)) + r")\b", re.I)
+    alt = lambda ks: r"\b(" + "|".join(map(re.escape, ks)) + r")\b"
+    strong = re.compile(alt(keywords), re.I)
+    weak = re.compile(alt(weak_keywords), re.I) if weak_keywords else None
+    google_cap = max(1, limit // 2)  # keep room for the crypto outlets
     seen, found = set(), []
     for source, url in feeds.items():
         try:
@@ -233,7 +244,11 @@ def news_for(keywords, hours, limit, errors):
             errors.append(f"news feed {source}: {e}")
             continue
         for it in items:
-            if not pat.search(it["title"] + " " + it["summary"]):
+            it["title"] = html.unescape(it["title"]).strip()
+            it["summary"] = html.unescape(it["summary"]).replace("\xa0", " ").strip()
+            text = it["title"] + " " + it["summary"]
+            relevant = strong.search(text) or (weak and weak.search(text) and CRYPTO_CONTEXT.search(text))
+            if not relevant:
                 continue
             if it["published"] and it["published"] < cutoff:
                 continue
@@ -241,12 +256,24 @@ def news_for(keywords, hours, limit, errors):
             if key in seen:
                 continue
             seen.add(key)
+            # Google News "summaries" just repeat the headline
+            if it["summary"][:40].lower() in it["title"].lower() or it["title"][:40].lower() in it["summary"].lower():
+                it["summary"] = ""
+            it["via"] = source
             found.append(it)
     epoch = datetime(1970, 1, 1, tzinfo=timezone.utc)
     found.sort(key=lambda x: x["published"] or epoch, reverse=True)
+    out, g = [], 0
     for it in found:
+        if it["via"] == "Google News":
+            if g >= google_cap:
+                continue
+            g += 1
         it["published"] = it["published"].isoformat() if it["published"] else None
-    return found[:limit]
+        out.append(it)
+        if len(out) >= limit:
+            break
+    return out
 
 
 def fear_greed(errors):
@@ -356,7 +383,8 @@ def main():
         except Exception as e:
             errors.append(f"{coin['symbol']} market data: {e}")
         kws = coin.get("news_keywords") or [coin["symbol"].lower()]
-        entry["news"] = news_for(kws, report["news_hours"], cfg.get("max_news_items", 12), errors)
+        entry["news"] = news_for(kws, coin.get("news_weak_keywords", []), report["news_hours"],
+                                 cfg.get("max_news_items", 12), errors)
         report["coins"].append(entry)
 
     md = render(report, cfg.get("timezone_offset_hours", 0))
