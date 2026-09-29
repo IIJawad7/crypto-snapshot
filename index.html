@@ -69,6 +69,9 @@ const cls=x=>x>0?"up":x<0?"down":"";
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const LBL={entry:"الدخول",target:"الهدف",stop:"وقف الخسارة"};
 let snap=null;
+const AMT=parseFloat((location.hash||"").slice(1))||null; // SAR, from URL #8000
+const pnl=(v,e)=>AMT&&e?AMT*((v/e)*0.998001-1):null;      // incl. 0.1% fee each side
+const sar=x=>x==null?"":`<span class="n ${cls(x)}">${x>0?"+":""}${Math.round(x)} ريال</span>`;
 
 function ago(iso){if(!iso)return"?";const m=Math.round((Date.now()-new Date(iso))/60000);
   return m<1?"الآن":m<60?`قبل ${m} د`:m<1440?`قبل ${Math.round(m/60)} س`:`قبل ${Math.round(m/1440)} يوم`}
@@ -83,6 +86,7 @@ function statusText(price,L){
   if(L.entry){const d=(L.entry/price-1)*100;
     out.push(d<0?`السعر أعلى من سعر الدخول بـ <span class="n">${Math.abs(d).toFixed(2)}%</span>`:`السعر وصل أو نزل تحت سعر الدخول (<span class="n">${n(L.entry)}</span>)`)}
   if(L.stop&&price<=L.stop)out.push("⚠️ السعر عند أو تحت وقف الخسارة");
+  if(AMT&&L.entry)out.push(`لو دخلت بـ <span class="n">${AMT}</span> ريال عند الدخول: ${sar(pnl(price,L.entry))} الآن`);
   return out.join(" · ");
 }
 
@@ -120,7 +124,7 @@ function render(liveData){
       <div class="price">${n(price)}</div><span class="chg ${cls(chg)}">${p(chg)} خلال 24 ساعة</span></div>
       <div class="hl">24h High ${n(hi)}<br>24h Low ${n(lo)}<br>7d ${p(a.change_7d_pct)} · 30d ${p(a.change_30d_pct)}</div></div></div>
     ${Object.keys(L).length?`<div class="card"><h2>خطتك</h2>${levelBar(price,L)}<div class="status">${statusText(price,L)}</div>
-      <div class="grid" style="margin-top:12px">${Object.entries(L).map(([k,v])=>tile(LBL[k]||k,n(v),`${p((v/price-1)*100)} من السعر الحالي`)).join("")}</div></div>`:""}
+      <div class="grid" style="margin-top:12px">${Object.entries(L).map(([k,v])=>tile(LBL[k]||k,n(v),`${p((v/price-1)*100)} من السعر الحالي${k!=="entry"&&AMT?"<br>"+sar(pnl(v,L.entry)):""}`)).join("")}</div></div>`:""}
     <div class="card"><h2>المؤشرات (يومي)</h2><div class="grid">
       ${tile("MA7 · متوسط أسبوع",n(a.ma7),`السعر ${vs(a.ma7)}`)}
       ${tile("MA25 · متوسط شهر",n(a.ma25),`السعر ${vs(a.ma25)}`)}
