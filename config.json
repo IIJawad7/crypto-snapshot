@@ -3,7 +3,8 @@
   "coins": [
     {
       "symbol": "XRP",
-      "news_keywords": ["xrp", "ripple", "garlinghouse"],
+      "news_keywords": ["xrp", "xrpl", "ripple labs", "garlinghouse"],
+      "news_weak_keywords": ["ripple"],
       "levels": {
         "entry": 1.43,
         "target": 1.475,
