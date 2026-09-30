@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-09-29T22:13:14+00:00",
+  "generated_utc": "2026-09-30T01:17:43+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 83636.08,
-      "change_24h_pct": 0.505,
-      "change_7d_pct": -2.9840192203651195
+      "price": 83440.82,
+      "change_24h_pct": 0.608,
+      "change_7d_pct": -1.1336578291325838
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.4976,
-        "change_24h_pct": 1.176,
+        "price": 1.4967,
+        "change_24h_pct": 1.286,
         "high_24h": 1.5617,
         "low_24h": 1.4663,
         "range_24h_pct": 6.506171997544841,
-        "change_7d_pct": -4.775227316080621,
-        "change_30d_pct": 10.320441988950279,
-        "ma7": 1.5204000000000002,
-        "ma25": 1.42858,
-        "ma99": 1.2175272727272728,
-        "rsi14_daily": 56.664544632474325,
-        "rsi14_4h": 46.74711367936604,
-        "atr14_pct": 6.1727335164835155,
-        "realized_vol_30d_daily_pct": 3.820929764612773,
-        "volume_24h_usdt": 271866410.96168,
-        "volume_vs_20d_avg": 0.9686520172998503,
+        "change_7d_pct": -0.28647568287808456,
+        "change_30d_pct": 8.472242353964354,
+        "ma7": 1.5187857142857144,
+        "ma25": 1.431672,
+        "ma99": 1.221359595959596,
+        "rsi14_daily": 56.47336539130162,
+        "rsi14_4h": 46.87739188106888,
+        "atr14_pct": 5.895827964378774,
+        "realized_vol_30d_daily_pct": 3.8150251633992793,
+        "volume_24h_usdt": 286540692.09337,
+        "volume_vs_20d_avg": 1.0056750504413106,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -36,10 +36,6 @@
         "high_30d": 1.6581,
         "low_30d": 1.2468,
         "last_7_daily_closes": [
-          {
-            "date": "2026-09-23",
-            "close": 1.501
-          },
           {
             "date": "2026-09-24",
             "close": 1.5348
@@ -62,72 +58,76 @@
           },
           {
             "date": "2026-09-29",
-            "close": 1.4976
+            "close": 1.4906
+          },
+          {
+            "date": "2026-09-30",
+            "close": 1.4967
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": -4.513888888888895
+            "distance_pct": -4.456470902652498
           },
           "target": {
             "price": 1.469,
-            "distance_pct": -1.909722222222221
+            "distance_pct": -1.8507382909066505
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -6.517094017094028
+            "distance_pct": -6.460880603995456
           }
         },
-        "from_90d_high_pct": -11.90070004117889,
-        "from_90d_low_pct": 51.8556073818698
+        "from_90d_high_pct": -11.95364433201953,
+        "from_90d_low_pct": 51.76434800243359
       },
       "news": [
+        {
+          "source": "Robinhood",
+          "title": "XRP price at Sep 29, 2026 at 10pm EDT Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHFzM0hhalBETjBSOXBVZElFMWt4bWF2YmJNWm9yRTR5ekJEUTZSSTc3NmVoWmdLaDkxX1h0SVhTd2RMeDA1a3dWRExlTUFxOERpZXdIVDNLTGZoR1RTYnRPTG01Y2tFS0s5SzFjUjd4MENkd3FuTkw1ektLdXRSenVBYlNTUXhpeFJCblRvMl95TTRyLUN6VjNxUzhTaW9MY3h5NVpXYTZ4TGlLeFgw?oc=5",
+          "published": "2026-09-30T01:04:47+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "bloomingbit",
+          "title": "XRP Scarcity Index on Binance Falls to 20-Month Low as Tradable Supply Rises - bloomingbit",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UaWJ6eGpXZDRiNzJaNm9IUTZZM1hWZXdvdnktZEYyMVhyY0ZJald3Z09OVDBLamVZQVk0ZUxlRTc3M2ZpNFY4RVAwM2FMTzJKWWtpYQ?oc=5",
+          "published": "2026-09-29T22:58:36+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Bitget",
+          "title": "XRP eyes breakout continuation as market cap retests $104 billion level - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zT0tGMDg5Z0o2WEg1aE5zNkVyYjRYWlFxcURVSVQ5UEw3bXk2dWUxUTYwWTJNWm1fQWJuZWlMWmNLbU5KTWd1U3FSNTJYR21CVnY0YlRTVEZnZVBEUUJOZV9jSdIBY0FVX3lxTE4zT0tGMDg5Z0o2WEg1aE5zNkVyYjRYWlFxcURVSVQ5UEw3bXk2dWUxUTYwWTJNWm1fQWJuZWlMWmNLbU5KTWd1U3FSNTJYR21CVnY0YlRTVEZnZVBEUUJOZV9jSQ?oc=5",
+          "published": "2026-09-29T22:10:50+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Bitget",
+          "title": "Pundit: You Don\u2019t Have Enough XRP for What Will Happen Next Week - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WU3UxVXFhRjZDbE5CMXRQRFNfdXRsNEFYclpaaHUxSl92M3FLU1FTck1qYzBlS1VBY01LTlJyZG1CbGc1TlBRUDFpN1IzdEt3cGJzQzJJWTV4VF9fOXFmS1I5MNIBY0FVX3lxTE9WU3UxVXFhRjZDbE5CMXRQRFNfdXRsNEFYclpaaHUxSl92M3FLU1FTck1qYzBlS1VBY01LTlJyZG1CbGc1TlBRUDFpN1IzdEt3cGJzQzJJWTV4VF9fOXFmS1I5MA?oc=5",
+          "published": "2026-09-29T22:10:49+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Binance\u2019s XRP Scarcity Index Signals a Major Shift in Token Supply - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGZ2YjZhLU13QTJPazNDUTlZdl81N3FUZG40am5PLVBIT1ZCZFBmZXh2VzMxMVVIZDFmZ3YteTlyNGlOem92a0trSGpnSlFTcHdNVVdRSDdndUd6LURxMzZwU2UyMVZlSHNlS1E0ZjlpZ3RKdl9ndFlFdGVMclp5MFJlVnNSLTluT001Y2VMcld4ZWVKRjQ2cTRuVnE1Q2lh?oc=5",
+          "published": "2026-09-29T21:50:43+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
         {
           "source": "BeInCrypto",
           "title": "Binance\u2019s XRP Scarcity Index Signals a Major Shift in Token Supply - BeInCrypto",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qcFRLS2hzaUlrQW1acTVYcjNranBFRzZrUG5CcktfZ2plVDBVRHE0dVFHQVZkODF2YkNxeUpYTlBUdksxU3V1S1VxdzFndG1sUmdTWkR1RzAxNmxYbVhaNnRmbDlpTEJ0S2lDSmd3N3c?oc=5",
           "published": "2026-09-29T21:50:00+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "techbullion.com",
-          "title": "XRP Price Prediction Points to Breakout as Pepeto Draws $11.1M in Smart Money - techbullion.com",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObWp0QTF5bGdzbUtRUFFoZnZidURMcHpiTElWWEdxUWx3UGo2MzVESWx0WUZGUVdLRFBEWkFhVE0xSHVzOWlSaVZQVWxDbTRTTUVvNnVvb1BROEdSLTduZFpybGNadFdSUG5mZHVwamRLUGpnTlFQdXJUNkxXQlpIRXp5OFJMYlhNZGJKXzZISU16NFdMUXVKX1otT0JCalF1MGc0?oc=5",
-          "published": "2026-09-29T21:48:40+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Pluang",
-          "title": "XRP rallies over 50% in a month with rising ope... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZk9LRmlzcjlGRDBSMEVUMG5KVklJUkdGeXYxa3V4cG91ekVJNE14eThGQldoY2R0eUhQTHE3RVJ5LVRYdzd4Y1dfTmQ1RHZ0SWhCVHhWOU1MdzBnTVhKRk1kVS13NjdyemV1WWtYbVNBM242Z3pwRkRRTDA5Z1dyVXMzTjFYTnFsSzlGX1BERHgyQmVLSUNkbmJ6Tnc4dE4wenF2NFdwb2xJR1VC?oc=5",
-          "published": "2026-09-29T21:33:58+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Robinhood",
-          "title": "XRP price at Sep 29, 2026 at 6pm EDT Crypto Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ21WUHV2SHZ1YWZtajN4dnpyZDk3aUdydUpLSnM5Umc4eWFXTm5maEVmSmhWZ3hRMUxzbDR4RnBDT0VYS2VnZ01sUm1yUFZBRDItcHltVWdWMjJ0eXdsWXhYRmxOMjNCbmNDVExGSnB0TXZtZ19QOTVUSXZVczRLWDZZcTI3ZEdLLXd2SmZMVnJET0YwS0E4dGNEZmQyMjVYZ1gxcTdscHFqVnJ3LVE?oc=5",
-          "published": "2026-09-29T21:11:16+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "MarketForces Africa",
-          "title": "XRP Price Climbs After Ripple CEO Says \u2018Not XRP Maximalist\u2019 - MarketForces Africa",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYlJIZnI2WkpwTDJ4Q09odUpJRnBZbkhWc1h0OHlpM2YzTlhWeUh0cVlaTjdnTWZDcjVkSFFkQzdGdjc2WTNOSC1PbkttSk1iNi1NczhYdzhRbThkUFJBRmk1ZGxBQmJ0eFdYYjhSMWV2ai00bVNGMHJpUUNCS2dlSHhvWWpOUkNsZ2pSRQ?oc=5",
-          "published": "2026-09-29T20:38:51+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Benzinga",
-          "title": "Bitcoin, Ethereum, XRP, Dogecoin Hold Firm as Treasury Yield Hits 24-Year High - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObWJWVTNNeFZzZlF1U3k1MGNVRV9hWXBGYkFjMUdNWXpmOVgxOS1FMkdhODg1emwwV1FXWEdoemdPd0xNVlFoTnZBNHkxSkdXY0R1cVVWOTJLM05fREFwWUhQYlB4NWUtcGVmTU0xODdnbDNLY3VPQlJoUmlqbTdNNUtiRUVla1NjQ1VkRm1PWXVDbWozX0lLeUJhT0wtLTFlVVhDWnJLRnl5a2J1QUlqejhVUXByRWs1ZHJ0cG5xaWMzN3RIUVp6X1Z3eklKUFRkWWRZ?oc=5",
-          "published": "2026-09-29T20:34:01+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -152,8 +152,8 @@
   ],
   "errors": [],
   "fear_greed": {
-    "today": 73,
+    "today": 71,
     "label": "Greed",
-    "yesterday": 74
+    "yesterday": 73
   }
 }
