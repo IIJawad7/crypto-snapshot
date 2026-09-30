@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-09-30T08:33:15+00:00",
+  "generated_utc": "2026-09-30T15:54:55+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 83044.83,
-      "change_24h_pct": -1.166,
-      "change_7d_pct": -1.6028536356484158
+      "price": 84220.18,
+      "change_24h_pct": 1.485,
+      "change_7d_pct": -0.21021924794071278
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.4935,
-        "change_24h_pct": -0.777,
-        "high_24h": 1.5617,
+        "price": 1.5066,
+        "change_24h_pct": -0.495,
+        "high_24h": 1.5443,
         "low_24h": 1.4764,
-        "range_24h_pct": 5.777567054998656,
-        "change_7d_pct": -0.499666888740824,
-        "change_30d_pct": 8.240324684736922,
-        "ma7": 1.5183285714285712,
-        "ma25": 1.4315440000000001,
-        "ma99": 1.2213272727272726,
-        "rsi14_daily": 56.18845477845443,
-        "rsi14_4h": 46.297866511694664,
-        "atr14_pct": 5.94863455928069,
-        "realized_vol_30d_daily_pct": 3.8149596454953945,
-        "volume_24h_usdt": 285374368.88952,
-        "volume_vs_20d_avg": 1.0015815929351755,
+        "range_24h_pct": 4.599024654565165,
+        "change_7d_pct": 0.37308461025982176,
+        "change_30d_pct": 9.189737643136686,
+        "ma7": 1.5202000000000002,
+        "ma25": 1.4320680000000001,
+        "ma99": 1.221459595959596,
+        "rsi14_daily": 57.331804603894994,
+        "rsi14_4h": 49.92995978890784,
+        "atr14_pct": 6.073751683070678,
+        "realized_vol_30d_daily_pct": 3.8177412952697534,
+        "volume_24h_usdt": 269190716.04685,
+        "volume_vs_20d_avg": 0.9447816467565945,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-09-30",
-            "close": 1.4935
+            "close": 1.5066
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": -4.25175761633747
+            "distance_pct": -5.084295765299352
           },
           "target": {
             "price": 1.469,
-            "distance_pct": -1.6404419149648408
+            "distance_pct": -2.4956856498074997
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -6.260462002008715
+            "distance_pct": -7.0755343156776895
           }
         },
-        "from_90d_high_pct": -12.141890699452906,
-        "from_90d_low_pct": 51.43987020888259
+        "from_90d_high_pct": -11.371257132772516,
+        "from_90d_low_pct": 52.768201176232
       },
       "news": [
         {
-          "source": "KuCoin",
-          "title": "Brazil's CSD BR to Mirror Fund Shares on XRP Ledger - KuCoin",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYVVFNHlUaHdZM0gwOUJ2OW5kVlZEN3U1S29TZjNtVGlib0lFZzRRUDZ0STNtZWphTndVa3RMeFZFNVhrckJJTUJYbllyb0Y0TE1HTWtsSWFFcUZIMmo1cjVFeUFQRzl3RzZPRlpIR3Z6b044cTMyYTJSWGtQWWhhX2xQSk9SeC1LWTB5d09B?oc=5",
-          "published": "2026-09-30T08:16:40+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "FXLeaders",
-          "title": "Ripple Bullish Forecast: SEC\u2019s New Crypto Guidance Opens the Door for XRP's Next Leg Up - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaFFabDRrZ21ldFkwTUktX2hyaVVUNDZLN1Bvd1pyQ1NsSHJXeUJLNmV5X2h3YzM3Uko1aFJYMFpWcjQ4TDRUY3JJTzhlblNXTjF4aXJXam10TlctVXl6TDFySkZJX3dCQ0x5eHctTnZVLTNaMmMwV0VTRmJkMGJrck40Q3RTWEd5a3hkX2I5SW15N3ZSZi1YSUVVZjU1T0lTVWp0cHNTVWY4aEJMVGxhcFlGSnprV2dHT2tqLVU3U2h0bWNIU1E?oc=5",
-          "published": "2026-09-30T08:12:39+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Robinhood",
-          "title": "XRP price at Sep 30, 2026 at 5am EDT Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMlpOVXBmcTBid0V5SUd6TDJUY1NDeVp3bFdHaXVJNW52XzBtbjBLME1LbjNSM3JIZ1BSdjJrUExfd1NoYjRjZmFpVUJYY0ZRWnVxa1EyUnVQbHFmT3JDcjI2bExrR0NmZlJaMTBnQjIweDhwZXRpNmFCSktWUkRBazFKbUVwaTJqcUx1ZHF1M0owWXpkZmdfVnBrejFRdTNpNWd2VnphYnpxQUI3ZGc?oc=5",
-          "published": "2026-09-30T08:03:45+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Bitcoin Foundation",
-          "title": "Ripple Brings Brazilian Fund Records to XRP Ledger in Live Regulated Market Rollout - Bitcoin Foundation",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd0plZjZWM2w0elp1RHAtcmdkVTVNazhtRGJvX0NCeG1fVG1BYXJrRURxVHljd3lEclVreVdVcXI3OVdSTjNtZ3M5WDZxbzFvR3NuLXFNMmdTdF9XZHlvSFBfSGFGRGtYa2ZSQWZkZ0lrbzZObTlIQmYwcXdxX1BPT0JadTNXSEY3WmhwN1Y2bU9IUWo1SE1qNkVfSjhHN2NueE55bHQ5V3pIVHBpSmgwdlpFNHQ2NjRuY2VQRFFqVS1fNll6V05XVw?oc=5",
-          "published": "2026-09-30T07:56:33+00:00",
+          "source": "benzinga.com",
+          "title": "Bitcoin, XRP Whipsaw On Positive PCE Inflation Print Battling Surging Oil Prices - benzinga.com",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa0pmdV9pQXBBX0kwcWpvUzFIcGg0dkl6eGppb0JnOGZuQ3ZoX09RNmM2Umozd1ZPQkpZd2hEd1dPUUpmVXkyVFZCR0d0UHYxVjhWUVVBUGpKWEFNOWM2b21MLTJjdzR2VUh5RWtZamI4X3FYYkZmdmpmVkRITlhYZmZoRkJFRU5vZGdNYzh4VVdyajcyLU4yZ1hXVjRZckZNcWltNUdwVHNHRXVPbjJnd3hoaGJ4TExFN0o2RGRGYnRMM1BUQzUyTUVsRmJjYWdxeWZWZDNLNUE?oc=5",
+          "published": "2026-09-30T15:40:58+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "pluang.com",
-          "title": "XRP holds above $1.50 with bullish signals amid key resistance at $1.53-$1.60 zone. - pluang.com",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXB3SkJVRkt0aEJxVW93Sk1YWW5yeWM4STZLbUxrRWRYVVdkR3k1bFE0QXU2UzVBVE8wX1hkZ3JCZGN1R0IwMGc4YkxfeHlDTkR2UUdSVGVfaXMzaDRaQ1NBWFY1Ni14V0Ewa2xaZVB2Y3EzZk1KWjhIQVZ0bWF6RktESWg?oc=5",
-          "published": "2026-09-30T07:54:05+00:00",
+          "title": "XRP price holds near $1.50 amid weaker futures and paused ETF inflows, eyeing resistance at $1.56. - pluang.com",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS09qTmt5R0k0bUpTVGlyS1lMemNleFg4NEpIdXdWRzdEUElaY3hBZ3BKTVRoZ1FJX3ZkZVhscGltT2hHZ050a0wzUWRPbnREMWh4dFlQNmZGaDZWZTJtUWhHdTY4M1RxZzVCWmNmWWhTX0ZwallJR3laQWJsWTlSdkFNUQ?oc=5",
+          "published": "2026-09-30T15:36:56+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "MarketForces Africa",
-          "title": "XRP Hovers At $1.50 As Ripple, CSD BR Put Brazilian Fund On XRPL - MarketForces Africa",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPejltbW14Q3J3bVg1N29KTXctNW50RE1nZWN5SF9UMGVQUUF2czdvVWJCME9tYVZrN2RTdHBnVHZjZEp5Y1ZYLXZYZ2dqVmVaU0l4NXdyRjBuV2Q4X1p0OHc5Uk5ZWm56aGtqWUh5bkZCTEZxVk5YcmtSQ3hzSXRrVl9sUVJsMC02X0FORWtOeHBlZw?oc=5",
-          "published": "2026-09-30T07:38:31+00:00",
+          "source": "Crypto News",
+          "title": "XRP price needs $1.56 breakout to retest $1.65 - Crypto News",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIMTliLTY4WUpFRWRTTDYwbW4tQnN1cnRsbE1Vb2lkVUZvd1d6bS10dWIzNURkay1fTEQ1cjdvcEVwUEhTVmZoaDVzNzBKRE5BQ3htdVlIVzlUZmIyN1hfTllUUjFFaG0wSFlILVZuck9mNU0?oc=5",
+          "published": "2026-09-30T15:23:39+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Robinhood",
+          "title": "XRP price at Sep 30, 2026 at 12pm EDT Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSnk5NHNUZWxINGEycUlVVmpKLXM5TU5TS3dZbk9FdnNVdU5XNzhlNGJ0LWxhTnZ1T0kxZGY0X3NrX1VkeExGUlpRWWh2QnZtNjUwS1AwbXR6UVAyQVVPQXVZV0Zmcmx5NVFxR0xWTkNaVWJNYTBSbzV0UlpkN3lzUFoyeG1zbExwY0YxbHJROUVTYkRkNHlrVXc2VVFDWVAwYzJ4UVJMV1N5STdXNmJv?oc=5",
+          "published": "2026-09-30T15:08:02+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "247wallst.com",
+          "title": "How Long Does It Take XRP to Recover From a Crash? What the Record Actually Shows - 247wallst.com",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTTdIczhBVEFLN244YndsMGtwRHZPS1JjSHQ0X0E1cUExSEdFRXR2RnAwX0F3UF9zdjBOUGpwRWtGT3dTWTl2dkpUWU9saWtyWU84MlVhM1ZhR0pQaUNxM28tbHZhTEw1TzJtRXBSRjlTSHhyZHVvc2swNy1xbEUxX1ZrS0pQa1RiTFZKMDV0RG0wNlNWclg2bmVoTzJkQ3YzX0JydS1NcXh5ZjIyOHBOQ1hSYkFnRkNMZ3NDSVB6ZmsyQXNLVXhqQkhwTnJYZTRlWkNsMkZ3?oc=5",
+          "published": "2026-09-30T15:00:00+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "247wallst.com",
+          "title": "Can XRP Supersede SWIFT? Evaluating the Possibilities - 247wallst.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaHowVTNUZ01BQ1dRNTZ1d2t3YjJVWDV0R21oODQ0ZENmakdOc2dEYjZjc0dtN2otbUtfWG5oX3NWUmF4WU80MkZuOW1SQmctb0UzMWZIanJnV0V1U2l2TzJITXpUOGRYY3ZZWFFJWG9faHdwSFFrU0huY2J5UG9TaVNRT21sbjFvOWVRX29KeXpLNGRibk14UlZvQndoT3BsajhWTHl0dzQxT1E2UzJfYw?oc=5",
+          "published": "2026-09-30T14:30:00+00:00",
           "summary": "",
           "via": "Google News"
         },
