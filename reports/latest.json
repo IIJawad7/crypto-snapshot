@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-09-30T15:54:55+00:00",
+  "generated_utc": "2026-09-30T20:48:27+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 84220.18,
-      "change_24h_pct": 1.485,
-      "change_7d_pct": -0.21021924794071278
+      "price": 83680.45,
+      "change_24h_pct": 0.055,
+      "change_7d_pct": -0.8497279543494218
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.5066,
-        "change_24h_pct": -0.495,
+        "price": 1.4913,
+        "change_24h_pct": -0.394,
         "high_24h": 1.5443,
-        "low_24h": 1.4764,
-        "range_24h_pct": 4.599024654565165,
-        "change_7d_pct": 0.37308461025982176,
-        "change_30d_pct": 9.189737643136686,
-        "ma7": 1.5202000000000002,
-        "ma25": 1.4320680000000001,
-        "ma99": 1.221459595959596,
-        "rsi14_daily": 57.331804603894994,
-        "rsi14_4h": 49.92995978890784,
-        "atr14_pct": 6.073751683070678,
-        "realized_vol_30d_daily_pct": 3.8177412952697534,
-        "volume_24h_usdt": 269190716.04685,
-        "volume_vs_20d_avg": 0.9447816467565945,
+        "low_24h": 1.4852,
+        "range_24h_pct": 3.9792620522488553,
+        "change_7d_pct": -0.6462358427714698,
+        "change_30d_pct": 8.080881287143082,
+        "ma7": 1.5180142857142858,
+        "ma25": 1.4314560000000003,
+        "ma99": 1.2213050505050504,
+        "rsi14_daily": 55.99040534321641,
+        "rsi14_4h": 45.88168696086844,
+        "atr14_pct": 6.1389391805807,
+        "realized_vol_30d_daily_pct": 3.815147292392212,
+        "volume_24h_usdt": 240095869.21329,
+        "volume_vs_20d_avg": 0.8426671395877898,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-09-30",
-            "close": 1.5066
+            "close": 1.4913
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": -5.084295765299352
+            "distance_pct": -4.110507610809366
           },
           "target": {
             "price": 1.469,
-            "distance_pct": -2.4956856498074997
+            "distance_pct": -1.4953396365587013
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -7.0755343156776895
+            "distance_pct": -6.122175283309872
           }
         },
-        "from_90d_high_pct": -11.371257132772516,
-        "from_90d_low_pct": 52.768201176232
+        "from_90d_high_pct": -12.271310077063347,
+        "from_90d_low_pct": 51.21679172581628
       },
       "news": [
         {
-          "source": "benzinga.com",
-          "title": "Bitcoin, XRP Whipsaw On Positive PCE Inflation Print Battling Surging Oil Prices - benzinga.com",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa0pmdV9pQXBBX0kwcWpvUzFIcGg0dkl6eGppb0JnOGZuQ3ZoX09RNmM2Umozd1ZPQkpZd2hEd1dPUUpmVXkyVFZCR0d0UHYxVjhWUVVBUGpKWEFNOWM2b21MLTJjdzR2VUh5RWtZamI4X3FYYkZmdmpmVkRITlhYZmZoRkJFRU5vZGdNYzh4VVdyajcyLU4yZ1hXVjRZckZNcWltNUdwVHNHRXVPbjJnd3hoaGJ4TExFN0o2RGRGYnRMM1BUQzUyTUVsRmJjYWdxeWZWZDNLNUE?oc=5",
-          "published": "2026-09-30T15:40:58+00:00",
+          "source": "StreetInsider",
+          "title": "Best Crypto to Buy Now: Grok Predicts XRP Could Reach $3 and Cardano $1 - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMVlZdGZ5ak15Z2xtSkUzaWs2NkVGamVyTDJuS3htLS1aSlhGYkRqMF9nRVZfeC1JT2ZRVFFGOTl6WlVtMzJnTWNEMUNPdWhfRVFHOU5DZUNvSng2czhDUTBreGJscnFQUWpPNHhHYnBmV19BUElVVGFvTTFKSmN5aTR5NmN0cjVpMDVTeE51TDNFVExBWkNjRGdmQWlGYloyMVFsVlJoSVlxMHdHaDVKQ3d3bkNGUjB6RWkzNGRfN01sZHVNZUpDcmVzZTdVUGJ0OEtrRTAtOGVvZUI1YVNBa0xLSnNWNnk3SUlLUTlqcjQtbXQ0WFVQWllSV2RiTzk4U0xXZ2d0VHdxVmpERmNtX01rSFVHRzJlYlNr?oc=5",
+          "published": "2026-09-30T20:46:59+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "pluang.com",
-          "title": "XRP price holds near $1.50 amid weaker futures and paused ETF inflows, eyeing resistance at $1.56. - pluang.com",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS09qTmt5R0k0bUpTVGlyS1lMemNleFg4NEpIdXdWRzdEUElaY3hBZ3BKTVRoZ1FJX3ZkZVhscGltT2hHZ050a0wzUWRPbnREMWh4dFlQNmZGaDZWZTJtUWhHdTY4M1RxZzVCWmNmWWhTX0ZwallJR3laQWJsWTlSdkFNUQ?oc=5",
-          "published": "2026-09-30T15:36:56+00:00",
+          "source": "Cryptonews.net",
+          "title": "Doppler Expands Financial Layer for Tokenized Assets with XRP - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BMnFoeG8zVUdYTTROeGZSV3RQRV8tTUpEaHNaNUZhUTZuRU11VkxvWEVHUmxLaUdfLVBqYzdLUzk4ZUw1akd3ZFRWYjJ1NVJqVFRua0tRaXBjUQ?oc=5",
+          "published": "2026-09-30T20:38:57+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Crypto News",
-          "title": "XRP price needs $1.56 breakout to retest $1.65 - Crypto News",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIMTliLTY4WUpFRWRTTDYwbW4tQnN1cnRsbE1Vb2lkVUZvd1d6bS10dWIzNURkay1fTEQ1cjdvcEVwUEhTVmZoaDVzNzBKRE5BQ3htdVlIVzlUZmIyN1hfTllUUjFFaG0wSFlILVZuck9mNU0?oc=5",
-          "published": "2026-09-30T15:23:39+00:00",
+          "source": "Pluang",
+          "title": "XRP bullish calls surge as Open Interest hits r... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjNrSzNheDMxLVdJYVJPQVAtZlpwVVVmc3FKMFlaSktORmduVGcyVDIwS2I2ZlhvQlRiT1ZhbjJraUwzTWFDSndnNk0tUWd2STNyUS0yTWgyNWZ0LUNqX0phdG1FTmpHR3lza1U1blJuNXZXOTdQS1poN094bUsxNHFEME5CYnF2UG9jNTF2NEIyRU1GOTdkTFVIYU8xS1B6YzVibmJxbw?oc=5",
+          "published": "2026-09-30T20:37:48+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Robinhood",
-          "title": "XRP price at Sep 30, 2026 at 12pm EDT Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSnk5NHNUZWxINGEycUlVVmpKLXM5TU5TS3dZbk9FdnNVdU5XNzhlNGJ0LWxhTnZ1T0kxZGY0X3NrX1VkeExGUlpRWWh2QnZtNjUwS1AwbXR6UVAyQVVPQXVZV0Zmcmx5NVFxR0xWTkNaVWJNYTBSbzV0UlpkN3lzUFoyeG1zbExwY0YxbHJROUVTYkRkNHlrVXc2VVFDWVAwYzJ4UVJMV1N5STdXNmJv?oc=5",
-          "published": "2026-09-30T15:08:02+00:00",
+          "source": "robinhood.com",
+          "title": "XRP price at Oct 1, 2026 at 5pm EDT Crypto Prediction Market - robinhood.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmdMSmVvRGhFbHYtUXpiNE01UW5IcFdrQlJhYUhVSTdTOGlUQVdqNXZ6bDRfeTRWU0tlUmVnQ2pEeEJ1Z0tXazNuQng3VHhkYld2Uy12RjRTWVA2dGxYX2p0SVhmeDFzU0pmcWtUeHJlWlA1WHlnbTUwVWV4Tzg4bGhSclVhcGNJUXpkTmhhYW1IODR4cFVybHo5LU9RdXhWUW8tLV9DLU04cC1N?oc=5",
+          "published": "2026-09-30T20:05:28+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "247wallst.com",
-          "title": "How Long Does It Take XRP to Recover From a Crash? What the Record Actually Shows - 247wallst.com",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTTdIczhBVEFLN244YndsMGtwRHZPS1JjSHQ0X0E1cUExSEdFRXR2RnAwX0F3UF9zdjBOUGpwRWtGT3dTWTl2dkpUWU9saWtyWU84MlVhM1ZhR0pQaUNxM28tbHZhTEw1TzJtRXBSRjlTSHhyZHVvc2swNy1xbEUxX1ZrS0pQa1RiTFZKMDV0RG0wNlNWclg2bmVoTzJkQ3YzX0JydS1NcXh5ZjIyOHBOQ1hSYkFnRkNMZ3NDSVB6ZmsyQXNLVXhqQkhwTnJYZTRlWkNsMkZ3?oc=5",
-          "published": "2026-09-30T15:00:00+00:00",
+          "source": "24/7 Wall St.",
+          "title": "A Senate Bill Would Make Small Stablecoin Purchases Tax-Free and Close Crypto's Wash-Sale Loophole. What Changes for Bitcoin and XRP Holders? - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQeDd5S0czTUs1cjFueUNwX3o2MndWUVFLdmg0RzhGQ1hqaEZTaFpRSzdkdnZXLWV6VnJzS1NoaWduZlZLYTItM1BwMUFwcUJwVzllcU0tZW1IRWVsVnk4SDVlRDRFQi1oU3NQY0s4dzQ2MjlEYmtoSkxaMGZLbTBWb2RJUE9Id2RRNDFMZk5HTFlvc0VkSzRaZnRuX0xhdWJlOGJ6TVZLTXE4NWY3VXpNU1RSS2cyVmFNcl8zZnlZbExOWGY5OGRlV2xvaEdmQ1FxZUE3cXVWMzVoT3FWNGJpT2xIR2JVbjNMMDlLa19OMmljcFVrZUU3b2x5VDhvWldkMDhlVGpKZHpHRzY5TTVqWWQ0akpWRlVONkJVY1BfVm5JY1U?oc=5",
+          "published": "2026-09-30T19:57:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "247wallst.com",
-          "title": "Can XRP Supersede SWIFT? Evaluating the Possibilities - 247wallst.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaHowVTNUZ01BQ1dRNTZ1d2t3YjJVWDV0R21oODQ0ZENmakdOc2dEYjZjc0dtN2otbUtfWG5oX3NWUmF4WU80MkZuOW1SQmctb0UzMWZIanJnV0V1U2l2TzJITXpUOGRYY3ZZWFFJWG9faHdwSFFrU0huY2J5UG9TaVNRT21sbjFvOWVRX29KeXpLNGRibk14UlZvQndoT3BsajhWTHl0dzQxT1E2UzJfYw?oc=5",
-          "published": "2026-09-30T14:30:00+00:00",
+          "source": "techi.com",
+          "title": "XRP Ledger's Brazil Fund Deal Is Real. Cloud Mining Isn't - techi.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5waFlVZG8xUEZXS0tHUE5tUWp1Q0lfSzJJbXVsY2w0UUpfcmJTQVI1c3pDQ2ZHT2xiNWo3VktYRldkRmFRNjlYaGxPRzFfODgyTE1RaTBqa1E3eC1VYlFUc2VIQ25yZ3RESk9XeHlKaFQ?oc=5",
+          "published": "2026-09-30T19:36:51+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -145,14 +145,6 @@
           "link": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "2026-09-29T13:30:00+00:00",
           "summary": "An October pullback could offer a buying opportunity before Bitcoin\u2019s next cycle peak, which Brandt expects between $300,000 and $600,000. He\u2019s not sold on \u201cfool coin\u201d XRP.",
-          "via": "Cointelegraph"
-        },
-        {
-          "source": "Cointelegraph",
-          "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
-          "link": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-09-29T10:15:19+00:00",
-          "summary": "US spot crypto ETF inflows fell about 80% from Friday as Bitcoin, Ether, Solana and XRP funds attracted $64.8 million combined on Monday.",
           "via": "Cointelegraph"
         }
       ]
