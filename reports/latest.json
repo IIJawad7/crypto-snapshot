@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-01T00:33:11+00:00",
+  "generated_utc": "2026-10-01T07:10:54+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 83470.9,
-      "change_24h_pct": -0.131,
-      "change_7d_pct": -1.1128270693224085
+      "price": 84195.4,
+      "change_24h_pct": 1.376,
+      "change_7d_pct": -0.25451888301705194
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.4867,
-        "change_24h_pct": -0.342,
+        "price": 1.506,
+        "change_24h_pct": 0.857,
         "high_24h": 1.5443,
         "low_24h": 1.4852,
         "range_24h_pct": 3.9792620522488553,
-        "change_7d_pct": -3.133958821996352,
-        "change_30d_pct": 9.979286876756909,
-        "ma7": 1.5109571428571427,
-        "ma25": 1.433932,
-        "ma99": 1.2254646464646464,
-        "rsi14_daily": 55.453018434417196,
-        "rsi14_4h": 44.528052987373336,
-        "atr14_pct": 6.034938358204651,
-        "realized_vol_30d_daily_pct": 3.7917671435014286,
-        "volume_24h_usdt": 224491791.125,
-        "volume_vs_20d_avg": 0.7835017187136126,
+        "change_7d_pct": -1.8764659890539437,
+        "change_30d_pct": 11.407012871726607,
+        "ma7": 1.5137,
+        "ma25": 1.4347,
+        "ma99": 1.2256585858585858,
+        "rsi14_daily": 57.35863621634387,
+        "rsi14_4h": 50.175885742697716,
+        "atr14_pct": 6.041949285192526,
+        "realized_vol_30d_daily_pct": 3.7927170310083773,
+        "volume_24h_usdt": 211068273.38555,
+        "volume_vs_20d_avg": 0.7366521249385531,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-10-01",
-            "close": 1.4867
+            "close": 1.5059
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": -3.8138158337256978
+            "distance_pct": -5.046480743691905
           },
           "target": {
             "price": 1.469,
-            "distance_pct": -1.1905562655545765
+            "distance_pct": -2.4568393094289487
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -5.831707809241948
+            "distance_pct": -7.038512616201864
           }
         },
-        "from_90d_high_pct": -12.54191423024884,
-        "from_90d_low_pct": 50.7503548975867
+        "from_90d_high_pct": -11.40655332666627,
+        "from_90d_low_pct": 52.7073615899412
       },
       "news": [
         {
-          "source": "Robinhood",
-          "title": "XRP price at Sep 30, 2026 at 9pm EDT Crypto Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNWFFS19ERTlYRzh2ZDNXd0pvbGYzSUFZajV1U0JpcHpDYkpLa3ltSHo5bmc1NlVsZk5TUXpFOWRZa2JudjRFVWlabVFldDJXMy00dHV6N3B6Z1BIUDVoaGlhWkh0THVYSXJTbi1SZmJoY1NtWHpXaGZZTjk4Sm9XN1JZanJwd2xnMDdKeEFTRmdwUl9zQ0VuYWJzMU1MbDZReXFkUWdqa1lGLTVBc3c?oc=5",
-          "published": "2026-10-01T00:06:31+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "CoinGape",
-          "title": "XRP Ledger\u2019s New Lending Protocol Version Is Now Open For Validator Voting - CoinGape",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWFp1NHVNMWx3d2tMbVBHQkJLX2Itc2NBeDM1Zl83OFViSDlwcnJyR0FHR3lsOFliTGZfR3c4LVlkVGNEUzcxMnFZQ1B4UHJMVzNmUGk2d3phTF82elRJQllZWkg5bjFlWEdGWjhKbF9HR1dZSVd1OEhfU2lYZ1BROUtWRjF6OTJSdkZHM2t3eERnVUJQZnZWemNR?oc=5",
-          "published": "2026-09-30T23:58:17+00:00",
+          "source": "Cryptonews",
+          "title": "XRP Price Prediction: Can October Extend the Rally? - Cryptonews",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIQVAwOXh5MUt4dEh1elA5VVR1VmE5TUowd3FTa2RhSGhJYWNHWTNsZ3NNQkIwaHhickRTdnllWFFaT1NGMVY1V09yRUMtMmNaS2hjLWpIcVY2NHhBenRpRTNDMjRlTkk3MEE4?oc=5",
+          "published": "2026-10-01T06:50:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Pluang",
-          "title": "Solana ETF outperforms XRP ETF by 300%, signali... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbkFxZG96aFg3Z1dtcTRMVFdRRG5PcHVvR3hMQy1pNDdvNVkxOGRfUXFHZDRzWlU1MWlZOG0xSVdPTXVtNzFpdXRRV3Rnb1ZXSGsyc1VjWWh3dXNocURiVmVSNGtSUU5zUVhDMG5keEVaMU9sWFk2bzVrTkx2LURjbUJYaWhjOW9tcVlWb0hZOXFaMlpD?oc=5",
-          "published": "2026-09-30T23:45:33+00:00",
+          "title": "XRP rises 1.89% after Armada Acquisition approves Evernorth merger, aiming for Nasdaq listing as XRPN. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX2FmQWpGcWJHWHRfVkh3Z0x3ZVJUOU13eE5FNllYUENZVkg1c3lTUFlXTXpRRUtfVVFDd2NkcWhSLUVaZElESGxsOHBGQm5rd1ZKN3lBS3hmSVg4UzFKd2lvb05VWjA0NU9OMHY3aUpmc3dXdXpoNzR5bjVpRmVxbmQxNDBUVDl4TXF5LQ?oc=5",
+          "published": "2026-10-01T06:44:50+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "cryptonews.com",
-          "title": "Perplexity AI Predicts Insane $40 Price Target for XRP: Here's Why - cryptonews.com",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tRkc4ZmdqNy1FRmdPclBHSHJlSFR0dVY0MnJJU2xDVTZZZHRQY2FsQkswV2tWb3ZseFFBeG9vdGp4blZ6SUwycllrZFEyZm1oVmo0akRyUnhLNmYzZG0xcXpza3NnN2NJR2RkZFg4dHQ4MWNqNnBQOUZDT1o?oc=5",
-          "published": "2026-09-30T22:35:00+00:00",
+          "source": "tradingkey.com",
+          "title": "XRP (XRPUSD) Is up 1.08% on Oct 1: What Do On-Chain Data and Market Sentiment Show? - tradingkey.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDcxY0pfYS15V1lUT1NBTFpqaVMtd2V0d1A2c3pSSDNwWUlsODJqMG9jRGVhVDktUTZuRUFrUjNyaDhTNldHTUQxMFIxZk1aZUZ0b19wQjlGVlc2NC10ZzVGNThmZ2YzekFtY3V3eWF5OXRxYUN3aHZOQmRIWGJtVmo4Uk8tcXVXX3d1TnBn?oc=5",
+          "published": "2026-10-01T04:50:14+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "24/7 Wall St.",
-          "title": "Crypto Kicks Off Q4 With More Momentum Than Stocks or Gold: Which Will Carry Bitcoin, XRP, or Solana the Furthest? - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNby1admRJRUdrTGhHekVGRXBLRGx0X1NBQS05YzY1MnotZjdjNkxOMG9qRzJZTzY4NnRrWkVjb2pkTlA3eUdkeXIzbXZOVk1OOUhMUVJhdS1TbGdBcmp4YzQwbTZlQkU0cmoyc0hScThXcWltSUdwcXdkalpxaDZFUEtTNmYyaDh6NXdkUGwxTHlNZV81bEJ5R01IN2FQMXdUVXRsMVRHcjlxSmlnVXowYXRqNmdSNUFKai1wYldQYnBiSjFIc2dSeU41dUpHUkN3NG1ncHprOE1sVTZ2T1Q2UnVDYTA0WHRhOGVncDJfQ0NlMVNvODNXUFJYYmhQdw?oc=5",
-          "published": "2026-09-30T22:14:00+00:00",
+          "source": "CryptoPotato",
+          "title": "XRP in October: Will Ripple\u2019s Streak Continue After 3 Consecutive Green Months? - CryptoPotato",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVNKN3l4cGt5MXVmVmFGWHM2eGlGM2lPVGhtUjJ4MmVPR2J5MnFhZ0ZHbmM3LWZuTjBjTDhTQ2tIS2hsUW9xR3d6MzVBOXVoVUJuUHNObjA5ZjVYTXBwZ3VvbWJYVmlncjA5V1N3TXRPRzR0N2ZZU2lUWjlWa0tKOWUwV2gtZE82MlRRQi1LaU43cjhUdEdTR1hETlItR0JmUE9rMQ?oc=5",
+          "published": "2026-10-01T04:12:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Benzinga",
-          "title": "Bitcoin, Ethereum, XRP Are Stuck\u2014So Where Is Crypto Money Actually Going? - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzNKTTRPYkt6WmIySURGa0FSdElqY2ZqeU5kTDA1T2RXcFBHeTZiQTBHY2ljNWpZZVNoaENGd3lNdEM0ZHVvcHZTcUNXdVhWd1JCOV9VRnNpZkZiWGY1bjkzRU9ySk1lYldVLWd1ZGw5S05RZzhhM1FOd1F1d090MzByVXVIbXlyNWlrVnVXYjRLaTF2eS1wT2xSYlQzem5NRERCTjhrUGlTLXVsbWMtOWl3aFMxQjhTVDl2V3RzYlNqUDNMeUtjRmRSNG8?oc=5",
-          "published": "2026-09-30T21:01:27+00:00",
+          "source": "FXStreet",
+          "title": "Ripple and Stellar outlook: XRP slips, XLM rebound faces resistance amid mixed sentiment - FXStreet",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbVRuX25uc2xjWDdVOUhxa0dYYi05dWpUVXRwODZLNlVBSUJCM3RCeUI4a1FVcm44Qnp5MXJmdTlkYVVwTnJLQTY1VkIxN05oOURaQmNoX0Y3MDdMQnpaX2F1d2IwRlZxQzVEX1NBUmFNaks4TUFLS1JUcHd6b2NDUmFxZUZkMEJaV1Zmd1gyOWg5NFZOUmFGQm1xRWtmUzFxYXFWWDVkNUxNTWhlenVCUXo2OTNOVHByU2VqZEYzeDFoRFNQWUpBcnV2dkVMMHF2VlVnMnVCLXU3TnpqM3Rz?oc=5",
+          "published": "2026-10-01T03:59:52+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Moomoo",
+          "title": "$Ripple (XRP.CC)$ when they flip the switch it will be silent fast and deadly. 589 Duff Pheonix [Onlooker] - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOenpRamNjeloyVTV4RlEzaGY2eGZfWm4wanpRa2RsQ2tIRmZadVlMa2k0UWtvZWtxOWVRSVhMTFFRTWxwQVhXX2YxRjhGLUxBT0xEcWxYUUJaRWhjQWItdFR5X3pKM2Zzd2U5REsxYmtGT1Q5Y2oxN3RUYVFqT0V0WmJROWtrYm93RGY1LTR0eXdHLXp5R3pGUFYyQzZneXJ0Mk1zN194Um1ORzk0VFhsa2MtSHk5TmhRY0xINDQ3WjJWYUk3OUdkeEtLWWI0LXJiNUEtVUlaZWtUcHA1Vm1FOFVlMF9TcHVzODBvYzNBeE5sQlZkMnk2MHRoQVQ0dERFMUZIdHBUWU9YOEo5WVdvaGQ2aTdLak5TZXRGZldVNzVoWUhBSGVmYjQ2T2JTaklLY1c3SDZCbXJzckVUV3EzRzJuUG5FbDVhTy1xRTlzTGxNTnZYOUxHQUhUZkdhQzRxMlhYOGNWeDFRZ0tYYXRZNklrSk0?oc=5",
+          "published": "2026-10-01T03:51:25+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -138,14 +138,6 @@
           "published": "2026-09-30T05:22:51+00:00",
           "summary": "The regulated operator is mirroring ownership of selected investment funds on XRPL while keeping its existing database as the official record.",
           "via": "CoinDesk"
-        },
-        {
-          "source": "Cointelegraph",
-          "title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a \u2018fool coin\u2019",
-          "link": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-09-29T13:30:00+00:00",
-          "summary": "An October pullback could offer a buying opportunity before Bitcoin\u2019s next cycle peak, which Brandt expects between $300,000 and $600,000. He\u2019s not sold on \u201cfool coin\u201d XRP.",
-          "via": "Cointelegraph"
         }
       ]
     }
