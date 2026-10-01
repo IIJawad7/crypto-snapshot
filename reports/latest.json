@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-01T14:27:34+00:00",
+  "generated_utc": "2026-10-01T20:20:45+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 84192.0,
-      "change_24h_pct": 0.46,
-      "change_7d_pct": -0.25854683033718073
+      "price": 84810.01,
+      "change_24h_pct": 1.363,
+      "change_7d_pct": 0.47360367652076185
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.4887,
-        "change_24h_pct": -0.574,
-        "high_24h": 1.5149,
-        "low_24h": 1.4761,
-        "range_24h_pct": 2.628548201341374,
-        "change_7d_pct": -3.00364868386761,
-        "change_30d_pct": 10.127237757064655,
-        "ma7": 1.511242857142857,
-        "ma25": 1.434012,
-        "ma99": 1.2254848484848482,
-        "rsi14_daily": 55.69778030070196,
-        "rsi14_4h": 45.083689486948074,
-        "atr14_pct": 6.158297267990287,
-        "realized_vol_30d_daily_pct": 3.79118782215605,
-        "volume_24h_usdt": 163477893.70838,
-        "volume_vs_20d_avg": 0.5705563221279547,
+        "price": 1.505,
+        "change_24h_pct": 0.811,
+        "high_24h": 1.5103,
+        "low_24h": 1.4744,
+        "range_24h_pct": 2.4348887683125264,
+        "change_7d_pct": -1.9416210581183257,
+        "change_30d_pct": 11.333037431572723,
+        "ma7": 1.5135714285714283,
+        "ma25": 1.4346640000000002,
+        "ma99": 1.2256494949494947,
+        "rsi14_daily": 57.27642598134242,
+        "rsi14_4h": 50.66973489159925,
+        "atr14_pct": 6.099667774086378,
+        "realized_vol_30d_daily_pct": 3.7923513663362907,
+        "volume_24h_usdt": 171751173.98984,
+        "volume_vs_20d_avg": 0.5994310051951588,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,74 +62,90 @@
           },
           {
             "date": "2026-10-01",
-            "close": 1.4887
+            "close": 1.505
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": -3.943037549539863
+            "distance_pct": -4.983388704318936
           },
           "target": {
             "price": 1.469,
-            "distance_pct": -1.323302209981847
+            "distance_pct": -2.392026578073081
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -5.958218579969099
+            "distance_pct": -6.976744186046513
           }
         },
-        "from_90d_high_pct": -12.42426025060298,
-        "from_90d_low_pct": 50.95315351855607
+        "from_90d_high_pct": -11.465380316489204,
+        "from_90d_low_pct": 52.605962279456485
       },
       "news": [
         {
-          "source": "StreetInsider",
-          "title": "XRP Price Prediction: XRPL\u2019s Upgrade Story Meets Remittix\u2019s Crypto-to-Bank Testing - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ2tkOUVMeG95aW1GSW9icEV4VzJRWF9SWEk2WFpTOFRDUXhNTTlkcDg3dUd0MU95SDhSUzJMV19KWVNwaU5zbVNQTEpjMG1sUmNPTzVCSlBUVGZ3X3B2VGV0Yk44VVlXaDZQUXF0R1MwYmJHLTFkVlhVLUkwM09CbERtWXdVbDRmV0tPY1FfRTlvTFd2YXprX0s0ckcyeWFQdlpVakdDZTBaTDcxcVlvNnFMTHFzcUdQMXdyU3BpRndaV3liRUloVVkwWnZlUTYzR2pUSTN4cktaS3BiNC03OVBwQlNReG5YVzNBZXpkUjhZZw?oc=5",
-          "published": "2026-10-01T14:17:18+00:00",
+          "source": "Pluang",
+          "title": "XRP trader sentiment hits lowest point since Au... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX2N4NTJZRUhNY1FWUzZzajJkdUFNUFZEOHVTN2xfUzVFLV9Ud0drWXdVRkczSkhneWtTT0JXRzZhSmhPTEY1Z2MtcFY4Zmh5NkxkRVEwaEJoRlpBSnB2YUp1ZGZaTlNBODZKd2FORzlxZmdPbFhoY0E5TUtBdi1INHNhQmtVSTZrWUZz?oc=5",
+          "published": "2026-10-01T20:04:58+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "24/7 Wall St.",
-          "title": "Hedera Jumped 27% on an IBM Cloud Deal and Gave Back 16% the Next Day. HBAR vs XRP: Which Enterprise Coin Is the Better Buy? - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQb2RWdk5LSk1kZlc4MHQyOXRNd3pOenhJdFd2OVdNQ05lZjg5VmNILTlXYmVZcmJJeE04R2pfZEFMYVpXVzVmWHowRy00REdfMDVKOTg4eHV4QlItTk13RnlzVmZ1S1dDbzd0WkxFUG9lUTllQ1hpV2ZxV2Ffc0prQXlGekVfSlFpSGtnRWljbk5NTGpoWDVyZ19XcGFVWXQ3cjd3cU02dEV4dXFycGtNeDhPN2F1NUVLVTJtYTJsQ0wzQWxGNnBjNzhqWnZjMVJVNUw4YUxqLXlJX0lJM1dWQ2tNWlR4T2NQSDY2TVlhTVo0by1hSWV3cWhhNmlacVM2dkpBZEZNQWZVQQ?oc=5",
-          "published": "2026-10-01T14:00:00+00:00",
+          "source": "Cryptonews",
+          "title": "Vault Access and Interest Rules at Center of XRPL Lending Vote - Cryptonews",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01ZV91RkVlVG1MMUFKMDBNY0xDUFJwVTdrblpza1FIUTE0VG4zbmRWME1WbTlQU2FxclVRZDExOEY1RmhkeUdqQlBhUmdseTBINXQ2ZV9QUmZKTXA0Q0Y4dEhXaFU?oc=5",
+          "published": "2026-10-01T19:50:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Benzinga",
-          "title": "Bitcoin Whales Dump $2.52B, ETH Whales Buy $162M: What About XRP? - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZEJUUmpudkk5Q1k2cHhRTXpXSmMzQWlRNWE1UHFwOXpDbzRxR3RkempOZEE2V2JHZ3djSlR0SDNCRUxxUS1tQ2E2Q2ljVC00ZGxCdS1wZEhHSmRCUDFpLVJQelczbWtTSzdtV1BmU0tQYUV2SnhuZDlnNWNoZDZDSDI4eUVLVFVab25aZzVBZVd1NC1ZaF9XR3pmRWtxOGdlem5GZjJmajJpR3BWcVlDbEFMbk9FSW1icF8tVWVKRQ?oc=5",
-          "published": "2026-10-01T13:50:49+00:00",
+          "title": "Bitcoin Stays Rangebound as Rising Yields Test ETH, XRP, Dogecoin Strength - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnBfckpNSUlabFE5OS1JdURBUTVickNyRlhCTTZibTh5UW1WdWZINlJhWFRaRlhsOGxtOTlVM1BQM1NDRFNUekRVa3o2RlZNdFhfQmRkM2huT1o1dEtZYlJGUl9pVk5Yb2tfVHBiaXdldldldHExNExLYnJPQ0E1T0o2enZYNkYxMmZpM3o5bGpyVnZON2MwODVVRmx6UTdpekNrbWYycnVOeTVaUEVDYy1Cb1I1bWs5WkF3OVJyZU9pX2JpOENTRWRraUZkZnc?oc=5",
+          "published": "2026-10-01T19:34:13+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Coinpedia Fintech News",
-          "title": "XRP News: Brazil Deal Meets \u2018Lunacy\u2019 Price Drop As $1,000 Predictions Lose Their Pull - Coinpedia Fintech News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc295WGxYc0VweU0tdWpOR196NXlGbThRWXp3dDBTMDhua3YzSVNhdU1aZzJIVWdTTm1QVlVmOG1Tb1ZqREJVazhuNWU2WWpQZUpsNlA2MWp6X2hqR1FBQzg0SGk2MHhEZlpsRl9sUWlLWmQyczdrYUszeXJidDhXRkJOY1NCZGJKZDBDSzIyamVtOXQ2NktwQzctc0xhdFNsUmpST1lFcVo2VlMx0gGyAUFVX3lxTFB4VXQtdGRSSTB0S2ZWekVzZ0h6c2tOa0FCMW5JUlZBUU50Y2lFZkU5c2xCckNzamR5elBsYkVZdEw5RTRQOFZLcmFKWTdsQkljMTRCZUFjeU12TzEtem1yUzNzcFVoell5SkJiWHlFSHZET2o4bXZkdjlJOHhGOG54LVkzNU01ZFAtX1IxZjAwNU03c1ZhUTYtQ081SUJUdVo0S2x1cERMS2dmbldzNUhsUlE?oc=5",
-          "published": "2026-10-01T13:47:00+00:00",
+          "source": "thestreet.com",
+          "title": "Wall Street is getting its largest XRP-based stock, built by a Ripple founding team member - thestreet.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd25zdGpXeGpFNzhPaHRHbmxnd1pKOHc0UG5NeWhtRnJ5M1NRWVhVV2YtRE9tNldudHRVeEdzS1g0QlpTMU5pd3djek9mMUxXa2tKaVNOdWlCTjB5N2RTdm1RN0ZBSE9vTUpiMzJtbGJsOXdVQUhtTS1UMmM5U1Zmbmo2WGNMQ1dhTW04Um91aDdQRHp4TUE?oc=5",
+          "published": "2026-10-01T19:25:17+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Pluang",
-          "title": "XRP Ledger hits 10 million AI agent payments am... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUM0YnpuQ21OeUI0Q20wQjF6aWVQTVZqdFBMaEsyZF80cVBXZGw1dlNZU1lORkpTbTNGVWppeTFYWHNyMkVMSmZCTThLUS1zQXhLelFpMXk5c1dQUllQOXMwcjZVOUhtTnhmRnBnX0RDUm1zbFhrOUdudG9XNmtPb19iSWZqc2JFcHZKR19Cb1d1akhtRHZDOQ?oc=5",
-          "published": "2026-10-01T13:44:53+00:00",
+          "source": "24/7 Wall St.",
+          "title": "XRP Price Prediction for October 2026 - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb252ZDRzQ2lYVUhvM1JnR0hEaGNpTm1qbU5ZNml2NHRzMGFWVzVJRkRHejBhbnlnVXdYTGUyXzFNSTR2YlJ2Q3o1UGhObzgxQ1k0VnFWWU5GTVpmUU9xNWNtTGJxZXQwSlhfOVRyU0Z3X29BUEg1cEZFQU5PakR0QjVqUUxhdllSc0FiZ1BfVDMxUHpSR3AzWlFSZjQ?oc=5",
+          "published": "2026-10-01T19:22:16+00:00",
+          "summary": "XRP Price Prediction for October 2026  24/7 Wall St.",
+          "via": "Google News"
+        },
+        {
+          "source": "24/7 Wall St.",
+          "title": "XRP Surpasses Bitcoin in 90-Day Gains But Remains Far Off Its All-Time High - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRTBqWmhRZVVYdDBwaklta19oMXFMSXlJS3hSVW9nWkhpb3VrdXJKbWJDY0ZLQWIxQ1JQcy1nOUhUejBTcm02RHFhZVhjVVpxQ2pzUEVUSmlobXBfU0dDVkY4M1JHOG9jUTE0N0ZLRnAwWmVDeHZ3NXJnQklyM1RjSDI0YncyRWFyVEZEU29pM2R2UjkxZHVUOGxGTUsxMUk1dEU3S1hKa1JwUzR4WVIzaEZ2Y1FfR2diOFFvbE14amFUUWN1Qjd3bVpCSUdjX0E?oc=5",
+          "published": "2026-10-01T19:00:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "TradingView",
-          "title": "Armada II holders approve Evernorth XRP deal; trading starts Oct. 8 - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbnNKX3RkOW9YaW1LMzhrcXk3VjVNcUxIVm1LU0J2RnlZbjhGaXFOdVZhc2VpVjRWb3VfcHdSbEZkSzBOVjF4UGo0cW4xb2o0VW4ybTBuNlgzdktBenhGLXRTaVl6QUdpalh5b0drWmFzck9GSHp1RXpGOVNTQnNFT05XVlVjYkQzaEx1RjZDRTY3LVFtRENETjlrMFkwT1RJNzUyUGo4WEgzckhXMDl3OUQ4UWJ5dDJwLVI5TVgxWm5vVWs1NTZr?oc=5",
-          "published": "2026-10-01T13:44:49+00:00",
-          "summary": "",
-          "via": "Google News"
+          "source": "Decrypt",
+          "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
+          "link": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
+          "published": "2026-10-01T18:46:03+00:00",
+          "summary": "Shareholders approved Evernorth's merger with Armada Acquisition Corp. II, clearing the way for the Ripple-backed firm to begin trading Oct. 8 with a stash of roughly 473 million XRP.",
+          "via": "Decrypt"
+        },
+        {
+          "source": "The Block",
+          "title": "Evernorth shareholders approve $1 billion XRP treasury deal, clearing path to Nasdaq debut",
+          "link": "https://www.theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413",
+          "published": "2026-10-01T15:17:11+00:00",
+          "summary": "Armada Acquisition Corp. II shareholders approved the Evernorth merger. The XRP treasury company expects to hold ~473M XRP.",
+          "via": "The Block"
         }
       ]
     }
