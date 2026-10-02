@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-02T06:59:57+00:00",
+  "generated_utc": "2026-10-02T13:51:27+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 85992.96,
-      "change_24h_pct": 2.225,
-      "change_7d_pct": 2.25085639130278
+      "price": 86681.99,
+      "change_24h_pct": 3.415,
+      "change_7d_pct": 3.070154942943515
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.523,
-        "change_24h_pct": 1.156,
-        "high_24h": 1.5337,
+        "price": 1.5305,
+        "change_24h_pct": 2.766,
+        "high_24h": 1.555,
         "low_24h": 1.4744,
-        "range_24h_pct": 4.021975040694525,
-        "change_7d_pct": -2.900860694931473,
-        "change_30d_pct": 12.72296647176374,
-        "ma7": 1.505485714285714,
-        "ma25": 1.4392720000000006,
-        "ma99": 1.2303808080808079,
-        "rsi14_daily": 59.051702210017126,
-        "rsi14_4h": 55.9580408103916,
-        "atr14_pct": 5.675827783509988,
-        "realized_vol_30d_daily_pct": 3.800729117123262,
-        "volume_24h_usdt": 210820436.69679,
-        "volume_vs_20d_avg": 0.7445626153524918,
+        "range_24h_pct": 5.466630493760172,
+        "change_7d_pct": -2.422696844118588,
+        "change_30d_pct": 13.2780697209681,
+        "ma7": 1.5064714285714285,
+        "ma25": 1.4395480000000003,
+        "ma99": 1.2304505050505048,
+        "rsi14_daily": 59.66704120974351,
+        "rsi14_4h": 56.874800435924115,
+        "atr14_pct": 5.7496755156732915,
+        "realized_vol_30d_daily_pct": 3.8078930220129594,
+        "volume_24h_usdt": 237643167.11382,
+        "volume_vs_20d_avg": 0.8392934802682211,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-10-02",
-            "close": 1.523
+            "close": 1.5299
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": -6.106369008535784
+            "distance_pct": -6.566481541979751
           },
           "target": {
             "price": 1.469,
-            "distance_pct": -3.5456336178594783
+            "distance_pct": -4.018294674942824
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -8.076165462902162
+            "distance_pct": -8.526625285854294
           }
         },
-        "from_90d_high_pct": -10.406494499676455,
-        "from_90d_low_pct": 54.431149868180896
+        "from_90d_high_pct": -9.965292076004474,
+        "from_90d_low_pct": 55.191644696816056
       },
       "news": [
         {
-          "source": "CCN.com",
-          "title": "Bulls Eye $100 XRP Surge as Ripple Teases \u2018Special Announcement\u2019 in Seoul - CCN.com",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd29JT1R0anpMTEVVYnRBUmpjMnhBY2Y4NTRsbXU5VC1sUXhGSkVONVhCMXpnay1RdE42aTZnTjAtSHFsQmVZcGJ1c1N3TjRhQW4xbWJDSmY2QUU1ZXBBREZybmVRMHM0MXVlbUVrajZkVFR1RGpaMU5wUlNuLXBzTXNwVWE?oc=5",
-          "published": "2026-10-02T06:48:37+00:00",
+          "source": "genfinity.io",
+          "title": "Evernorth\u2019s 473 Million XRP Treasury Clears Shareholder Vote Ahead of Nasdaq Debut - genfinity.io",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN1RDRGlhZHpGNGhvUEoyakR4SVVLNUE5TFZZTExzWkVLRHdlaEhQZ3hPakFWdnZWVnl0azhUbTN1WjFRVWE0YkF0RXdnOV9lemFjVUVRbkJaQmhHLU1qejhKRXJXVTFkdmhWd0M3OXBwLWVwck9ZTFMxN3l4YVV5OQ?oc=5",
+          "published": "2026-10-02T13:47:34+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Cryptonews",
-          "title": "XRP News: Evernorth Vote Clears Listing Path - Cryptonews",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03WG14NzZHZ2VDaFg2alJqQ1V2c2hfVVFOUUlNTmUwRzc3M2x1WnU4ekJMX2ZrQkNlY1Jad1VkUFMxYk80dEtQdEYxNnFmTVRScERhUnV0blRHYmJoRnF5TUExZmMwYUJVOU9ZR1Nn?oc=5",
-          "published": "2026-10-02T06:33:39+00:00",
+          "source": "FXEmpire",
+          "title": "XRP Price Forecast: Technical Setup Points to 125% Upside - FXEmpire",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSy1jeXBOd0hhWmppdjFKWDF1cU5kUmk4c0R1RGtGRmFFX21LLWxOeXVWUzM1OWw5dUR5c3Z1bFVMaHZiZVZaWHNCZU9TTUF2ZTBISWFoVjFFVUlSUXRTbTdTQlY0QmZVejdxdHl6bDljLWhCb25LaEVkdmlkUUJqdV92UjZTc0JTcDVraGZkdzhZLW1IMHRyMnp1ODhJVUlLM3gwdDZBemhFUQ?oc=5",
+          "published": "2026-10-02T13:43:02+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Pluang",
-          "title": "XRP price nears $1.54 resistance; breakout coul... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0FFZC1CaTA3VTE3VGgyamNrVHpFNThxNXNJRmswMUV0UXlyMzNGRWVVZDBmY2Q4cVRRd1BiTHpDN2NDQTBCSTBHUDE5UEYxdmdFTG8yT0lnVGhBTGotLWtrLTBERFdYZFRTMW9mcTJRXzcxREhnYkxXczJOMUdtMFp0c1VkTzNLVE10OEJ3RVVJaElUZVJJUFlzOWtoUWQ2M0ZIRzc3ZDAzRUE2ZlE?oc=5",
-          "published": "2026-10-02T05:15:09+00:00",
+          "source": "pluang.com",
+          "title": "XRP and ETH sentiment hits lowest since August, signaling potential bullish entry points amid market fear. - pluang.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRUdiVWc5bEhiTGwtaHBnQlVkNlduODJJZmdZckRGLVF5aVFFQlpqYVEtaHNJUnJiTi1mOGVGejUtQkJnQ01hVHBrQXBsZWhodncwTDBobFYtRzVJakxhZ0h3c1hjSzhJTUJ6dXBTVE5HX2gtV045bS1QeXVtRVFBaEFlY1JJZnM?oc=5",
+          "published": "2026-10-02T13:35:53+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Robinhood",
-          "title": "XRP price at Oct 2, 2026 at 2am EDT Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkVVd3c0MGR2LXg3Yk9OVXRwMVZfM1E3R0NGXzRWYXRjWENJWldLQWJxZXV3NlBOd2ZQSDFCWkVBVlhsLW5zRFRjWmJqbjJqZEJjTXZuTVh4Unc5S3BhZzRkUWhaTkhGa0dEVmV5ZzZUVl9URTJOSzZQbFIzdjd4MHlodVcwbURibjVHOVRhNnhSalB1cjQ1V0h4ZlVtQmhqSEt6a04wVW9fMmRq?oc=5",
-          "published": "2026-10-02T05:08:17+00:00",
+          "source": "24/7 Wall St.",
+          "title": "The XRP Ledger Is About to Get Native Lending and Its Biggest DeFi Protocol Just Passed $130 Million. Can XRPL DeFi Catch Solana? - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPWGFOSHdTOTZDV1hnbkpkTlJFOC15NXh0ZXhObTgxQUY1eHVYNkZPbGQ3WFBoUjQ0SEVrMkV3WlRtek96SXcwcVpWWlE4NWlFTEsxMV9ObU5TT2pUcFY5bVl2THlpT0lXLXNYeWlVSWJ4RTB0TndNTFBzX0ZSanlGS2xydUFiWVhkQ09mMlhJLVFzbjBZZ0ltY0d5R2duR0I0WUU5Tnc3UkhtV0VJREFvRm5NcTgycVVNTEt1eHBoeUlpaGRndFpnREVDYmF6SlRvbUJ3ZHNzbjR3ZlJYb3IzLWxWUGVSS0RBUlBLc2tXblBlaWIwVFBObF9keE5LVExMc0E2aHpwOHZERHdab0pHM2IxRQ?oc=5",
+          "published": "2026-10-02T13:30:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "AMBCrypto",
-          "title": "XRP\u2019s $1.54 breakout test meets Ripple\u2019s 1B token unlock \u2013 Can demand absorb supply? - AMBCrypto",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSnhIZ3VrUnplaXIxcno0NlJtdV9xbmd6S05FVzd6cUJiUk4yY0xHMldrWjNhMnpNX3dhcFI0VUgtbEVRODVQbVdNRVhrbFNSZldORGV2NHA3b0V1SVBvbVY1TnhfMExKYU1lUG9vVnN2QkdsMXZrLU5LRU5EN21lSGxaTWdqWjJFOW1JOFJEeHB1OS1kOEY5dlR1TXJnNTJZMEhV?oc=5",
-          "published": "2026-10-02T05:00:50+00:00",
+          "source": "CryptoRank",
+          "title": "Crypto Price Analysis, BTC, ETH, XRP, QNT and LIT, October 2: XRP Holds Its Bollinger Midpoint, Quant and Lighter Fall, Bitcoin Tests Resistance - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQYjUxLTg1TkpnWmU5ZWZ3bnE3VTd4azdBNDhsbmJyZU9sVmY3dmxTRzFQTnY1aXVpS2FnWTdTanM0RDlxQ2I2Um9pM3RCNmFVR1NFdDFqOXcxLWxXZGljaUlvbXJHQ0tHdzNGUU5QckxydUJzWi1YTUY5NmFMZEdxTDYyck9vcWFqR0dlY1djZU94NVk3NGxac2JFbjFyenBsNFdLcVJTdjVqQ0NvM19YSkNfa1lXaF9CeExHbXRVY3NqQzRCWU4weGV6QTZ0c3U4UGNGNVp3X093ZW9zZFNULVFFVUtXWm5FaDlJRkdNcXJYb1lWTmoxWjVpZ05FOUE5bnduZg?oc=5",
+          "published": "2026-10-02T13:11:26+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Pluang",
-          "title": "Binance reduces XRP reserves by 57 million, rev... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0p6cWpUencxc29Nckt6c3ViTEk0N2hQTXg1TEJZM0xETThCYVl0X3V6V09maXBGSjJ0dXlaMWNJck9TaHVhZGc5a2djYS0xUWdfV0NBa1gyeE5PLUJYZXlJS2ZjaTVVS0tfNUVQR3FnY3lEdnBCWlE2ZGlZdWJDOWs2M1RLcjVlRldVa1hEay10dw?oc=5",
-          "published": "2026-10-02T04:37:01+00:00",
+          "source": "Finbold",
+          "title": "Ripple locks $1 billion worth of XRP into escrow - Finbold",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1c3hYRHFuU1NicUJraW8zS1h4cW00SmtseU9qTGd0STlHMzh4c1hQRU1zRTNFMm55VDBSQ0ZxUGJyLWlDY1diMnUzeGF6RTh3U1NqcnZnQU5mMFdwMkdhLVlXeURLNklWTElCSDVsbHpUc3gxdU9N?oc=5",
+          "published": "2026-10-02T13:07:40+00:00",
           "summary": "",
           "via": "Google News"
         },
