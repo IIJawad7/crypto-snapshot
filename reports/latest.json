@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-02T23:46:14+00:00",
+  "generated_utc": "2026-10-03T05:17:56+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 84568.0,
-      "change_24h_pct": -0.266,
-      "change_7d_pct": 0.5564923372761266
+      "price": 84578.02,
+      "change_24h_pct": -2.193,
+      "change_7d_pct": 0.17163884779785032
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.486,
-        "change_24h_pct": -0.415,
+        "price": 1.4893,
+        "change_24h_pct": -2.219,
         "high_24h": 1.555,
         "low_24h": 1.4458,
         "range_24h_pct": 7.552911882694691,
-        "change_7d_pct": -5.259802358941668,
-        "change_30d_pct": 9.984457109022271,
-        "ma7": 1.5002,
-        "ma25": 1.4377920000000004,
-        "ma99": 1.2300070707070705,
-        "rsi14_daily": 55.20518974997428,
-        "rsi14_4h": 44.53385617883032,
-        "atr14_pct": 6.112286098827147,
-        "realized_vol_30d_daily_pct": 3.793106650631444,
-        "volume_24h_usdt": 310884052.32587,
-        "volume_vs_20d_avg": 1.0979611213121783,
+        "change_7d_pct": -2.4944349875605565,
+        "change_30d_pct": 2.625413450937164,
+        "ma7": 1.4945428571428572,
+        "ma25": 1.44062,
+        "ma99": 1.2344393939393936,
+        "rsi14_daily": 55.52660975969504,
+        "rsi14_4h": 45.898591152469145,
+        "atr14_pct": 5.863560923664339,
+        "realized_vol_30d_daily_pct": 3.5677943091852327,
+        "volume_24h_usdt": 268085692.29405,
+        "volume_vs_20d_avg": 0.9075914182811406,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -36,10 +36,6 @@
         "high_30d": 1.6581,
         "low_30d": 1.2468,
         "last_7_daily_closes": [
-          {
-            "date": "2026-09-26",
-            "close": 1.5274
-          },
           {
             "date": "2026-09-27",
             "close": 1.5167
@@ -62,72 +58,76 @@
           },
           {
             "date": "2026-10-02",
-            "close": 1.486
+            "close": 1.4847
+          },
+          {
+            "date": "2026-10-03",
+            "close": 1.4891
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": -3.7685060565275985
+            "distance_pct": -3.9817363862217237
           },
           "target": {
             "price": 1.469,
-            "distance_pct": -1.144010767160153
+            "distance_pct": -1.3630564694823044
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -5.7873485868102374
+            "distance_pct": -5.996105552944342
           }
         },
-        "from_90d_high_pct": -12.58309312312489,
-        "from_90d_low_pct": 50.67937538024743
+        "from_90d_high_pct": -12.388964056709217,
+        "from_90d_low_pct": 51.01399310484689
       },
       "news": [
         {
-          "source": "techbullion.com",
-          "title": "XRP Price Prediction: Where Could $1,000 Go Further, XRP Recovering to $3 or AlphaPepe Before Its Exchange Debut? - techbullion.com",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMElsNUIyMDIydHVaWGxwNnV1YjlRdlNKRjkyWEJsT01ESDhRX00wOVdwRk1keVdmNll0VlNmM1A0WV9kTHFCQWRYbGZ3Q2hVTFJRTndUSFc1VXZjTUlUZXlSeWUzeUpHUGduT1o0SC0zd3pEbjZvc2hmZ2ZDMFNWV1FFajMxMzJncW1wTkRfUzBWaGJkWWFhajRldGpZbTJEVGVjZG9Nam80bjRCN25BTXUxOHZpQmZBbFZsSUp3VlpWNGZ3dFRfTGtJbVk?oc=5",
-          "published": "2026-10-02T23:41:42+00:00",
+          "source": "TechBullion",
+          "title": "XRP or Remittix? Crypto Payments Buyers Weigh a Market Giant Against a November 24 Token Launch - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcEpKMHJBTk1CYWl2amh0Q1lBVElJdUFiOENJRmQ3RVZyYW02cnNIVy04X1pjc3lEY2lhWVdvbEpFWmJMTXhzY2xraDZZdUxPWTdMZFhhZk1KNm16WmppVGpFcmN6UTcySmwyalpjc0kwMWRNa2JGMFNTaTB4SXRZRnFKMGRZaEVKdDhqTi11MTVVdHFZcEtIeG95UUVUU3hhTV9HQzYxZ2RGV0ZoYzJ2eldTNGtseGlBb3FZ?oc=5",
+          "published": "2026-10-03T05:01:50+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Pluang",
+          "title": "XRP Asia launches to boost XRP Ledger adoption with Seoul event and upgrades in October - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTEt6RWpvdzBQbldqUjkzaGdYWWh3THFWVTNKSWg3TDZaU0tBLWhWdDBSZXJ2Wk13cTdzeXYwbkdmR0lJVHNUSjNScHpCUHgzTW5kcExSSU54ZUhjcXpVaWp6XzVmWU5NZy1tcktGRlIyR0Ffc3lYM0l3RmdtMXVsSmgzLUdRaWtlRkVtYg?oc=5",
+          "published": "2026-10-03T04:34:44+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "CryptoRank",
+          "title": "Crypto Price Predictions: Bull Market Targets for BTC, ETH, SOL, and XRP - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUljbTNyUlBRbWNhSXZiTU84ZFpCdjBQRjVVRTFrN2EtOGFHbERoSkVsSkNvalhaRDVGOUxoQkR5QVRBYnduV3UyOE82ZVQ4S1VvWHU1anFxMVhxVXViSHB4VFB3VzlwTUJQOHM4bWNHbzB4X0d4Mi1XcThUTUdyQS1HM3NQU0tSUkEtcHluMG9tUlZ5YkQweWl5VDJGWkhtUGhMZ1FISDhnZw?oc=5",
+          "published": "2026-10-03T04:31:35+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Pluang",
+          "title": "Nasdaq listing of Evernorth with 473M XRP could drive XRP price to $2 amid supply crunch and strong seasonal gains. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXd1YnlkMGxzU1BxN09vQV9uaE81eWY5bllMLVd2V0Z1M3J6THJMUlRNMlo2N2pscFdaS05mTDFyRXdQLWpHdGtpTV9nbk1vQXJ3cU42VzFOYXV3aEpjcXR2bTNkWDl1YVQtYVROelVOQ3FNYlVHdmNQWERTZlBnaVREYUo4eWc3T3VaR2ljMA?oc=5",
+          "published": "2026-10-03T04:24:09+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Robinhood",
-          "title": "XRP price at Oct 2, 2026 at 8pm EDT Crypto Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblRTNVU5eTdCM2VlZVZkY1JRemN2TU9CMUlKckM3cEgwYmdaeDgwWUVvSkc3OW5sOFE5aDVjbnlTbkJQdkNfUUFsUUxRYXpvcDYzbHlIQXpYTEMzdGZYOHV1UFJucmJkYWxKOVd4N2w3ODRaNjdPSWE1VVh4T3IyRk1iMzFiY2d4RTQ4WmwwNHN3bnc3eENIUWRNSmdMQkVTbGJpVV9hOFpsVWdO?oc=5",
-          "published": "2026-10-02T23:03:29+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "KuCoin",
-          "title": "Crypto Price Predictions: BTC, ETH, SOL, XRP Bull Market Targets Revealed - KuCoin",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUnV2ZkNYZDlfQkxlZzg0MzA5Ukg2cFhjbUZYYW16TldDOTE2cW9jcHhJQWlfX2dSdUU0UGdocThwMzQ3Wk43YjdKOXFZMlNJY3FCTnBGem9DeHljVnhISGIzQXRhaEpwYzBiLU1tODMxeXJuM0RPYXE3a1VlRWF4Qk5PQjI5UHhyTGh5QzJ6eTlobHYyMXdlMGY0dXAwV1JWRGJKUkx3?oc=5",
-          "published": "2026-10-02T22:33:29+00:00",
+          "title": "XRP price at Oct 3, 2026 at 1am EDT Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZVo4VFRja0x6aHpJRzVBbldwemhyTHQyWlhpN3FfVGhxV1h0bVI1RGVFbDVMYnlkMGVQSW5ndnVsRFRzbkE1SllRb3BkenJqV3d6cmo4ZFNSWjRHN0wzTmt5cFY0aWc2M3dISE56RWVmaHRMR1A1eUNTbUlHRngxRGdjSVl2N2pMS09UaE1pV0tKUWtEYmo2OVppN0VNaE1IRUdiLXJGODRMWUx6?oc=5",
+          "published": "2026-10-03T04:17:07+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "StreetInsider",
-          "title": "XRP Price Prediction Heats Up Near $1.70 as Remittix Reveals Its $0.46 Final Presale Stage - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTzZpdmtsOHlpRTRhd1k2YVhJajB6WTl3el9DZnJOcmZ6dU9VSnhpTWtQa1FyRlQzZW9iQkZpQjBkejlrUGR2Z1EzR3lUYlVJNmtuR3c0c1pJYTJmT0puZ2QzN1VHc1Z5cDhDaVE2eG1RT2Yzb21GQk1CRU1QRjR4cFB4SHJIeWxqRWRJZVJVcVMtRmI4RWpPcXhNeEJhQ1BUdmZDUlptcV9vajFSeDI0bko1TUgxSUl3Sms2TWlFY0pnNjRMU0x5Z0VBU25MN3BJSFM1SnhMU0hpek5na3FJdlBRYzNCR2tXalE?oc=5",
-          "published": "2026-10-02T22:18:45+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "crowdfundinsider.com",
-          "title": "XRP Treasury Firm Evernorth Clears Shareholder Vote Ahead Of Oct 8 Nasdaq Debut - crowdfundinsider.com",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTkJjcGMyS0loRXR0ZHpwUmlGT0t6NkR5dUl5RDJPTEEwUW5Lb1hvX21lUVI3UXo2Vlo4MThLcTFPZU5fT3pGeDVkdklUOC1rT3hGbUhuZ0U2dlF0SnFGR3dFZ1J0aHZtRmNHRndaYVNLOGNsYkZmUTJ2a2p1Y2RIMG9EZzdId1lsMmVnMWVCNWZKWHVwTl9OZ043aUE5MVByWWR6X1BHZzdIRFdjdFFHdzJDeHp1X1h0ZXdVY19mckRqYkN5Y2Zz?oc=5",
-          "published": "2026-10-02T22:17:57+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "StreetInsider",
-          "title": "XRP Price Today Faces an Escrow Test as Remittix Confirms Its November 24 RTX Debut - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbnhaSEhob0xqaHV6aUpUMnNlTGlQY3ozdzBJLVhIcmQ4RzREdjJ4WnAwb3cwS1l2ZTI4VWQtWXE5WnNxeE4yUGhNNnM4X2tVd3NBWGw5UHBiMmlJR2N6bkpkVFNfUkRTSGtJclg0bE04ck5DTHN4TmFYVDJKTklJQWdabkpWUjlQa0lsZHRlR0Fibml0OWh5S05XU2haQk9JRjFGWXFpVUlBMDc2NlJKNmxlb0kwbzBTSmtHXzJHeXBFTm5YWFRNRGdKWDRxc1RDWTZ4U2U4MVpIdW8?oc=5",
-          "published": "2026-10-02T22:16:53+00:00",
+          "title": "Ethereum, XRP or an Earlier PayFi Entry? Remittix Sets Its Final Presale Stage at $0.46 - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdUdzRGpGSW9RY196N3VDNXFvUER0X0dSVU9LRjJzLUp3TFp0UUkxYVFTM2xkOHF4OFN0eE44S24ydmdqQnVyR25ScUxxWVZRTzBMQ3dPZXlCR1V4bXhaNjZ6Zm55djJ1ajBUZTNEMUpPNmh5LXd0LWszT0FLS2Y3QXMyaFUtRmdhOXZzWWV4OUJ0NHE1RnZmQWtJNldOdzJ4a1VJMWxncXJQQkVESjZUOGFlMlpvTFpOeDBYTlJwdmZxbnZkdFJ4cXdqN25famhHaUd1OXNBdURYQktRTUxPZ19wdVE?oc=5",
+          "published": "2026-10-03T02:22:35+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -160,8 +160,8 @@
   ],
   "errors": [],
   "fear_greed": {
-    "today": 72,
+    "today": 67,
     "label": "Greed",
-    "yesterday": 74
+    "yesterday": 72
   }
 }
