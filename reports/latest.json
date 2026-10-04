@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-04T17:34:22+00:00",
+  "generated_utc": "2026-10-04T21:23:32+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 85372.01,
-      "change_24h_pct": 0.608,
-      "change_7d_pct": 1.0654536414433036
+      "price": 85815.95,
+      "change_24h_pct": 1.298,
+      "change_7d_pct": 1.5910005682356232
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.5001,
-        "change_24h_pct": 0.671,
-        "high_24h": 1.51,
+        "price": 1.5097,
+        "change_24h_pct": 1.431,
+        "high_24h": 1.5118,
         "low_24h": 1.4842,
-        "range_24h_pct": 1.7383102007815676,
-        "change_7d_pct": -1.0944814399683533,
-        "change_30d_pct": 7.264926707186259,
-        "ma7": 1.4917857142857145,
-        "ma25": 1.4447160000000003,
-        "ma99": 1.238983838383838,
-        "rsi14_daily": 56.80928044651835,
-        "rsi14_4h": 51.065507610058965,
-        "atr14_pct": 5.725808755606768,
-        "realized_vol_30d_daily_pct": 3.497841030791413,
-        "volume_24h_usdt": 63687129.9111,
-        "volume_vs_20d_avg": 0.2159928693421513,
+        "range_24h_pct": 1.8595876566500413,
+        "change_7d_pct": -0.4615283180589347,
+        "change_30d_pct": 7.951376474794425,
+        "ma7": 1.493157142857143,
+        "ma25": 1.4451000000000003,
+        "ma99": 1.2390808080808078,
+        "rsi14_daily": 57.85189279559775,
+        "rsi14_4h": 55.2249730013112,
+        "atr14_pct": 5.697915385270488,
+        "realized_vol_30d_daily_pct": 3.504074104752345,
+        "volume_24h_usdt": 72955025.1681,
+        "volume_vs_20d_avg": 0.2474246404412137,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,40 +62,72 @@
           },
           {
             "date": "2026-10-04",
-            "close": 1.5001
+            "close": 1.5097
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": -4.6730217985467615
+            "distance_pct": -5.279194541961985
           },
           "target": {
             "price": 1.469,
-            "distance_pct": -2.0731951203253107
+            "distance_pct": -2.6958998476518503
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -6.672888474101734
+            "distance_pct": -7.266344306815931
           }
         },
-        "from_90d_high_pct": -11.753632566621564,
-        "from_90d_low_pct": 52.10910565808153
+        "from_90d_high_pct": -11.188893464321426,
+        "from_90d_low_pct": 53.082539038734545
       },
       "news": [
         {
-          "source": "pluang.com",
-          "title": "XRP must close above $1.53 on a 4-hour chart to confirm breakout, targeting $1.62 and higher levels. - pluang.com",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWGpzX0dDTy1SUElzVGQ4YlFNb1J2RmZ4Rl8yUllqYW4xTExPc0ttaVYtdDBsMXJjSVRVdTVTaEwtOXlGdDIxVG1JRzNlTGdwYTRUYlI5THZja1lGR3dDdzYydDRxZWh5SXhWQmNFQWlKOVBXYm1qMFVqN3loYjN0LURXRVI5ZmRmd0tFODdDSVYwUQ?oc=5",
-          "published": "2026-10-04T17:33:05+00:00",
+          "source": "Cryptonews.net",
+          "title": "XRP News Today: Chart Points To $11 Long Term, But $1.66 Must Break First - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53S0EtTmxZZ0pLcnRNWTlSR0tnNVN6OHJJR0hsYmZoaWxVWjNLcndkZElJS190MDhiT3FqcjgyTWlxb2JGbjBpNzQ3R0hpbXh2VUozLW5rcGRETzQ?oc=5",
+          "published": "2026-10-04T21:06:09+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Robinhood",
-          "title": "XRP price at Oct 4, 2026 at 2pm EDT Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjlUTkFNRVhaem1tM0cxTnJRakFsaVVpb1d6d1RmVGUxYjNvTmhyNXlxUWkzYmNnR0drZjF4YkFzOWM5eWFPdkg0U3U1dEd1RnFQcWZIS0t1Sy1EUmFja1E1Z0R3cEJ0Tk5wSm0ybkFTOWtnUXhMSVBXMnRWcFJQLTJBRXRFY0s5ZE9tRGoxOXd5Mko3ekxUclBRTlJidFF4cW1EemxsV3B1UHFs?oc=5",
-          "published": "2026-10-04T17:04:44+00:00",
+          "title": "XRP price at Oct 4, 2026 at 6pm EDT Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMG4wV1VWMzJBMGFpdjUzZy1KUVMyQ2w0ZXl3dWd1TUJmQ1htalJsaW0zQ0xpOGNORTE0cC1HbjRsZjAtOExOcWl1UVZXa2FRMGhPbVl5ZHpMQXRVc1ZzTExOdHcxcXZncHlzbmExMUVDSDU3WnRiSktWMjB4Y1VucGlKN3RiTlhKV00zeG56VFo5OGpNTU9QUWVQcjM5MlFGekdmcV9GX2RPMkVa?oc=5",
+          "published": "2026-10-04T21:03:11+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "OneSafe",
+          "title": "XRP Cryptocurrency Will Reshape Financial Realities - OneSafe",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0dHJYQ2Q5SVRvb0lrRGdTSnRCSTFqc1ZsMFZ0RUNNd08xMmFGc3RmSkJsbVZ1TGJhb3ItWlBFNHBoMUwzRDJSMHh2aXhBdkZaaEU1TnQ2WElXY0ZZdzl0cG4wNllSQWdJOXV2MFh3?oc=5",
+          "published": "2026-10-04T19:53:12+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Dealroom",
+          "title": "Evernorth clears vote for $1B XRP treasury merger, Nasdaq debut set for October 8 - Dealroom",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEF5bzMySl9pNGltNHNlM3VyQ3dwOUx3LXk1OFlNR25UY3F2SUptSzc5dVFJZm1Mazh0TmpTTGluSml2bnp3UzNhMk9SdjluR2FaTWdFYllEejlSMXRHUXJ1WkJLVFJiNEpUV1V4bG9lNnlFRzBtNDB2UDBoSUhWUjdRN3dZdWtxRl9jNnZHTFBCM0VKcW5fdUNnYUZTZXZuckthYURoMTFTZnQtYlppb3U2aw?oc=5",
+          "published": "2026-10-04T19:53:04+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Cryptonews",
+          "title": "Claude AI Predicts an Astonishing Finish to the Year for XRP - Cryptonews",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2FnVFFOMmpEcDVJWWFleW1ZeFkyelFHa2ZSZXVNM3lpNzkyQWVyLWlXTmtfNGdFdUNPYjBWQjI3eHB6R0RWcHBwenRXNF9lel9sZXo4ZWJrQ2hKaDBBamh6V3FJam96Z0ctT2hnR1AtM0hsUjkxMGdzaXVKY0d4em5rTW82QTNadzVhUlBMcHJLeTA?oc=5",
+          "published": "2026-10-04T19:00:00+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Pluang",
+          "title": "Infinex integrates NEAR Intents to enable cross-chain access to BTC, DOGE, and XRP without manual bridges. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYTlMZVhTMTNGbkxkM0c5UkpEMk1sbTlrZ1RTYjZwcUJ3NUVDb204ZWV5bE9xOFR4RWlQbDg1enBFb05jVEl3NTBNU1lzSWs3WXMtVmZ2Vy1va0p4NGhMUTFxaGJwY2dfbVVHcExkOExlOG05LVVMZm5aOG12bXgzX1R3eFZZaXVLM25jNWdqTVNHMF9Uc1JHdFpBanMzdw?oc=5",
+          "published": "2026-10-04T18:49:28+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -106,38 +138,6 @@
           "published": "2026-10-04T17:01:03+00:00",
           "summary": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits including the agency's case against Ripple.",
           "via": "Decrypt"
-        },
-        {
-          "source": "pluang.com",
-          "title": "XRP nears $1.53 breakout as largest holders fre... - pluang.com",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXlCc3FjaE1GdkxxbXdhSVJZYjV3Q1UtLXlxWkpqM28weEFGSnZ3d1VRRUx6RG9pdnNPZDFlVmZYTEJpZy1JRDJqN1M0WDlwRms2bTZkNDlwM3dIU1Fob0xaRXQ2ODhOLVJONjhYOHF3c1FRWTduOFA0OGZNZ1kxRWZuZUlWeTlab0JUX09JNlNQMGc?oc=5",
-          "published": "2026-10-04T16:55:02+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Cryptonews.net",
-          "title": "XRP price prediction: Will October upgrades lift XRP past $1.55? - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00czlnWWkzUWxUYTd2Y3o4dmZqcjNfckhPQUtCN1BSQU05amlWa24xQTdnYjdEVVNDTVlvREJYNFVYQTRTenFpLUxHTWQwNU9Vc2NPdTMyLTdwT1U?oc=5",
-          "published": "2026-10-04T16:11:19+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "XRP Bulls Called for $100 Before Seoul: Ripple Unveils Privacy Tools and AI Wallets. What Do Holders Gain? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd3kyTFZmQ05FM3UtQTNkVVZVNzdUengyMGNwTUkxMUxZTWVJN2JQXzVXSm5pN1hHbl9HcFdibWdoMkppMk15Zk11SENaWkZPU05rbTVwZ0NvbzZ2ZnIweGtRcFJrM09NZkc2QUNINElSMmJyZG1CVEpOWkFaMlZYY0tialFneVd0Z2FfSEZ5VFZuVlZYYnc?oc=5",
-          "published": "2026-10-04T16:00:58+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Cryptonews.net",
-          "title": "XRP Price Prediction War: Peter Brandt\u2019s Fool Coin Label Draws \u2018He\u2019s A Fool\u2019 Reply From Versan Aljarrah - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DbGFJQThneGhadE9uaExncVJHT3g1Mm04eE1BcFlQMzgzNkNJMFZHR255SlRvTDR1SUIzY0toOUlfanZGWFFreTlOZXpZd2ZQSzBIQktmZ3NPOEU?oc=5",
-          "published": "2026-10-04T15:56:05+00:00",
-          "summary": "",
-          "via": "Google News"
         }
       ]
     }
