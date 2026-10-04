@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-04T00:36:48+00:00",
+  "generated_utc": "2026-10-04T06:49:35+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 84832.06,
-      "change_24h_pct": 0.227,
-      "change_7d_pct": 0.4262477507339657
+      "price": 84995.09,
+      "change_24h_pct": 0.504,
+      "change_7d_pct": 0.619246614262714
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.4902,
-        "change_24h_pct": -0.013,
-        "high_24h": 1.496,
+        "price": 1.4949,
+        "change_24h_pct": 0.612,
+        "high_24h": 1.4962,
         "low_24h": 1.4795,
-        "range_24h_pct": 1.1152416356877248,
-        "change_7d_pct": -1.7472143469374313,
-        "change_30d_pct": 6.557025384340354,
-        "ma7": 1.490357142857143,
-        "ma25": 1.444316,
-        "ma99": 1.238882828282828,
-        "rsi14_daily": 55.666924583067754,
-        "rsi14_4h": 47.822236480098894,
-        "atr14_pct": 5.674115831152271,
-        "realized_vol_30d_daily_pct": 3.495463718220218,
-        "volume_24h_usdt": 69050922.77126,
-        "volume_vs_20d_avg": 0.23418400171128292,
+        "range_24h_pct": 1.1287597161202978,
+        "change_7d_pct": -1.437331047669288,
+        "change_30d_pct": 6.893099749731846,
+        "ma7": 1.4910428571428571,
+        "ma25": 1.4445080000000001,
+        "ma99": 1.2389313131313129,
+        "rsi14_daily": 56.22270234107178,
+        "rsi14_4h": 50.246200565887754,
+        "atr14_pct": 5.679787467866937,
+        "realized_vol_30d_daily_pct": 3.4960746621947076,
+        "volume_24h_usdt": 64072670.0676,
+        "volume_vs_20d_avg": 0.2173004164833916,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-10-04",
-            "close": 1.4901
+            "close": 1.4949
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": -4.039726211246819
+            "distance_pct": -4.341427520235463
           },
           "target": {
             "price": 1.469,
-            "distance_pct": -1.4226278351899047
+            "distance_pct": -1.7325573616964185
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -6.052878808213668
+            "distance_pct": -6.348250719111648
           }
         },
-        "from_90d_high_pct": -12.336019765868578,
-        "from_90d_low_pct": 51.105252484283106
+        "from_90d_high_pct": -12.05953291370081,
+        "from_90d_low_pct": 51.58182924356114
       },
       "news": [
         {
+          "source": "eGamers.io",
+          "title": "Evernorth\u2019s Nasdaq Debut Puts a $2 XRP Target in Play \u2014 but Only if Demand Holds - eGamers.io",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd1lWUU4yZGYxWTZWdTFaZkwwZklFd2p6MjNocUdrTHNUYjhacUFSSXBORm04MF9TNkpRYWUtZm45TmkxaUhyYmdzS3hycnVYdFZqNkh5RUNlQTUyYlAzdGIxUzc3bjI2amtHY3g3bm4tR0lIZ1ZXQWVwZUN5U3diOFlEZ2RRUFBfcTVYd1NIdndzdEZCN29zdXlUeFQ?oc=5",
+          "published": "2026-10-04T06:31:58+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "cryptopotato.com",
+          "title": "Major Ripple (XRP) Reveal From Seoul: XRPL Gets Privacy, AI Agent Upgrades, and More - cryptopotato.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNnRZc3ZyWVd3QS1Ycm1pa3FCdzNzRmpqTk1FSGY1cG1LbjZ5ei1lSS1hTmx2ajUteUsxSkFqYnA4TXhDNzJSTGxZMlotWkJXZUNJLWFFcUNCMEh4RGhOUXlZRDlyOFViY1R5X2YwYUxIZE5CUHZRMHFZckdENF9XaklSaGZqaWZmU0pVdDFZeVp2TFFEal9lUndjS213YXJZTmNVRzNteW8?oc=5",
+          "published": "2026-10-04T06:12:00+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Cryptonews.net",
+          "title": "XRP Liquidation Pressure Eases as Spot Demand Remains the Test - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yZ04yemlPNXhiTDVHelV2V3ZxMkRHQkFFYUJpNFJYSUt1ZnJrM0JFekVvdktkajdmRWpTNU1qcXo2bkMwOHhPYXZoQjRsTFdURnVlajVFTQ?oc=5",
+          "published": "2026-10-04T05:47:04+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Robinhood",
+          "title": "XRP price at Oct 4, 2026 at 2am EDT Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWmZmQ3Z0RVhrOWtTMk5JMnBOaFFPUDBRU1Ewa0YzZlZ0YU9jRFFIZ3B1WlFhRno4d2wzX1MxQWE1Z1Z2MXRiM0ZfRGZrRmtVbElfX3pPWENZWEdkcGdhdHlORi1sRnF6YXN2Wlh3RVZIRUtkeWV0YXlVOW5vdlhFLUNQV3lEUjdBbWR6LUdxUW5KelA1MmswRkJnei1ZSEZycVNWbW1ZdWl5VURZ?oc=5",
+          "published": "2026-10-04T05:13:54+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
           "source": "pluang.com",
-          "title": "XRP stalls near $1.50 amid $121M ETF inflows an... - pluang.com",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRjRWRm4zeldrcHEwZ3ByMS1RaXJLc3Rfb0puVFA1UDZyMkw2d2dDOHk1dWF6aHBMX1JHbEt5TWY3eHVlU0tYVVAtYl83SkhlaU1FMUkxd2EtQzhWdUdkMkw5WDlnSE04dEdYRFoteHFzRjRrbGMwWVpvMGpYeEY2Y1ZTdzQyMmIxLW5UWW9RRDJydjRvQ2l0QTRR?oc=5",
-          "published": "2026-10-04T00:25:14+00:00",
+          "title": "XRP liquidations on Binance drop, signaling eas... - pluang.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1ZCeWUxRnZRb18zemx6SjNQLWtuMWxxTU03X18tNWNnS0NxMjhNUno3TnpLNEhQNjBkd1hSUjM0Ti1TR2gwSUs0YmpKNlM2U2hBYVMzaWl5QVc0LTJuVUNpZVk4bExRbXdKQkpOR2VmRDlxcTJONDV3ZVpvai1CSHBHaWhlZnJ1Mmc4?oc=5",
+          "published": "2026-10-04T05:06:22+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "24/7 Wall St.",
-          "title": "Does XRP Have a Future? ChatGPT Responds to Peter Brandt\u2019s \u201cFool Coin\u201d Claim - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTk1CLVlVU3JhS0FUQURvM19wUS0wM0JMQ1drSUhXUXBpMDFsblVlMktzMk9Ta0ZhdzVtSlROM2ZkSTNsdFJLM1Fnd011MGlFVERPVWtBSEhFcGg3dFR4M0lvdkNEek11T05NS05fRXloNGdTLXNRTmVQaFo0c2F3WlFLNkxVTmE1TzlSektzNUNZWEFRR3BES2RjRFd0Unh3SGJnTmZsMmIwVHJjM1R1UXAyZmVCTWktSEZzWW9fWENkQ1VyUTFjQXQ2QQ?oc=5",
-          "published": "2026-10-04T00:22:00+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Cryptonews.net",
-          "title": "XRP Whales Buy 1.6B Tokens in 2 Weeks, as Their Total Balance Hits New Record - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95ZG5CV0dqWnpfdk5YTjY3TUk2OTltRWp3R2pXcDl4M1pqd2o3MDFuZFRIVXprYnZMbFVsRjV0c2xvOUVDdFFlWmh1R2J5VXVVMF8ydG9WX3Y5QQ?oc=5",
-          "published": "2026-10-03T23:12:27+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "robinhood.com",
-          "title": "XRP price at Oct 3, 2026 at 8pm EDT Prediction Market - robinhood.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc0ZaRWE2UGRHUDc1QzYwN3Fqckt4cmJJa3NxSTNET2VzWHpBaWVqdDhjdU8yWlJkY3kxS2ZzNkFEaXdJS3ZXckFQTVNjUS15R0xtR01WUFI1YTVPdE1BZ0xKNHNKZk4wd25ZZmhpdHpNTWhWemVtNmRwa1JqSjUxaDZtN185OGNibWJyQjAxbWZLeUYyelFIYlM4eVVodHctcXVUdDJIU2g3cHBU?oc=5",
-          "published": "2026-10-03T23:11:42+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Cryptonews.net",
-          "title": "Four Korean Banks Join Ripple on the XRP Seoul Stage - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84Y1paVVpZQm0yd1NiYkplTzQ3OEdVRkhjWXBzZ0dUNkp4R1AzbkYxX3RSbGxJdDBWZE9UWXdObVVrMjhBODhaTGVmWDJjYTF5WnZ6U2NZZzlzZw?oc=5",
-          "published": "2026-10-03T23:08:33+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Cryptonews.net",
-          "title": "Ripple President Highlights XRP Ledger's Next Big Institutional Growth Phase - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAteEl4RF96bE82NkIxOGt2MjRhdkhXM21BODBnVFhuMUNoeVE3ZEhOZDN3eU84VTZQV0NQV1FaX1J4VG1MNEFicTNwV2R3alJfaEY0NU81d0tfZw?oc=5",
-          "published": "2026-10-03T23:07:41+00:00",
+          "source": "finance.biggo.com",
+          "title": "Ripple Launches 'XRP Asia' Dedicated to Asia-Pacific Expansion, Laying Groundwork for 2027 Payments Push - finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSZmJyejdrV1dKYnBUbDFRWHpBZnJEMGZ0bDQ3N3REMExRSndKUmNITGtjNS1fVnFHTWY4eURjZmJOcmFaTzRqY2NGamxaYVZjQUFrSkJTYnVXV281VGx1b3NCS1hUWG5EeDdBNVV5aDZHLTROdVE?oc=5",
+          "published": "2026-10-04T05:05:00+00:00",
           "summary": "",
           "via": "Google News"
         }
