@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-05T07:02:11+00:00",
+  "generated_utc": "2026-10-05T15:59:40+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 86187.14,
-      "change_24h_pct": 1.37,
-      "change_7d_pct": 3.2181193750755233
+      "price": 85264.01,
+      "change_24h_pct": -0.015,
+      "change_7d_pct": 2.112574597296457
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.5174,
-        "change_24h_pct": 1.322,
+        "price": 1.4925,
+        "change_24h_pct": -0.831,
         "high_24h": 1.531,
-        "low_24h": 1.4926,
-        "range_24h_pct": 2.5726919469382326,
-        "change_7d_pct": 1.3762693746659727,
-        "change_30d_pct": 7.434154630416301,
-        "ma7": 1.497657142857143,
-        "ma25": 1.4528480000000004,
-        "ma99": 1.2439272727272725,
-        "rsi14_daily": 58.483028294210015,
-        "rsi14_4h": 56.13033717646673,
-        "atr14_pct": 5.0852962774670925,
-        "realized_vol_30d_daily_pct": 3.514190365723903,
-        "volume_24h_usdt": 124502898.55224,
-        "volume_vs_20d_avg": 0.4406460186618515,
+        "low_24h": 1.4897,
+        "range_24h_pct": 2.7723702758944757,
+        "change_7d_pct": -0.28727952966327575,
+        "change_30d_pct": 5.671197960917573,
+        "ma7": 1.4941,
+        "ma25": 1.4518520000000004,
+        "ma99": 1.2436757575757575,
+        "rsi14_daily": 54.9094644174649,
+        "rsi14_4h": 45.521851826453684,
+        "atr14_pct": 5.215601818616891,
+        "realized_vol_30d_daily_pct": 3.5344167756101648,
+        "volume_24h_usdt": 162123563.45335,
+        "volume_vs_20d_avg": 0.573794695526833,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,74 +62,82 @@
           },
           {
             "date": "2026-10-05",
-            "close": 1.5174
+            "close": 1.4925
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": -5.759852379069475
+            "distance_pct": -4.187604690117253
           },
           "target": {
             "price": 1.469,
-            "distance_pct": -3.1896665348622677
+            "distance_pct": -1.5745393634840732
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -7.736918413075012
+            "distance_pct": -6.197654941373532
           }
         },
-        "from_90d_high_pct": -10.735925642684862,
-        "from_90d_low_pct": 53.86331372946665
+        "from_90d_high_pct": -12.20071768927584,
+        "from_90d_low_pct": 51.338470898397894
       },
       "news": [
         {
+          "source": "CryptoRank",
+          "title": "Is a $10 XRP Price Realistic? What the Charts and Open Interest Show - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Kb3NKTjNKdmRTR2ktVWxrb3B4UG1DODk2VWNBQ2VnMXNfYThDc0pnbXRsdkQ4MlFZeVFIWUNfcnoxcmJiUWhRdXBLZ25CQlhJSDBlT0o4M0N1ZjktcVBHVkRPRHRzVzE5VlE1MDlNOWNscVVpSHhWcml2cGJrdw?oc=5",
+          "published": "2026-10-05T15:39:09+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
           "source": "Cryptonews",
-          "title": "XRP Price Prediction: Analyst Calls $10K Ripple Next Year - Cryptonews",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LRDVNNkE5QjJaV1ZzNHJyMHpyYjQ0UzIyT29qQVl3VnN4S0owWGpkXzhjcTBZX0dXSHJBN0NLYzFXT2xLQkJBRThnNUJTYk1tZWZhSTMtY0ZDRVBoN3E4ZElTVjFXcXJ4Y0ZlMGg4VEl4dWM?oc=5",
-          "published": "2026-10-05T06:47:21+00:00",
+          "title": "XRP News: Seoul Event Shows Ripple Reach - Cryptonews",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYQVBGclFLbURpTGdabFlLbnpvcThKdFk4X2lpN2g1OHBib1lzR2hKbUN3eVR6a21aVzJRTnZlazhKYTBubnVlT3h6WmMtQzN6Tk9QTWwzMjFBdGRpa040MWVCb2d0S19QcTF0aVdRMA?oc=5",
+          "published": "2026-10-05T15:36:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "bloomingbit",
-          "title": "US Spot Crypto ETFs See Weekly Inflows Into Bitcoin, Solana and XRP, While Ether Posts $138 Million Outflow - bloomingbit",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlczJKSDEzODdCUWpIYUE2ZEU2dV90X2lfcEhnMjJycDB5Wlg2UDRjdURfSVhkTGNnc2dyNTYySTN1OEY4QWdCVkZMMUFiTXVBSmVoZA?oc=5",
-          "published": "2026-10-05T06:39:37+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Robinhood",
-          "title": "XRP price at Oct 5, 2026 at 3am EDT Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWtKblM3MmZoSUczOGlzUFlTSWVKTm9WdGc2ZHFlMWhhdlJJTEIwUGFNWUFCOURYb3h0TkFTUGx3am5aWDlBSkNFWFdWWm04NXNBaUpnSzFCMFVTbHlqZnVIS2JwbWhtZW5vNndMTWJiVE9VUWxwX29EQnY0d2lFRjcwcU1OMnFZQUpQQWsxRVdTZHNEdXdhejF5ckNyR2o4bkZRbDhlUUNFUTVy?oc=5",
-          "published": "2026-10-05T06:03:39+00:00",
+          "source": "OneSafe",
+          "title": "XRP Ledger is Ready for a New Era of Digital Assets - OneSafe",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95bGM5ZldLNGlIY0pIWVRCdGlfNVE3ck1CeUhybER6RkJIS3RzNkx6bVM3bV9mTTZLRHAySkxwNVZ4V2U2TzlxYU1vTnREQlFEVW5hRnNoS01FWmtqSjZPWlpIZEp4dElFRTNRQWtR?oc=5",
+          "published": "2026-10-05T15:24:43+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Cryptonews.net",
-          "title": "Ripple\u2019s Large XRP Holdings Matter, but Do Not Rule Out Higher Prices - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XMlFHbkF0OFBJNWhoTXVSd193RzRMWWZNeTZmUTc2bFVJVDhWQ2hPYTBoZnFEdktsb3p3X3g1UkRNbDM3MTRfaG1UOGpNQTcyeFk0UHd2WjZVZw?oc=5",
-          "published": "2026-10-05T05:17:54+00:00",
+          "title": "XRP Ledger's Low Fees Under Fire? Ripple CTO Emeritus Defends Burn Mechanism - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zUkN2NGRYd2d3d2VlMExTbk1HWmY1ZnljNlQ5cUNCUnhTY1FpWkpKeFBUTmM4Q2p1UFBMblByLXZFU2xwendxUVg0d1ZqdFo5aU1HYWI5emxvUQ?oc=5",
+          "published": "2026-10-05T15:07:49+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Cryptonews.net",
-          "title": "XRP and SOL ETF Demand Craters as Weekly Inflows Drop 94%+ - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jY1AzQ3VGYnp2SzMxUTFsZnV0WWFGMmtVM3RLOENtaEE0a2RNcTgtSHNEelJBX0FYNkNCQjRIZ08wM2RRS2NZR1BKUWZzd2JlX3ZvWm1pOUpSWGs?oc=5",
-          "published": "2026-10-05T04:52:47+00:00",
+          "source": "Pluang",
+          "title": "XRP nears key $1.65 level to confirm bullish cu... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcVQwRzYwWF9EaExKN0RsNmVfb3BoUHB0RkRsMjMtMDlzN2Z6dGNOdnY0c3QxT1M3T2FfSzhqYm44QnF3MHBRU2pFaHZBVjlwVG1hdEQ1TzZqSFl4LWxCclFLM1JoQTlqOWE5aGstVTZuUkVOdC00VDkyc2NvcHhsZ0hzbGcwQUxuVDhhUk1uUUg?oc=5",
+          "published": "2026-10-05T15:06:21+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "CryptoRank",
-          "title": "XRP and SOL ETF Demand Craters as Weekly Inflows Drop 94%+ - CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObnd5QW1JeWUybVh1SVVGY0lVd3Z4elQ4Z3BoLXZSWHJrQ2VicDlHQXFjbFczVllqQm9vUTV0RGZ3M1dvWFZqUXJlTUwyNFBTN2RONFJiczNpekFZd3pVRDBWd2Q4bnp6ZGgxM1pMTDNCWVAyNS1oQ3lwWVVYNnp0aFBrM1hOeTNER3hKdUwzZ0FwRGxSLU0tcldR?oc=5",
-          "published": "2026-10-05T04:20:54+00:00",
+          "title": "XRP Price Jumps as Korea Volume Overtakes Bitcoin \u2013 Is $2 Next? - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQU8tUkZIT1NkckNMSFRRRHhzSmFxazBGUFBmTkhfR1o0OXM4MjI0cm1mYV8zSThOQl9sY19lWURYdC1ncHpYNW9WR0JOWEkyb2w4aXRwQjVuUjlCY0N2NzN4dUE0djktQnBiRlFHbHdBMjd5RlVTRkQ2Sm9RNFB6MmdoREJvS296R2F3OGFocnNKUGNfRFh0eUVzaVhlZw?oc=5",
+          "published": "2026-10-05T14:56:12+00:00",
           "summary": "",
           "via": "Google News"
+        },
+        {
+          "source": "CoinDesk",
+          "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
+          "link": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
+          "published": "2026-10-05T12:28:35+00:00",
+          "summary": "Armada Acquisition Corp. II rose about 270% last week, leaving the thinly traded shell at nearly four times its roughly $10.50 trust value before merging with Evernorth, an XPR treasury company.",
+          "via": "CoinDesk"
         },
         {
           "source": "Cointelegraph",
