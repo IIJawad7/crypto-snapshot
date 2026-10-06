@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-06T10:16:17+00:00",
+  "generated_utc": "2026-10-06T16:50:24+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 86122.0,
-      "change_24h_pct": 0.087,
-      "change_7d_pct": 2.9383605737544727
+      "price": 85674.01,
+      "change_24h_pct": 0.537,
+      "change_7d_pct": 2.40289511599181
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.5066,
-        "change_24h_pct": -0.6,
-        "high_24h": 1.522,
-        "low_24h": 1.486,
-        "range_24h_pct": 2.4226110363391617,
-        "change_7d_pct": 1.0733932644572564,
-        "change_30d_pct": 5.837723919915705,
-        "ma7": 1.498557142857143,
-        "ma25": 1.458468,
-        "ma99": 1.248350505050505,
-        "rsi14_daily": 56.8652689052317,
-        "rsi14_4h": 51.18852104048222,
-        "atr14_pct": 4.745311107318274,
-        "realized_vol_30d_daily_pct": 3.517696420212669,
-        "volume_24h_usdt": 119471421.56772,
-        "volume_vs_20d_avg": 0.4441448423560097,
+        "price": 1.5032,
+        "change_24h_pct": 0.852,
+        "high_24h": 1.524,
+        "low_24h": 1.4869,
+        "range_24h_pct": 2.495124083663991,
+        "change_7d_pct": 0.8452971957600974,
+        "change_30d_pct": 5.59887600983493,
+        "ma7": 1.4980714285714285,
+        "ma25": 1.458332,
+        "ma99": 1.2483161616161615,
+        "rsi14_daily": 56.3409924917984,
+        "rsi14_4h": 49.86602803952429,
+        "atr14_pct": 4.8030867482703545,
+        "realized_vol_30d_daily_pct": 3.51851865829996,
+        "volume_24h_usdt": 118997963.63262,
+        "volume_vs_20d_avg": 0.4423847235159741,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,74 +62,90 @@
           },
           {
             "date": "2026-10-06",
-            "close": 1.5066
+            "close": 1.5032
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": -5.084295765299352
+            "distance_pct": -4.869611495476322
           },
           "target": {
             "price": 1.469,
-            "distance_pct": -2.4956856498074997
+            "distance_pct": -2.2751463544438577
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -7.0755343156776895
+            "distance_pct": -6.865353911655148
           }
         },
-        "from_90d_high_pct": -11.371257132772516,
-        "from_90d_low_pct": 52.768201176232
+        "from_90d_high_pct": -11.571268898170473,
+        "from_90d_low_pct": 52.42344352058408
       },
       "news": [
         {
-          "source": "FXLeaders",
-          "title": "U.S. Spot XRP ETFs Log Fresh Inflows, Led by Bitwise, Franklin Templeton - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNVR0ZVVKS0RFeXlnZDlYTmNwWi1wUjRYMVMwS2RjMVU5cUVKdWh2MC1DNzdFYVRLQV9JRTVmdXIwQ296aTRLUE5wMjNCTVlBaUdwV0s3dHEtdGF3ZEJVRml3X1k0ZVdyNExJRU9BajlUeEtnNE00WmF3YmtaSVlFNFpHR2FUdE9BYnZENGNPVVNtVHhmbkJjNllPT0xrRDFCMjB2WTNPTGk3bzQzak5Ec093?oc=5",
-          "published": "2026-10-06T10:14:09+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "The Motley Fool",
-          "title": "This $15 Trillion Investment Giant Has No Plans to Launch an XRP ETF. That's Why I'm Bearish on XRP Right Now. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2ZDWGhBN0tSNHlMMmpYMmpBNnZoSjduci1tVEx0OXNEaW9sM0k1bGxfS3ZySlMtaXU1UUJXTmpjbHJQRUFENTNxZ2lDUy0zdXNiVHV2WVp2cHpFTzhGUGM0MjlMZUtOOE9FaFZEajA4bXlGN0tiYVc5M3dVNElLNWlHV2UybzdObEpGVEsxajBJMmxOWlVV?oc=5",
-          "published": "2026-10-06T10:12:32+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
           "source": "Pluang",
-          "title": "XRP Ledger traders drop 40% YoY but trading vol... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTk2WDZFenJFUFE1SVo1UGI4MEJ5d3EzQTFjWHVUc0c2Y1RnemJvbEdBbzJJUmJKdk93YVVJaDJZV1pOZ1JLb2JtNUFHSHQ4OW9Tdk0tY04zSktJRGI4WFQ2emp0RWxlb292UlhISGNtRzBlMmhoalBKeXhUemExVg?oc=5",
-          "published": "2026-10-06T10:06:25+00:00",
+          "title": "XRP trades near $1.50 with key resistance at $1... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSFAtVzQtMWdyVkxMelFaMHctc3prN0U2OG8wRmlOaXYtSkpESE1UM2E1elZIc09kYnZNZ0xyWFhWYnNOdHNjNlFaZExIR0xucGFPVDVCcnFmcEg1ZmZ6SHU5SUxvWGM1V1daU090VmYyeUdwbUVtckZXZmItSnB1VENOcjE0RDQ2Z2lHU21B?oc=5",
+          "published": "2026-10-06T16:47:52+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "24/7 Wall St.",
+          "title": "XRP Ledger Stablecoin Supply Rose 8% in a Week and Is $50 Million From Passing Avalanche - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdWZ3ZkJ1Sl9hY3N3NzZHUnlwcDVESjVQMkxRNnQ2dWVMWjFZXzczZzdpdFFqcnpFalltZC02WjJhakE3WVc1amlaV2ZCOGxNczI1VERYeWFoYmg2WTk5NV9SU0Y2MjN0NHVYQnFLMUpPcnZYUGswLUNNUzVTRnVjLWw2SEtGeHFUY3d2ZmxzR01lbmpZcGNYZjhjUzhFQkUyOGVXbEdWNzNXNlhTOFF6M0RrVkUxaFRsaFY5cXR5Q2oyTldNdmdLcFFhV2NUOU9rbmd3V0YtNjFZT1c4Qmc?oc=5",
+          "published": "2026-10-06T16:37:00+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "FXStreet",
+          "title": "Cryptocurrencies price prediction: XRP, Ethena & Cryptos \u2013 American Wrap 06 October - FXStreet",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRTBEeldNMG94V0Z3TTM4akxpaFhmemdMSldpdnVfSF9nS1UxX0pIMFhJN2U4MmhvZjBGb0lDaER2VWVTS09xX1VnYU1PSnJhTUlDVFByUnBIQjh2anNjdDN0QU56cW5aNkM4VUZid3g1SU1FNU41Rk85Z1VKTjFTLXFrbGstU1ptR1hwNDduTUduRHphV2hTcmxKVE9EWXRaMGJvMHMxYVczQThhZGM5OXd0eTdXRjVNQ05HbHRkZnNnRXQ1VjRZdktnM0ZoRGhVU1JB?oc=5",
+          "published": "2026-10-06T16:34:37+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "CryptoPotato",
+          "title": "Ripple Price Analysis: Is XRP Consolidation Almost Over as the Range Tightens? - CryptoPotato",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmVxNGNhSDEtN2NZUG8yTWh4eEhVTjRUNk1mTUxsZ1QxUWlaczF3amNacTdOM3lfNV9XV3VnV3dnUm9GVUhTM21KT3ZHalkzZHgxbTdYdGdBS3BJMlJoRnk3ejd4QVpJd3c1WlNYdGVVTUVLRHhreWlBR0RjTUc2UlFCOHNUaVB4TzY2cFVYak04SmZZbjFwRFE0cWsxZFhkMUFqZQ?oc=5",
+          "published": "2026-10-06T16:18:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Robinhood",
-          "title": "XRP price at Oct 6, 2026 at 7am EDT Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTzM0bk9iT1dGX2MxZ1k3ZzdsQmY5MEdteEVMaHBZZnRObGR4Y3RpNl9vS2NIaHJXek9PU2R2UE1EZVI3Zlp2bHppY2ZKVndNQ1k5ZENZUVNZb2JZQVNXaDFUbUE5dzM4U0ZwR0hLNTdMdWxFRFNDYk1pejJHc2RlSTFGVEJVbWVzdTFFMXhLWW9rRFZ4S3IwRVVqeEJQMW4xMTJHNUJ0RzNzZmFW?oc=5",
-          "published": "2026-10-06T10:03:45+00:00",
+          "title": "XRP price at Oct 6, 2026 at 1pm EDT Crypto Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWmJGbjB5NFhDNHFLY2dRdF9sMnRUbFZXdEQ1X2pqYmlLZVJLQ0NVQlFvbGV6WWZqZWxQZHdKTFQyXzdmd1VlamxwZVB1dUExUU5GRzlCSDNramdkOHVBVXZicjZaWjlDX21fQXVCLXZINTViWThxNTdsTnNsZk9rM3E0NTE0azMxNWRQV0hVcjVBTzViRmRPdG5OOEpaendySkRNTkcwYVcwTHFC?oc=5",
+          "published": "2026-10-06T16:05:59+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Pluang",
-          "title": "XRP price drops 49% despite $1 trillion moved o... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa2wwUWtla3NNd3FMTGd5bkw0Vk1EZWd6VERxNU1aTXlURmZXeVJQNE56WHJkbFQ1SjFNSWV4RGJIMHNVdlZ0ZF9lcWpETHFQWDdtNGZNbEJaUjRPdXhjendnM3JXMWkzUm9ONVNNMU5Ba3pUTzVYN1EzTHlvTjNjNnoxQWo4aXVxUWZKNlBXM1VSbEh2U0FscjR2V0l3QkZZYzduR3JyaWRXZw?oc=5",
-          "published": "2026-10-06T09:54:23+00:00",
+          "title": "XRP, QNT, and INJ altcoins show key breakout si... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHZQYktHMUtIb1ZoWmFSM3BSQm1IRE5OaW8yRFVfWmNIU0pnc2EzWGplUU14SExQam8zQkJXMTZJVFJFbEF4UTNuTVlSdXItOFcxdldrNkFLMkw2NUphdkxRdGthLWFsQlVramQ4THA2WlZtUVdwb1k1Q0w2YmdYUnUwYUw?oc=5",
+          "published": "2026-10-06T15:49:38+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Pluang",
-          "title": "XRP futures trading hits $56.18B in September, led by Binance's $32.36B volume. - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUEs1cmtsdUVCUXZjTENxWS1mR3BHUmVhdHRsdHRMVlp0ZVFVU1JHeXA1M1FmT0lHT2dIdml1Q2pZdmMyUk1RRDRRQUgzMG81VHc1aVlpbVNvTlgteFZ3SFhuMnRTQ3gxa2tPX2ZlYUhrMG9wWHQxZ0NRODA1TnRkN2FhaW4?oc=5",
-          "published": "2026-10-06T09:26:14+00:00",
-          "summary": "",
-          "via": "Google News"
+          "source": "CoinDesk",
+          "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
+          "link": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
+          "published": "2026-10-06T15:20:30+00:00",
+          "summary": "The exchange is increasingly aiming to position itself as a global financial tech platform spanning crypto, payments and tokenized assets, following an investment and joint venture with NYSE parent ICE.",
+          "via": "CoinDesk"
+        },
+        {
+          "source": "Decrypt",
+          "title": "Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation",
+          "link": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation",
+          "published": "2026-10-06T12:53:04+00:00",
+          "summary": "A London quantitative hedge fund joins the round too, seven months after the NYSE's owner bought in at exactly the same price.",
+          "via": "Decrypt"
         },
         {
           "source": "CoinDesk",
