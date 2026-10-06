@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-06T16:50:24+00:00",
+  "generated_utc": "2026-10-06T21:37:13+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 85674.01,
-      "change_24h_pct": 0.537,
-      "change_7d_pct": 2.40289511599181
+      "price": 85609.99,
+      "change_24h_pct": -0.331,
+      "change_7d_pct": 2.3263744378383633
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.5032,
-        "change_24h_pct": 0.852,
+        "price": 1.5021,
+        "change_24h_pct": -0.272,
         "high_24h": 1.524,
-        "low_24h": 1.4869,
-        "range_24h_pct": 2.495124083663991,
-        "change_7d_pct": 0.8452971957600974,
-        "change_30d_pct": 5.59887600983493,
-        "ma7": 1.4980714285714285,
-        "ma25": 1.458332,
-        "ma99": 1.2483161616161615,
-        "rsi14_daily": 56.3409924917984,
-        "rsi14_4h": 49.86602803952429,
-        "atr14_pct": 4.8030867482703545,
-        "realized_vol_30d_daily_pct": 3.51851865829996,
-        "volume_24h_usdt": 118997963.63262,
-        "volume_vs_20d_avg": 0.4423847235159741,
+        "low_24h": 1.4907,
+        "range_24h_pct": 2.233849869188975,
+        "change_7d_pct": 0.7715014088286676,
+        "change_30d_pct": 5.521601685985256,
+        "ma7": 1.4979142857142858,
+        "ma25": 1.458288,
+        "ma99": 1.2483050505050504,
+        "rsi14_daily": 56.173437261158085,
+        "rsi14_4h": 49.51760236109737,
+        "atr14_pct": 4.806604087610677,
+        "realized_vol_30d_daily_pct": 3.5188887501520814,
+        "volume_24h_usdt": 118839367.64367,
+        "volume_vs_20d_avg": 0.44179512987436353,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-10-06",
-            "close": 1.5032
+            "close": 1.5021
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": -4.869611495476322
+            "distance_pct": -4.799946741228944
           },
           "target": {
             "price": 1.469,
-            "distance_pct": -2.2751463544438577
+            "distance_pct": -2.2035816523533702
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -6.865353911655148
+            "distance_pct": -6.797150655748629
           }
         },
-        "from_90d_high_pct": -11.571268898170473,
-        "from_90d_low_pct": 52.42344352058408
+        "from_90d_high_pct": -11.635978586975703,
+        "from_90d_low_pct": 52.3119042790509
       },
       "news": [
         {
-          "source": "Pluang",
-          "title": "XRP trades near $1.50 with key resistance at $1... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSFAtVzQtMWdyVkxMelFaMHctc3prN0U2OG8wRmlOaXYtSkpESE1UM2E1elZIc09kYnZNZ0xyWFhWYnNOdHNjNlFaZExIR0xucGFPVDVCcnFmcEg1ZmZ6SHU5SUxvWGM1V1daU090VmYyeUdwbUVtckZXZmItSnB1VENOcjE0RDQ2Z2lHU21B?oc=5",
-          "published": "2026-10-06T16:47:52+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "24/7 Wall St.",
-          "title": "XRP Ledger Stablecoin Supply Rose 8% in a Week and Is $50 Million From Passing Avalanche - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdWZ3ZkJ1Sl9hY3N3NzZHUnlwcDVESjVQMkxRNnQ2dWVMWjFZXzczZzdpdFFqcnpFalltZC02WjJhakE3WVc1amlaV2ZCOGxNczI1VERYeWFoYmg2WTk5NV9SU0Y2MjN0NHVYQnFLMUpPcnZYUGswLUNNUzVTRnVjLWw2SEtGeHFUY3d2ZmxzR01lbmpZcGNYZjhjUzhFQkUyOGVXbEdWNzNXNlhTOFF6M0RrVkUxaFRsaFY5cXR5Q2oyTldNdmdLcFFhV2NUOU9rbmd3V0YtNjFZT1c4Qmc?oc=5",
-          "published": "2026-10-06T16:37:00+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "FXStreet",
-          "title": "Cryptocurrencies price prediction: XRP, Ethena & Cryptos \u2013 American Wrap 06 October - FXStreet",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRTBEeldNMG94V0Z3TTM4akxpaFhmemdMSldpdnVfSF9nS1UxX0pIMFhJN2U4MmhvZjBGb0lDaER2VWVTS09xX1VnYU1PSnJhTUlDVFByUnBIQjh2anNjdDN0QU56cW5aNkM4VUZid3g1SU1FNU41Rk85Z1VKTjFTLXFrbGstU1ptR1hwNDduTUduRHphV2hTcmxKVE9EWXRaMGJvMHMxYVczQThhZGM5OXd0eTdXRjVNQ05HbHRkZnNnRXQ1VjRZdktnM0ZoRGhVU1JB?oc=5",
-          "published": "2026-10-06T16:34:37+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "CryptoPotato",
-          "title": "Ripple Price Analysis: Is XRP Consolidation Almost Over as the Range Tightens? - CryptoPotato",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmVxNGNhSDEtN2NZUG8yTWh4eEhVTjRUNk1mTUxsZ1QxUWlaczF3amNacTdOM3lfNV9XV3VnV3dnUm9GVUhTM21KT3ZHalkzZHgxbTdYdGdBS3BJMlJoRnk3ejd4QVpJd3c1WlNYdGVVTUVLRHhreWlBR0RjTUc2UlFCOHNUaVB4TzY2cFVYak04SmZZbjFwRFE0cWsxZFhkMUFqZQ?oc=5",
-          "published": "2026-10-06T16:18:00+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
           "source": "Robinhood",
-          "title": "XRP price at Oct 6, 2026 at 1pm EDT Crypto Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWmJGbjB5NFhDNHFLY2dRdF9sMnRUbFZXdEQ1X2pqYmlLZVJLQ0NVQlFvbGV6WWZqZWxQZHdKTFQyXzdmd1VlamxwZVB1dUExUU5GRzlCSDNramdkOHVBVXZicjZaWjlDX21fQXVCLXZINTViWThxNTdsTnNsZk9rM3E0NTE0azMxNWRQV0hVcjVBTzViRmRPdG5OOEpaendySkRNTkcwYVcwTHFC?oc=5",
-          "published": "2026-10-06T16:05:59+00:00",
+          "title": "XRP price at Oct 6, 2026 at 6pm EDT Crypto Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTWlYUGVVLVZYVjZFT0NNdHlSSU5wODF3YWc4V2ZvcnB1T3VObGVYVlBCZ1JrY0g1ZXRQTHFWYnJkc2xBYXBZcjVYSzFTdW5WaVc3bHlFOEVjRkgzUTBsUVZoQzYwbFV6X0Rzb3g5WVo2NUVKa0tUUC1Zb1B2LUFjSDVsenA1UFhreEkwdnVQUGpCeVF6YkxJSlhTR0ZoRDRYWjRQNk9sdW5NTlVN?oc=5",
+          "published": "2026-10-06T21:13:13+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Pluang",
-          "title": "XRP, QNT, and INJ altcoins show key breakout si... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHZQYktHMUtIb1ZoWmFSM3BSQm1IRE5OaW8yRFVfWmNIU0pnc2EzWGplUU14SExQam8zQkJXMTZJVFJFbEF4UTNuTVlSdXItOFcxdldrNkFLMkw2NUphdkxRdGthLWFsQlVramQ4THA2WlZtUVdwb1k1Q0w2YmdYUnUwYUw?oc=5",
-          "published": "2026-10-06T15:49:38+00:00",
+          "source": "Cryptonews.net",
+          "title": "Whale Alert Confirms Transfer of 99,866,844 XRP from Ripple - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xcXdPdU9qU2wwUlB5S2REZU9HNlVUYlBnVUk2eHF4a0M0UmxaSUV0ZjAwbVllbVBVcmNZMEluN0UwbTJHcHd6SHMwaHZSSENMYkZBY05NRERSZw?oc=5",
+          "published": "2026-10-06T21:09:36+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Stocktwits",
+          "title": "Is XRP Setting Up For A $2 Breakout? Evernorth's Nasdaq Debut Adds A New Catalyst - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUUJkX3hfMHFELXVWYjJEdmZkR21JQVBqcFNvYm9zeFJ4dDFhMHJKWnpha0JZZTNWSnZ6bXpmRVZsYjQ0dzVIX19GZml6ZjlPVmE5UkQ1cExPV1RrOEZIWV90Q191NmpLWXNPbTFPdHBINUlwUDl2TnR3U3M4WXFmcnVwQXpHSmFYVktVeXFveDFac3lGWEE4UHdQWndBYmJyQU12ZkxHNWpQR2FlWUJ5ZDAtd2haOHI0TURaX09fUQ?oc=5",
+          "published": "2026-10-06T21:06:29+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Benzinga",
+          "title": "Bitcoin Holds $85,000 as Ethereum, XRP, Dogecoin Trade Flat - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVdOMU1yRmZleTk1REZNVU1VeUVZbENzRmN0NHJJQ216UzZ3WmxpSEltOE1VOGI3UV9MM2hybHgyNGR1d2RTS2RPeGdXQkpwdTFuWlJFZlZwSHJoQ2E3SU16aUZ6ZXlVaE1SZy1zZmZ1QjBiZUp0S1JPemxob29nT2daYjVxLW9qUll5Znp3TnR3OURWYzdWeE5WV3ItX0xTTE5sRHhiLUtPQTZucWpsY1pxQnFBbWRF?oc=5",
+          "published": "2026-10-06T19:45:39+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "TradingView",
+          "title": "Bitcoin Holds $85,000 as Ethereum, XRP, Dogecoin Trade Flat - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWGJ6MDludWZGamRxUW9HelVjQmdGUEFZSTJkeFRheGM4ZmQ2cUprT0dEUG9MaHA0LW1kallQeFhlc2Y5c1MwQ1BKVHlEWGEyVzBxWWJIOUxFTjFjZ3NmQUVhZ1F0VFk5QTNpcTh4dzJ4ZXRqX2dkaVVZVnNTUXNqS3IydnZFV2ZwaEVyTzd6WUozY25CLU9oVWlrM0NCUWhxbFo5cW5oR004WDNQbkY2dG1GemZPZw?oc=5",
+          "published": "2026-10-06T19:45:39+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Altcoin Buzz",
+          "title": "XRP Ledger Fix Wins Full Validator Consensus, Activates Oct. 9 - Altcoin Buzz",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdGxiWXl1TjlsNVo1QkR3YTZmbFRyUTJHSnF1V1BGRkczRWlKZ1ZsNDVndVhmMW96NEwzYTNEd0ZMUm9WNHFrOGd5Y1RmLXIwU2F6X01xaHZvZzJpUmNONlBobzBFbmxnRUlTbGZCWjd6SE9tSjBjV0pZTXdEcGlaWExubHpzbmpFeDRB?oc=5",
+          "published": "2026-10-06T19:37:01+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -154,14 +154,6 @@
           "published": "2026-10-05T12:28:35+00:00",
           "summary": "Armada Acquisition Corp. II rose about 270% last week, leaving the thinly traded shell at nearly four times its roughly $10.50 trust value before merging with Evernorth, an XPR treasury company.",
           "via": "CoinDesk"
-        },
-        {
-          "source": "Decrypt",
-          "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
-          "link": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
-          "published": "2026-10-04T17:01:03+00:00",
-          "summary": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits including the agency's case against Ripple.",
-          "via": "Decrypt"
         }
       ]
     }
