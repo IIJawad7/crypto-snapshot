@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-07T01:31:48+00:00",
+  "generated_utc": "2026-10-07T08:38:11+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 85338.6,
-      "change_24h_pct": -0.707,
-      "change_7d_pct": 2.050856456789707
+      "price": 84050.01,
+      "change_24h_pct": -2.069,
+      "change_7d_pct": 0.5099158610726962
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.4932,
-        "change_24h_pct": -1.047,
+        "price": 1.4665,
+        "change_24h_pct": -2.435,
         "high_24h": 1.524,
-        "low_24h": 1.4907,
-        "range_24h_pct": 2.233849869188975,
-        "change_7d_pct": 0.21476510067115484,
-        "change_30d_pct": 6.909142979881144,
-        "ma7": 1.497642857142857,
-        "ma25": 1.46316,
-        "ma99": 1.2528303030303027,
-        "rsi14_daily": 54.79457931991022,
-        "rsi14_4h": 45.3771543391917,
-        "atr14_pct": 4.016571466842714,
-        "realized_vol_30d_daily_pct": 3.500695872645306,
-        "volume_24h_usdt": 120345678.61494,
-        "volume_vs_20d_avg": 0.4587563719252453,
+        "low_24h": 1.4345,
+        "range_24h_pct": 6.239107703032398,
+        "change_7d_pct": -1.5771812080537018,
+        "change_30d_pct": 4.997494093219723,
+        "ma7": 1.493842857142857,
+        "ma25": 1.4620960000000003,
+        "ma99": 1.252561616161616,
+        "rsi14_daily": 50.94580748726162,
+        "rsi14_4h": 38.131027840000215,
+        "atr14_pct": 4.3685159027811595,
+        "realized_vol_30d_daily_pct": 3.5246745020181756,
+        "volume_24h_usdt": 192605618.59111,
+        "volume_vs_20d_avg": 0.7342104495500024,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,73 +62,73 @@
           },
           {
             "date": "2026-10-07",
-            "close": 1.4931
+            "close": 1.4665
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": -4.232520760782221
+            "distance_pct": -2.488919195363104
           },
           "target": {
             "price": 1.469,
-            "distance_pct": -1.62068041789446
+            "distance_pct": 0.17047391749063223
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -6.241628716849734
+            "distance_pct": -4.534606205250602
           }
         },
-        "from_90d_high_pct": -12.159538796399783,
-        "from_90d_low_pct": 51.40945041573719
+        "from_90d_high_pct": -13.730219424672041,
+        "from_90d_low_pct": 48.70208882579598
       },
       "news": [
         {
-          "source": "Robinhood",
-          "title": "XRP price at Oct 6, 2026 at 10pm EDT Crypto Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNG9aRGJ5anJoVi1PbmdUeU9SQnZoSkRLSG5VYVhLaGs2UFZabkVkS2N0ZVMyeHktTmVrWW5wY3BrN3doUTRzZVJpSnJsb204ZGZlZ2szcHVBRzdnTmRUVmRuYkxVZm45TG1VeVJHWm5KdmJyRm9sVVhsWm4xNDI1WTF0ZXRZYjNJVDExSzg4TUY2MUh6MnFqLWdVcWZJWndmSEo3Q2dENkhuZzRjREE?oc=5",
-          "published": "2026-10-07T01:06:10+00:00",
+          "source": "Pluang",
+          "title": "Bitcoin and XRP lead U.S. crypto spot ETFs, out... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOWV0TnAwS1pVU3FINzFmRFprRzkzeWFmRkZ0THpJMGxyQXJicWpTaTdFdTVZZ0g2M2tFYlV2NmlFZlRYS3BiSHY0X3dmNG1PaTBiR01uRmRMYzhON1lySEo0QnlVUlh2eDdsV044Y2hoVmFvbzhzN1F3Y2FJMGQ4OVo2SQ?oc=5",
+          "published": "2026-10-07T08:37:19+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Pluang",
-          "title": "Evernorth delays XRP treasury merger and Nasdaq debut to Oct 9 and 12 after administrative hold-up. - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ3BkMkU5RXpOWGV2Y2RIRlVhRDdDbm50RmhnRGY4UkpTRlc5bGZPZkZ3Q0tNbHJPV2Q3WGxRT2liOTFFeWNpcmV3Yl9Jak41Z1pNYWl2VHgtbnhTUHhGOUZzUlpUX0JvY21CeUswWjVnS0pMTnlqNHhyNTN3aC0wTGZPM09kbXh2WW9kSTN1cF9CVnBETTlsR2ZucHdIWi0xMkJWSnNxMVhKWEw2NVE?oc=5",
-          "published": "2026-10-07T00:53:44+00:00",
+          "title": "1.6 billion XRP moved to Binance in 30 days, hi... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRXBaOFNrZFhVaFBKQm40cXVuQUx2YTF6WV9iWWZic3pWeDRfbXg1WkpLU2FhdU90alk1bUxQTkRRdEdOcXlma21MUzlsYUc4TVRoN2NRMTd6UnZYam9rM2lQOEp5WGxWTEhnSFExckE1MkkzYjA3VU1DZ09RaDkwVjZDOXkzOV9zVGxiRw?oc=5",
+          "published": "2026-10-07T08:25:22+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
-          "title": "Former CFTC commissioner's visit to Ripple headquarters stirs XRP community - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVNnSHhHaExLbjVJajJrUHgxZGpPU2hoYUFlN29wYUc1b0xMZERqMEN0M3hHTFBMdkJySUg0MUZNZW9RYl84ekZSWTdOcUhZcEQ4bTJkRFlIYkYwZVpvd3pWQ0twazRQOVN6VmF6QzRTczcxb3dzak9ZaHdrNDFqdzBEdmIwRDZwaVlqMDhsSWd1QkpLY0RnRzlYMU9iMkZZSWpFSG5QOUpCUjJqNGdyZklCU1Vlc2ZPYUE3Sg?oc=5",
-          "published": "2026-10-07T00:24:05+00:00",
+          "source": "Pluang",
+          "title": "XRP ETFs see $3.14M inflows despite XRP price d... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMFc4MUY3eW5SenJNVlROd2hQUkxBek9QUnBJdW1kNFZET3RQRkNhdTZJeFl4WlhhNVRhUVQtZUxmYmxqbGRwaHFGVDN5d2JuMFZINTMyOXlBZm5zZmVxX051eXI5T002OVJoY3ZVQTNpRTV1OF93c2NBWExJSjFjQXZYZnJJblE?oc=5",
+          "published": "2026-10-07T08:17:26+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "CryptoRank",
-          "title": "XRP Still Refuses to Choose a Direction as the Range Tightens - CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMmdtd01aUEE1NWZJTzJhbTVoaUhUVXgyLTJaUUktZUFoUDFtRDdkNFFEODlvajVtV19aYmlLRHBBNGpsUlA0VXBIN1ZWc0U4SnJQT0lsZ1Jkbmh1aExUaUpJUDJwTXZQVmRyT2dsN1I3Y19ZZGNKa0pFUVA2WW91LVZacnZBZGNPRHJWR0hJTHB3YWJ1MGJ5Um5DVE5lSVJO?oc=5",
-          "published": "2026-10-06T22:55:29+00:00",
+          "source": "Pluang",
+          "title": "XRP ETFs see 12 weeks of inflows despite a flas... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSWVqUXgtY09fQjlIUnV0T1VUV3E2cENlM3pJQnpLOFJIbWFZazNuTU5CcFdjNW5yc0VwZk96Y3IzclVzenA1YldGR2IwaE5lQjZsdVY4OUZJYkVoVUJUeVBrY3F5N0h4a2VFTGNHaGJjcW5nODVwRWFVUzRpMzdXN2FR?oc=5",
+          "published": "2026-10-07T08:07:24+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Bitget",
-          "title": "XRP Moves Into Tokenized Finance Expansion - Bitget",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13RF96YzFjWU5XeU1UWmlnWllqWlZoaFVYc3U0YVliRUE0YzlQaE5uN3haa1B5anRndjZpTXRRQTJ1WDZyUE9hbXlRMTdvM2k5TV9scTM4WkFraVU2V3VkdzJWVdIBY0FVX3lxTE13RF96YzFjWU5XeU1UWmlnWllqWlZoaFVYc3U0YVliRUE0YzlQaE5uN3haa1B5anRndjZpTXRRQTJ1WDZyUE9hbXlRMTdvM2k5TV9scTM4WkFraVU2V3VkdzJWVQ?oc=5",
-          "published": "2026-10-06T22:39:44+00:00",
+          "source": "24/7 Wall St.",
+          "title": "How High Can XRP Realistically Go From $1.47? - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNODFtbFdMaFJ6UjFJcW5wSHM5bEUtd3pnQkw4T3BtMUVzZExQWGZvSE9mMDJvYzc0d0g5MzJpSW93ZHJ6VXBxemVzUXRybV9vVFV3b2tsUjJiRi1TZVZ1amdyR01DTWZSM25vZEwwS2hUSVVWQUJQMThHbW1MRktDU2dwOEZISUN1aV9kR0NxdXVrWUR6eFRfSjJLOExQak9fMF9NZQ?oc=5",
+          "published": "2026-10-07T08:03:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Bitget",
-          "title": "Analyst Says Every Possible Trend Line on XRP Is Saying the Same Thing - Bitget",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JVGhWNFhMcTVZYnhaVWtrQkFtQTNLQ3kxazlERklDNUNDSUVBYm1WTmpkcHZTQTlRdk4tNGRpakZVZEYwNzhTUXVUMU5wWWtzdUJTdTljenZiQWRtbFUzaUJ5MNIBY0FVX3lxTE9JVGhWNFhMcTVZYnhaVWtrQkFtQTNLQ3kxazlERklDNUNDSUVBYm1WTmpkcHZTQTlRdk4tNGRpakZVZEYwNzhTUXVUMU5wWWtzdUJTdTljenZiQWRtbFUzaUJ5MA?oc=5",
-          "published": "2026-10-06T22:39:44+00:00",
-          "summary": "",
+          "source": "Yahoo Finance",
+          "title": "XRP Treasury Giant Delays Nasdaq Debut - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeThRTTV6bEZPWWhtc0dsRnVtTkdWZ0pVczJBMU15bXU5YkdNcFhhS2cwZlFmN18xR0Vtek5veU12YTJzT0RWVGJzNloyNVlWOUNhX0wxSGx6a05lai00SE9VUVU0TmE2VnVYdjJ4VkR5MGh4Y1JtWnhvb3UwcnAwQkwtUjhSN1pYQTVacm9kS2Q2QnQ5VWFnUDRxYXBFUQ?oc=5",
+          "published": "2026-10-07T07:31:04+00:00",
+          "summary": "XRP Treasury Giant Delays Nasdaq Debut  Yahoo Finance",
           "via": "Google News"
         },
         {
