@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-06T21:37:13+00:00",
+  "generated_utc": "2026-10-07T01:31:48+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 85609.99,
-      "change_24h_pct": -0.331,
-      "change_7d_pct": 2.3263744378383633
+      "price": 85338.6,
+      "change_24h_pct": -0.707,
+      "change_7d_pct": 2.050856456789707
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.5021,
-        "change_24h_pct": -0.272,
+        "price": 1.4932,
+        "change_24h_pct": -1.047,
         "high_24h": 1.524,
         "low_24h": 1.4907,
         "range_24h_pct": 2.233849869188975,
-        "change_7d_pct": 0.7715014088286676,
-        "change_30d_pct": 5.521601685985256,
-        "ma7": 1.4979142857142858,
-        "ma25": 1.458288,
-        "ma99": 1.2483050505050504,
-        "rsi14_daily": 56.173437261158085,
-        "rsi14_4h": 49.51760236109737,
-        "atr14_pct": 4.806604087610677,
-        "realized_vol_30d_daily_pct": 3.5188887501520814,
-        "volume_24h_usdt": 118839367.64367,
-        "volume_vs_20d_avg": 0.44179512987436353,
+        "change_7d_pct": 0.21476510067115484,
+        "change_30d_pct": 6.909142979881144,
+        "ma7": 1.497642857142857,
+        "ma25": 1.46316,
+        "ma99": 1.2528303030303027,
+        "rsi14_daily": 54.79457931991022,
+        "rsi14_4h": 45.3771543391917,
+        "atr14_pct": 4.016571466842714,
+        "realized_vol_30d_daily_pct": 3.500695872645306,
+        "volume_24h_usdt": 120345678.61494,
+        "volume_vs_20d_avg": 0.4587563719252453,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -36,10 +36,6 @@
         "high_30d": 1.6581,
         "low_30d": 1.2468,
         "last_7_daily_closes": [
-          {
-            "date": "2026-09-30",
-            "close": 1.49
-          },
           {
             "date": "2026-10-01",
             "close": 1.4939
@@ -62,72 +58,76 @@
           },
           {
             "date": "2026-10-06",
-            "close": 1.5021
+            "close": 1.4971
+          },
+          {
+            "date": "2026-10-07",
+            "close": 1.4931
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": -4.799946741228944
+            "distance_pct": -4.232520760782221
           },
           "target": {
             "price": 1.469,
-            "distance_pct": -2.2035816523533702
+            "distance_pct": -1.62068041789446
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -6.797150655748629
+            "distance_pct": -6.241628716849734
           }
         },
-        "from_90d_high_pct": -11.635978586975703,
-        "from_90d_low_pct": 52.3119042790509
+        "from_90d_high_pct": -12.159538796399783,
+        "from_90d_low_pct": 51.40945041573719
       },
       "news": [
         {
           "source": "Robinhood",
-          "title": "XRP price at Oct 6, 2026 at 6pm EDT Crypto Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTWlYUGVVLVZYVjZFT0NNdHlSSU5wODF3YWc4V2ZvcnB1T3VObGVYVlBCZ1JrY0g1ZXRQTHFWYnJkc2xBYXBZcjVYSzFTdW5WaVc3bHlFOEVjRkgzUTBsUVZoQzYwbFV6X0Rzb3g5WVo2NUVKa0tUUC1Zb1B2LUFjSDVsenA1UFhreEkwdnVQUGpCeVF6YkxJSlhTR0ZoRDRYWjRQNk9sdW5NTlVN?oc=5",
-          "published": "2026-10-06T21:13:13+00:00",
+          "title": "XRP price at Oct 6, 2026 at 10pm EDT Crypto Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNG9aRGJ5anJoVi1PbmdUeU9SQnZoSkRLSG5VYVhLaGs2UFZabkVkS2N0ZVMyeHktTmVrWW5wY3BrN3doUTRzZVJpSnJsb204ZGZlZ2szcHVBRzdnTmRUVmRuYkxVZm45TG1VeVJHWm5KdmJyRm9sVVhsWm4xNDI1WTF0ZXRZYjNJVDExSzg4TUY2MUh6MnFqLWdVcWZJWndmSEo3Q2dENkhuZzRjREE?oc=5",
+          "published": "2026-10-07T01:06:10+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Cryptonews.net",
-          "title": "Whale Alert Confirms Transfer of 99,866,844 XRP from Ripple - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xcXdPdU9qU2wwUlB5S2REZU9HNlVUYlBnVUk2eHF4a0M0UmxaSUV0ZjAwbVllbVBVcmNZMEluN0UwbTJHcHd6SHMwaHZSSENMYkZBY05NRERSZw?oc=5",
-          "published": "2026-10-06T21:09:36+00:00",
+          "source": "Pluang",
+          "title": "Evernorth delays XRP treasury merger and Nasdaq debut to Oct 9 and 12 after administrative hold-up. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ3BkMkU5RXpOWGV2Y2RIRlVhRDdDbm50RmhnRGY4UkpTRlc5bGZPZkZ3Q0tNbHJPV2Q3WGxRT2liOTFFeWNpcmV3Yl9Jak41Z1pNYWl2VHgtbnhTUHhGOUZzUlpUX0JvY21CeUswWjVnS0pMTnlqNHhyNTN3aC0wTGZPM09kbXh2WW9kSTN1cF9CVnBETTlsR2ZucHdIWi0xMkJWSnNxMVhKWEw2NVE?oc=5",
+          "published": "2026-10-07T00:53:44+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Stocktwits",
-          "title": "Is XRP Setting Up For A $2 Breakout? Evernorth's Nasdaq Debut Adds A New Catalyst - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUUJkX3hfMHFELXVWYjJEdmZkR21JQVBqcFNvYm9zeFJ4dDFhMHJKWnpha0JZZTNWSnZ6bXpmRVZsYjQ0dzVIX19GZml6ZjlPVmE5UkQ1cExPV1RrOEZIWV90Q191NmpLWXNPbTFPdHBINUlwUDl2TnR3U3M4WXFmcnVwQXpHSmFYVktVeXFveDFac3lGWEE4UHdQWndBYmJyQU12ZkxHNWpQR2FlWUJ5ZDAtd2haOHI0TURaX09fUQ?oc=5",
-          "published": "2026-10-06T21:06:29+00:00",
+          "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
+          "title": "Former CFTC commissioner's visit to Ripple headquarters stirs XRP community - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVNnSHhHaExLbjVJajJrUHgxZGpPU2hoYUFlN29wYUc1b0xMZERqMEN0M3hHTFBMdkJySUg0MUZNZW9RYl84ekZSWTdOcUhZcEQ4bTJkRFlIYkYwZVpvd3pWQ0twazRQOVN6VmF6QzRTczcxb3dzak9ZaHdrNDFqdzBEdmIwRDZwaVlqMDhsSWd1QkpLY0RnRzlYMU9iMkZZSWpFSG5QOUpCUjJqNGdyZklCU1Vlc2ZPYUE3Sg?oc=5",
+          "published": "2026-10-07T00:24:05+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Benzinga",
-          "title": "Bitcoin Holds $85,000 as Ethereum, XRP, Dogecoin Trade Flat - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVdOMU1yRmZleTk1REZNVU1VeUVZbENzRmN0NHJJQ216UzZ3WmxpSEltOE1VOGI3UV9MM2hybHgyNGR1d2RTS2RPeGdXQkpwdTFuWlJFZlZwSHJoQ2E3SU16aUZ6ZXlVaE1SZy1zZmZ1QjBiZUp0S1JPemxob29nT2daYjVxLW9qUll5Znp3TnR3OURWYzdWeE5WV3ItX0xTTE5sRHhiLUtPQTZucWpsY1pxQnFBbWRF?oc=5",
-          "published": "2026-10-06T19:45:39+00:00",
+          "source": "CryptoRank",
+          "title": "XRP Still Refuses to Choose a Direction as the Range Tightens - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMmdtd01aUEE1NWZJTzJhbTVoaUhUVXgyLTJaUUktZUFoUDFtRDdkNFFEODlvajVtV19aYmlLRHBBNGpsUlA0VXBIN1ZWc0U4SnJQT0lsZ1Jkbmh1aExUaUpJUDJwTXZQVmRyT2dsN1I3Y19ZZGNKa0pFUVA2WW91LVZacnZBZGNPRHJWR0hJTHB3YWJ1MGJ5Um5DVE5lSVJO?oc=5",
+          "published": "2026-10-06T22:55:29+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "TradingView",
-          "title": "Bitcoin Holds $85,000 as Ethereum, XRP, Dogecoin Trade Flat - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWGJ6MDludWZGamRxUW9HelVjQmdGUEFZSTJkeFRheGM4ZmQ2cUprT0dEUG9MaHA0LW1kallQeFhlc2Y5c1MwQ1BKVHlEWGEyVzBxWWJIOUxFTjFjZ3NmQUVhZ1F0VFk5QTNpcTh4dzJ4ZXRqX2dkaVVZVnNTUXNqS3IydnZFV2ZwaEVyTzd6WUozY25CLU9oVWlrM0NCUWhxbFo5cW5oR004WDNQbkY2dG1GemZPZw?oc=5",
-          "published": "2026-10-06T19:45:39+00:00",
+          "source": "Bitget",
+          "title": "XRP Moves Into Tokenized Finance Expansion - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13RF96YzFjWU5XeU1UWmlnWllqWlZoaFVYc3U0YVliRUE0YzlQaE5uN3haa1B5anRndjZpTXRRQTJ1WDZyUE9hbXlRMTdvM2k5TV9scTM4WkFraVU2V3VkdzJWVdIBY0FVX3lxTE13RF96YzFjWU5XeU1UWmlnWllqWlZoaFVYc3U0YVliRUE0YzlQaE5uN3haa1B5anRndjZpTXRRQTJ1WDZyUE9hbXlRMTdvM2k5TV9scTM4WkFraVU2V3VkdzJWVQ?oc=5",
+          "published": "2026-10-06T22:39:44+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Altcoin Buzz",
-          "title": "XRP Ledger Fix Wins Full Validator Consensus, Activates Oct. 9 - Altcoin Buzz",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdGxiWXl1TjlsNVo1QkR3YTZmbFRyUTJHSnF1V1BGRkczRWlKZ1ZsNDVndVhmMW96NEwzYTNEd0ZMUm9WNHFrOGd5Y1RmLXIwU2F6X01xaHZvZzJpUmNONlBobzBFbmxnRUlTbGZCWjd6SE9tSjBjV0pZTXdEcGlaWExubHpzbmpFeDRB?oc=5",
-          "published": "2026-10-06T19:37:01+00:00",
+          "source": "Bitget",
+          "title": "Analyst Says Every Possible Trend Line on XRP Is Saying the Same Thing - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JVGhWNFhMcTVZYnhaVWtrQkFtQTNLQ3kxazlERklDNUNDSUVBYm1WTmpkcHZTQTlRdk4tNGRpakZVZEYwNzhTUXVUMU5wWWtzdUJTdTljenZiQWRtbFUzaUJ5MNIBY0FVX3lxTE9JVGhWNFhMcTVZYnhaVWtrQkFtQTNLQ3kxazlERklDNUNDSUVBYm1WTmpkcHZTQTlRdk4tNGRpakZVZEYwNzhTUXVUMU5wWWtzdUJTdTljenZiQWRtbFUzaUJ5MA?oc=5",
+          "published": "2026-10-06T22:39:44+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -160,8 +160,8 @@
   ],
   "errors": [],
   "fear_greed": {
-    "today": 73,
+    "today": 71,
     "label": "Greed",
-    "yesterday": 70
+    "yesterday": 73
   }
 }
