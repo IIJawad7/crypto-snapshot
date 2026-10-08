@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-08T16:27:55+00:00",
+  "generated_utc": "2026-10-08T22:03:50+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 81366.7,
-      "change_24h_pct": -2.567,
-      "change_7d_pct": -4.13919407446156
+      "price": 81680.5,
+      "change_24h_pct": -1.885,
+      "change_7d_pct": -3.769495894500541
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.3554,
-        "change_24h_pct": -5.475,
-        "high_24h": 1.4387,
-        "low_24h": 1.3283,
-        "range_24h_pct": 8.311375442294654,
-        "change_7d_pct": -9.271035544547834,
-        "change_30d_pct": -4.353962317408799,
-        "ma7": 1.467642857142857,
-        "ma25": 1.460868,
-        "ma99": 1.255162626262626,
-        "rsi14_daily": 38.99371873620607,
-        "rsi14_4h": 21.82662788210999,
-        "atr14_pct": 4.898034462770721,
-        "realized_vol_30d_daily_pct": 3.7301037649632085,
-        "volume_24h_usdt": 233105083.61386,
-        "volume_vs_20d_avg": 0.8750378643316236,
+        "price": 1.3779,
+        "change_24h_pct": -2.711,
+        "high_24h": 1.4295,
+        "low_24h": 1.3189,
+        "range_24h_pct": 8.385776025475788,
+        "change_7d_pct": -7.764910636588807,
+        "change_30d_pct": -2.766212687883718,
+        "ma7": 1.4708571428571429,
+        "ma25": 1.4617680000000002,
+        "ma99": 1.2553898989898988,
+        "rsi14_daily": 41.00169346682178,
+        "rsi14_4h": 30.691430023173197,
+        "atr14_pct": 4.866784159236989,
+        "realized_vol_30d_daily_pct": 3.671655842645189,
+        "volume_24h_usdt": 248421929.91835,
+        "volume_vs_20d_avg": 0.9325347677487044,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-10-08",
-            "close": 1.3555
+            "close": 1.378
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 5.503910284786784
+            "distance_pct": 3.7811161913056113
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 8.381289656190072
+            "distance_pct": 6.611510269250331
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 3.290541537553482
+            "distance_pct": 1.6038899775020043
           }
         },
-        "from_90d_high_pct": -20.265897993999648,
-        "from_90d_low_pct": 37.43662543094708
+        "from_90d_high_pct": -18.942290722983714,
+        "from_90d_low_pct": 39.71810991685256
       },
       "news": [
         {
-          "source": "FXStreet",
-          "title": "Cryptocurrencies price prediction: XRP, Altcoins & Cryptos \u2013 American Wrap 08 October - FXStreet",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcWZqaEVNUFMtbFNINmhPdE9rRUc3cnVoekc3ellkOVV5MlBMSHRtMjE2X0psLVNZcVpZSjhlbjVsQkRTZzVPZlpQdWQ3eVFwTzRZWDVOeHRKWnE3OERCSG0wOE03VHlTU1ZIOEJNeDFaRWlGRDlXWEdVaUNLQm9OTzJpNU1DUzVMRGluSnRnVTY1TVh5QTRESVN4Q21iUTJHbE9udHRkTzNFLUdlZlc5T1NjdnpkOHNCSXVybElqOTNpQVBCbUhOcDllWUFCUkZoZDJoYm9R?oc=5",
-          "published": "2026-10-08T16:15:26+00:00",
+          "source": "Pluang",
+          "title": "XRP price rises 3.76% to $1.38 in 4 hours despi... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTWM0SUhmUXJFdDJFcXRIbGYxcjBCeXRWMTRCTk5ocUVyTk81NXMxVmRIZloyUnl2TVh0eTdYTkxBODR0ZUVUVkVUOFFYanVKYXlOVzZpS0JNWnJiSkNZeXczeWtuNTZyZWhpTEVLN1pVeDQwS1FEZzlrVTZNb2ZSRHUwZHlSZUZ4NzN5d0s3SjBoY2JiNlZHczlJNnJlZw?oc=5",
+          "published": "2026-10-08T21:54:57+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "Cardano Pays You to Hold It; XRP Does Not. Is ADA the Better Investment with a 3% Staking Yield? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1o1cDRSeFdkVDY4UFR4MzBZRmtPWEY1NGlvR3Q2WW5MSUJzSFhLSDNzT3VmbWtRUlM2eWVXZ0U1R0M5RUxmdEg5TVFiNHFyY0VDV3Z5ZTVDNmF6a1ItMnpfeTBPYUtiRHB5X2k1MHNaOVJrVjFIa3daWkhqSkVzcEp4OHhRNExEbFN2NFNvSE9KUUVaNVE?oc=5",
-          "published": "2026-10-08T16:00:59+00:00",
+          "source": "KuCoin",
+          "title": "Paxos Adds XRP to Brokerage Platform, Expanding Regulated Access - KuCoin",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNUJlNFRwZWFONUg1dHYweXpPZWYtV3NXanQwZEJuLXkwQm5SVjNOa0pBdnNQTk9jaXQtc255b2dMQ3Y2UXh6RGJEeWdWcmxWUzhnZFZIaHdJZEtaWkpCTmZ6WWF0UVAzMWVteFFHUXV0MmhiSmdNUlFFZ0Q0eDVpUlAzNFRVQWw5YmhiODB3MnAzQ1JadHg3TDJsWUJadw?oc=5",
+          "published": "2026-10-08T21:13:57+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Pluang",
-          "title": "XRP price drops 3.4% in one hour amid $8.36M li... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0xLcmFNYTlUMGpJajJ4ZzNtQWNkMS1qZWpwX25sUzE1YnBUY2JaNDV3aGl2T0lOVFlCSWxvc0RmT2xaMk53UHhsQVVRWW5HNkdwLWtEejdwUkxnYks0ZFFiLXo4VEtsQmR2WVMwMzkwaURxSVBGelFhMllVMVJTZmg5NVNka2JYS2F2eTdoM25JRWx1RjFNcFFR?oc=5",
-          "published": "2026-10-08T15:45:44+00:00",
+          "title": "Cyber Capital founder calls XRP's decentralizat... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcTRVa1dwOUFBbWJLR2NJMVZua19EcFgyV1lnX3JvWUotNmY4dmw5UUo0UW94VGV5MDROaHgzYjZkYWJDN2kzdmZxS2ZsWVNld29XZDRoTjI3bGJKajRYSnRqZ2t4Ul9odzNnbGx0ZmdvT3Z0S2pVOVhNdTRLazY3OGpJdzljczVCNXZFczgxQ2o0QjdwbjdLaEtnQmdVdw?oc=5",
+          "published": "2026-10-08T21:04:46+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Pluang",
-          "title": "XRP price dips below $1.40 amid mixed exchange reserve data and weakening momentum indicators - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcGs1OW5mUEFYcWk3bDRGbUQzZDctSkNfX3lCVnNfT28zZnVZdnV0dXFaOVkyZHJIVWtQNFh3VlVtalcxQ2k3cnVELUFnN21EZ1dPOWM1NGRBSGtGakpTWVVMZERpdUcxNXJFQWc5RzlUb2ViU2JPN21YZ21veWtuZkFpRjFIWlFKdnBR?oc=5",
-          "published": "2026-10-08T15:04:35+00:00",
+          "source": "24/7 Wall St.",
+          "title": "Ripple Becomes Prime Broker for $35 Billion Hedge Fund: What This Means for XRP - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXdGREU3YUY0OUxGaC1PSHZBcXUtd0ctZHlVdlk2N2cxbENTM0pfWkEwdlhaNl9oOU1MY2tSRnJtRG1wQVBMMENnUDNFSlZMd1lwc1pOd0MyT2lhREdkNzlfMHN1aURkb3M1OEVEZUg1dUJtRFMzcE9aR255ZVU5UC04WFVoM2lXeWV5Y3ozRDNvMnJvYjcta3dLalp0RVRSU3NvTkRQQktWQnpVdkZMbmV0cjZHMjVCSm5OOUFhVEJoMzMxXzRJODF0N1o2dEp3TFE?oc=5",
+          "published": "2026-10-08T21:00:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Pluang",
-          "title": "XRP holders face trade-offs in yield options: f... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbkpGTmxFcFJhb0txRm1uWjNxcXNUYV90aVkxUzl5MzVKTVdsUU16QkNnU2R2N0gxZmM3TVdwVjhYUnd2czdnUW5VRjVlNi1VdWtHZHRONnVaUFFBaU1zVkNleUt2NGQ2YTFoVXRmQk50SXZZaWZnNlFCTWFoZTdiaWhGcUdEQUxodTFDazl3eGdxcldReFdpX05ySmhWMHVCcWVGTw?oc=5",
-          "published": "2026-10-08T14:56:35+00:00",
+          "source": "CoinDesk",
+          "title": "DAG Wealth Announces XRP Lending Strategy - CoinDesk",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUEJsQ1REVlRBWmtnNXVobTVBSTV3anlfZjVjV0xhODduNDduNGVOU2dzeXNsY2dHMHdNMnNEOHhmY1RQUl85QmtWV2ZGek1oaTZlY0w2UnBWb296d3YtaEtYMjRBT295TjlTVFItZXJ2ZEU2eV9DY0V1Vl9LN0dQSjFfOTRBdkNQZEFlZ0c1TTNfRFQzMHc?oc=5",
+          "published": "2026-10-08T20:37:57+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "CryptoRank",
-          "title": "Top Analyst Asks Why Lock Up 50,000 XRP for 6 Months Just to Earn Yield - CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPejlGWnZscjFjQ3NDbTJ5STRySGtSTGxXOUtEcm9qMVQ3c2xDWVVOdzI5XzY3d2ttVkpLSXRyY3o4aHhiV2xWTGt2bVZRNWtCcTVYRmlNNm80U2RTUFNQUi1RQ2w5OGExNXZmNWI0cF9WM2ZkOFE0WkNYVzF1ckhuYzc1SXQ0YVpsRTB3TTlOT2ZOMVdTdVVWRnl4d2F0OFlSYjlnREwzREFKUEVH?oc=5",
-          "published": "2026-10-08T14:55:14+00:00",
+          "source": "CryptoSlate",
+          "title": "Why XRP\u2019s 63 billion circulating tokens don\u2019t tell buyers what\u2019s for sale - CryptoSlate",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc1Bpd1NUdlFvazZtRUpCbVdCNjhpR3FRNVhOY0tkOG9NcjIwalpiVU8xb1FXQ3dlNWVuajI5cjJONWVMY0piX0hsbEl0X2hjVVFvRlluMHBjOG9LbVBpc0gzYmdUblM2S2pzSkF3VHBMMWd6Z3lQS2d5Yld2c05tMjNzQWVlb0MxMEJ1dm5YaUxsczIyTEV4RHRTUFJQUQ?oc=5",
+          "published": "2026-10-08T19:54:22+00:00",
           "summary": "",
           "via": "Google News"
         },
