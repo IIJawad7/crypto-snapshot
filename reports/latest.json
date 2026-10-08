@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-08T01:55:09+00:00",
+  "generated_utc": "2026-10-08T08:57:15+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 83198.0,
-      "change_24h_pct": -2.161,
-      "change_7d_pct": -1.9816788515086947
+      "price": 82866.01,
+      "change_24h_pct": -1.331,
+      "change_7d_pct": -2.3728072733227745
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.4255,
-        "change_24h_pct": -4.348,
-        "high_24h": 1.4908,
-        "low_24h": 1.4067,
-        "range_24h_pct": 5.978531314423807,
-        "change_7d_pct": -4.578619720195465,
-        "change_30d_pct": 0.5927598616893626,
-        "ma7": 1.4776285714285713,
-        "ma25": 1.4636640000000003,
-        "ma99": 1.2558686868686866,
-        "rsi14_daily": 46.069599336085126,
-        "rsi14_4h": 31.289528264271937,
-        "atr14_pct": 4.202329170759085,
-        "realized_vol_30d_daily_pct": 3.6275571141763043,
-        "volume_24h_usdt": 239765753.18804,
-        "volume_vs_20d_avg": 0.9000409144103758,
+        "price": 1.4113,
+        "change_24h_pct": -3.527,
+        "high_24h": 1.4631,
+        "low_24h": 1.389,
+        "range_24h_pct": 5.334773218142552,
+        "change_7d_pct": -5.529151884329608,
+        "change_30d_pct": -0.4092865711664673,
+        "ma7": 1.4756142857142858,
+        "ma25": 1.4631,
+        "ma99": 1.2557262626262624,
+        "rsi14_daily": 44.38432694047066,
+        "rsi14_4h": 28.23722103762009,
+        "atr14_pct": 4.397161684768855,
+        "realized_vol_30d_daily_pct": 3.629691935068076,
+        "volume_24h_usdt": 202338281.75962,
+        "volume_vs_20d_avg": 0.7595443874435559,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,74 +62,82 @@
           },
           {
             "date": "2026-10-08",
-            "close": 1.4254
+            "close": 1.4113
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 0.31567870922482033
+            "distance_pct": 1.3250194855806585
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 3.051560855840063
+            "distance_pct": 4.088429107914693
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -1.7888460189407263
+            "distance_pct": -0.8006802239070465
           }
         },
-        "from_90d_high_pct": -16.142126007412195,
-        "from_90d_low_pct": 44.54471709592376
+        "from_90d_high_pct": -16.977469262897817,
+        "from_90d_low_pct": 43.10484688704117
       },
       "news": [
         {
-          "source": "Robinhood",
-          "title": "XRP price at Oct 7, 2026 at 10pm EDT Crypto Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYnBsVklyNVQ4bWlRX0h6S09iWGZrNHh3enFYdk1JZzAtZlUyU1YybmtvaWVkbndJMzdmdERnejg1QWpSeDlUMzZQRHFhdU1GZzMzQjJpbWNTUUVBVmhaOTJjRWpsMVN2YnBXLVprMlJ6WFoweHRidGV0Y1ZRZHhTZnlIX3ctYzlSN2tNZGU3ZWR1VnlZQzI1ZnB3MlBqRnJrZDBPSFFXSGU2UUlJaFE?oc=5",
-          "published": "2026-10-08T01:03:27+00:00",
+          "source": "FXLeaders",
+          "title": "Ripple\u2019s Bullish Signal : SEC Filings Reveal First Steps Toward XRP ETF Options - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN1ZYb01obHdUcWFOalM3VTRGOVlHQ2dkRVlBLUJSdzJZcWw2LUlVTVUtaVd0SW5ROU5zcVdSVUtsSmU3VWtBNkNxbC1USTBvM1YwUUU4d09OQjMyWXB5N3RSM3BjZHlUdHVTV1k1cVJnRmxpZlV2WEZqMzFlZWdVcFUxNERFdEVhbldjUF9JV2l2RTRWSXA0dmlkQXRUZjZGWkIwTFYwWGlXQ0luYlh5UGVpU3ZDOXRpRnZv?oc=5",
+          "published": "2026-10-08T08:10:08+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Pluang",
-          "title": "XRP whale withdrawals from Binance hit 7-month high, signaling possible reduced trading supply. - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3lVeWVyWnZJNU4zd2ZwLXBsYm92a0NsVThEYzZvMU4tT3BGWnBfbGFDN1dtM0tJaUpuWWJkY25WT3V6Mnh5aUpKUzhvM1FSbWY4S1FhRktubmZRMGZQSmpXeXd2Tk1YQWZfRU93WldMOGd2OExIWVJpaDJOTTZjYkVHRExsdHVo?oc=5",
-          "published": "2026-10-08T00:54:25+00:00",
+          "source": "MarketForces Africa",
+          "title": "XRP Bleeds Out, Shrinks 5% On Rising U.S. Treasury Yields - MarketForces Africa",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRmVjZUJRZV9VcHRfY0RobXV1ZWJQUU9iaG5lZmxiVWhSRzVRNU16QzViUWhDWUFuYmdqekZGZWk0ZEdUYi12XzIwV3RZNzBCMURXdFFyRGo4cHJZM2xaUC1VNk14Z1lodGRwdkRzREN1OXlfczBndEVKaC1VM0pId21SNUNFZHlQ?oc=5",
+          "published": "2026-10-08T07:14:28+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "StreetInsider",
-          "title": "XRP Price Takes Centre Stage as XRPN Prepares to Bring a 473M XRP Treasury to Nasdaq - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRC1IcVctT3B5aHRRZjd0R0dUUGZZS25peWN3TkpXZjlrTHVneEpnSGN2U2x1WjFrYm81a29fM2ZvZURJWlhhYmcyaUdIN1NRbHIyRVBJUUg0WHZ1a1V6UVZuVjNwSC15Um1qcy1sYmlFT0dURHlhRHhDMGpKbmdFRjVRb3RQUVAyTGxLSzJaSnBvZ0trZUQ2SGczRXNwZkNqWjhTby12MzFBN1dPX1ZUeG51SklUeGgwWVBoRTJpTlZNRGpOb09PRmxLTnVWTURnS2ttdmNma1Izck8y?oc=5",
-          "published": "2026-10-08T00:22:36+00:00",
+          "source": "Yahoo Finance",
+          "title": "XRP News: Brevan Howard Deal Broadens Ripple\u2019s Scope - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXE2bk5nZ0Jjb3dVeDB1bzlCUVB4d19TNXFMUmNIYlNOWEgycW9oQzFUYUdtRTdjZ2JDMWhVRXNFb0h1OFctdHZyX01oeFl2aWlxYzUzTGhQOXZEQjRCOWhzVkF4YlAtdWJjR3AtamtYdUhBXy12aXJoWmdoX01oQWVRSlBQZ3BIb1Bibk9vZF9UOGZ1aXFr?oc=5",
+          "published": "2026-10-08T07:10:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Pluang",
-          "title": "U.S. spot XRP ETFs saw $3.14M net inflows on Oc... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWjY3NnFaSHowaFk4RmxRQTRWNnRfU083aTdGQnVsV0dJTjRmUFJXdEdsbmZ2ZzExb3JoelVZcWNtN1hxS05oZGxQNjdsbENSZmg4WVp1cWdTazJFMGN4NWNzNkJZbmR5eVdOYlV6UVUteDMydzhSbkVVYmNUZ19YSm9n?oc=5",
-          "published": "2026-10-07T23:54:18+00:00",
+          "source": "mykxlg.com",
+          "title": "Ignite Extends Cross-Chain Trading Infrastructure for XRP and Assets Transitioning From Sunset Networks - mykxlg.com",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOT1ZzbV9jWi1aT25XX2VEaXVTTlNrZThqazhRVkNld0Y5OUFUeVIwRkNocWUzOFV4TC1kZU1NSmYwczlRV0xLNTA2cEJQS0o4bjFrY0VmZkRYa0JrU2tQd3ZQM3BtVkpTT0ZYdlFGeXRHSlVjSnd4bDVmX25rclB2QUpRZS02QThuMk40LTZTWVhxeWdwVld5V0c4ekVacHdqYjZXQlJja1RpeEhaWFU2WVM0a3VDMlhUV1ktOU91NmNjek00ZDdhLWZ4Zy1keVhEeXdRM2dnQVNsU2p3T196em9pTkY3Yll1WFpaT3ROczFJR3RvdzBxLVJubi03TTc4VzlCcWVTZmVwQVZBdTY1dnhPN3FJQWU1TTZwb0h6UkdrMlUwcHNIT2NzOTJCVVhQ?oc=5",
+          "published": "2026-10-08T07:04:15+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "TechBullion",
-          "title": "XRP Price Could Face Its Biggest October Catalyst as XRPN Prepares to Begin Nasdaq Trading - TechBullion",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWDMtX19BdkM5XzFiQno5N2ZUalJsUU1IQWcwUnprQUhJTURqOFlUT0pIXzVoZm9aQ2pKYWwwY0J4N01LOW54cWFOei0wbjR2VnBrbmRncHc2X09lZXJCNjJLZnlqLXd2SmJrenVkbkVqMlpPMTFOSG0xaHItLWRLcktDdHdnM2lkQzBHVVdmSmNxV1pLQ3R4blA1TENwSmhMOEtkbzFJX1Nnc1pjWFYtNExDQnlCdw?oc=5",
-          "published": "2026-10-07T23:45:59+00:00",
+          "source": "Bitget",
+          "title": "XRP ETF Options Just Showed Up In An Official SEC Filing - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BWlhlVFhHdUhSbXNDVzNBVWlSaDlqV2xiOFZtNHNUdHh2M3BZRjN6Zmg0RTQ0Q2xnVEY5bGEtLVNvZmJsampaRnpudHJ5RnBfR2NETTljei1ob0lJOWxKR0ZBONIBY0FVX3lxTE1BWlhlVFhHdUhSbXNDVzNBVWlSaDlqV2xiOFZtNHNUdHh2M3BZRjN6Zmg0RTQ0Q2xnVEY5bGEtLVNvZmJsampaRnpudHJ5RnBfR2NETTljei1ob0lJOWxKR0ZBOA?oc=5",
+          "published": "2026-10-08T06:52:25+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "CoinNess",
-          "title": "Paxos Crypto Brokerage adds XRP support - CoinNess",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ic2hGQldXUndOTFB0ZFBtb2pVYjRoS3Rhb1ViOEhSZXZuUWd3QXNka0J3ZVZBX0M0MXlhNGVibUJUOV9kNmVnRzJHc0g?oc=5",
-          "published": "2026-10-07T23:08:23+00:00",
+          "source": "Bitget",
+          "title": "Ethereum, HYPE, XRP, and Zcash fall sharply, key support levels in focus - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wQ1RpZDNTUTFPbzA1SHFpTVV3UWFDTzF1TVBES25kNUtUTzBTWGNOU2VFZEt1OUtGRGVPcF9VeldxZ1cwZGdZNmZLNE5WNEpPbmZxNFlaSHVaRkg4LUJNMW1Sa9IBY0FVX3lxTE9wQ1RpZDNTUTFPbzA1SHFpTVV3UWFDTzF1TVBES25kNUtUTzBTWGNOU2VFZEt1OUtGRGVPcF9VeldxZ1cwZGdZNmZLNE5WNEpPbmZxNFlaSHVaRkg4LUJNMW1Saw?oc=5",
+          "published": "2026-10-08T06:52:25+00:00",
           "summary": "",
           "via": "Google News"
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+          "link": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
+          "published": "2026-10-08T06:17:13+00:00",
+          "summary": "The crypto company's $1.25 billion acquisition of Hidden Road has opened a corner of Wall Street where funds pay to amplify daily moves in stocks such as Nvidia and Sandisk.",
+          "via": "CoinDesk"
         },
         {
           "source": "Decrypt",
@@ -138,14 +146,6 @@
           "published": "2026-10-07T12:18:43+00:00",
           "summary": "OKX raises more, $500M+ in crypto longs liquidated after a late evening selloff, and Abstract calls it quits.",
           "via": "Decrypt"
-        },
-        {
-          "source": "CoinDesk",
-          "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
-          "link": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
-          "published": "2026-10-06T15:20:30+00:00",
-          "summary": "The exchange is increasingly aiming to position itself as a global financial tech platform spanning crypto, payments and tokenized assets, following an investment and joint venture with NYSE parent ICE.",
-          "via": "CoinDesk"
         },
         {
           "source": "Decrypt",
