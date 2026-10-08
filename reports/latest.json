@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-08T08:57:15+00:00",
+  "generated_utc": "2026-10-08T16:27:55+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 82866.01,
-      "change_24h_pct": -1.331,
-      "change_7d_pct": -2.3728072733227745
+      "price": 81366.7,
+      "change_24h_pct": -2.567,
+      "change_7d_pct": -4.13919407446156
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.4113,
-        "change_24h_pct": -3.527,
-        "high_24h": 1.4631,
-        "low_24h": 1.389,
-        "range_24h_pct": 5.334773218142552,
-        "change_7d_pct": -5.529151884329608,
-        "change_30d_pct": -0.4092865711664673,
-        "ma7": 1.4756142857142858,
-        "ma25": 1.4631,
-        "ma99": 1.2557262626262624,
-        "rsi14_daily": 44.38432694047066,
-        "rsi14_4h": 28.23722103762009,
-        "atr14_pct": 4.397161684768855,
-        "realized_vol_30d_daily_pct": 3.629691935068076,
-        "volume_24h_usdt": 202338281.75962,
-        "volume_vs_20d_avg": 0.7595443874435559,
+        "price": 1.3554,
+        "change_24h_pct": -5.475,
+        "high_24h": 1.4387,
+        "low_24h": 1.3283,
+        "range_24h_pct": 8.311375442294654,
+        "change_7d_pct": -9.271035544547834,
+        "change_30d_pct": -4.353962317408799,
+        "ma7": 1.467642857142857,
+        "ma25": 1.460868,
+        "ma99": 1.255162626262626,
+        "rsi14_daily": 38.99371873620607,
+        "rsi14_4h": 21.82662788210999,
+        "atr14_pct": 4.898034462770721,
+        "realized_vol_30d_daily_pct": 3.7301037649632085,
+        "volume_24h_usdt": 233105083.61386,
+        "volume_vs_20d_avg": 0.8750378643316236,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-10-08",
-            "close": 1.4113
+            "close": 1.3555
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 1.3250194855806585
+            "distance_pct": 5.503910284786784
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 4.088429107914693
+            "distance_pct": 8.381289656190072
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -0.8006802239070465
+            "distance_pct": 3.290541537553482
           }
         },
-        "from_90d_high_pct": -16.977469262897817,
-        "from_90d_low_pct": 43.10484688704117
+        "from_90d_high_pct": -20.265897993999648,
+        "from_90d_low_pct": 37.43662543094708
       },
       "news": [
         {
-          "source": "FXLeaders",
-          "title": "Ripple\u2019s Bullish Signal : SEC Filings Reveal First Steps Toward XRP ETF Options - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN1ZYb01obHdUcWFOalM3VTRGOVlHQ2dkRVlBLUJSdzJZcWw2LUlVTVUtaVd0SW5ROU5zcVdSVUtsSmU3VWtBNkNxbC1USTBvM1YwUUU4d09OQjMyWXB5N3RSM3BjZHlUdHVTV1k1cVJnRmxpZlV2WEZqMzFlZWdVcFUxNERFdEVhbldjUF9JV2l2RTRWSXA0dmlkQXRUZjZGWkIwTFYwWGlXQ0luYlh5UGVpU3ZDOXRpRnZv?oc=5",
-          "published": "2026-10-08T08:10:08+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "MarketForces Africa",
-          "title": "XRP Bleeds Out, Shrinks 5% On Rising U.S. Treasury Yields - MarketForces Africa",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRmVjZUJRZV9VcHRfY0RobXV1ZWJQUU9iaG5lZmxiVWhSRzVRNU16QzViUWhDWUFuYmdqekZGZWk0ZEdUYi12XzIwV3RZNzBCMURXdFFyRGo4cHJZM2xaUC1VNk14Z1lodGRwdkRzREN1OXlfczBndEVKaC1VM0pId21SNUNFZHlQ?oc=5",
-          "published": "2026-10-08T07:14:28+00:00",
+          "source": "FXStreet",
+          "title": "Cryptocurrencies price prediction: XRP, Altcoins & Cryptos \u2013 American Wrap 08 October - FXStreet",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcWZqaEVNUFMtbFNINmhPdE9rRUc3cnVoekc3ellkOVV5MlBMSHRtMjE2X0psLVNZcVpZSjhlbjVsQkRTZzVPZlpQdWQ3eVFwTzRZWDVOeHRKWnE3OERCSG0wOE03VHlTU1ZIOEJNeDFaRWlGRDlXWEdVaUNLQm9OTzJpNU1DUzVMRGluSnRnVTY1TVh5QTRESVN4Q21iUTJHbE9udHRkTzNFLUdlZlc5T1NjdnpkOHNCSXVybElqOTNpQVBCbUhOcDllWUFCUkZoZDJoYm9R?oc=5",
+          "published": "2026-10-08T16:15:26+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Yahoo Finance",
-          "title": "XRP News: Brevan Howard Deal Broadens Ripple\u2019s Scope - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXE2bk5nZ0Jjb3dVeDB1bzlCUVB4d19TNXFMUmNIYlNOWEgycW9oQzFUYUdtRTdjZ2JDMWhVRXNFb0h1OFctdHZyX01oeFl2aWlxYzUzTGhQOXZEQjRCOWhzVkF4YlAtdWJjR3AtamtYdUhBXy12aXJoWmdoX01oQWVRSlBQZ3BIb1Bibk9vZF9UOGZ1aXFr?oc=5",
-          "published": "2026-10-08T07:10:00+00:00",
+          "title": "Cardano Pays You to Hold It; XRP Does Not. Is ADA the Better Investment with a 3% Staking Yield? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1o1cDRSeFdkVDY4UFR4MzBZRmtPWEY1NGlvR3Q2WW5MSUJzSFhLSDNzT3VmbWtRUlM2eWVXZ0U1R0M5RUxmdEg5TVFiNHFyY0VDV3Z5ZTVDNmF6a1ItMnpfeTBPYUtiRHB5X2k1MHNaOVJrVjFIa3daWkhqSkVzcEp4OHhRNExEbFN2NFNvSE9KUUVaNVE?oc=5",
+          "published": "2026-10-08T16:00:59+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "mykxlg.com",
-          "title": "Ignite Extends Cross-Chain Trading Infrastructure for XRP and Assets Transitioning From Sunset Networks - mykxlg.com",
-          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOT1ZzbV9jWi1aT25XX2VEaXVTTlNrZThqazhRVkNld0Y5OUFUeVIwRkNocWUzOFV4TC1kZU1NSmYwczlRV0xLNTA2cEJQS0o4bjFrY0VmZkRYa0JrU2tQd3ZQM3BtVkpTT0ZYdlFGeXRHSlVjSnd4bDVmX25rclB2QUpRZS02QThuMk40LTZTWVhxeWdwVld5V0c4ekVacHdqYjZXQlJja1RpeEhaWFU2WVM0a3VDMlhUV1ktOU91NmNjek00ZDdhLWZ4Zy1keVhEeXdRM2dnQVNsU2p3T196em9pTkY3Yll1WFpaT3ROczFJR3RvdzBxLVJubi03TTc4VzlCcWVTZmVwQVZBdTY1dnhPN3FJQWU1TTZwb0h6UkdrMlUwcHNIT2NzOTJCVVhQ?oc=5",
-          "published": "2026-10-08T07:04:15+00:00",
+          "source": "Pluang",
+          "title": "XRP price drops 3.4% in one hour amid $8.36M li... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0xLcmFNYTlUMGpJajJ4ZzNtQWNkMS1qZWpwX25sUzE1YnBUY2JaNDV3aGl2T0lOVFlCSWxvc0RmT2xaMk53UHhsQVVRWW5HNkdwLWtEejdwUkxnYks0ZFFiLXo4VEtsQmR2WVMwMzkwaURxSVBGelFhMllVMVJTZmg5NVNka2JYS2F2eTdoM25JRWx1RjFNcFFR?oc=5",
+          "published": "2026-10-08T15:45:44+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Bitget",
-          "title": "XRP ETF Options Just Showed Up In An Official SEC Filing - Bitget",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BWlhlVFhHdUhSbXNDVzNBVWlSaDlqV2xiOFZtNHNUdHh2M3BZRjN6Zmg0RTQ0Q2xnVEY5bGEtLVNvZmJsampaRnpudHJ5RnBfR2NETTljei1ob0lJOWxKR0ZBONIBY0FVX3lxTE1BWlhlVFhHdUhSbXNDVzNBVWlSaDlqV2xiOFZtNHNUdHh2M3BZRjN6Zmg0RTQ0Q2xnVEY5bGEtLVNvZmJsampaRnpudHJ5RnBfR2NETTljei1ob0lJOWxKR0ZBOA?oc=5",
-          "published": "2026-10-08T06:52:25+00:00",
+          "source": "Pluang",
+          "title": "XRP price dips below $1.40 amid mixed exchange reserve data and weakening momentum indicators - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcGs1OW5mUEFYcWk3bDRGbUQzZDctSkNfX3lCVnNfT28zZnVZdnV0dXFaOVkyZHJIVWtQNFh3VlVtalcxQ2k3cnVELUFnN21EZ1dPOWM1NGRBSGtGakpTWVVMZERpdUcxNXJFQWc5RzlUb2ViU2JPN21YZ21veWtuZkFpRjFIWlFKdnBR?oc=5",
+          "published": "2026-10-08T15:04:35+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Bitget",
-          "title": "Ethereum, HYPE, XRP, and Zcash fall sharply, key support levels in focus - Bitget",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wQ1RpZDNTUTFPbzA1SHFpTVV3UWFDTzF1TVBES25kNUtUTzBTWGNOU2VFZEt1OUtGRGVPcF9VeldxZ1cwZGdZNmZLNE5WNEpPbmZxNFlaSHVaRkg4LUJNMW1Sa9IBY0FVX3lxTE9wQ1RpZDNTUTFPbzA1SHFpTVV3UWFDTzF1TVBES25kNUtUTzBTWGNOU2VFZEt1OUtGRGVPcF9VeldxZ1cwZGdZNmZLNE5WNEpPbmZxNFlaSHVaRkg4LUJNMW1Saw?oc=5",
-          "published": "2026-10-08T06:52:25+00:00",
+          "source": "Pluang",
+          "title": "XRP holders face trade-offs in yield options: f... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbkpGTmxFcFJhb0txRm1uWjNxcXNUYV90aVkxUzl5MzVKTVdsUU16QkNnU2R2N0gxZmM3TVdwVjhYUnd2czdnUW5VRjVlNi1VdWtHZHRONnVaUFFBaU1zVkNleUt2NGQ2YTFoVXRmQk50SXZZaWZnNlFCTWFoZTdiaWhGcUdEQUxodTFDazl3eGdxcldReFdpX05ySmhWMHVCcWVGTw?oc=5",
+          "published": "2026-10-08T14:56:35+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "CryptoRank",
+          "title": "Top Analyst Asks Why Lock Up 50,000 XRP for 6 Months Just to Earn Yield - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPejlGWnZscjFjQ3NDbTJ5STRySGtSTGxXOUtEcm9qMVQ3c2xDWVVOdzI5XzY3d2ttVkpLSXRyY3o4aHhiV2xWTGt2bVZRNWtCcTVYRmlNNm80U2RTUFNQUi1RQ2w5OGExNXZmNWI0cF9WM2ZkOFE0WkNYVzF1ckhuYzc1SXQ0YVpsRTB3TTlOT2ZOMVdTdVVWRnl4d2F0OFlSYjlnREwzREFKUEVH?oc=5",
+          "published": "2026-10-08T14:55:14+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -145,14 +145,6 @@
           "link": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart",
           "published": "2026-10-07T12:18:43+00:00",
           "summary": "OKX raises more, $500M+ in crypto longs liquidated after a late evening selloff, and Abstract calls it quits.",
-          "via": "Decrypt"
-        },
-        {
-          "source": "Decrypt",
-          "title": "Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation",
-          "link": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation",
-          "published": "2026-10-06T12:53:04+00:00",
-          "summary": "A London quantitative hedge fund joins the round too, seven months after the NYSE's owner bought in at exactly the same price.",
           "via": "Decrypt"
         }
       ]
