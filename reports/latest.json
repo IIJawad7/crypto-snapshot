@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-07T21:58:24+00:00",
+  "generated_utc": "2026-10-08T01:55:09+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 83144.0,
-      "change_24h_pct": -2.883,
-      "change_7d_pct": -0.5735223070999163
+      "price": 83198.0,
+      "change_24h_pct": -2.161,
+      "change_7d_pct": -1.9816788515086947
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.4133,
-        "change_24h_pct": -5.774,
-        "high_24h": 1.5028,
+        "price": 1.4255,
+        "change_24h_pct": -4.348,
+        "high_24h": 1.4908,
         "low_24h": 1.4067,
-        "range_24h_pct": 6.8315916684438704,
-        "change_7d_pct": -5.147651006711406,
-        "change_30d_pct": 1.1885157872127072,
-        "ma7": 1.486242857142857,
-        "ma25": 1.4599680000000002,
-        "ma99": 1.2520242424242423,
-        "rsi14_daily": 44.67049535248511,
-        "rsi14_4h": 26.722043130213947,
-        "atr14_pct": 4.673459279699991,
-        "realized_vol_30d_daily_pct": 3.666899917458693,
-        "volume_24h_usdt": 237932619.07726,
-        "volume_vs_20d_avg": 0.9069964650729443,
+        "range_24h_pct": 5.978531314423807,
+        "change_7d_pct": -4.578619720195465,
+        "change_30d_pct": 0.5927598616893626,
+        "ma7": 1.4776285714285713,
+        "ma25": 1.4636640000000003,
+        "ma99": 1.2558686868686866,
+        "rsi14_daily": 46.069599336085126,
+        "rsi14_4h": 31.289528264271937,
+        "atr14_pct": 4.202329170759085,
+        "realized_vol_30d_daily_pct": 3.6275571141763043,
+        "volume_24h_usdt": 239765753.18804,
+        "volume_vs_20d_avg": 0.9000409144103758,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -36,10 +36,6 @@
         "high_30d": 1.6581,
         "low_30d": 1.2468,
         "last_7_daily_closes": [
-          {
-            "date": "2026-10-01",
-            "close": 1.4939
-          },
           {
             "date": "2026-10-02",
             "close": 1.4847
@@ -62,72 +58,76 @@
           },
           {
             "date": "2026-10-07",
-            "close": 1.4133
+            "close": 1.4215
+          },
+          {
+            "date": "2026-10-08",
+            "close": 1.4254
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 1.1816316422557094
+            "distance_pct": 0.31567870922482033
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 3.941130687044514
+            "distance_pct": 3.051560855840063
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -0.9410599306587497
+            "distance_pct": -1.7888460189407263
           }
         },
-        "from_90d_high_pct": -16.859815283251955,
-        "from_90d_low_pct": 43.30764550801056
+        "from_90d_high_pct": -16.142126007412195,
+        "from_90d_low_pct": 44.54471709592376
       },
       "news": [
         {
-          "source": "The Manila Times",
-          "title": "Crypto News: Remittix Sets $0.46 Final Presale Price as XRP Price Prediction Explodes to $10 and Solana\u2019s Alpenglow Upgrade Fuels a $200 SOL Target - The Manila Times",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSEw3OExCaklGblZ5U3BrUE8yZ3dkZlFQOGZVYWpfV3g3RXJzQmxVbm9hOEw4RWxRSEY0QTZhd0lWZi1TZmNpTnoxMG5RUWc0dDRiR1JQd3ZUT3o4bmQ5bzNHR3B5VFBVX0dLYzlpZmNKcmJ3WHQxYXBFUjB6aWJUdFpUalpJOVF0a2lQNTBLUFZEVVlSdTlGNkJsWFdtTFB1cFZoQ0w0bFFER0EtUXdpanludmk3V0JJczM1dVc4THZab1ZVQjlzYXkwODN2RlpnUHE0bGs1UFhpU1FXMk5sYkZZdUVoZU5HVzY5MTVhZGlwd1o2S2ltc3h6UThPQlkzcEd6Q2U0dU90X0VNNUE2U0c2eEtOR191TjM0eFdpYTFZUDhvYW14OWVxOFFkV1NoOGJpTGxtT2lYZmvSAcACQVVfeXFMTkxDLTQyMlVkUWRmODF0RXp4Ni1JTjJMVmpucDBhMUJReU9TLUo1NjZyeEZlbEh5Vy1aSnZQMjk5alJncG1PNnNhWHc0ZS1RVnJMS0VBUzNCQzBGdEVQdmVUbjZlMEtyUGpLWnJjaDh0Z3FFLW1WSlVhQUpiTVc3ZEhSQW51MDVpb2k5eGVLM1Nmd01mNTFfLVluU0Y0c1VkUkMtNWhFRUlQdTlMakdVclZaR1ZmZGJJTFZWTTBnV3FwR21oRjRBc3RFVW05Mno5TzVRV1hBSkhWOE5kVW9rTkc2cEwza09RQW0tR1d2UXdJb2pFNEJqbEhJWkFhdDFPTjdZck1PbnkwQXpPU3FZTkp3dWpJYWhTOFp0dzFxNFE4a2RVRFVVcVZpdGktV1hLa2d5TkdSUG5HU3piVG0wMmk?oc=5",
-          "published": "2026-10-07T21:18:15+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
           "source": "Robinhood",
-          "title": "XRP price at Oct 7, 2026 at 6pm EDT Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVFHREQ0LWYwdDZZY2t1ZERZemdYNHNLVUM3NGZITFNjX0N5VU9HcHFtTTFyVTBYWHpIdFhZSUVCSllFSWtwX2tDdTNMM3R2ZVF6NzRDZTlDaEVrSVJlV2kwWGozSHZJZlk0RnhPYVduZUdLa184REZoQ2FFbld2S2VXMXpVWnFwSWg3VDdJT1BuYkk1T0RSdmpBV2xmTEFqN2o0aXdxNFlFcWY2?oc=5",
-          "published": "2026-10-07T21:04:35+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Robinhood",
-          "title": "XRP price at Oct 8, 2026 at 5pm EDT Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV19jeUpiR21UX1J3Nm51bWJLeXNyX1BCcmYwOVJTaWhHcG1YSkpRX2lfc2VCWXYyYm40MTJPSWJKX1dtNmt5dm9mRUpxRVZhaE9Cd3BhLW5VMmZBN3N5RGRqUVpMMjgzdjZGT2JtT2tlb0lnWWJPcUVEbnE3WXNKX2MzWnpGR0ItdHBBN0trb1FvNVB1c0c2T1Z4aEp4dGsxZmlNRC1oc3NVakdu?oc=5",
-          "published": "2026-10-07T20:06:26+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "StreetInsider",
-          "title": "XRP News Today: Ripple Joins OKX Expansion as Remittix Prepares to Enter Global Payments - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON3JiQ3NRaGRVNFczRWhueHpWTlMzdTFlQkdZTXRNd2FvVnNkLW5Oc3h5TDQtX29qTG40NEZ0UXk2T0ZlM1NoYnJkQjZ4ejFfMXFSVlZvRFZJWEx5NVlwQlRycUFKUmJ0ZVhob2wzV0pERGVuM19iVG4yU3pLRmc1SVpkWkFKQ05KSW1pTHllY1ZRdEtCSFhGeUhSS05Wa1QwWDQ2S2FwVXdTQ1g4aFFsNUh5WjZ4Y0R2cUlWUGhOSGpCdHJkT19DOFZGUzBRclVna25zVUFmWE5WRWNyVkhqT2xTVmo?oc=5",
-          "published": "2026-10-07T20:06:13+00:00",
+          "title": "XRP price at Oct 7, 2026 at 10pm EDT Crypto Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYnBsVklyNVQ4bWlRX0h6S09iWGZrNHh3enFYdk1JZzAtZlUyU1YybmtvaWVkbndJMzdmdERnejg1QWpSeDlUMzZQRHFhdU1GZzMzQjJpbWNTUUVBVmhaOTJjRWpsMVN2YnBXLVprMlJ6WFoweHRidGV0Y1ZRZHhTZnlIX3ctYzlSN2tNZGU3ZWR1VnlZQzI1ZnB3MlBqRnJrZDBPSFFXSGU2UUlJaFE?oc=5",
+          "published": "2026-10-08T01:03:27+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Pluang",
-          "title": "XRP price falls below $1.50, $10 target seen un... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVkFUSHpzeS1zZUxLY2VvaGZWMHRkaGl4OUxjSUViMGVpR3ctQnU2NG9kcjhtRW1xc1dxYjI2TlpvczNtMVo5Ulppel9GM005RTVudmJ1SmpXcFgwWDF2dERCejJEMjdFaXczZERoMjRpejVSY01yb0JlWnE2TnZJTlMwemtnLUZEXzVCU3hvSW00WlBP?oc=5",
-          "published": "2026-10-07T19:55:39+00:00",
+          "title": "XRP whale withdrawals from Binance hit 7-month high, signaling possible reduced trading supply. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3lVeWVyWnZJNU4zd2ZwLXBsYm92a0NsVThEYzZvMU4tT3BGWnBfbGFDN1dtM0tJaUpuWWJkY25WT3V6Mnh5aUpKUzhvM1FSbWY4S1FhRktubmZRMGZQSmpXeXd2Tk1YQWZfRU93WldMOGd2OExIWVJpaDJOTTZjYkVHRExsdHVo?oc=5",
+          "published": "2026-10-08T00:54:25+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "CryptoTicker",
-          "title": "Can XRP Price Reach $10? Here Is What the Math Says - CryptoTicker",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGR0dhWW13bU9JWFNhUFFrclZ6SjhncVhrOEZvSUZzSzhJa0R1bkV0R0s3aDFMSVRGMHFWQkxVSEZMTFBkWG1MUVB0MEwxTkhpbkFFVkE5cmxTNWtqVUx1VWxLLThnUEkxQXh5a0xkOEJsenNFdWhTUA?oc=5",
-          "published": "2026-10-07T19:42:22+00:00",
+          "source": "StreetInsider",
+          "title": "XRP Price Takes Centre Stage as XRPN Prepares to Bring a 473M XRP Treasury to Nasdaq - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRC1IcVctT3B5aHRRZjd0R0dUUGZZS25peWN3TkpXZjlrTHVneEpnSGN2U2x1WjFrYm81a29fM2ZvZURJWlhhYmcyaUdIN1NRbHIyRVBJUUg0WHZ1a1V6UVZuVjNwSC15Um1qcy1sYmlFT0dURHlhRHhDMGpKbmdFRjVRb3RQUVAyTGxLSzJaSnBvZ0trZUQ2SGczRXNwZkNqWjhTby12MzFBN1dPX1ZUeG51SklUeGgwWVBoRTJpTlZNRGpOb09PRmxLTnVWTURnS2ttdmNma1Izck8y?oc=5",
+          "published": "2026-10-08T00:22:36+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Pluang",
+          "title": "U.S. spot XRP ETFs saw $3.14M net inflows on Oc... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWjY3NnFaSHowaFk4RmxRQTRWNnRfU083aTdGQnVsV0dJTjRmUFJXdEdsbmZ2ZzExb3JoelVZcWNtN1hxS05oZGxQNjdsbENSZmg4WVp1cWdTazJFMGN4NWNzNkJZbmR5eVdOYlV6UVUteDMydzhSbkVVYmNUZ19YSm9n?oc=5",
+          "published": "2026-10-07T23:54:18+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "TechBullion",
+          "title": "XRP Price Could Face Its Biggest October Catalyst as XRPN Prepares to Begin Nasdaq Trading - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWDMtX19BdkM5XzFiQno5N2ZUalJsUU1IQWcwUnprQUhJTURqOFlUT0pIXzVoZm9aQ2pKYWwwY0J4N01LOW54cWFOei0wbjR2VnBrbmRncHc2X09lZXJCNjJLZnlqLXd2SmJrenVkbkVqMlpPMTFOSG0xaHItLWRLcktDdHdnM2lkQzBHVVdmSmNxV1pLQ3R4blA1TENwSmhMOEtkbzFJX1Nnc1pjWFYtNExDQnlCdw?oc=5",
+          "published": "2026-10-07T23:45:59+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "CoinNess",
+          "title": "Paxos Crypto Brokerage adds XRP support - CoinNess",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ic2hGQldXUndOTFB0ZFBtb2pVYjRoS3Rhb1ViOEhSZXZuUWd3QXNka0J3ZVZBX0M0MXlhNGVibUJUOV9kNmVnRzJHc0g?oc=5",
+          "published": "2026-10-07T23:08:23+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -160,8 +160,8 @@
   ],
   "errors": [],
   "fear_greed": {
-    "today": 71,
+    "today": 64,
     "label": "Greed",
-    "yesterday": 73
+    "yesterday": 71
   }
 }
