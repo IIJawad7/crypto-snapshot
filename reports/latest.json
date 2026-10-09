@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-09T09:02:44+00:00",
+  "generated_utc": "2026-10-09T16:11:43+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 82626.0,
-      "change_24h_pct": -0.383,
-      "change_7d_pct": -2.238587964860972
+      "price": 82882.01,
+      "change_24h_pct": 2.075,
+      "change_7d_pct": -1.9356821108305833
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.4029,
-        "change_24h_pct": -0.785,
-        "high_24h": 1.4182,
+        "price": 1.3849,
+        "change_24h_pct": 2.282,
+        "high_24h": 1.4074,
         "low_24h": 1.3189,
-        "range_24h_pct": 7.529001440594429,
-        "change_7d_pct": -5.509530544891216,
-        "change_30d_pct": 0.566308243727609,
-        "ma7": 1.4595285714285713,
-        "ma25": 1.4610600000000002,
-        "ma99": 1.2585949494949493,
-        "rsi14_daily": 44.32890209853983,
-        "rsi14_4h": 39.27153405861901,
-        "atr14_pct": 4.351700049896642,
-        "realized_vol_30d_daily_pct": 3.668257507404689,
-        "volume_24h_usdt": 224224711.63421,
-        "volume_vs_20d_avg": 0.847345619344151,
+        "range_24h_pct": 6.710137235575098,
+        "change_7d_pct": -6.721896679463857,
+        "change_30d_pct": -0.7240143369175667,
+        "ma7": 1.4569714285714284,
+        "ma25": 1.460344,
+        "ma99": 1.2584141414141412,
+        "rsi14_daily": 41.885905581037186,
+        "rsi14_4h": 36.08700646590984,
+        "atr14_pct": 4.44198040226921,
+        "realized_vol_30d_daily_pct": 3.656528552565182,
+        "volume_24h_usdt": 170953627.54884,
+        "volume_vs_20d_avg": 0.646034089457606,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,80 +62,72 @@
           },
           {
             "date": "2026-10-09",
-            "close": 1.4029
+            "close": 1.385
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 1.9317128804619
+            "distance_pct": 3.2565528196981663
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 4.7116686862926915
+            "distance_pct": 6.072640623871761
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -0.2067146624848637
+            "distance_pct": 1.0903314318723378
           }
         },
-        "from_90d_high_pct": -17.471615977410437,
-        "from_90d_low_pct": 42.25309267896979
+        "from_90d_high_pct": -18.530501794223188,
+        "from_90d_low_pct": 40.42790509024539
       },
       "news": [
         {
-          "source": "Robinhood",
-          "title": "XRP price at Oct 9, 2026 at 5am EDT Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPckxwLWVoZkVpd1ZPaWJFWGM0U1N3ZW1hRVFLUkQyd2d5MzhySmc1VVNOcUM0RE9EMkZvVUI1VWJrUVlJZkt1a29obkFmaWZyU3d1UWFPUDJvZVpkZmpXNjR5NlRhV2RSRDQwTUJSWmdzbXluTS1DMC1RM2Z2cVFjWHRRSS1aSHUxemJlamI4dF92TlRyUzAwUTBNc2dhSW1XSl9CMEhpNmctS0ZR?oc=5",
-          "published": "2026-10-09T08:08:05+00:00",
+          "source": "TechBullion",
+          "title": "One New Cryptocurrency Keeps Drawing Smart Money as Evernorth Takes 473M XRP to Nasdaq - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbmc2Tjk5ZFZlTjVWdUEteVByZFBvLUV5Y0dDYnNpQWFURHhSYWhJaGNiT0lSQjJwVlZ6YXd3M3pDekk4YmNuMkFoaVgyUzllOG9tVnUzMGE2R1lGT3dodmxUSjVEcC04azJGaUYtZTZmbTBhaUhDSlBfWExoU0RESGxlekpoVUZzcGFTZmQ4algtNWl6bDZkV3B0TlQxZHNBb3FQNVlRYVZZbV9fUWFxMw?oc=5",
+          "published": "2026-10-09T16:08:16+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Altcoin Buzz",
-          "title": "XRP Price Ripple TA XRP Technical Analysis - Altcoin Buzz",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWkpKRTVTNlFhcGxyZ2I0SVh3ZXpudzNIWjRhQUVtcnhILVdSTTRWb09ndWRMcmVsRExYdWtBeG1jbU0zQUtzVUdkNjR3ZlpWa1I3YXc4ODV5VnktSUM5eWUzS1RzcEt2TWZOZjdqUzRHejIzMXZWRHNoLXg0MV9lRW1IcmgzaWE1YzdlRDlhaE40blg3WFFTRDFheEpUTGo5?oc=5",
-          "published": "2026-10-09T08:02:56+00:00",
+          "source": "TechBullion",
+          "title": "XRP Price Prediction: Hyperliquid ETF Growth Explodes as Remittix Targets Payments and Trading - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYlpVXzFaM0tGNmw5YVBHNThrUjdsdUdKc1FoTkdCTi1rQUZnMG9GcmtTZkxnbjBTZElxdHpJRkJpZi1HOTYySlhsSi1heEpITFpFa3pfeG1qaVozX1FSY0xMUW1xTTFPb2g1ZFIzWTlRSnd5TDFBdnlvNUZHRGpaUGpscWgxeDF5Q1lzbjJrM3NNcjM5amc2Vm5tWk5BR1RkbmdJSXBzT3J3RnFNU2x3RVdhNlVEVzJOM1E?oc=5",
+          "published": "2026-10-09T15:25:31+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "FXLeaders",
-          "title": "Ripple Market Boost: SEC Filings Open the Door to XRP ETF Options - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR013UXllbDk5OVVjbGw1MGJtTVRBR2RhYVJFSXNDX0l0Nk1XOWxLVDBtbF9FQk5ma0hHVDZLSG9iaEY4VlJqcXFheUZ4aG83NTQxSkU5UHBTakNESXVYVXFSSlpwT2otVmw5NDFZcnl2ZVp4dXJZcW9STTk1TkQyd3pvNm9pakVUdUhPMjI0eElvbl9GeF8wLTFELUVHbVgxdl9jdFB5cENpX3c?oc=5",
-          "published": "2026-10-09T07:52:30+00:00",
+          "source": "Benzinga",
+          "title": "XRP Beats Bitcoin, Ethereum, Solana in ETF Flows: Can Price Follow? - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOd0JUelVSWlNFYzR1TTAtYXFZOV9LTUpfSktLOVhITW1vQVlEZmM2T2RjZFE1ZmNCRndNZXNGT1ZDTGtEX3U5WGktTE9XNVp1ZnhzcC1SUk9lb2owN3JLZDg0ZmlWNmFaZ3lCUGhhb24tREkwQ0RYV1NpVUdJUnZWLUFrTVh4WHJiNHFMUWVWc3hUZXlTbEpCbHV2bVNhYS0tcFkyMWxtZGVzYXZCZldYbVlWQ1B6aTYwRnpCcUtRcklkNTVsNzZ3alJFWlUyMkhwTDIyV2ZvbGV6aG9nZlcxLTNMWnU?oc=5",
+          "published": "2026-10-09T15:23:10+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Pluang",
-          "title": "Upbit's 24-hour trading volume rises 13.2%, led by XRP/KRW with $145M in trades - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZEh1ME1ZcDF1MGZyQ3J1YjBnWTZUMDkzdURMZ1ZrUlBrSmRVb3RWem94eGNnT2FMRmR5Y3AzODVjQjFJX0JUbmdmUXNhaTZ4WE52MmxjTnpkaktuWE1UUHVsMnBDaElGZUZZaG5UckdxVmxlX3ZzQWdsbVBoc2JQWG80M0dfWUdwb1poUnl0Vmp4eW9WaFE?oc=5",
-          "published": "2026-10-09T07:04:37+00:00",
+          "source": "CryptoRank",
+          "title": "Crypto Price Analysis Oct-09: ETH, XRP, ADA, BNB, and HYPE - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUEhsT1VHTWxJTnFYVFdMNUJfZmR0MWVsdWV2T0dnUXdfS1RRYzJMMFF2TnRyZnI4aGNmNE9XVWFUdkpENmFOcFFZdFQtY0xCcnRYVkxMWVlhbVpfOVdHZU1DUUxSM1RkWjRWMHBOZXZKcVRpZlNJOXNBbXVIZGlOdWdFeUNoVzk2Y2N2empfU2o2RTdmZHc?oc=5",
+          "published": "2026-10-09T15:14:46+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "CoinDesk",
-          "title": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
-          "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
-          "published": "2026-10-09T06:51:32+00:00",
-          "summary": "Bitcoin ETFs lost $244 million on Thursday and the ZEC fund extended a run of October outflows. Bitcoin is back near $82,000 after a $1 billion liquidation.",
-          "via": "CoinDesk"
-        },
-        {
-          "source": "TOKENPOST",
-          "title": "XRP Ledger Activates Delegated Permissions for Institutional Controls - TOKENPOST",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yZUE1OWlReXlPMTJwQV9uQzhBRHdVTnZ4ZFdEa2RoRWFZQ3dRUlJnMGptZTdHWEsyUkdsZjJHSWduV29BYm1fc1Q3TENYanp3VlAtVmk2WWxDRzg?oc=5",
-          "published": "2026-10-09T05:41:49+00:00",
+          "source": "Bitget",
+          "title": "XRP Batch amendment with fix goes live, XRP price tests key support at $1.28 - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fRUJJaTJiaklvS19CdS1sRkZhSngtM29YMGFnM1dFZzh2Y2FrSHF0SEFBTEJFMk1HZmhkQlIzSzJ6TUE0ZE80V2xJZ0N4ZGpSaEM4dHRKT28wQmp2UUV1MlRlONIBY0FVX3lxTE1fRUJJaTJiaklvS19CdS1sRkZhSngtM29YMGFnM1dFZzh2Y2FrSHF0SEFBTEJFMk1HZmhkQlIzSzJ6TUE0ZE80V2xJZ0N4ZGpSaEM4dHRKT28wQmp2UUV1MlRlOA?oc=5",
+          "published": "2026-10-09T14:55:56+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Pluang",
-          "title": "XRP Ledger adds controls letting banks split du... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTjltU0xDQTk2aFhpT3ZYdWwtYjhWSFVJUDMwQnpZMkV3Y1Zwd1FwNHJyRGxzbEZidHQ3T1BDX2o2M2tRdEFFUnNTbDN1WG84WjNsamU5RlRTR2EzaVpfc05TWFhieWxEYW0teGRZUHFDbVNial90OHFkSUZmWmJaOWo5eHIteWNRMERkdWUwZlRPVGxoQVpBaHpPeEd4OURBZkZYajlsYVJONVk?oc=5",
-          "published": "2026-10-09T04:35:31+00:00",
+          "source": "Bitget",
+          "title": "Dark Defender Says XRP Will Target Wave 3 and This Will Happen - Bitget",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Kd1lpVFNlZDZ3cWVFNGtKWkU5V3ViVnY2MER4MnB6Z3U3OWJkYnNZb1FhRHZVWkNLRjhyUkprbUVJOGp3TTA3dGhMczU3OWo5R0J3ZmszcUlBcWhiU2x4MlhhY9IBY0FVX3lxTE1Kd1lpVFNlZDZ3cWVFNGtKWkU5V3ViVnY2MER4MnB6Z3U3OWJkYnNZb1FhRHZVWkNLRjhyUkprbUVJOGp3TTA3dGhMczU3OWo5R0J3ZmszcUlBcWhiU2x4MlhhYw?oc=5",
+          "published": "2026-10-09T14:55:56+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -146,14 +138,6 @@
           "published": "2026-10-09T04:21:36+00:00",
           "summary": "The feature lets businesses give separate accounts limited powers such as approving customers or making payments, while keeping the keys that control their main holdings offline.",
           "via": "CoinDesk"
-        },
-        {
-          "source": "Decrypt",
-          "title": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
-          "link": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart",
-          "published": "2026-10-07T12:18:43+00:00",
-          "summary": "OKX raises more, $500M+ in crypto longs liquidated after a late evening selloff, and Abstract calls it quits.",
-          "via": "Decrypt"
         }
       ]
     }
