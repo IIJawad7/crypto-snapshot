@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-09T02:09:04+00:00",
+  "generated_utc": "2026-10-09T09:02:44+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 82110.66,
-      "change_24h_pct": -1.14,
-      "change_7d_pct": -2.848327829772601
+      "price": 82626.0,
+      "change_24h_pct": -0.383,
+      "change_7d_pct": -2.238587964860972
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.3907,
-        "change_24h_pct": -2.29,
-        "high_24h": 1.4283,
+        "price": 1.4029,
+        "change_24h_pct": -0.785,
+        "high_24h": 1.4182,
         "low_24h": 1.3189,
-        "range_24h_pct": 8.294791113806955,
-        "change_7d_pct": -6.331245369434891,
-        "change_30d_pct": -0.3082437275985672,
-        "ma7": 1.4577857142857142,
-        "ma25": 1.4605720000000002,
-        "ma99": 1.258471717171717,
-        "rsi14_daily": 42.68678959052886,
-        "rsi14_4h": 35.08702847407555,
-        "atr14_pct": 4.329268919043852,
-        "realized_vol_30d_daily_pct": 3.6586501540512497,
-        "volume_24h_usdt": 249282220.26518,
-        "volume_vs_20d_avg": 0.9420379929696245,
+        "range_24h_pct": 7.529001440594429,
+        "change_7d_pct": -5.509530544891216,
+        "change_30d_pct": 0.566308243727609,
+        "ma7": 1.4595285714285713,
+        "ma25": 1.4610600000000002,
+        "ma99": 1.2585949494949493,
+        "rsi14_daily": 44.32890209853983,
+        "rsi14_4h": 39.27153405861901,
+        "atr14_pct": 4.351700049896642,
+        "realized_vol_30d_daily_pct": 3.668257507404689,
+        "volume_24h_usdt": 224224711.63421,
+        "volume_vs_20d_avg": 0.847345619344151,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,81 +62,89 @@
           },
           {
             "date": "2026-10-09",
-            "close": 1.3907
+            "close": 1.4029
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 2.8259150068310923
+            "distance_pct": 1.9317128804619
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 5.630258143381028
+            "distance_pct": 4.7116686862926915
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 0.6687279787157552
+            "distance_pct": -0.2067146624848637
           }
         },
-        "from_90d_high_pct": -18.189305253250186,
-        "from_90d_low_pct": 41.0160210910566
+        "from_90d_high_pct": -17.471615977410437,
+        "from_90d_low_pct": 42.25309267896979
       },
       "news": [
         {
-          "source": "TradingKey",
-          "title": "XRP (XRPUSD) Suddenly Goes up 1.18% on Oct 9: What You Need to Watch - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdmVSU2k3MDdpMG9PR21oVVoxYU1YUlQxMUxkOTVGN1JYbFNoeTBJckVuSl8wYnE2d2x1ZllhcDdxdGh1UTQ0VUoyekpkaDNyS01pOEdUaS10QU5HOFNRUkNrY2VNb2pGU21CSjhBSWtvOUkyQmJuR0FPUmlWQmZ0OWEzR2Y2TFdwd284X0R3?oc=5",
-          "published": "2026-10-09T01:45:17+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
           "source": "Robinhood",
-          "title": "XRP price at Oct 8, 2026 at 10pm EDT Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2VFbHA0QTBqcWNOMVIyRUYwYXc4dnlaY3F2Z3VvLUVacGtyZGFIaC0zZWVHeS1NZGpnTF9JWW1MN3F3VkxtZlpsc3JGa0tLQ1JFalE4ejg3U2hvVjZwQktscUs4NmYtazZmaDRjTWFZcV8tOE5TUEl6aFI5MXA2TWU2LUFncTFqdVBKX3lxOE01QkdqajRKSFp2OHctTzdJNUVGSmc1dXlnU2F5Y1E?oc=5",
-          "published": "2026-10-09T01:06:51+00:00",
+          "title": "XRP price at Oct 9, 2026 at 5am EDT Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPckxwLWVoZkVpd1ZPaWJFWGM0U1N3ZW1hRVFLUkQyd2d5MzhySmc1VVNOcUM0RE9EMkZvVUI1VWJrUVlJZkt1a29obkFmaWZyU3d1UWFPUDJvZVpkZmpXNjR5NlRhV2RSRDQwTUJSWmdzbXluTS1DMC1RM2Z2cVFjWHRRSS1aSHUxemJlamI4dF92TlRyUzAwUTBNc2dhSW1XSl9CMEhpNmctS0ZR?oc=5",
+          "published": "2026-10-09T08:08:05+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "CoinMarketCap",
-          "title": "XRP's Volatile 9-Hour Swing: Macro Stress, Leverage Flush - CoinMarketCap",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfSUhFdXlhYmxlcjFNMmZ1M19sQ0o1TzczWi03bWpGXy1fbElxY1l5amgydTQ1MzdnVmtDZkhJX2ZXZ0t6a1RHYmY1Rm9DSTBHTlJPeUJjbG1nblE1Uk9FZ3F0dGlFczdCQWRoQWdRYzg?oc=5",
-          "published": "2026-10-09T01:04:00+00:00",
+          "source": "Altcoin Buzz",
+          "title": "XRP Price Ripple TA XRP Technical Analysis - Altcoin Buzz",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWkpKRTVTNlFhcGxyZ2I0SVh3ZXpudzNIWjRhQUVtcnhILVdSTTRWb09ndWRMcmVsRExYdWtBeG1jbU0zQUtzVUdkNjR3ZlpWa1I3YXc4ODV5VnktSUM5eWUzS1RzcEt2TWZOZjdqUzRHejIzMXZWRHNoLXg0MV9lRW1IcmgzaWE1YzdlRDlhaE40blg3WFFTRDFheEpUTGo5?oc=5",
+          "published": "2026-10-09T08:02:56+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "CryptoSlate",
-          "title": "XRPL\u2019s $1.34 billion stablecoin base doesn\u2019t tell us how much XRP users need - CryptoSlate",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3R2ZXRoS3pwdnE5UlBHbWMzVWNUYktBanFmRGFiSC1ad29GcTZRdndRNW52TFRGbzFqME84Z2p5R0tLeUtUeE9HRS1aR1duV2JWMWh0VTBYdXhZWFhGZzRicVlFNExYT3R6bDZtYWJLNmxvUHlpdl96b0NLUXgxLU9Wd2VyMG5Xbk9SZ1FJbEY1UVRXYW9sTjFuN2tJQ2c?oc=5",
-          "published": "2026-10-09T01:00:56+00:00",
+          "source": "FXLeaders",
+          "title": "Ripple Market Boost: SEC Filings Open the Door to XRP ETF Options - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR013UXllbDk5OVVjbGw1MGJtTVRBR2RhYVJFSXNDX0l0Nk1XOWxLVDBtbF9FQk5ma0hHVDZLSG9iaEY4VlJqcXFheUZ4aG83NTQxSkU5UHBTakNESXVYVXFSSlpwT2otVmw5NDFZcnl2ZVp4dXJZcW9STTk1TkQyd3pvNm9pakVUdUhPMjI0eElvbl9GeF8wLTFELUVHbVgxdl9jdFB5cENpX3c?oc=5",
+          "published": "2026-10-09T07:52:30+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "FXEmpire",
-          "title": "XRP Price Prediction: Rally Could Resume During the Weekend as XRP Nears 200-Day EMA - FXEmpire",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWDZPM09lT2dfZ01CSFNHNERKUFNmemRsamVjLWp0ZDRKS0RDdVBJUG5oUG1iYmNiaC02WTEyLTg5bzRTNDdoeDdLbjdoVHliT2djeXJVX2pFTEhjT0dxeWJZb0MtOGFHZmh4T3pqTXhOb0R3Z0xRaEVjOU5mUmw3Sm96UTRXV2xsMjFWWkVQWkpaMUJBYVdoSVM3b2VmYWlSV2xreVFjZjFNWlVYbHFIVG1iaEJEdmpYUng3M0tCaHBBWGw5LTM5eDBWbzNBTW8?oc=5",
-          "published": "2026-10-08T23:42:23+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "24/7 Wall St.",
-          "title": "Ripple Signed Three Institutional Deals in One Day. Which of Them Actually Needs XRP? - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcHN1a2dmREpFZ2Z6N2dha3dKcVhmYjBJdEtuVHNlWWQ1YlYwVUhndl9Fa3RCMi1LcnplbVN5dElGVlc1MW1ORk03bGR2ZmJxQUpwOUd0Q25tYjBCRzRFNFRkNUlGSDhVSktUVDc5NURrd2x4bnlSNF9jT0tuZFh2RGtOak5xRWtOWTNSSUdlNFpBZEhrVzhQbkVsTy1DQUQ3bXhZR0RjSE83NTVuM1phZTc1MDhoSGhyMDZvVmdTeTl2QTFJT1RGQ0E2VUpzMWU4QV91Z0hNNmhiUQ?oc=5",
-          "published": "2026-10-08T23:00:00+00:00",
+          "source": "Pluang",
+          "title": "Upbit's 24-hour trading volume rises 13.2%, led by XRP/KRW with $145M in trades - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZEh1ME1ZcDF1MGZyQ3J1YjBnWTZUMDkzdURMZ1ZrUlBrSmRVb3RWem94eGNnT2FMRmR5Y3AzODVjQjFJX0JUbmdmUXNhaTZ4WE52MmxjTnpkaktuWE1UUHVsMnBDaElGZUZZaG5UckdxVmxlX3ZzQWdsbVBoc2JQWG80M0dfWUdwb1poUnl0Vmp4eW9WaFE?oc=5",
+          "published": "2026-10-09T07:04:37+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "CoinDesk",
-          "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
-          "link": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
-          "published": "2026-10-08T06:17:13+00:00",
-          "summary": "The crypto company's $1.25 billion acquisition of Hidden Road has opened a corner of Wall Street where funds pay to amplify daily moves in stocks such as Nvidia and Sandisk.",
+          "title": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
+          "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
+          "published": "2026-10-09T06:51:32+00:00",
+          "summary": "Bitcoin ETFs lost $244 million on Thursday and the ZEC fund extended a run of October outflows. Bitcoin is back near $82,000 after a $1 billion liquidation.",
+          "via": "CoinDesk"
+        },
+        {
+          "source": "TOKENPOST",
+          "title": "XRP Ledger Activates Delegated Permissions for Institutional Controls - TOKENPOST",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yZUE1OWlReXlPMTJwQV9uQzhBRHdVTnZ4ZFdEa2RoRWFZQ3dRUlJnMGptZTdHWEsyUkdsZjJHSWduV29BYm1fc1Q3TENYanp3VlAtVmk2WWxDRzg?oc=5",
+          "published": "2026-10-09T05:41:49+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Pluang",
+          "title": "XRP Ledger adds controls letting banks split du... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTjltU0xDQTk2aFhpT3ZYdWwtYjhWSFVJUDMwQnpZMkV3Y1Zwd1FwNHJyRGxzbEZidHQ3T1BDX2o2M2tRdEFFUnNTbDN1WG84WjNsamU5RlRTR2EzaVpfc05TWFhieWxEYW0teGRZUHFDbVNial90OHFkSUZmWmJaOWo5eHIteWNRMERkdWUwZlRPVGxoQVpBaHpPeEd4OURBZkZYajlsYVJONVk?oc=5",
+          "published": "2026-10-09T04:35:31+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "CoinDesk",
+          "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+          "link": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+          "published": "2026-10-09T04:21:36+00:00",
+          "summary": "The feature lets businesses give separate accounts limited powers such as approving customers or making payments, while keeping the keys that control their main holdings offline.",
           "via": "CoinDesk"
         },
         {
