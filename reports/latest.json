@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-10T00:49:54+00:00",
+  "generated_utc": "2026-10-10T07:06:04+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 82570.0,
-      "change_24h_pct": 0.833,
-      "change_7d_pct": -2.576363753923727
+      "price": 82724.01,
+      "change_24h_pct": 0.23,
+      "change_7d_pct": -2.3946486731648786
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.4008,
-        "change_24h_pct": 0.828,
-        "high_24h": 1.4074,
+        "price": 1.4056,
+        "change_24h_pct": 0.422,
+        "high_24h": 1.413,
         "low_24h": 1.3741,
-        "range_24h_pct": 2.4234044101593577,
-        "change_7d_pct": -5.758880516684606,
-        "change_30d_pct": 4.9602877266596845,
-        "ma7": 1.4462857142857142,
-        "ma25": 1.4654759999999998,
-        "ma99": 1.261210101010101,
-        "rsi14_daily": 44.1037206665106,
-        "rsi14_4h": 41.97969785289093,
-        "atr14_pct": 4.021681488129232,
-        "realized_vol_30d_daily_pct": 3.565237758309042,
-        "volume_24h_usdt": 121365317.24925,
-        "volume_vs_20d_avg": 0.471118044927542,
+        "range_24h_pct": 2.8309438905465445,
+        "change_7d_pct": -5.435952637244346,
+        "change_30d_pct": 5.319946051251301,
+        "ma7": 1.4469714285714284,
+        "ma25": 1.465668,
+        "ma99": 1.2612585858585856,
+        "rsi14_daily": 44.77683471556,
+        "rsi14_4h": 43.504679269696915,
+        "atr14_pct": 4.060797625823238,
+        "realized_vol_30d_daily_pct": 3.566433728499066,
+        "volume_24h_usdt": 106368140.2912,
+        "volume_vs_20d_avg": 0.41290173694065246,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,74 +62,82 @@
           },
           {
             "date": "2026-10-10",
-            "close": 1.4008
+            "close": 1.4056
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 2.0845231296402034
+            "distance_pct": 1.7359134889015415
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 4.868646487721295
+            "distance_pct": 4.510529311326139
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -0.05711022272988364
+            "distance_pct": -0.3984063745019917
           }
         },
-        "from_90d_high_pct": -17.595152656038582,
-        "from_90d_low_pct": 42.04015412695195
+        "from_90d_high_pct": -17.312783104888517,
+        "from_90d_low_pct": 42.526870817278436
       },
       "news": [
         {
-          "source": "CryptoTicker",
-          "title": "XRP Price $1.39: Ripple Prime Funds Leveraged ETFs - CryptoTicker",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ETHdmYkN2TGd3M3FpQ0VhNmhwV3VEZ3gydzY3ZFNicDQ3dmJhSUFGOTZWOFYzWVVjYkdld19KdnZaLUpBNE5mVVctYVBpQ2lZd0NGNno2N3JfUGg0MEJOUUxzX1BkSE9wYkRsSEdEZEVBWHZUdk8wRmNIUkM?oc=5",
-          "published": "2026-10-10T00:28:23+00:00",
+          "source": "Yahoo Finance",
+          "title": "100 Billion XRP Supply Was Nearly Broken by a 10-Year Bug - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalE2eEhTemdLNTE2TFNyZHUtSG5kUEhQVmJnSEJYTFFUWDFoR3lGQXNqU01rc1YtcVdkMGVGajNOT19wZDdmSU5VTVgzV2NMVGY0RFdrSkN6UXJXS3hMS3oyR3ExQ2NDLUV4WEcwUVItQk9LYmdkNWRrTTk1NWpFd2t5SzR3MXF5VHNaTWRyXzhyTkNsMmJlUERB?oc=5",
+          "published": "2026-10-10T06:33:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Robinhood",
-          "title": "XRP price at Oct 9, 2026 at 9pm EDT Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN3liemxNM2JjWlNyenEwcGdxNGg3bGQ1WThrQURGNjdURk1JYjV1VGZKc2dIVmFFMFpfLWJaOUdMcm1tNzR3RE5Ydm5UUHNUbU5JRzZEQmswMU9PZndpc3N4UkJaZm56ZnRsTUtKZXh0akFhYXlsY05vMUZJN3FFN1lScFRKaGtKaTdvWlUxTkhaMWpCNlkzc09IWU1acGFMYl9kRkhYc2pCRWc4?oc=5",
-          "published": "2026-10-10T00:03:46+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Cardano Is 92% Below Its High, and XRP Is 62% Below. Which Has the Easier Path Back? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzAyOGJTSy1EZDljT3EzUlhUaF9rQ0hpYjZmQkdBbFM3Qlk1eC1OaC01R2I0SDVNMUdEcDhCNjlwMF9wNFlGOHltd3hmS2gwZlA4R1RfVTktZ1lwMU1VR2lleVdrNFpPOFJNRm93WFliSnNia2gzVmlxRl9oRUlIeV8zX0pWdFNnY213U2lLTlVfMzRa?oc=5",
-          "published": "2026-10-09T23:47:38+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "TechBullion",
-          "title": "XRP News: Ondo Rides the RWA Trend as Remittix Builds a Consumer-Facing Payments Network - TechBullion",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeXhXdFRvMDNBWG5FZHFKWHlmV3cxX2M4WGFvY0Z5bFNsMmVsd2ZZeWJ4ZUdLdXMyZk9qVXpXbzdQQ0UyZkdGcTAzVXk2UThFbmplVUQ1eTVGMXpzMm1nbFlSUE9iZklPbVlWRXh1Zi1YcU5SaEtpcVZDVDcyZzNWOXFHeUFTcEp6eG1iUUtTNmhGZVRyNm4tcFF5M1dHQ0R4a2REZTVFRUhIaFVSdlpQZURR?oc=5",
-          "published": "2026-10-09T23:38:49+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "markets.businessinsider.com",
-          "title": "Crypto News: Remittix Sets Its Final Presale Price at $0.46 as XRP Price Prediction Targets $12 and Cardano\u2019s RealFi Expansion Revives the $1 ADA Dream - markets.businessinsider.com",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQYVFhQ1ctYnV3RUVFRkJ5MlZJSzN2WnFXZHNaZmJzYzJSR3BsNUl6MWpPZk4wT2JKOVgxVVVSSTZKZVE2QkJqcnF0SENKeFl1clNMaWFBdV9LcExLOGZqSmxjaGN5bEhhTDNzTTRvbzhzNDhBcVlVQktFZmY2Zll2aFg4eHhZejhNaXl6aXBzTk1MbmtMY3hmWThaZWtiQkozRF9STVd0dmZ3NnNTT0U1MEhZRDdyUk5TMW1SaUpnNGhCT2Y1R2hFR0ltbmpQRzdmdkRQN0h0SEd4c1puWjYyNkFTams2Z2hCelQ1Zko2dnFQT29mUWw3QWpNTExLM3A3eEhnOTB5bWNjU3cxdkhVZjBpd3Nfa2J4Wjl3UElyVHNmODhkVGdOVkh0NkhfZnc?oc=5",
-          "published": "2026-10-09T23:25:31+00:00",
+          "title": "XRP price at Oct 10, 2026 at 3am EDT Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORGgwMVFRcjJOZGt3VGlEV3Fza3BOci1WMDZ3bFV2YVNZbGREU2s0LVY4a3Z2bHhMRHdqWnhKMDI3S2MySy1HTFFyeXh5SDBjenk2N0lRcGoyb0hfVGNzdnZBQmswM1BGOUFDY2docUtYRGR1Zmhkc21IZEtyWkRiX2JrTjBObXRmR1ZuX3h6N2xHQmZGSmFtRE5TNE9OSW90Unh0emVidTNKM3R2NVE?oc=5",
+          "published": "2026-10-10T06:04:33+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "StreetInsider",
-          "title": "XRP News Today: Payment Utility Returns to Centre Stage as Remittix Opens PayFi to Invited Holders - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNEdLckNmMEVhYlBhWHJlNGhwQW9UamFDdGM5NTRkNGk4OFJzcER2NkVfT2Y4V1gxSVRLMHBLdWRXMzIyRFY4TEg3UHd5RnFDM0JMSk9qcWRKMlJ1OEJRU28xWW8yQy1DcjdPa2l3YWdHT3MxbkN4YTBHMnJYcnNyNmsyS1JzWnJTOXdpLXlkUV9HSElLaFZMSDRzQ0JSY1NnRGRLV1JqVnRKSURzR0Z3UW9rdlg5bjQ2RkZmemxRZlAyZWNSWjFFWTJ5X25sTksyVmdlMXNSMGZWTnBIR2N1WGhLS0dNT05WVXlaQVNGbkM2QQ?oc=5",
-          "published": "2026-10-09T23:05:57+00:00",
+          "title": "Crypto Update: Fed Fears Wipe $1.16 Billion as ETH and XRP Slide, but Pepeto Tells Another Story - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZnBQdHlFeXYyem1vVEpnTmFUN202SlpBUExGb184SHBxZEJTZktJV0FZdmwzb0pobVhia2VrWGpiSVpUdE5icHJMSTFWUDhEXy00ZHM3V1djV2Jsby1EOXB2VTQyTmtGUGdCRm53dUx4Wkh4cnFtRHRuTS1nd0s3NlpaVjIzcnYwZzdjd0RuLUJrMG1YR3c5S0drUDlOUklobUdESFhON0l2Uk9ncGhocGFROHNxWlhWLWZmU3IzT09KQkxZNG0tcThEQkhmVzdlMUtoNGxLVG1LYmdzVFJlN0xqQXFhcTViWHBETGc1YnVBM05r?oc=5",
+          "published": "2026-10-10T05:52:30+00:00",
           "summary": "",
           "via": "Google News"
+        },
+        {
+          "source": "Pluang",
+          "title": "Ripple fixes critical XRP Ledger bug that could allow unauthorized spendable XRP creation. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUEllVHJiVWJpSDRBa2xqdzA4ZXE5MUplamRoMXhfbnprLTYybUlUZTFkaURxQTNCWUJaZEROdjNjWndQVHV4ZER5UC1Fa1pxMmlxc1lhNWQweEJyR1V0MDBYZzlzYnNGeE5hZXRpWjFGTEdoMUszUHJQMHNseHRJbTBjazNOSXk4cGd4TkhKX2FjUmJyV0RlRzlwUVhMSEUzRGx3?oc=5",
+          "published": "2026-10-10T05:04:28+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Pluang",
+          "title": "XRP Ledger fixes flaw that could have let attac... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaG1ZUlpNWFhOWU0zVzN3MWxUSTZvc01DUFNSTVR6WXpBbkd5Q1dlNjJqdFpxU2hzcFpDZWhWQ0UwUXdBbi13QmRSM3h5UExpS3Z2ZVd0OG5VZUZYRVI4RHRvM0ROVmVWLURlVks3c1ctMHZad1FfMWlrOW4weklwZVZKNnVDUW1xYnk0RVYzNnJjMGp6WS1Ub3RSYlhTVUkzRG0wSTUySjBmSDA?oc=5",
+          "published": "2026-10-10T04:46:18+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Pluang",
+          "title": "XRP Ledger fixed a 2015 bug that could have cre... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNS0xYkRFcW1LTnk1bWt1SUY3THBha0JZNkdjWk9WRThfc3B2N0d1bkYxSFZGT2ZHUlBaT0otd3FMcDBWT2M3YnVsYmMtSnU2VThEMll3VWZYc1Q3YTlQT0xZaDZXZVZWOFRfMG9sRk5uZlE5eUJqcm1qNjJ1TlRQNEhBN1k1MTQzcG12S2EyVGM?oc=5",
+          "published": "2026-10-10T04:46:16+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "CoinDesk",
+          "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+          "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+          "published": "2026-10-10T04:20:07+00:00",
+          "summary": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
+          "via": "CoinDesk"
         },
         {
           "source": "CoinDesk",
