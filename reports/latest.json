@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-09T20:53:43+00:00",
+  "generated_utc": "2026-10-10T00:49:54+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 82504.01,
-      "change_24h_pct": 0.875,
-      "change_7d_pct": -2.382924065533487
+      "price": 82570.0,
+      "change_24h_pct": 0.833,
+      "change_7d_pct": -2.576363753923727
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.3893,
-        "change_24h_pct": 0.754,
+        "price": 1.4008,
+        "change_24h_pct": 0.828,
         "high_24h": 1.4074,
-        "low_24h": 1.3728,
-        "range_24h_pct": 2.5203962703962635,
-        "change_7d_pct": -6.425540513234996,
-        "change_30d_pct": -0.40860215053764026,
-        "ma7": 1.4575857142857143,
-        "ma25": 1.4605160000000001,
-        "ma99": 1.2584575757575756,
-        "rsi14_daily": 42.49213323597689,
-        "rsi14_4h": 37.822936423698714,
-        "atr14_pct": 4.428232100441125,
-        "realized_vol_30d_daily_pct": 3.657987728070174,
-        "volume_24h_usdt": 128818621.69429,
-        "volume_vs_20d_avg": 0.4868058207637557,
+        "low_24h": 1.3741,
+        "range_24h_pct": 2.4234044101593577,
+        "change_7d_pct": -5.758880516684606,
+        "change_30d_pct": 4.9602877266596845,
+        "ma7": 1.4462857142857142,
+        "ma25": 1.4654759999999998,
+        "ma99": 1.261210101010101,
+        "rsi14_daily": 44.1037206665106,
+        "rsi14_4h": 41.97969785289093,
+        "atr14_pct": 4.021681488129232,
+        "realized_vol_30d_daily_pct": 3.565237758309042,
+        "volume_24h_usdt": 121365317.24925,
+        "volume_vs_20d_avg": 0.471118044927542,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -36,10 +36,6 @@
         "high_30d": 1.6581,
         "low_30d": 1.2468,
         "last_7_daily_closes": [
-          {
-            "date": "2026-10-03",
-            "close": 1.4864
-          },
           {
             "date": "2026-10-04",
             "close": 1.5206
@@ -62,72 +58,76 @@
           },
           {
             "date": "2026-10-09",
-            "close": 1.3893
+            "close": 1.3958
+          },
+          {
+            "date": "2026-10-10",
+            "close": 1.4008
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 2.9295328582739533
+            "distance_pct": 2.0845231296402034
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 5.7367019362268845
+            "distance_pct": 4.868646487721295
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 0.7701720290793856
+            "distance_pct": -0.05711022272988364
           }
         },
-        "from_90d_high_pct": -18.271663039002295,
-        "from_90d_low_pct": 40.87406205637802
+        "from_90d_high_pct": -17.595152656038582,
+        "from_90d_low_pct": 42.04015412695195
       },
       "news": [
         {
-          "source": "Crypto News",
-          "title": "XRP Ledger Batch goes live, enabling bundled transactions - Crypto News",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaEdxZ0JURG5TX3h4c2ZDZkI4QkJELXBqczRDYTRNX0hFeDJvN2tsc280MmFLaC1aR194UldQcy03VmpQNWt2dkhic2J5QkxiRGRJUmd6QVhMUEdRb3h5dGQ5dnZaU29ORFFkVm44MjVTampXV3Q4SFNpaU9qNjZVRw?oc=5",
-          "published": "2026-10-09T20:34:21+00:00",
+          "source": "CryptoTicker",
+          "title": "XRP Price $1.39: Ripple Prime Funds Leveraged ETFs - CryptoTicker",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ETHdmYkN2TGd3M3FpQ0VhNmhwV3VEZ3gydzY3ZFNicDQ3dmJhSUFGOTZWOFYzWVVjYkdld19KdnZaLUpBNE5mVVctYVBpQ2lZd0NGNno2N3JfUGg0MEJOUUxzX1BkSE9wYkRsSEdEZEVBWHZUdk8wRmNIUkM?oc=5",
+          "published": "2026-10-10T00:28:23+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Cryptonews.net",
-          "title": "Will XRP Price Recover to $1.50 Soon as XRP ETFs Alone See Net Inflows? - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93alVBNGp2STRpUVVpYWVFZE5CaUN5YldTNW9ZYXljMWF1cE5wN2xSNWdFdVZBU1NNRHNDZTJZc1BDR21lQW92T281TnprZ3IwajJiVkU0Zlp3a1U?oc=5",
-          "published": "2026-10-09T20:26:29+00:00",
+          "source": "Robinhood",
+          "title": "XRP price at Oct 9, 2026 at 9pm EDT Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN3liemxNM2JjWlNyenEwcGdxNGg3bGQ1WThrQURGNjdURk1JYjV1VGZKc2dIVmFFMFpfLWJaOUdMcm1tNzR3RE5Ydm5UUHNUbU5JRzZEQmswMU9PZndpc3N4UkJaZm56ZnRsTUtKZXh0akFhYXlsY05vMUZJN3FFN1lScFRKaGtKaTdvWlUxTkhaMWpCNlkzc09IWU1acGFMYl9kRkhYc2pCRWc4?oc=5",
+          "published": "2026-10-10T00:03:46+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "24/7 Wall St.",
-          "title": "XRP Just Printed a Golden Cross, but Has It Already Failed? - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdUNuYzlydDU5QkJkc1dFTWhIWkRVRmZObG9nS3lWc1N6TjhxcG9aNENJNGxKZ0dVNmFWbi1oaWVkZ0w1eUVYRG42VkJMbmNVMmtxZFVSUU8wQmNoYVBFMkhZdXJzcWYzQ1ZpV1lkTkFERHhXdkg3T2UtV2ZCTlNVOVBRcHZZeDAxMXI3WFA5MkxkYXhEVGMwT2lkSWRwdzd3dnpldzVma1hjTHpxaGxmYmoxOXZuOGs?oc=5",
-          "published": "2026-10-09T20:00:00+00:00",
+          "source": "Yahoo Finance",
+          "title": "Cardano Is 92% Below Its High, and XRP Is 62% Below. Which Has the Easier Path Back? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzAyOGJTSy1EZDljT3EzUlhUaF9rQ0hpYjZmQkdBbFM3Qlk1eC1OaC01R2I0SDVNMUdEcDhCNjlwMF9wNFlGOHltd3hmS2gwZlA4R1RfVTktZ1lwMU1VR2lleVdrNFpPOFJNRm93WFliSnNia2gzVmlxRl9oRUlIeV8zX0pWdFNnY213U2lLTlVfMzRa?oc=5",
+          "published": "2026-10-09T23:47:38+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "TechBullion",
-          "title": "XRP News Today: New Ledger Controls Target Banks as Remittix Opens PayFi to Invited Holders - TechBullion",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ0FpQW56REVoOVpVRC13MWVHOE5rWHEzRnFYNUZUekZ5Vzg5LTBIVzFrS2tEb256OXFHTU5ob2VyYnhWR0RwZmZLd2RsbXZGLWd3VnF3TjBPWTlJd3h0cHg0cFNQU2NJbkNONVpsSmlOLXNiUWFsQ2NBOFNXVTdBeS1mQlA0MmQ0TWFuMl9JR2kxNHU4NmJfdVNGX3BOdHFhTUxYRW91NVUzcTJsbmJ4V2Q4V0oyQQ?oc=5",
-          "published": "2026-10-09T19:48:17+00:00",
+          "title": "XRP News: Ondo Rides the RWA Trend as Remittix Builds a Consumer-Facing Payments Network - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeXhXdFRvMDNBWG5FZHFKWHlmV3cxX2M4WGFvY0Z5bFNsMmVsd2ZZeWJ4ZUdLdXMyZk9qVXpXbzdQQ0UyZkdGcTAzVXk2UThFbmplVUQ1eTVGMXpzMm1nbFlSUE9iZklPbVlWRXh1Zi1YcU5SaEtpcVZDVDcyZzNWOXFHeUFTcEp6eG1iUUtTNmhGZVRyNm4tcFF5M1dHQ0R4a2REZTVFRUhIaFVSdlpQZURR?oc=5",
+          "published": "2026-10-09T23:38:49+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "markets.businessinsider.com",
+          "title": "Crypto News: Remittix Sets Its Final Presale Price at $0.46 as XRP Price Prediction Targets $12 and Cardano\u2019s RealFi Expansion Revives the $1 ADA Dream - markets.businessinsider.com",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQYVFhQ1ctYnV3RUVFRkJ5MlZJSzN2WnFXZHNaZmJzYzJSR3BsNUl6MWpPZk4wT2JKOVgxVVVSSTZKZVE2QkJqcnF0SENKeFl1clNMaWFBdV9LcExLOGZqSmxjaGN5bEhhTDNzTTRvbzhzNDhBcVlVQktFZmY2Zll2aFg4eHhZejhNaXl6aXBzTk1MbmtMY3hmWThaZWtiQkozRF9STVd0dmZ3NnNTT0U1MEhZRDdyUk5TMW1SaUpnNGhCT2Y1R2hFR0ltbmpQRzdmdkRQN0h0SEd4c1puWjYyNkFTams2Z2hCelQ1Zko2dnFQT29mUWw3QWpNTExLM3A3eEhnOTB5bWNjU3cxdkhVZjBpd3Nfa2J4Wjl3UElyVHNmODhkVGdOVkh0NkhfZnc?oc=5",
+          "published": "2026-10-09T23:25:31+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "StreetInsider",
-          "title": "XRP Price Jumps Into the Spotlight as Remittix Challenges Ripple\u2019s Cross-Border Payment Narrative - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPN3pHcHBaR0l5dEl6MThZYU41YmRDOG5LSC12NXdIZ0w0NEZPODFmQTF0aWx5M1VXOC0yb2RRUXo5a1RPc19EaWFraXdiS3NXQ3JZejJQWVp4cC1NaXJaWjJseWNvb29iZko0Q2pxbFR1Q09GWnNfQUlKSm13THVsWndZVkxybWZ6V1JnTk5hdVhSdm9FR25WbWY3RnNxdXc2TnNtRTAtX0VrVUtuaWVlZ2F1U29iU3VrcTRpMnZWX19XenRDX2F2S0x4MzlGTFllOHRjdWpiOGhxTUtQaFdwaGFQQml3ekMxbnZDc0xjZVQ0RVE5eTNqRA?oc=5",
-          "published": "2026-10-09T19:36:13+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Pluang",
-          "title": "XRP price dips below $1.43 amid resistance ahea... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSjcwWGtNY280STNFMHlnd1lKWlVfSUJpdUdwaF9JZXhxTm5OQ3I2VWRidnJCZjdFNmo4UHNoRXR1bDFRNnJyMEJnaGNFdS1DNFJ3VG9qSGdaNmYzdWpmQ1NucmNJWXl3Nk5hbEp0UTAydVhOWTFxR0NzRzg2aTg3ejNnTVJGTEYwSkE?oc=5",
-          "published": "2026-10-09T19:31:24+00:00",
+          "title": "XRP News Today: Payment Utility Returns to Centre Stage as Remittix Opens PayFi to Invited Holders - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNEdLckNmMEVhYlBhWHJlNGhwQW9UamFDdGM5NTRkNGk4OFJzcER2NkVfT2Y4V1gxSVRLMHBLdWRXMzIyRFY4TEg3UHd5RnFDM0JMSk9qcWRKMlJ1OEJRU28xWW8yQy1DcjdPa2l3YWdHT3MxbkN4YTBHMnJYcnNyNmsyS1JzWnJTOXdpLXlkUV9HSElLaFZMSDRzQ0JSY1NnRGRLV1JqVnRKSURzR0Z3UW9rdlg5bjQ2RkZmemxRZlAyZWNSWjFFWTJ5X25sTksyVmdlMXNSMGZWTnBIR2N1WGhLS0dNT05WVXlaQVNGbkM2QQ?oc=5",
+          "published": "2026-10-09T23:05:57+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -144,8 +144,8 @@
   ],
   "errors": [],
   "fear_greed": {
-    "today": 59,
+    "today": 64,
     "label": "Greed",
-    "yesterday": 64
+    "yesterday": 59
   }
 }
