@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-10T07:06:04+00:00",
+  "generated_utc": "2026-10-10T13:40:37+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 82724.01,
-      "change_24h_pct": 0.23,
-      "change_7d_pct": -2.3946486731648786
+      "price": 82826.0,
+      "change_24h_pct": 0.226,
+      "change_7d_pct": -2.274311545143348
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.4056,
-        "change_24h_pct": 0.422,
+        "price": 1.4041,
+        "change_24h_pct": 1.746,
         "high_24h": 1.413,
         "low_24h": 1.3741,
         "range_24h_pct": 2.8309438905465445,
-        "change_7d_pct": -5.435952637244346,
-        "change_30d_pct": 5.319946051251301,
-        "ma7": 1.4469714285714284,
-        "ma25": 1.465668,
-        "ma99": 1.2612585858585856,
-        "rsi14_daily": 44.77683471556,
-        "rsi14_4h": 43.504679269696915,
-        "atr14_pct": 4.060797625823238,
-        "realized_vol_30d_daily_pct": 3.566433728499066,
-        "volume_24h_usdt": 106368140.2912,
-        "volume_vs_20d_avg": 0.41290173694065246,
+        "change_7d_pct": -5.536867599569428,
+        "change_30d_pct": 5.207552824816419,
+        "ma7": 1.4467571428571426,
+        "ma25": 1.465608,
+        "ma99": 1.261243434343434,
+        "rsi14_daily": 44.56823462803858,
+        "rsi14_4h": 43.39151980280208,
+        "atr14_pct": 4.065135775840142,
+        "realized_vol_30d_daily_pct": 3.5659430465878916,
+        "volume_24h_usdt": 77895059.5759,
+        "volume_vs_20d_avg": 0.302374426307852,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-10-10",
-            "close": 1.4056
+            "close": 1.4041
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 1.7359134889015415
+            "distance_pct": 1.8445979631080522
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 4.510529311326139
+            "distance_pct": 4.622177907556457
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -0.3984063745019917
+            "distance_pct": -0.29200199415996275
           }
         },
-        "from_90d_high_pct": -17.312783104888517,
-        "from_90d_low_pct": 42.526870817278436
+        "from_90d_high_pct": -17.401023589622923,
+        "from_90d_low_pct": 42.37477185155141
       },
       "news": [
         {
+          "source": "Pluang",
+          "title": "Up to 1 billion XRP to be released from Ripple escrow on Nov 1, 2026, amount entering circulation unclear. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMlFTSVJ2NHdOeUlId0taN2xMeWg0Vkp4WFNnbkJmU1pVc0VRbkFpS2EzUGFyeWhUZFVGaVR2cVVHb3kxQTg3dHo5Y3JqMGdra3FiVFJubHZSdGxmdGZYSUd3cERKcXl0YmhvSFN4dzZ2NWRtYU45UmpHVlk5TFdMekVDcFNIOEFoSEdR?oc=5",
+          "published": "2026-10-10T13:19:31+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Finbold",
+          "title": "Ripple just three weeks away from dumping 1 billion XRP - Finbold",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2N2dndZQmljNDdIQ2RMNDZQdzFxOWdwbU1tZmVlSGNzZnhEZ0E2VGRURHF6b2xpUktKVTFiYXVNV1FnalVmYnNtTlpCYXZjc1hlMEU0SjFhbkdfYWtBeUM4ajNSUVZ3NUt4aTZkeUUtWUFiOC1lWV9VMVFRYkcxZ0ZB?oc=5",
+          "published": "2026-10-10T12:57:05+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
           "source": "Yahoo Finance",
-          "title": "100 Billion XRP Supply Was Nearly Broken by a 10-Year Bug - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalE2eEhTemdLNTE2TFNyZHUtSG5kUEhQVmJnSEJYTFFUWDFoR3lGQXNqU01rc1YtcVdkMGVGajNOT19wZDdmSU5VTVgzV2NMVGY0RFdrSkN6UXJXS3hMS3oyR3ExQ2NDLUV4WEcwUVItQk9LYmdkNWRrTTk1NWpFd2t5SzR3MXF5VHNaTWRyXzhyTkNsMmJlUERB?oc=5",
-          "published": "2026-10-10T06:33:00+00:00",
+          "title": "Ripple Becoming \u2018Major Competitor\u2019 to Wall Street \u2014 but Where Does XRP Fit? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa24xak1STXF3WnBoRzBES1NwSVFidGRiYlZZTndIVTREeXY0eFFpQmI5aVF5UDNSdnBwcl9jZEpOdGRja2dNcmNHN2l0UkV0OHV6Q1B3b0xKMWlQTFZJRDdYSmNrRk5udjcyMVMxbGFIV0JlVlB6UzdvWTRhc0thQ0FyX3JZUnR6T3I2VTRpMzZkM3V4bUtGWVVxTkxSbmppZGc2Vg?oc=5",
+          "published": "2026-10-10T12:32:15+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "24/7 Wall St.",
+          "title": "BlackRock Picks Avalanche While Franklin Templeton Chooses the XRP Ledger: Which Chain Is Winning Wall Street? - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQblBlR2lDMUNERHRmNmt0bzR3MmhIT25ETnk4bUw4c0NzQllxLXRoOTZpd2Z6N1FHdWotVWhaV0xjcXV4VDJSb3VOT3RUS2hKcW9fNXp5UmxOeTlEbFdqZ0gwMV81c1RiZnBjQk5jZTc2RGpXNlZYSjc4dmlHcmwxcVZRRzBvZUU2Q0ZkUFZpWkNpdE5pN1ZiRW1aNFZvbUk3ekVoMnJKaFJTRGRnSTR1NGR3UnpzU19naVNEc2ZRcHJxcHRXZHpCOTJKbnlXZFRKeGtEZEZsbkdPY1BLb3Q4VlVaLWM4VTBnLXpVc0NTeWZBOUZCNHRyMGFjSQ?oc=5",
+          "published": "2026-10-10T12:30:00+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "MarketForces Africa",
+          "title": "XRP Gains On Ecosystem Catalyst Ahead Of Evernorth Listing - MarketForces Africa",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVVZYQmNNdU80Wk9oeEROYnlnQmpjYUNYU2J0d1JqRDZrQ1hxblJ1VlZGSWYtSTlRdENDUXlnMUcwNjJmT21RVThBLTVkdkZyUEdVRFVib2V0Zmx4bnBERzk5UmViT0kzdXQ5eVM2TFhIeVl4cllQa1VEdV83Y3NNM05aUmhNb2Qybml4TTV3?oc=5",
+          "published": "2026-10-10T12:16:25+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Robinhood",
-          "title": "XRP price at Oct 10, 2026 at 3am EDT Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORGgwMVFRcjJOZGt3VGlEV3Fza3BOci1WMDZ3bFV2YVNZbGREU2s0LVY4a3Z2bHhMRHdqWnhKMDI3S2MySy1HTFFyeXh5SDBjenk2N0lRcGoyb0hfVGNzdnZBQmswM1BGOUFDY2docUtYRGR1Zmhkc21IZEtyWkRiX2JrTjBObXRmR1ZuX3h6N2xHQmZGSmFtRE5TNE9OSW90Unh0emVidTNKM3R2NVE?oc=5",
-          "published": "2026-10-10T06:04:33+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "StreetInsider",
-          "title": "Crypto Update: Fed Fears Wipe $1.16 Billion as ETH and XRP Slide, but Pepeto Tells Another Story - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZnBQdHlFeXYyem1vVEpnTmFUN202SlpBUExGb184SHBxZEJTZktJV0FZdmwzb0pobVhia2VrWGpiSVpUdE5icHJMSTFWUDhEXy00ZHM3V1djV2Jsby1EOXB2VTQyTmtGUGdCRm53dUx4Wkh4cnFtRHRuTS1nd0s3NlpaVjIzcnYwZzdjd0RuLUJrMG1YR3c5S0drUDlOUklobUdESFhON0l2Uk9ncGhocGFROHNxWlhWLWZmU3IzT09KQkxZNG0tcThEQkhmVzdlMUtoNGxLVG1LYmdzVFJlN0xqQXFhcTViWHBETGc1YnVBM05r?oc=5",
-          "published": "2026-10-10T05:52:30+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Pluang",
-          "title": "Ripple fixes critical XRP Ledger bug that could allow unauthorized spendable XRP creation. - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUEllVHJiVWJpSDRBa2xqdzA4ZXE5MUplamRoMXhfbnprLTYybUlUZTFkaURxQTNCWUJaZEROdjNjWndQVHV4ZER5UC1Fa1pxMmlxc1lhNWQweEJyR1V0MDBYZzlzYnNGeE5hZXRpWjFGTEdoMUszUHJQMHNseHRJbTBjazNOSXk4cGd4TkhKX2FjUmJyV0RlRzlwUVhMSEUzRGx3?oc=5",
-          "published": "2026-10-10T05:04:28+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Pluang",
-          "title": "XRP Ledger fixes flaw that could have let attac... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaG1ZUlpNWFhOWU0zVzN3MWxUSTZvc01DUFNSTVR6WXpBbkd5Q1dlNjJqdFpxU2hzcFpDZWhWQ0UwUXdBbi13QmRSM3h5UExpS3Z2ZVd0OG5VZUZYRVI4RHRvM0ROVmVWLURlVks3c1ctMHZad1FfMWlrOW4weklwZVZKNnVDUW1xYnk0RVYzNnJjMGp6WS1Ub3RSYlhTVUkzRG0wSTUySjBmSDA?oc=5",
-          "published": "2026-10-10T04:46:18+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Pluang",
-          "title": "XRP Ledger fixed a 2015 bug that could have cre... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNS0xYkRFcW1LTnk1bWt1SUY3THBha0JZNkdjWk9WRThfc3B2N0d1bkYxSFZGT2ZHUlBaT0otd3FMcDBWT2M3YnVsYmMtSnU2VThEMll3VWZYc1Q3YTlQT0xZaDZXZVZWOFRfMG9sRk5uZlE5eUJqcm1qNjJ1TlRQNEhBN1k1MTQzcG12S2EyVGM?oc=5",
-          "published": "2026-10-10T04:46:16+00:00",
+          "title": "XRP price at Oct 10, 2026 at 9am EDT Crypto Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0RRSkhuMEFKWm1EWHRUVVloVGtMYUVleWhhWHZGTi1wbnlWX1N2VERqV3R5ZU43RGM3b29kZDl3bFV4R09BSUZ6OWRYMkFNX0NlQzZXcktta0pGMnNJeld2Q2NIeDlYbXFja1FSYzhDaEZqZXZhLVpMQlo0cUJhcE5odkhkcmxIa19HTDJiQUZtaTVxMUZRUTllY0JfZkJsV2MyTFBkRE9jcUhSNHc?oc=5",
+          "published": "2026-10-10T12:13:18+00:00",
           "summary": "",
           "via": "Google News"
         },
