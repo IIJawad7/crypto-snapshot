@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-10T18:34:54+00:00",
+  "generated_utc": "2026-10-10T22:30:48+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 83042.01,
-      "change_24h_pct": 0.689,
-      "change_7d_pct": -2.019443195070514
+      "price": 83040.86,
+      "change_24h_pct": 0.626,
+      "change_7d_pct": -2.0208000702271356
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.4035,
-        "change_24h_pct": 1.168,
+        "price": 1.4036,
+        "change_24h_pct": 0.71,
         "high_24h": 1.413,
-        "low_24h": 1.3805,
-        "range_24h_pct": 2.354219485693587,
-        "change_7d_pct": -5.577233584499464,
-        "change_30d_pct": 5.162595534242476,
-        "ma7": 1.4466714285714282,
-        "ma25": 1.465584,
-        "ma99": 1.2612373737373734,
-        "rsi14_daily": 44.48435266413144,
-        "rsi14_4h": 43.481938965552025,
-        "atr14_pct": 4.066873632245915,
-        "realized_vol_30d_daily_pct": 3.56577647738085,
-        "volume_24h_usdt": 61442682.81991,
-        "volume_vs_20d_avg": 0.23850929788920364,
+        "low_24h": 1.3936,
+        "range_24h_pct": 1.3920780711825564,
+        "change_7d_pct": -5.570505920344459,
+        "change_30d_pct": 5.170088416004792,
+        "ma7": 1.4466857142857141,
+        "ma25": 1.465588,
+        "ma99": 1.2612383838383836,
+        "rsi14_daily": 44.498350616746734,
+        "rsi14_4h": 43.30487277538412,
+        "atr14_pct": 4.066583886333102,
+        "realized_vol_30d_daily_pct": 3.5658030583236417,
+        "volume_24h_usdt": 53539743.46533,
+        "volume_vs_20d_avg": 0.20783152748248832,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-10-10",
-            "close": 1.4035
+            "close": 1.4036
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 1.8881368008550004
+            "distance_pct": 1.880877742946696
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 4.666904168151054
+            "distance_pct": 4.659447135936179
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -0.24937655860349794
+            "distance_pct": -0.2564833285836454
           }
         },
-        "from_90d_high_pct": -17.436319783516673,
-        "from_90d_low_pct": 42.31393226526059
+        "from_90d_high_pct": -17.43043708453439,
+        "from_90d_low_pct": 42.32407219630907
       },
       "news": [
         {
-          "source": "finance.biggo.com",
-          "title": "XRP Price Debate Intensifies as Holders Clash Over Realistic Long-Term Targets - finance.biggo.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HWklBSjRtTUxMZFJQRUt4S1RiNWFQLXRoQkQ0U2xDc1NoRHl2TC0wNHBSWEwxZFdPMXp2TXFvS1hUWjVQOThaOGlGMXI0UnJmcGhBamVrZEJweFJvT0lUZXduWkdDc05HYzFmdnlZcklZSnQzb0E?oc=5",
-          "published": "2026-10-10T18:18:11+00:00",
+          "source": "AMBCrypto",
+          "title": "XRP price slips below $1.50 \u2013 Can ETF demand fuel a recovery? - AMBCrypto",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMl9zYVhVdUQtdGZsbUNXZGNVMURMWmpDcXlTeGNYSEJoQWw4b1NOTkdJSndBMDdqN1hjWEVsejhTcEZVYkpCa1ktc3B3S3hwUUZsT011ak9hOWdWUUtUc2JMV0tBYzg5Z1NvSkNYbVZRdlN2WC0teExFaGRuVl94WnEtX0w0QU0?oc=5",
+          "published": "2026-10-10T21:00:19+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Robinhood",
-          "title": "XRP price at Oct 10, 2026 at 3pm EDT Crypto Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObHBJazB6eEl2bGs5QnUzMVhXcFNNeDBLbFlZb2hVWDFqMTcyNDRTRGVwV2NrTFZST3Y1bi15V3ViVmxCWlRMSm9nTkpnMVRKVXhoMFY5Z2xmNUo1NGZwZ1BiOGF2OTlPTU9QV3c3TkxUOEVJOU5WUU94WTVibXlOMkJXOG1uU3hFbHZYYUpxZ3MtYUtibjE2clZOOFE5Rzg2RlNvdE1qTUYzQTQwTlE?oc=5",
-          "published": "2026-10-10T18:02:48+00:00",
+          "source": "CryptoRank",
+          "title": "Analyst: September\u2019s ETH, XRP, SOL Altcoin Run Is Done, Liquidity Heading Back to Bitcoin - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3laeDY5dmtyVEtQZzFnV0RZUzR5NXJ3bV9QM2gzc0kwZzJoeHlPTGtIQnlqWVVIQ2cwQTFZLUljSnJZRkVDS0pKWF9sMWdybUY4WmNzQzN0TmtTMUkycDRTcndfZW1GV0xPR0tQdzlBYjdra3cwSGZDQngtd0NycXBoYnNDMFlWLWllMDhFTGRZdmdXTjFzbzFDd2R6eGJaLUZyeUlwTU1pVnB6b1VhN0dlbnRjZUI0My1Ta1FJSQ?oc=5",
+          "published": "2026-10-10T20:10:57+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Pluang",
+          "title": "XRP trades near $1.40, facing resistance at $1.... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdHZFXzI0ODZ2YmpXenZzMEtLZm02V25nOGZUZlZPZExtT0NVbTJGOTVXZjk1WVBRODJmSnBGX3RMQmxhd1RJWE4zUEhjV1Fib1ZsUm9aU1ltdS12SnFOT3FMRmVQbWtaTWRBRHc4R2dCTy1TUXV1WjMtNGFrNnJneHRxdVJMT2VickZIZXlPOWptZw?oc=5",
+          "published": "2026-10-10T20:03:51+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "CryptoPotato",
+          "title": "Ripple Price Analysis: XRP Tests Critical Trendline Following Recent Correction - CryptoPotato",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZzVOTnBUbmhrQ1RqRjN1eDRZTjRTT2JQOS1ZYWQyMWhKWVdabDlXNktXak00cG9UcEhjWnF0VFdrajBpUFpxc1JBaE8wVnBEeGxJV0dGeFQ4NjBTUGNMbC1GdnpFRVMyeGNEMmdHbUVRS1JoeFZ3QjJJSENYNkZka3V1WVZwWk4wb3ZKd0QycURTV1hRdTV2MUJqckxZcmdRRTBxZUh4bw?oc=5",
+          "published": "2026-10-10T19:48:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "OneSafe",
-          "title": "XRP Ledger Ignites a Revolution in Automated Payments - OneSafe",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oSW9UVVhCeG1ERjA0VHZlVmRyRDNoSXo2cHlhaGhZbFdUR1luOWJiOU5Dc2w4QzRCc2xZZ3ZiOEw1ZkNwVjZpTW5jb0RZSkI3eGVUdGlaQ0J0SEtOS0c2QVkwOWo2eUtqX3ltSk8wbXNZOXotUGVicy05Rkd0Tkk?oc=5",
-          "published": "2026-10-10T17:27:22+00:00",
+          "title": "XRP Ledger Confronts Vulnerability That Shakes Its Foundations - OneSafe",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HTVJKZ1psTGlCREk4RWdnUGlES2lObmUyaGVaOFFveEJYUDJxbXJOY1Y3ZFU0c01zaUhpYzJVbDBaaWItQlB6Y3p0a1lYRW5fSERidGhuLTRTR3h1eUFORHhfbHZCV05mUGtHY1Rhd01ORTFVMms1TA?oc=5",
+          "published": "2026-10-10T19:43:03+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Bitget",
-          "title": "Analyst Says XRP Could Retrace toward $1.20 Before This Happens - Bitget",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wXzNqOWxtS0dJQnplLXBkSk5FU1lYVEhwcXctZHdvUE90TmFRVURYRGxndG9XVGd4QjVOc1Bkak43TUw1U19OV2xTR19ueTB5aldqR1Y3LTk3WTR0UzJvb3J3Y9IBY0FVX3lxTE0wXzNqOWxtS0dJQnplLXBkSk5FU1lYVEhwcXctZHdvUE90TmFRVURYRGxndG9XVGd4QjVOc1Bkak43TUw1U19OV2xTR19ueTB5aldqR1Y3LTk3WTR0UzJvb3J3Yw?oc=5",
-          "published": "2026-10-10T17:13:20+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Stellar vs XRP: Is XLM Just XRP With More Leverage? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzRFY0owbnZralVvcE43SmxweGZxelJXNV9LTHBQSlRaMXI3U01xdjFaaXRhRHo1N0U5Q09zcmo3aHZXdndvVTRPT1Q1b2RXQlp1UkxPZ1o1X2Y3dUJ6dHI2bmgzYXVSV2g1bWNZdzZrUGhxZzJ4bHhZWmQ1N1Zob2o3QUU4cFZoSUFock5mY0F1Zw?oc=5",
-          "published": "2026-10-10T15:30:04+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "AOL.com",
-          "title": "Stellar vs XRP: Is XLM Just XRP With More Leverage? - AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yRURXWjlES2xtZDVJcFc1Y0prR2FJV0lKS1gyaW15T1FqXzJDY09zU1FRWDNVUTNmZXEzOVhuYW1ONUd5aGtwVmFQcTVDLTdkaFpjUnBGeTczbVNyTmxTLTlXdllOelhFbFU2bW5kYlllSGd6RUE?oc=5",
-          "published": "2026-10-10T15:30:04+00:00",
+          "source": "BigGo Finance",
+          "title": "XRP Ledger Surpasses 13 Million AI Agent Transactions as Autonomous Payments Reshape Network Activity - BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qeHJ5WmRCc28zN3JEQVJMdW1DdVktTXZhcDFOZFhUSUV6V0lZUjl4b09nQTIwc1VDMGVHWnh6dXg3QTcyd0dQZTRBd1MzZmFsVU9jeU9HM2M4emlzcmExWjhPRW1EZ3BRSHlBR1kwMW9vMHBwUVE?oc=5",
+          "published": "2026-10-10T19:35:00+00:00",
           "summary": "",
           "via": "Google News"
         },
