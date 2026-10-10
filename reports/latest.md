@@ -1,43 +1,43 @@
-# Crypto snapshot — 2026-10-10 16:40 (UTC+3)
+# Crypto snapshot — 2026-10-10 21:34 (UTC+3)
 
 ## Market context
-- BTC: 82,826.00 (+0.23% 24h, -2.27% 7d)
+- BTC: 83,042.01 (+0.69% 24h, -2.02% 7d)
 - Fear & Greed index: 64 (Greed), yesterday 59
 
 ## XRP
-**Price:** 1.4041  |  24h +1.75%  |  7d -5.54%  |  30d +5.21%
+**Price:** 1.4035  |  24h +1.17%  |  7d -5.58%  |  30d +5.16%
 
 | Metric | Value |
 |---|---|
-| 24h high / low | 1.4130 / 1.3741 (range 2.83%) |
-| MA7 / MA25 / MA99 (daily) | 1.4468 / 1.4656 / 1.2612 |
-| Price vs MA7 / MA25 / MA99 | -2.95% / -4.20% / +11.33% |
-| RSI14 daily / 4h | 44.6 / 43.4 |
+| 24h high / low | 1.4130 / 1.3805 (range 2.35%) |
+| MA7 / MA25 / MA99 (daily) | 1.4467 / 1.4656 / 1.2612 |
+| Price vs MA7 / MA25 / MA99 | -2.98% / -4.24% / +11.28% |
+| RSI14 daily / 4h | 44.5 / 43.5 |
 | ATR14 (avg daily move) | 4.07% |
 | 30d realized vol (daily σ) | 3.57% |
-| 24h volume vs 20d avg | 0.30x (77.9M USDT) |
+| 24h volume vs 20d avg | 0.24x (61.4M USDT) |
 | 30d high / low | 1.6581 / 1.2468 |
-| 90d high | 1.6999 on 2026-08-22 (-17.40% from it) |
-| 90d low | 0.9862 on 2026-08-14 (+42.37% from it) |
+| 90d high | 1.6999 on 2026-08-22 (-17.44% from it) |
+| 90d low | 0.9862 on 2026-08-14 (+42.31% from it) |
 
-Last 7 daily closes: 10-04 1.5206, 10-05 1.5077, 10-06 1.4971, 10-07 1.4215, 10-08 1.3805, 10-09 1.3958, 10-10 1.4041
+Last 7 daily closes: 10-04 1.5206, 10-05 1.5077, 10-06 1.4971, 10-07 1.4215, 10-08 1.3805, 10-09 1.3958, 10-10 1.4035
 
 **My levels**
 
 | Level | Price | Distance from now |
 |---|---|---|
-| entry | 1.4300 | +1.84% |
-| target | 1.4690 | +4.62% |
-| stop | 1.4000 | -0.29% |
+| entry | 1.4300 | +1.89% |
+| target | 1.4690 | +4.67% |
+| stop | 1.4000 | -0.25% |
 
 **News (last 48h, 8 items)**
 
-- [Up to 1 billion XRP to be released from Ripple escrow on Nov 1, 2026, amount entering circulation unclear. - Pluang](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMlFTSVJ2NHdOeUlId0taN2xMeWg0Vkp4WFNnbkJmU1pVc0VRbkFpS2EzUGFyeWhUZFVGaVR2cVVHb3kxQTg3dHo5Y3JqMGdra3FiVFJubHZSdGxmdGZYSUd3cERKcXl0YmhvSFN4dzZ2NWRtYU45UmpHVlk5TFdMekVDcFNIOEFoSEdR?oc=5) — Pluang, 2026-10-10 13:19 UTC
-- [Ripple just three weeks away from dumping 1 billion XRP - Finbold](https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2N2dndZQmljNDdIQ2RMNDZQdzFxOWdwbU1tZmVlSGNzZnhEZ0E2VGRURHF6b2xpUktKVTFiYXVNV1FnalVmYnNtTlpCYXZjc1hlMEU0SjFhbkdfYWtBeUM4ajNSUVZ3NUt4aTZkeUUtWUFiOC1lWV9VMVFRYkcxZ0ZB?oc=5) — Finbold, 2026-10-10 12:57 UTC
-- [Ripple Becoming ‘Major Competitor’ to Wall Street — but Where Does XRP Fit? - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxNa24xak1STXF3WnBoRzBES1NwSVFidGRiYlZZTndIVTREeXY0eFFpQmI5aVF5UDNSdnBwcl9jZEpOdGRja2dNcmNHN2l0UkV0OHV6Q1B3b0xKMWlQTFZJRDdYSmNrRk5udjcyMVMxbGFIV0JlVlB6UzdvWTRhc0thQ0FyX3JZUnR6T3I2VTRpMzZkM3V4bUtGWVVxTkxSbmppZGc2Vg?oc=5) — Yahoo Finance, 2026-10-10 12:32 UTC
-- [BlackRock Picks Avalanche While Franklin Templeton Chooses the XRP Ledger: Which Chain Is Winning Wall Street? - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQblBlR2lDMUNERHRmNmt0bzR3MmhIT25ETnk4bUw4c0NzQllxLXRoOTZpd2Z6N1FHdWotVWhaV0xjcXV4VDJSb3VOT3RUS2hKcW9fNXp5UmxOeTlEbFdqZ0gwMV81c1RiZnBjQk5jZTc2RGpXNlZYSjc4dmlHcmwxcVZRRzBvZUU2Q0ZkUFZpWkNpdE5pN1ZiRW1aNFZvbUk3ekVoMnJKaFJTRGRnSTR1NGR3UnpzU19naVNEc2ZRcHJxcHRXZHpCOTJKbnlXZFRKeGtEZEZsbkdPY1BLb3Q4VlVaLWM4VTBnLXpVc0NTeWZBOUZCNHRyMGFjSQ?oc=5) — 24/7 Wall St., 2026-10-10 12:30 UTC
-- [XRP Gains On Ecosystem Catalyst Ahead Of Evernorth Listing - MarketForces Africa](https://news.google.com/rss/articles/CBMijgFBVV95cUxPVVZYQmNNdU80Wk9oeEROYnlnQmpjYUNYU2J0d1JqRDZrQ1hxblJ1VlZGSWYtSTlRdENDUXlnMUcwNjJmT21RVThBLTVkdkZyUEdVRFVib2V0Zmx4bnBERzk5UmViT0kzdXQ5eVM2TFhIeVl4cllQa1VEdV83Y3NNM05aUmhNb2Qybml4TTV3?oc=5) — MarketForces Africa, 2026-10-10 12:16 UTC
-- [XRP price at Oct 10, 2026 at 9am EDT Crypto Prediction Market - Robinhood](https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0RRSkhuMEFKWm1EWHRUVVloVGtMYUVleWhhWHZGTi1wbnlWX1N2VERqV3R5ZU43RGM3b29kZDl3bFV4R09BSUZ6OWRYMkFNX0NlQzZXcktta0pGMnNJeld2Q2NIeDlYbXFja1FSYzhDaEZqZXZhLVpMQlo0cUJhcE5odkhkcmxIa19HTDJiQUZtaTVxMUZRUTllY0JfZkJsV2MyTFBkRE9jcUhSNHc?oc=5) — Robinhood, 2026-10-10 12:13 UTC
+- [XRP Price Debate Intensifies as Holders Clash Over Realistic Long-Term Targets - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE9HWklBSjRtTUxMZFJQRUt4S1RiNWFQLXRoQkQ0U2xDc1NoRHl2TC0wNHBSWEwxZFdPMXp2TXFvS1hUWjVQOThaOGlGMXI0UnJmcGhBamVrZEJweFJvT0lUZXduWkdDc05HYzFmdnlZcklZSnQzb0E?oc=5) — finance.biggo.com, 2026-10-10 18:18 UTC
+- [XRP price at Oct 10, 2026 at 3pm EDT Crypto Prediction Market - Robinhood](https://news.google.com/rss/articles/CBMirgFBVV95cUxObHBJazB6eEl2bGs5QnUzMVhXcFNNeDBLbFlZb2hVWDFqMTcyNDRTRGVwV2NrTFZST3Y1bi15V3ViVmxCWlRMSm9nTkpnMVRKVXhoMFY5Z2xmNUo1NGZwZ1BiOGF2OTlPTU9QV3c3TkxUOEVJOU5WUU94WTVibXlOMkJXOG1uU3hFbHZYYUpxZ3MtYUtibjE2clZOOFE5Rzg2RlNvdE1qTUYzQTQwTlE?oc=5) — Robinhood, 2026-10-10 18:02 UTC
+- [XRP Ledger Ignites a Revolution in Automated Payments - OneSafe](https://news.google.com/rss/articles/CBMif0FVX3lxTE1oSW9UVVhCeG1ERjA0VHZlVmRyRDNoSXo2cHlhaGhZbFdUR1luOWJiOU5Dc2w4QzRCc2xZZ3ZiOEw1ZkNwVjZpTW5jb0RZSkI3eGVUdGlaQ0J0SEtOS0c2QVkwOWo2eUtqX3ltSk8wbXNZOXotUGVicy05Rkd0Tkk?oc=5) — OneSafe, 2026-10-10 17:27 UTC
+- [Analyst Says XRP Could Retrace toward $1.20 Before This Happens - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wXzNqOWxtS0dJQnplLXBkSk5FU1lYVEhwcXctZHdvUE90TmFRVURYRGxndG9XVGd4QjVOc1Bkak43TUw1U19OV2xTR19ueTB5aldqR1Y3LTk3WTR0UzJvb3J3Y9IBY0FVX3lxTE0wXzNqOWxtS0dJQnplLXBkSk5FU1lYVEhwcXctZHdvUE90TmFRVURYRGxndG9XVGd4QjVOc1Bkak43TUw1U19OV2xTR19ueTB5aldqR1Y3LTk3WTR0UzJvb3J3Yw?oc=5) — Bitget, 2026-10-10 17:13 UTC
+- [Stellar vs XRP: Is XLM Just XRP With More Leverage? - Yahoo Finance](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzRFY0owbnZralVvcE43SmxweGZxelJXNV9LTHBQSlRaMXI3U01xdjFaaXRhRHo1N0U5Q09zcmo3aHZXdndvVTRPT1Q1b2RXQlp1UkxPZ1o1X2Y3dUJ6dHI2bmgzYXVSV2g1bWNZdzZrUGhxZzJ4bHhZWmQ1N1Zob2o3QUU4cFZoSUFock5mY0F1Zw?oc=5) — Yahoo Finance, 2026-10-10 15:30 UTC
+- [Stellar vs XRP: Is XLM Just XRP With More Leverage? - AOL.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE8yRURXWjlES2xtZDVJcFc1Y0prR2FJV0lKS1gyaW15T1FqXzJDY09zU1FRWDNVUTNmZXEzOVhuYW1ONUd5aGtwVmFQcTVDLTdkaFpjUnBGeTczbVNyTmxTLTlXdllOelhFbFU2bW5kYlllSGd6RUE?oc=5) — AOL.com, 2026-10-10 15:30 UTC
 - [XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing](https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing) — CoinDesk, 2026-10-10 04:20 UTC
   - Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.
 - [XRP Ledger adds new controls for banks, stablecoins and tokenized funds](https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds) — CoinDesk, 2026-10-09 04:21 UTC
