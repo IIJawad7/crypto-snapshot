@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-11T15:40:07+00:00",
+  "generated_utc": "2026-10-11T20:16:01+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 83322.36,
-      "change_24h_pct": 0.346,
-      "change_7d_pct": -3.7069686813821834
+      "price": 83718.0,
+      "change_24h_pct": 0.799,
+      "change_7d_pct": -3.249739974575294
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.4052,
-        "change_24h_pct": -0.192,
-        "high_24h": 1.4097,
+        "price": 1.4084,
+        "change_24h_pct": 0.256,
+        "high_24h": 1.43,
         "low_24h": 1.3872,
-        "range_24h_pct": 1.6219723183390933,
-        "change_7d_pct": -7.589109562014995,
-        "change_30d_pct": 3.5977587732232363,
-        "ma7": 1.4301142857142857,
-        "ma25": 1.469792,
-        "ma99": 1.2637353535353533,
-        "rsi14_daily": 44.840710604456596,
-        "rsi14_4h": 46.61297799777405,
-        "atr14_pct": 3.9519947970652196,
-        "realized_vol_30d_daily_pct": 3.554984176061524,
-        "volume_24h_usdt": 40886762.86701,
-        "volume_vs_20d_avg": 0.16253734349333518,
+        "range_24h_pct": 3.085351787773938,
+        "change_7d_pct": -7.3786663159279176,
+        "change_30d_pct": 3.8336773813034464,
+        "ma7": 1.4304857142857144,
+        "ma25": 1.4698959999999999,
+        "ma99": 1.2637616161616159,
+        "rsi14_daily": 45.22503866343772,
+        "rsi14_4h": 47.658266841225114,
+        "atr14_pct": 4.05221730839453,
+        "realized_vol_30d_daily_pct": 3.5553645119117196,
+        "volume_24h_usdt": 57056831.64632,
+        "volume_vs_20d_avg": 0.22681829505808215,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,74 +62,82 @@
           },
           {
             "date": "2026-10-11",
-            "close": 1.4058
+            "close": 1.4084
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 1.764873327640193
+            "distance_pct": 1.5336552115876145
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 4.540278963848565
+            "distance_pct": 4.302754899176375
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -0.3700540848277867
+            "distance_pct": -0.5964214711729698
           }
         },
-        "from_90d_high_pct": -17.33631390081769,
-        "from_90d_low_pct": 42.48631109308458
+        "from_90d_high_pct": -17.148067533384314,
+        "from_90d_low_pct": 42.810788886635585
       },
       "news": [
         {
-          "source": "Gizmodo",
-          "title": "XRP Bug Could Have Let Hackers Print Billions in Crypto Out of Thin Air - Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYTFvcHlPa3pUWXo0Nlc1YnhCMDVCV2ZfVHRINDBMS3djVDlJX3Z3aVRuSzA4N1AwSm4yNDAybGVKVnluLUxPNlMxZ3lKQUkxbDNVbllDTnZJOXVraVJERGc2LXNHTG9WZWlOeUpqQ1h2blVyNEQ1N092V2YtbmVSMDJlZFF0U3JuTVVrT1JYRmhmUWxZT0RmcTVzWTU1dHJLY1hybQ?oc=5",
-          "published": "2026-10-11T15:31:48+00:00",
+          "source": "Robinhood",
+          "title": "XRP price at Oct 12, 2026 at 5pm EDT Crypto Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM3dYaUgwRlgwXzhBaF9QQmxCb3c1UzVIb1B0UklWTlc5a2xwNjJOVkdIVERsTEJVMnpzU19QSS13WHc1MVpWbFdYckstRnA4bEFubnRwblJ2VW1nRUdoTTA4dG5HMWxVZm1VNTAwMExlOVR2dGJmVGR2LUI3VF9oNFRsYnNwa3kwZXBqeFRXaDUwLXJRaE1HUFZ6VEtNVEF1cWVHS1RpN2g1SHVya1E?oc=5",
+          "published": "2026-10-11T20:05:49+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "24/7 Wall St.",
-          "title": "Bitcoin, Ethereum, XRP, and Solana Are All Down in 2026. Which Has Held Up Best? - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS1RfcVAwb2E0ZG12OUtySU9icDlZdlRIMm9OR2x4T3VmZ0JrLUtjQ3NMaURnelNDb3lCaTBKNVNGUmdNX2t4bUFaazJNeFhOMW5zUVJrMUhmc3IxYTRwMjQ2OTJwTnJndmZpUkc1bVBDTnZEcV9JTnZMbHRVOTNBOXJsWXlla3dTVTEtbm5nQjFxaVRrdUdFOUVJQklabktzRi03WEVaX2xyNFUyZmstQ0dIUzhYc1BvdUVHSVN2aUJ3MGs3U1lPM1ZqWGQzOEk?oc=5",
-          "published": "2026-10-11T15:30:00+00:00",
+          "title": "We Asked ChatGPT Whether Evernorth's Stock Could Trade Above or Below the Value of Its XRP After Its First Week - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRW5ETk5Kb2w4SkdWMDlYbzNMaVcxdm5pMlRCWlRmQmJyZGhISmVaRnE2el81YWNRVlRXcUg1bjZJak40dnV6RFp0Z0NaTmhCZm80dnhpNWNsd3NBY3ozbDgyMHYxR3hXa3R2NTdVV2I5Nm94N1Uwb29kQXhmT3J5UnZIV3ZTX1dFT2ZSVGRxODg3WDN2VGlaRDFDWmFYVXVDZ1VOR1gtSGdGakdHbzJPNUdPTmthbEFtcndfYklTOThEaGstc2R2VS1uTXpHUnphMVFKRWpjLWxQclMtbzdQRGp4d2Y0NVlGQzlHV1JISkhmOVRhWjQxT0U2YW9lQQ?oc=5",
+          "published": "2026-10-11T19:40:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Pluang",
-          "title": "XRP risks further decline after losing $1.44 su... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaVUwUzFXY25nOUh5TElKbmNDNUxrQXV2aWRoc1JoWC1SZmhxSXFJdkRPNXN4Q3JlTlhRUG1CTXp1aGk3b1hiQWhMcGl6Y1JabFlrM3MzUDlHdFZDOExaaTZnMHBQbk14dzhfTlZ6THVWaDNab3kxd3VzcmVQMHFvT0dvdm81UFRoT3JBRmlZdThCMGE3VWc?oc=5",
-          "published": "2026-10-11T15:24:17+00:00",
+          "source": "CoinGape",
+          "title": "XRP Price Prediction Ahead of Tomorrow\u2019s Expected XRPN Nasdaq Debut - CoinGape",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOamNOLW5HRXNlWUNDVWdFNEEyUTI4b25ESm44cTEwQk9TSkxJeXlfblFMZmF1MVcwU0xIWGF3SkZBbHZTU0p0Vi04OWp6NEh0ZlNtMFdoa214Z2F2Ti0tbExmYzFmWGdaUVVfbHFSakxkWHF4aVpZb1hLWThET2c3Q3dZekF0Z1R5b0JrdnhsVThINlpPeVJnMGEzZlQ?oc=5",
+          "published": "2026-10-11T19:28:30+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Pluang",
-          "title": "XRP leads crypto social engagement with 13.1M i... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmJMQ0ppN1VRRGR6dWw2cl9RWmpGUTlkZTRTQmFNdFNNSlc1UTZjRWRlUXVzX0IwMnFzcmw0WEpTYUxGbVBZdUhuZFBhSFA5Vl9JODhUWWJLcjdLVDRnUmx0Rmx6TzN5UkpoQWo5YUhONVZZRmsxWjBtTVlIWnhYYkxMd1RUSTFhMmJ5ZU05RmxYcjRGakZSYThjRQ?oc=5",
-          "published": "2026-10-11T15:22:35+00:00",
+          "source": "TechBullion",
+          "title": "XRP News: Evernorth\u2019s Nasdaq Arrival Puts Payments Tokens in Focus as Remittix Nears Launch - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeVV5b2FKQUhUUUtpWmJrLUZxTElMem1iWXlzVE5zbWwtZmVua284LWMxWkNiODNVcnBUYjF2VmZTVGtXcFYweDUxblV4YUQwaHVTaVJrZWxVbkJrbjQ5ZTZDRlZIV0F5UE9pNkQtQWpsbkpNc21wSm9nUVVmb1pzbmpwSy1lRlJzbVQ3eWs3WWxCeGRwQkYtbGU0ZF9CVmVyR1pNLTBZbkZqNk9wWjYtaVd5NW0?oc=5",
+          "published": "2026-10-11T19:03:47+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "AMBCrypto",
-          "title": "XRP recovery on hold? THESE momentum signals explain the hesitation - AMBCrypto",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONnozLUREekk4Y1pmUGhuUjMwR09ZTko4NzJJby1vc2xTM3prenRiWVh2QmI0VlNNS3pMbVJvX0NfRGxUQnBkbWhaZTl2TmgzS3lBQllTWWYxMUdkNzFpWnZpRlh0RzdKVUJ2TTJoMUdoSzlrYnN0X2g4VnFWRnNWME13QmFLdTRvOWRDc21nVzRyajA?oc=5",
-          "published": "2026-10-11T15:00:30+00:00",
+          "source": "CryptoSlate",
+          "title": "XRP\u2019s next Wall Street expansion comes with an unexpected complication from Ripple - CryptoSlate",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSFhvYzFrRzNlUTBDVmdqYlBvUmN1aWd6Vzh1ZHc5NEVaazJLNU1PeE0tT21UQUF0SDhQaE9lWUNNUGxYc1hOOU9naGJOV0hENm5CZFIzcWZKcHNsWUcxTzNMVFJaTkJoN2xaODhZN3hQVTE5ZGRmbUVISTVtM09XV0dTMTFIdllwMVZUSkJ6Q2owWGZXZ0syZnd5U1V2YTc1Ml9aQzVZWTg2Zw?oc=5",
+          "published": "2026-10-11T19:00:09+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "CryptoPotato",
-          "title": "Ripple ETFs Defy Crypto Slump With Another Green Week but XRP Price Sinks - CryptoPotato",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNmdBemlhVHdvQ1ZoUEZNYUhhZFFNQUhoUVItamcxV3BrZ3o1Z0h0Vmwway1LMU9INW1tNm41elpsS1ZqRkdBRlUtQTVycVFnS0FoVW5ldUFtY1J3VmlGNHJyWE0yU1RJeUNNbDJoMmY2cDNQc3REUlkzYVpOX3Qtd2VYUE1lbzA4VXpSanBGZ1VXbUNFOXRTV2xUVGJNX0VB?oc=5",
-          "published": "2026-10-11T14:36:00+00:00",
+          "source": "StreetInsider",
+          "title": "XRP Price Prediction: Evernorth Brings 473M XRP to Nasdaq as Pepeto Buyers Chase a Run - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUEJYMFc1Y1N6UzJreTVGTVNFOXJNcm1uSVotRGp2N2VQY2ZId2ZPZS1NcC1QOWZ5ZzNSQzh3OFlxSjR0NFVrRWRtM181c1RQMVBETGZoUjRlbzhOQ2tELXRwNnh0N1dLWFlNN3lFQUl6ZGN3R2Ztc3VSX3JRUDZVeFRCcnlqVE1CamxObUFTYndzUnMtYVdwU0daZVB1ZWR3cUl2R0dmenY3RzNLWWk4RlpGbEJKaGlNVThIRmQxekhsbjJyVjRZMlNEeC1HWHgtdkphVjA1Y19sMlVGMm8xeHl3?oc=5",
+          "published": "2026-10-11T18:46:25+00:00",
           "summary": "",
           "via": "Google News"
+        },
+        {
+          "source": "The Block",
+          "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
+          "link": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+          "published": "2026-10-11T18:07:41+00:00",
+          "summary": "An overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction.",
+          "via": "The Block"
         },
         {
           "source": "CoinDesk",
