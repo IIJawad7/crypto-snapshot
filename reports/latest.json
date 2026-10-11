@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-11T01:52:49+00:00",
+  "generated_utc": "2026-10-11T08:49:21+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 83040.61,
-      "change_24h_pct": 0.402,
-      "change_7d_pct": -4.032578296544553
+      "price": 83090.0,
+      "change_24h_pct": 0.349,
+      "change_7d_pct": -3.97549982664972
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.4011,
-        "change_24h_pct": -0.448,
-        "high_24h": 1.413,
-        "low_24h": 1.3965,
-        "range_24h_pct": 1.1815252416756072,
-        "change_7d_pct": -7.858739971064055,
-        "change_30d_pct": 3.2954880566204547,
-        "ma7": 1.4294428571428572,
-        "ma25": 1.469604,
-        "ma99": 1.2636878787878785,
-        "rsi14_daily": 44.17350800582219,
-        "rsi14_4h": 42.6262705172667,
-        "atr14_pct": 3.8923498883530283,
-        "realized_vol_30d_daily_pct": 3.5551107187023296,
-        "volume_24h_usdt": 51008223.11967,
-        "volume_vs_20d_avg": 0.20277323272456899,
+        "price": 1.3956,
+        "change_24h_pct": -0.796,
+        "high_24h": 1.4121,
+        "low_24h": 1.3872,
+        "range_24h_pct": 1.7949826989619222,
+        "change_7d_pct": -8.220439300276205,
+        "change_30d_pct": 2.890002948982584,
+        "ma7": 1.4286571428571428,
+        "ma25": 1.469384,
+        "ma99": 1.263632323232323,
+        "rsi14_daily": 43.52382039740452,
+        "rsi14_4h": 41.93263266350665,
+        "atr14_pct": 3.955288048151332,
+        "realized_vol_30d_daily_pct": 3.556601790098621,
+        "volume_24h_usdt": 41166461.9718,
+        "volume_vs_20d_avg": 0.16364923267903328,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-10-11",
-            "close": 1.4011
+            "close": 1.3956
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 2.0626650488901443
+            "distance_pct": 2.4648896531957565
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 4.846192277496253
+            "distance_pct": 5.259386643737463
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": -0.07850974234531183
+            "distance_pct": 0.31527658354828514
           }
         },
-        "from_90d_high_pct": -17.577504559091707,
-        "from_90d_low_pct": 42.070573920097345
+        "from_90d_high_pct": -17.901053003117827,
+        "from_90d_low_pct": 41.51287771243155
       },
       "news": [
         {
-          "source": "TradingKey",
-          "title": "XRP (XRPUSD) Volatility Intensified on Oct 11: What You Should Know - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdTRrRENMNXcyR3NsY1M0N216c2trdi03RjluWTI1V25uYUtRa1p1aEQtbHl6aUJfdmVFSnNkMGZGZlNFS1JvZWZJeHhZNFFFb1FjY0d2blQzeWhqcUg0Y2NpeW9CRUtoemNUZDFERGY3d3QyZ2xmUGhab1V2bndyVjBkQ1ZaZi10U1dkQ0Rn?oc=5",
-          "published": "2026-10-11T00:55:11+00:00",
+          "source": "MarketForces Africa",
+          "title": "XRP Price Drops As Speculators Exit Bets Ahead Of XRPN Listing - MarketForces Africa",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObU5WUEZBa3hXOVRUOXYtdFpiSS0tbWZUXzNZVzVKai1DcXg5SE8xSXNZdnVoeTVKUzFKODRoalR1ZlEzOUROdnVZdEVYMl9OZkNXR3EzOXh1RVFVYXZES1UyM0x6RnRqOVRZWUdyWG8xb29KQlAtdFFVYkE5Uy1MVkNZaEw1UmttaFJvd2M5R2hPZk0?oc=5",
+          "published": "2026-10-11T08:46:36+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Pluang",
-          "title": "Ripple CEO Brad Garlinghouse is bullish on XRP, citing its growing financial utility and institutional adoption. - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnNnRjVrclJyTTU5QXQ2SWY4dEpqQ2ZKMnRkaVAtMWRZOVZJenhZYk1FdkVEQUlwM09FNmdxZjlvakYweV9EbW04aUR6WThGcGplTV9WMHV1SFhqQ2VmVnBuN3RKZ2tKb2tTbUUyeWJOU0U3dUlTRFBrdmljVW9jTFFUNlRwOF9QWTcteVVscU5ndXpqUDhzN3Q2cjh3aTBQUW14SA?oc=5",
-          "published": "2026-10-11T00:26:16+00:00",
+          "source": "Robinhood",
+          "title": "XRP price at Oct 11, 2026 at 5am EDT Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzA1T3duel9EWDNkRl9XbHp1Z1hWUlpvZU1taDQtdUZVUm0ydEU3TWttZ2dUem0wNHllN3ZueDdMYkZzM3VMaVE3UjgyOXNHMlZSeXo3QTlHNkFfYUsxZ29yYW1HT0xZQ0NVcHJUeENlQWtuUm41VlpKc2x0Z1lJZHN2QnFaYVdGZmlJWXFfQnNKeWxyQ01PMTBtdjF3OGtSUlFzTXlfdVduZVkxTGc?oc=5",
+          "published": "2026-10-11T08:03:21+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Pluang",
-          "title": "Avalanche founder warns AI could expose costly security flaws in XRP Ledger before cryptography breaks - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWk5TGNYZF9hYVZabEYxdFVydEQwYXhMeXlqdWV2Sld2MWh5OVFBRVVkUFd4RUR1cmNXNUE1cVNDWmZWXzdCdE83bXFzdDBQY3FLcFlOTlZjNUp0VklYemFQMTF3MVlpVWlocDZBcFlqM2ZGaXZnSnZWVFZxTXE3VU5hQVB3cHNmZnJsZFJGR2dXUHozZHp2M2NDSHRvMFEtX25udGMxaw?oc=5",
-          "published": "2026-10-10T23:06:00+00:00",
+          "source": "Startup Fortune",
+          "title": "Avalanche Founder Warns AI Could Expose Hidden Bugs In XRP Ledger - Startup Fortune",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVVA4SW84c3lwc2hjcEJLdVVNcWI2al9PMkg2dktnNmFfV180RG1tdWVZQzFReDJHNHJEajZoUDMxS3hFa3EwYnZJcmhCbUNzcDlzMUJEX3dkd0lGNWhLTzBMSEpZWFpYa0Z5LXlTOUFrQmRkOWhKQTUtMVdNd3BMMVNWODlVYnRJU1BES1NrZ2wxR3JYRkY1cg?oc=5",
+          "published": "2026-10-11T07:09:35+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Bitget",
-          "title": "Evernorth CEO Has An Announcement for XRP Army - Bitget",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JWldqYndIVXI3ZEdaSGZ5cXVqM3V0U1FlZnFWYVc4alNVejVrYjJKLXU4MXRVM1ZETmlNQko5Qk54MFYzaWRwOWZlWGQ2YUdVVmhPS0VsbEhESFg0MDl6S2c3WdIBY0FVX3lxTE9JWldqYndIVXI3ZEdaSGZ5cXVqM3V0U1FlZnFWYVc4alNVejVrYjJKLXU4MXRVM1ZETmlNQko5Qk54MFYzaWRwOWZlWGQ2YUdVVmhPS0VsbEhESFg0MDl6S2c3WQ?oc=5",
-          "published": "2026-10-10T23:04:12+00:00",
+          "source": "CryptoNinjas",
+          "title": "Brazil\u2019s BRL 22T CSD BR Moves Fund Records to XRP Ledger in Live Tokenization Push - CryptoNinjas",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQby1EQmxEa3JBbjNQUUw3QjlDVkhON2pMWmU4cEZOVllMUmdGVloxTkhEa3dhQmhjSDF6YTh1VFNfSDMzbnlKNFlzZkpTRGd6QnNySjNCMTM0LUVEWEJEelR6UC1EWjB0NklodERmMWlKSnZCTGlFd2k1YWZGQVlBVGJHQ2tUOVVYUVpUTENKSTF1UVJZMUF6eXFMZ3VTMGZlYmVaVTJzNTFSM3QwT3o2eERoMEttNXl6Z1ZKS9IBvAFBVV95cUxQby1EQmxEa3JBbjNQUUw3QjlDVkhON2pMWmU4cEZOVllMUmdGVloxTkhEa3dhQmhjSDF6YTh1VFNfSDMzbnlKNFlzZkpTRGd6QnNySjNCMTM0LUVEWEJEelR6UC1EWjB0NklodERmMWlKSnZCTGlFd2k1YWZGQVlBVGJHQ2tUOVVYUVpUTENKSTF1UVJZMUF6eXFMZ3VTMGZlYmVaVTJzNTFSM3QwT3o2eERoMEttNXl6Z1ZKSw?oc=5",
+          "published": "2026-10-11T06:11:56+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "CryptoRank",
-          "title": "Is the XRP Correction Over or Are There Deeper Declines Ahead? - CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUZidHVsUzBkU1BSR1Y3WnNZeUJPNzBsZkN2MkJqY1N3WXhubFlNcDF1VGVXTVpxTk00b3haY0llY0hUeHg0d0pSU3UwNU5jTDE4bk5aaE96WXd6VnduRC1JTFVzeWhYeGo2N3ZwRkgzVXVUNUdRd2dZeU5ENW1zcHN2VUVvRUlqeVJDQlNKQTZnRjRFRnNqVEU4cExJSHIz?oc=5",
-          "published": "2026-10-10T22:53:57+00:00",
+          "source": "Crypto Adventure",
+          "title": "XRP Ledger Patches Decade-Old Flaw That Could Create Spendable XRP - Crypto Adventure",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGhyRFJWU1hXMDZHSS1pTERqUGNtdXVuZ0JaQUlGOFhBc19kaWZpcWdVdmRkNWRta2lINjctcXAydFJuYVdTQ21sNXhLYTFmcHhySzQ5dDJ2Nmx2a0NHMUJ0SE9aeE5GNWp1N2VmMnZUUV90VkpMeGJ6eFhpWmpESXk1c0JZQzJjUEFFLTU5X1J3ZmR0MUVlUE9Dcw?oc=5",
+          "published": "2026-10-11T05:23:30+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Cryptonews.net",
-          "title": "Is the XRP Correction Over or Are There Deeper Declines Ahead? - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WUlJuRS1idGRxRzF5cnh3VmpvUm9pNk5yZTBaOFprNElUenJGSHRfOGlqajQ2VXBkZ2ROd2NjNHRWdkZxdi1adjVnbzRxZXJPcTVZeFo2bmltcG8?oc=5",
-          "published": "2026-10-10T22:41:11+00:00",
+          "source": "CryptoPotato",
+          "title": "BTC, ETH, XRP Crash Sparks Whale Accumulation as Buy Signals Appear - CryptoPotato",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaHNkZ05TQ0VHdHBfQkVkTURJYTVqbXlpQy1BZlVSRkJOQkgtczZtb3BYbTc2R3JHazRzNnNEYkZ0YmxQWW56Y3FjYlE4NnZTYjBBUkRZMTVWR013RVFmYnh5MG8yeDQtWDI5aUJsaG93MHRBMnR3MkJ2UUd4VVhhMEp1SUYzMy1mQ3VjX3NIYWNfMHdhcGc?oc=5",
+          "published": "2026-10-11T03:58:00+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -137,14 +137,6 @@
           "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
           "published": "2026-10-10T04:20:07+00:00",
           "summary": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
-          "via": "CoinDesk"
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
-          "link": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
-          "published": "2026-10-09T04:21:36+00:00",
-          "summary": "The feature lets businesses give separate accounts limited powers such as approving customers or making payments, while keeping the keys that control their main holdings offline.",
           "via": "CoinDesk"
         }
       ]

@@ -1,44 +1,42 @@
-# Crypto snapshot — 2026-10-11 04:52 (UTC+3)
+# Crypto snapshot — 2026-10-11 11:49 (UTC+3)
 
 ## Market context
-- BTC: 83,040.61 (+0.40% 24h, -4.03% 7d)
+- BTC: 83,090.00 (+0.35% 24h, -3.98% 7d)
 - Fear & Greed index: 61 (Greed), yesterday 64
 
 ## XRP
-**Price:** 1.4011  |  24h -0.45%  |  7d -7.86%  |  30d +3.30%
+**Price:** 1.3956  |  24h -0.80%  |  7d -8.22%  |  30d +2.89%
 
 | Metric | Value |
 |---|---|
-| 24h high / low | 1.4130 / 1.3965 (range 1.18%) |
-| MA7 / MA25 / MA99 (daily) | 1.4294 / 1.4696 / 1.2637 |
-| Price vs MA7 / MA25 / MA99 | -1.98% / -4.66% / +10.87% |
-| RSI14 daily / 4h | 44.2 / 42.6 |
-| ATR14 (avg daily move) | 3.89% |
+| 24h high / low | 1.4121 / 1.3872 (range 1.79%) |
+| MA7 / MA25 / MA99 (daily) | 1.4287 / 1.4694 / 1.2636 |
+| Price vs MA7 / MA25 / MA99 | -2.31% / -5.02% / +10.44% |
+| RSI14 daily / 4h | 43.5 / 41.9 |
+| ATR14 (avg daily move) | 3.96% |
 | 30d realized vol (daily σ) | 3.56% |
-| 24h volume vs 20d avg | 0.20x (51.0M USDT) |
+| 24h volume vs 20d avg | 0.16x (41.2M USDT) |
 | 30d high / low | 1.6581 / 1.2468 |
-| 90d high | 1.6999 on 2026-08-22 (-17.58% from it) |
-| 90d low | 0.9862 on 2026-08-14 (+42.07% from it) |
+| 90d high | 1.6999 on 2026-08-22 (-17.90% from it) |
+| 90d low | 0.9862 on 2026-08-14 (+41.51% from it) |
 
-Last 7 daily closes: 10-05 1.5077, 10-06 1.4971, 10-07 1.4215, 10-08 1.3805, 10-09 1.3958, 10-10 1.4024, 10-11 1.4011
+Last 7 daily closes: 10-05 1.5077, 10-06 1.4971, 10-07 1.4215, 10-08 1.3805, 10-09 1.3958, 10-10 1.4024, 10-11 1.3956
 
 **My levels**
 
 | Level | Price | Distance from now |
 |---|---|---|
-| entry | 1.4300 | +2.06% |
-| target | 1.4690 | +4.85% |
-| stop | 1.4000 | -0.08% |
+| entry | 1.4300 | +2.46% |
+| target | 1.4690 | +5.26% |
+| stop | 1.4000 | +0.32% |
 
-**News (last 48h, 8 items)**
+**News (last 48h, 7 items)**
 
-- [XRP (XRPUSD) Volatility Intensified on Oct 11: What You Should Know - TradingKey](https://news.google.com/rss/articles/CBMijgFBVV95cUxPdTRrRENMNXcyR3NsY1M0N216c2trdi03RjluWTI1V25uYUtRa1p1aEQtbHl6aUJfdmVFSnNkMGZGZlNFS1JvZWZJeHhZNFFFb1FjY0d2blQzeWhqcUg0Y2NpeW9CRUtoemNUZDFERGY3d3QyZ2xmUGhab1V2bndyVjBkQ1ZaZi10U1dkQ0Rn?oc=5) — TradingKey, 2026-10-11 00:55 UTC
-- [Ripple CEO Brad Garlinghouse is bullish on XRP, citing its growing financial utility and institutional adoption. - Pluang](https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnNnRjVrclJyTTU5QXQ2SWY4dEpqQ2ZKMnRkaVAtMWRZOVZJenhZYk1FdkVEQUlwM09FNmdxZjlvakYweV9EbW04aUR6WThGcGplTV9WMHV1SFhqQ2VmVnBuN3RKZ2tKb2tTbUUyeWJOU0U3dUlTRFBrdmljVW9jTFFUNlRwOF9QWTcteVVscU5ndXpqUDhzN3Q2cjh3aTBQUW14SA?oc=5) — Pluang, 2026-10-11 00:26 UTC
-- [Avalanche founder warns AI could expose costly security flaws in XRP Ledger before cryptography breaks - Pluang](https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWk5TGNYZF9hYVZabEYxdFVydEQwYXhMeXlqdWV2Sld2MWh5OVFBRVVkUFd4RUR1cmNXNUE1cVNDWmZWXzdCdE83bXFzdDBQY3FLcFlOTlZjNUp0VklYemFQMTF3MVlpVWlocDZBcFlqM2ZGaXZnSnZWVFZxTXE3VU5hQVB3cHNmZnJsZFJGR2dXUHozZHp2M2NDSHRvMFEtX25udGMxaw?oc=5) — Pluang, 2026-10-10 23:06 UTC
-- [Evernorth CEO Has An Announcement for XRP Army - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JWldqYndIVXI3ZEdaSGZ5cXVqM3V0U1FlZnFWYVc4alNVejVrYjJKLXU4MXRVM1ZETmlNQko5Qk54MFYzaWRwOWZlWGQ2YUdVVmhPS0VsbEhESFg0MDl6S2c3WdIBY0FVX3lxTE9JWldqYndIVXI3ZEdaSGZ5cXVqM3V0U1FlZnFWYVc4alNVejVrYjJKLXU4MXRVM1ZETmlNQko5Qk54MFYzaWRwOWZlWGQ2YUdVVmhPS0VsbEhESFg0MDl6S2c3WQ?oc=5) — Bitget, 2026-10-10 23:04 UTC
-- [Is the XRP Correction Over or Are There Deeper Declines Ahead? - CryptoRank](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUZidHVsUzBkU1BSR1Y3WnNZeUJPNzBsZkN2MkJqY1N3WXhubFlNcDF1VGVXTVpxTk00b3haY0llY0hUeHg0d0pSU3UwNU5jTDE4bk5aaE96WXd6VnduRC1JTFVzeWhYeGo2N3ZwRkgzVXVUNUdRd2dZeU5ENW1zcHN2VUVvRUlqeVJDQlNKQTZnRjRFRnNqVEU4cExJSHIz?oc=5) — CryptoRank, 2026-10-10 22:53 UTC
-- [Is the XRP Correction Over or Are There Deeper Declines Ahead? - Cryptonews.net](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WUlJuRS1idGRxRzF5cnh3VmpvUm9pNk5yZTBaOFprNElUenJGSHRfOGlqajQ2VXBkZ2ROd2NjNHRWdkZxdi1adjVnbzRxZXJPcTVZeFo2bmltcG8?oc=5) — Cryptonews.net, 2026-10-10 22:41 UTC
+- [XRP Price Drops As Speculators Exit Bets Ahead Of XRPN Listing - MarketForces Africa](https://news.google.com/rss/articles/CBMikwFBVV95cUxObU5WUEZBa3hXOVRUOXYtdFpiSS0tbWZUXzNZVzVKai1DcXg5SE8xSXNZdnVoeTVKUzFKODRoalR1ZlEzOUROdnVZdEVYMl9OZkNXR3EzOXh1RVFVYXZES1UyM0x6RnRqOVRZWUdyWG8xb29KQlAtdFFVYkE5Uy1MVkNZaEw1UmttaFJvd2M5R2hPZk0?oc=5) — MarketForces Africa, 2026-10-11 08:46 UTC
+- [XRP price at Oct 11, 2026 at 5am EDT Prediction Market - Robinhood](https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzA1T3duel9EWDNkRl9XbHp1Z1hWUlpvZU1taDQtdUZVUm0ydEU3TWttZ2dUem0wNHllN3ZueDdMYkZzM3VMaVE3UjgyOXNHMlZSeXo3QTlHNkFfYUsxZ29yYW1HT0xZQ0NVcHJUeENlQWtuUm41VlpKc2x0Z1lJZHN2QnFaYVdGZmlJWXFfQnNKeWxyQ01PMTBtdjF3OGtSUlFzTXlfdVduZVkxTGc?oc=5) — Robinhood, 2026-10-11 08:03 UTC
+- [Avalanche Founder Warns AI Could Expose Hidden Bugs In XRP Ledger - Startup Fortune](https://news.google.com/rss/articles/CBMimAFBVV95cUxPVVA4SW84c3lwc2hjcEJLdVVNcWI2al9PMkg2dktnNmFfV180RG1tdWVZQzFReDJHNHJEajZoUDMxS3hFa3EwYnZJcmhCbUNzcDlzMUJEX3dkd0lGNWhLTzBMSEpZWFpYa0Z5LXlTOUFrQmRkOWhKQTUtMVdNd3BMMVNWODlVYnRJU1BES1NrZ2wxR3JYRkY1cg?oc=5) — Startup Fortune, 2026-10-11 07:09 UTC
+- [Brazil’s BRL 22T CSD BR Moves Fund Records to XRP Ledger in Live Tokenization Push - CryptoNinjas](https://news.google.com/rss/articles/CBMivAFBVV95cUxQby1EQmxEa3JBbjNQUUw3QjlDVkhON2pMWmU4cEZOVllMUmdGVloxTkhEa3dhQmhjSDF6YTh1VFNfSDMzbnlKNFlzZkpTRGd6QnNySjNCMTM0LUVEWEJEelR6UC1EWjB0NklodERmMWlKSnZCTGlFd2k1YWZGQVlBVGJHQ2tUOVVYUVpUTENKSTF1UVJZMUF6eXFMZ3VTMGZlYmVaVTJzNTFSM3QwT3o2eERoMEttNXl6Z1ZKS9IBvAFBVV95cUxQby1EQmxEa3JBbjNQUUw3QjlDVkhON2pMWmU4cEZOVllMUmdGVloxTkhEa3dhQmhjSDF6YTh1VFNfSDMzbnlKNFlzZkpTRGd6QnNySjNCMTM0LUVEWEJEelR6UC1EWjB0NklodERmMWlKSnZCTGlFd2k1YWZGQVlBVGJHQ2tUOVVYUVpUTENKSTF1UVJZMUF6eXFMZ3VTMGZlYmVaVTJzNTFSM3QwT3o2eERoMEttNXl6Z1ZKSw?oc=5) — CryptoNinjas, 2026-10-11 06:11 UTC
+- [XRP Ledger Patches Decade-Old Flaw That Could Create Spendable XRP - Crypto Adventure](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGhyRFJWU1hXMDZHSS1pTERqUGNtdXVuZ0JaQUlGOFhBc19kaWZpcWdVdmRkNWRta2lINjctcXAydFJuYVdTQ21sNXhLYTFmcHhySzQ5dDJ2Nmx2a0NHMUJ0SE9aeE5GNWp1N2VmMnZUUV90VkpMeGJ6eFhpWmpESXk1c0JZQzJjUEFFLTU5X1J3ZmR0MUVlUE9Dcw?oc=5) — Crypto Adventure, 2026-10-11 05:23 UTC
+- [BTC, ETH, XRP Crash Sparks Whale Accumulation as Buy Signals Appear - CryptoPotato](https://news.google.com/rss/articles/CBMilgFBVV95cUxOaHNkZ05TQ0VHdHBfQkVkTURJYTVqbXlpQy1BZlVSRkJOQkgtczZtb3BYbTc2R3JHazRzNnNEYkZ0YmxQWW56Y3FjYlE4NnZTYjBBUkRZMTVWR013RVFmYnh5MG8yeDQtWDI5aUJsaG93MHRBMnR3MkJ2UUd4VVhhMEp1SUYzMy1mQ3VjX3NIYWNfMHdhcGc?oc=5) — CryptoPotato, 2026-10-11 03:58 UTC
 - [XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing](https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing) — CoinDesk, 2026-10-10 04:20 UTC
   - Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.
-- [XRP Ledger adds new controls for banks, stablecoins and tokenized funds](https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds) — CoinDesk, 2026-10-09 04:21 UTC
-  - The feature lets businesses give separate accounts limited powers such as approving customers or making payments, while keeping the keys that control their main holdings offline.
