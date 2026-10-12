@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-12T15:23:02+00:00",
+  "generated_utc": "2026-10-12T22:58:32+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 82722.0,
-      "change_24h_pct": -0.516,
-      "change_7d_pct": -3.550170362985139
+      "price": 82370.0,
+      "change_24h_pct": -1.539,
+      "change_7d_pct": -3.960585246960735
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.3782,
-        "change_24h_pct": -1.606,
-        "high_24h": 1.43,
-        "low_24h": 1.3701,
-        "range_24h_pct": 4.3719436537478895,
-        "change_7d_pct": -8.589241891623,
-        "change_30d_pct": 0.8709653809558571,
-        "ma7": 1.4122285714285714,
-        "ma25": 1.4732359999999998,
-        "ma99": 1.266011111111111,
-        "rsi14_daily": 41.64056501543136,
-        "rsi14_4h": 38.280855814983816,
-        "atr14_pct": 4.062823968484345,
-        "realized_vol_30d_daily_pct": 3.5815523391043333,
-        "volume_24h_usdt": 118658107.44145,
-        "volume_vs_20d_avg": 0.516797478674545,
+        "price": 1.3532,
+        "change_24h_pct": -3.94,
+        "high_24h": 1.4214,
+        "low_24h": 1.3431,
+        "range_24h_pct": 5.82979673888766,
+        "change_7d_pct": -10.247396696955635,
+        "change_30d_pct": -0.9587938227329396,
+        "ma7": 1.408685714285714,
+        "ma25": 1.4722439999999997,
+        "ma99": 1.265760606060606,
+        "rsi14_daily": 39.093024327147816,
+        "rsi14_4h": 31.870092897346296,
+        "atr14_pct": 4.2798023732105905,
+        "realized_vol_30d_daily_pct": 3.6374729257957226,
+        "volume_24h_usdt": 133175013.33061,
+        "volume_vs_20d_avg": 0.5800236713337817,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,74 +62,98 @@
           },
           {
             "date": "2026-10-12",
-            "close": 1.378
+            "close": 1.3532
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 3.7585256131185574
+            "distance_pct": 5.675436003547141
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 6.588303584385424
+            "distance_pct": 8.557493349098433
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 1.581773327528646
+            "distance_pct": 3.4584688146615417
           }
         },
-        "from_90d_high_pct": -18.924642626036814,
-        "from_90d_low_pct": 39.74852970999798
+        "from_90d_high_pct": -20.3953173716101,
+        "from_90d_low_pct": 37.21354694788075
       },
       "news": [
         {
-          "source": "Bitcoin Foundation",
-          "title": "Evernorth\u2019s 473 Million XRP Wager Hikes as XRP Struggles to Regain Ground - Bitcoin Foundation",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1NsMVk2VVQzNnlSZFZORVZ3QTdPTW9pNG9iX2xSODc3SG9zcVVPU09KQ2dELWJxeTBZbWNfQ0lJTlFnYXVXcE9pYV9ISmFGV1FiQ2JHR2Y0OW81NUtjSndSRnhzQ0NZbE42MFNEMzZKb2thVG9jc2pSV3NyRk5XMlYwdWJJR1lET0x2aHBGLTZFV2pqUnhTMXcxdzQybmp0Q1lzUWI3YWU4SndBYmNSUmw2SmoxaDRhN2c?oc=5",
-          "published": "2026-10-12T15:20:22+00:00",
+          "source": "Robinhood",
+          "title": "XRP price at Oct 12, 2026 at 7pm EDT Crypto Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkpLN0Z2am4ycHVTMzdUOEoxeXc4enoyMXBOQndEMHlTdDRzTFVIazFlNDdVN1J6ZE1NTDVkSzRYdFdCMmpLekg1ZDU2azVPUzRFZGdnMWhicTNPV25pbi1HTnNueTY5OGtNMzVMSlllWWxwNW9ETFdTbmJLc3I0Uy13NkVFN1JHMU5iLWhQX1FpSHFPN0o3NnphVDZNRV83NWZCYXBBMW5PSkJWZ3c?oc=5",
+          "published": "2026-10-12T22:03:55+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "CoinGape",
-          "title": "XRP Price Forecast as Spot Volume Falls 1.94B and Open Interest Hits 3-Week Low - CoinGape",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTTFfQy14N2pzendMbklUYjVGakNrNU8yQ19SMS1sMGVqQ1JPM195Vl8yZjZmRXZMYkZxRnBSNVhfMUZkQjFmam0ybVl6M3dSVV9nSHZJZDVEVUVfRl9NZzYwcUszbFczZDlxVUtUZVk1TWVmbDJZMGVXaUh1bWY4T2NkNTB1Z09zenFsYXBjYzBPeDdDNEZkbVR4a2k1WnExLV9qdjJfUXlEYVVtd1E?oc=5",
-          "published": "2026-10-12T15:08:11+00:00",
+          "source": "BeInCrypto",
+          "title": "The Largest XRP Treasury Goes Public, but Its Nasdaq Debut Ends in Red - BeInCrypto",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ydVYtUlk3OHVEWk1DWW5xOE42bEhDRUItN3ZVMXAyUHNUcjRfTC1SVDFFZ2dySHJ3dnJUMC0zMVhuSm15c1lCMFNicjBzaEpCcFlVcTF1ZnNhTVV0T1pieV81RVdCRmk4bkdsVDNEYw?oc=5",
+          "published": "2026-10-12T22:00:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Benzinga",
-          "title": "Ripple Faces Criticism Over $250,000 Reward for Finding Critical XRP Flaw - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZkFLeURqNzBRclhjSXZCWXlLTnFIVUdoa2tKLVBwOXNpRTQxRTJvX1BTOUJOTDdrWXZTbjkxbTVQcWk3VHozT1R4UGx2dndpZlBEcXgtek81MTN2d3NTOHBoRmI3WHlnX0VwQUxRS0NLSWV6ak5tOUlsTmpfUHQ3dHFmU2RrQkdDX3lfQ0UxalNMT1dGSEg1clZrS2xaWWpidmY0UlktY2U0TUNKMEtJaF9pSnNFZnNiT29pNXd0WDM0OU5NWDBPcVpyUkpKZw?oc=5",
-          "published": "2026-10-12T15:05:06+00:00",
+          "source": "CryptoRank",
+          "title": "Stellar\u2019s $3.5 Billion RWA Surge Leaves XRP Ledger, Solana and Avalanche Playing Catch-Up - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXRlUW1ZekZHRGxEY0tSWDFTS3NKZlJSMkFXZGVOOFdndm14dkNfNkNBaFFPQld2NUxXV2JVc1l0dUJlZWZTN3FPRVBKWVJKMUpTYzBJVzEzeUQ0c1NWd09ya0QtM3VpRHFjQm44TFNZdlRpN3A3OFNURFJvS2JCUkpyTlg1c21EQjBDMVdJbFdKbXlQWUY2ZC1ybzYtV3JFWFFEZE0zMkFxd0t4UXBpbk9uc1Z6VUlHUG1tMEE1V2dsQQ?oc=5",
+          "published": "2026-10-12T21:18:03+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "FXEmpire",
-          "title": "XRP Price Prediction: Evernorth Listing May Keep XRP Above $1.32 Key Support - FXEmpire",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQandENktvUFVvaURHRlVndW9WV0VONlFwY3NBZmQzR1V5bk9iRm5QWlJDY25ZSEZEOHNRTVlaT3JuUWdXME1IRWJFLV83T3RqNDRMOWNhbHhvV0hnTkwzc0Q2dHEwd0FzN19Cai1KR1MteklJazQtaWU0STJLRlR5XzVNU2M2M2Q0bDhpUUhoWmNHQ3IzSWpnd0VSeUZjblFrTkQ5VGZGX21QRHQtWUJyWkI1X3VZdkdob1MxOGx0VjhEVTQ?oc=5",
-          "published": "2026-10-12T15:00:51+00:00",
+          "source": "Decrypt",
+          "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai\u2014And Let Clients Trade With It Without Moving It",
+          "link": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
+          "published": "2026-10-12T21:16:03+00:00",
+          "summary": "The bank's Dubai branch now offers custody for Ripple's RLUSD stablecoin and plans a link with LMAX that lets institutions post it as trading collateral while the coins stay put.",
+          "via": "Decrypt"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "XRP Traders Are Leaning Long by Two to One, and Whales Have Stopped Sending Coins to Exchanges. One Analyst Says $1.38 Gets Tested Before Any Rally. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZFVVZEE1MWx4U2xRTGtyMkJPNU1Qak53LVFMMmJxUjFiS0E3QTlldkQzWkRlV2xxTVpiejdtQkpYbkJQLVc3UkdUaVoyQko4UmMxY0psNWx5VXFzVk9jemNfd0pEc2d0c0VUUlBfS1J2ZFMyTUJERlUwUUVIS043RlA1MTg1YVlBcE1RTy1Qd2Y0Y0VKeWtBZQ?oc=5",
+          "published": "2026-10-12T21:00:28+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "bloomingbit",
-          "title": "XRP Treasury Firm Evernode Gains 5% in Nasdaq Debut - bloomingbit",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00alZIU2JMcF9LSm41MVBzb1JRS2c4VTktRWwzcXdyeEkzQm5VeFNoWS01SURvUGNjXzJCV3ZLVWtoNE0wYnAta1NyeURKblIzU0Rlag?oc=5",
-          "published": "2026-10-12T14:43:30+00:00",
+          "source": "StreetInsider",
+          "title": "XRP Price Prediction: $1.70 October Forecast Meets AlphaPepe Presale at $2.96M With AI Utility Built In - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNN1B6N2QxSVY5eW5yTy1SZTI5a25DenlwOHFnS2NVVWhhbU5NdTQ0NTQzWnRkcnBXUC1YVjdpQzJZZTB4UTRrM0hVaHl0VnF6Sk50WVNDQlVFcDRQa29xUUE3eUFkWlh6SnRncVJkWFprd1BlM1MwRzlHRnh4ejAwaG9YTm8zTGxlQ1F4NVVNcV9tS1VmODIxbTlIZF91VzR4U3NXd3ZTNWkzZ3JYRzNrMVJtYjZSdVZEQjFabEF3WkxGVTJNSUpUQ1NSN1VPbWJSSmpsR09RMlp4QVpZWUNQWFVXb2luMWlQaFI2bmk1Vy1OMjJEcHhxU3RNdHFLdw?oc=5",
+          "published": "2026-10-12T20:52:45+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "99Bitcoins",
-          "title": "A Decade-Old Ripple XRP Ledger Flaw Was Patched Before Disclosure - 99Bitcoins",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbTRoX2E4VVphNTRPdmREdGtaS3UzZk84YWltWFkzZm9HWTJwdEthSkZrS3hHLXJCS3FLY2NvRXBFZkJOMEhIRTZZbW5EWlJZRFE4a1BxWVRsVEJaSjEzanNyVTZ3bHd0V24zWndzOUp5WjNTanpUU2p2ZU5PX0JYT0h5TQ?oc=5",
-          "published": "2026-10-12T14:36:50+00:00",
+          "source": "MarketForces Africa",
+          "title": "XRP Declines As Standard Chartered Launches RLUSD Custody - MarketForces Africa",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEY3REhTVGcxNlZsTGwyZkRPb0NYWFZldEo4X1VCQ3JsMkgxZmZVakpFUExUVVBLWUltdGl0V2tEM0YzQ1dhejRfVUdhM2FvNUJ6eTZFU0JFS01GN2JwNG9JTkE1Qm5TcHF3bnZYNzgwZm5Pcy1RN1RzS0NzX1h6bjJ6cHdyV0JjWThYbg?oc=5",
+          "published": "2026-10-12T20:51:33+00:00",
           "summary": "",
           "via": "Google News"
+        },
+        {
+          "source": "Decrypt",
+          "title": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
+          "link": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
+          "published": "2026-10-12T18:09:15+00:00",
+          "summary": "Evernorth's XRPN shares began trading Monday after its SPAC merger closed, but 80% of SPAC investors cashed out first and its XRP stash is worth roughly 40% less than at signing.",
+          "via": "Decrypt"
+        },
+        {
+          "source": "Decrypt",
+          "title": "XRP Ledger\u2019s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
+          "link": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
+          "published": "2026-10-12T15:56:35+00:00",
+          "summary": "An integer overflow in the payment engine, dormant since 2015, could have let an attacker mint spendable XRP beyond the token\u2019s total supply.",
+          "via": "Decrypt"
         },
         {
           "source": "Cointelegraph",
@@ -154,30 +178,6 @@
           "published": "2026-10-12T12:01:02+00:00",
           "summary": "Evernorth plans to put its XRP holdings to work through lending, liquidity provision and yield strategies.",
           "via": "The Block"
-        },
-        {
-          "source": "The Block",
-          "title": "Standard Chartered launches custody for Ripple\u2019s RLUSD on XRP Ledger",
-          "link": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258",
-          "published": "2026-10-12T09:35:21+00:00",
-          "summary": "The bank is working with Ripple and LMAX Group to enable RLUSD as collateral for certain LMAX products under its collateral mirroring model.",
-          "via": "The Block"
-        },
-        {
-          "source": "Cointelegraph",
-          "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
-          "link": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-10-12T09:30:57+00:00",
-          "summary": "Standard Chartered has launched custody for Ripple\u2019s RLUSD stablecoin on the XRP Ledger and plans to let institutions use the tokens as trading collateral.",
-          "via": "Cointelegraph"
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
-          "link": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
-          "published": "2026-10-12T08:32:17+00:00",
-          "summary": "The XRP Ledger Foundation said normal parameters never triggered the bug that could have broken XRP's supply cap, which is why it was undetected for years.",
-          "via": "CoinDesk"
         }
       ]
     }
