@@ -1,46 +1,46 @@
-# Crypto snapshot — 2026-10-12 02:42 (UTC+3)
+# Crypto snapshot — 2026-10-12 08:56 (UTC+3)
 
 ## Market context
-- BTC: 83,700.01 (+0.81% 24h, -3.27% 7d)
-- Fear & Greed index: 61 (Greed), yesterday 64
+- BTC: 84,066.00 (+1.21% 24h, -1.98% 7d)
+- Fear & Greed index: 69 (Greed), yesterday 61
 
 ## XRP
-**Price:** 1.4109  |  24h +0.53%  |  7d -7.21%  |  30d +4.02%
+**Price:** 1.4155  |  24h +1.56%  |  7d -6.12%  |  30d +3.60%
 
 | Metric | Value |
 |---|---|
-| 24h high / low | 1.4300 / 1.3872 (range 3.09%) |
-| MA7 / MA25 / MA99 (daily) | 1.4308 / 1.4700 / 1.2638 |
-| Price vs MA7 / MA25 / MA99 | -1.39% / -4.02% / +11.64% |
-| RSI14 daily / 4h | 45.6 / 48.5 |
-| ATR14 (avg daily move) | 4.05% |
-| 30d realized vol (daily σ) | 3.56% |
-| 24h volume vs 20d avg | 0.23x (58.5M USDT) |
+| 24h high / low | 1.4300 / 1.3889 (range 2.96%) |
+| MA7 / MA25 / MA99 (daily) | 1.4176 / 1.4747 / 1.2664 |
+| Price vs MA7 / MA25 / MA99 | -0.15% / -4.02% / +11.77% |
+| RSI14 daily / 4h | 46.3 / 50.2 |
+| ATR14 (avg daily move) | 3.80% |
+| 30d realized vol (daily σ) | 3.55% |
+| 24h volume vs 20d avg | 0.34x (78.6M USDT) |
 | 30d high / low | 1.6581 / 1.2468 |
-| 90d high | 1.6999 on 2026-08-22 (-17.00% from it) |
-| 90d low | 0.9862 on 2026-08-14 (+43.06% from it) |
+| 90d high | 1.6999 on 2026-08-22 (-16.73% from it) |
+| 90d low | 0.9862 on 2026-08-14 (+43.53% from it) |
 
-Last 7 daily closes: 10-05 1.5077, 10-06 1.4971, 10-07 1.4215, 10-08 1.3805, 10-09 1.3958, 10-10 1.4024, 10-11 1.4109
+Last 7 daily closes: 10-06 1.4971, 10-07 1.4215, 10-08 1.3805, 10-09 1.3958, 10-10 1.4024, 10-11 1.4103, 10-12 1.4153
 
 **My levels**
 
 | Level | Price | Distance from now |
 |---|---|---|
-| entry | 1.4300 | +1.35% |
-| target | 1.4690 | +4.12% |
-| stop | 1.4000 | -0.77% |
+| entry | 1.4300 | +1.02% |
+| target | 1.4690 | +3.78% |
+| stop | 1.4000 | -1.10% |
 
 **News (last 48h, 9 items)**
 
-- [What Will XRP Be Worth in 2028? Exploring Three Scenarios Starting at $1.41 - 24/7 Wall St.](https://news.google.com/rss/articles/CBMizAFBVV95cUxOR2llQVBDbzVIRDBjWEFMTnBveDdDekRIdzA2bHJXaExlRUhFZ3Jlb2h5eWNnaDlQRFdyYUhPd0V2X19UbGQzLVp3X2lRSk8wa2xkOEtZdXdJWWxXaVZ4WTh6NjJSTzRQcExyTUpDMWI5ckx2QXpoWU1GYk1zUVhBTkxib1JMZkdOVFlqcGpFR054OVJpZGtNWWVYVnhaZndSWnZmMnJRMTcwSVFZT01pYi16M3ExelRSMC1PeUNsc2ZmenBxYzB4dkF6dmQ?oc=5) — 24/7 Wall St., 2026-10-11 23:19 UTC
-- [Crypto News Today: Thailand Clears Bitcoin ETFs, XRP and SOL Stall, Pepeto Offers a Second Shot - StreetInsider](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRm1oaUY3bU5FRkRBUVhybTRDUzBmM01FZ04xUkNTMzRKQlkwN0lFendJM0QyZEZkTjFBQmMzYUJ1SHRNRG5mRGNZWFgxbEZoeE9QTl9NRTBEeGE4UXdhUVJucE9YM0JNX3VqbVJuUmlGZ2hRQ05QZE04TjB5Tmk4dWtJOVBhdmVIQkIzZ2V0YlgyZV9LSllHcTJHR2pqUS10azNCVEJrNUw0M2xGS1RCdXl6Nl9US2hJZVBqRjhQa2VpVUFhcmZlNzA3UkxLTGMzZDk3TWJKaUFMNGFEZXlNZjYwbDM1bWhpQUFoYXRsVl9rY3M?oc=5) — StreetInsider, 2026-10-11 23:12 UTC
-- [XRP price at Oct 11, 2026 at 8pm EDT Crypto Prediction Market - Robinhood](https://news.google.com/rss/articles/CBMirgFBVV95cUxQSDYtSjNDRS1yNUF2RG5lOTNPZENoNUJBOTluZmc4YmZ6c0NONm9RWTVtMGwzU2QzMUx2OUExTmJob01WOW5OQjJUcEpUQkVsSksxaUhkSVdOZmV5ZnIwZFhqY1hvVS1DS09MaVQzNFRFWm5Uc2VBeGtUc0FxTTRndDhhMnNOTFR3NHdiQUpXaVFmMGhjdTRFQW43UW40YjY2MUQ2aWdwbzNNaF9kMXc?oc=5) — Robinhood, 2026-10-11 23:04 UTC
-- [Ripple News Today: XRP’s Institutional Story Strengthens as Remittix Builds a Rival Payments Network - TechBullion](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZHg3c1VLMjFHVjlPUnk1alR2RVJ4ajYya1U3d2tUR1ZIa2RzTHlLMzNQc2wta19KeTRhNktzcTRBcEp1TmhEZkJmNHpVZDZYOW82eUtvMkZTN0xWSUNULU9SeFgwZEpWSzBpNjVkLTJGVzU2WnRRVU1vX0RoX1Z5THdsUHMzbVp1NHJvWmNUZnFrT05FaDJZQ2w5cXhqOWsxM094NVE3NkQ4ZlhrWHY2S1l1d1dYbGtVVHc2Wld6cTI?oc=5) — TechBullion, 2026-10-11 23:03 UTC
+- [XRP Price Prediction After New ETF Inflows: Could XRP Reach $5 or Will Remittix Outperform? - TechBullion](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZFFVcXVVNHI4cFV5ZVViakFkSGlLNjhGcTlzUm9IVEp4MFNlWGlEdXNPNm16cENvcmFlZl9vb1RGeU9tZHVjTldHeENpM2V4S3ZMNkZSSDM2dDhmcTNfZUc2c0NTT2FHdW1CWFhuRFNTTkV4ZlphazZsamR0S2N0X0NxREJOQUlQN20ta3RPV2F2WlA2NmVOT2VEeWxDejRNNXNJMlZWSkFfaGlIUE1qUFMzbw?oc=5) — TechBullion, 2026-10-12 05:28 UTC
+- [XRP price at Oct 12, 2026 at 2am EDT Crypto Prediction Market - Robinhood](https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnFGWnJQX0dFeGxKQVAySXJWN3FHN3ROSGlvYl84TjlONGNqbzItN21HdlBUZXk5Qzd5cnByc1NhSnVjYlA3WFYzcnlaNlZPTnF1X2kyampJLS1VZ1BzeTdua1UxbFVGb2VHVmN0b204anZLMzV0MW5kYnBrZ1Nob3Y4WkdEcWZvRVBwMWZ2MHZJMmcwQjVfY3hvWktmWjJPM3BpOFBBN0s5THlSb0E?oc=5) — Robinhood, 2026-10-12 05:02 UTC
+- [Evernos joins Nasdaq holding 473 million XRP, wild card is Ripple - 디지털투데이](https://news.google.com/rss/articles/CBMirwFBVV95cUxOVm5vamJ4TVhDQWQ4eTZoTHV0NDRTVEdiZDFjS3NsRjZWTnE0d1MwczgxZ3VHOXBINWFOTXEwY1YxN0FBLXBtU3g1R1g2bTdpdHVqemlsX0pZeDk2RDNvemNXcmpwWDBXbFR5NGRJbHkwVlRzRnFrZUE1WUQwc3dMZkQtUXN1R0x4YnFRZkd1ZWJQV2hhRXNyTWk3QXhpNXhCVWY1Nkl0VzJETGFoc3RN?oc=5) — 디지털투데이, 2026-10-12 04:41 UTC
+- [XRP Ledger confirms 100B supply is safe after major security flaw - Crypto News](https://news.google.com/rss/articles/CBMijwFBVV95cUxNenBrTFU1V2RWdjNYbHByRnJzM0hvRDNIWDNmVXN4X05LZ01NY0gxSUhlSk5BZXVpcXVJZGtvSS1JQzgzc2c2SHhnWk5mOFNXWEtpdVhTWjUxZERKZC1zdmd6NkJfRC1nZ3o4LVR5ZFFHdGd6dVBoTTFOR2k4MkV2Z1UwRFJjejZ6QmItU01oWQ?oc=5) — Crypto News, 2026-10-12 04:30 UTC
+- [XRP News Today: A 473 Million XRP Treasury Reaches Public Markets as Remittix Prepares to Go Live - TechBullion](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZlZfUkkyV0ZmMjc3OW9CcThPbGhLcUVIeEp2N01MODJEbWxjNV8xd2RCd3plRUF6YndUdk55dkZqRGhaSHN6b3A1bklkYzVOOFdZN214T1h4NEFDT2l3Y1lSdTVxMEROTlg3OUg0amNXTDRDRHRtNlRWNUNJWjh5cVN5WkJkbWpMMTVrYlR4OHlaSU1leFl1V0tIN1FuTEVELU1IWjZjZTYtYkxwNm9OWERhN2tWcUhpMGV5MjFR?oc=5) — TechBullion, 2026-10-12 04:29 UTC
+- [XRP Faces a Major October 12 Catalyst as Evernorth Debuts on Nasdaq - CryptoRank](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1VHNmUzRjZqYmYyRTBBcGQ1VUNRRXF1X3h1SkFtSUVjME9FdkpyZTRCOUVoTWRtTl94dV9TQ1piRDVvaDYxS2ZsTU13bEdsdEdla1VFUFF3SXhxTm0xSTFNbzNRM3BFbU5GRUpLZWsyaTBnZXRuMmhpMm84bGl6dWtLZHh1RzkzdWdoZ2lHRG9IZHNhaVNlTXB4VGtubmlGWm5uU2F2aGI?oc=5) — CryptoRank, 2026-10-12 04:27 UTC
+- [XRP Ledger defends emergency patch for unlimited XRP bug](https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — Cointelegraph, 2026-10-12 01:21 UTC
+  - The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators.
 - [Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest](https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — Cointelegraph, 2026-10-11 22:57 UTC
   - An user reports buying a tampered Ledger from a big retailer in Europe. Security researchers use AI to uncover a “$94 billion” XRP bug — but receive just a $250K bounty.
-- [XRP’s Nasdaq Moment Nears: 5 Things to Know About Evernorth - BeInCrypto](https://news.google.com/rss/articles/CBMib0FVX3lxTFAzYlAxVGprZkEyN0Z3V3hUNVcyZkVXa1k0UzJzbFV6T2ZxMGdtT2otV3JUTHBpS2xBQzNHS1ZESE5sUDVvVm9BRlJpaVBJMWo3S0FUeTZ5dmhhdnk3UDh0alpUakw1VFFKQ3dVcHFabw?oc=5) — BeInCrypto, 2026-10-11 22:50 UTC
-- [AI-Discovered XRPL Flaw Could Have Allowed Unauthorized Creation of 18 Trillion XRP in One Transaction - bloomingbit](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WUUdKaFp0MFJreTU3LW1iZUgya2FzUngwZ1p4azItMjhHVTZJVlVXNTdOYVYydVpvdEljME1tTE9sX0J5MXlKN3RrRk56d2JBNDVUSQ?oc=5) — bloomingbit, 2026-10-11 22:37 UTC
 - [XRP Ledger patches decade-old bug that could have minted trillions of XRP](https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230) — The Block, 2026-10-11 18:07 UTC
   - An overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction.
-- [XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing](https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing) — CoinDesk, 2026-10-10 04:20 UTC
-  - Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.
