@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-13T19:16:43+00:00",
+  "generated_utc": "2026-10-13T23:18:25+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 83202.0,
-      "change_24h_pct": 1.022,
-      "change_7d_pct": -2.7445142269549416
+      "price": 83312.25,
+      "change_24h_pct": 1.483,
+      "change_7d_pct": -2.6156421168316513
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.3733,
-        "change_24h_pct": 1.238,
+        "price": 1.3662,
+        "change_24h_pct": 1.335,
         "high_24h": 1.3824,
         "low_24h": 1.3112,
         "range_24h_pct": 5.430140329469202,
-        "change_7d_pct": -8.269320686660887,
-        "change_30d_pct": 2.3933790635251917,
-        "ma7": 1.3894285714285715,
-        "ma25": 1.4708839999999999,
-        "ma99": 1.2679555555555555,
-        "rsi14_daily": 42.67168925182223,
-        "rsi14_4h": 44.15301471969639,
-        "atr14_pct": 4.118858640813056,
-        "realized_vol_30d_daily_pct": 3.68019750170336,
-        "volume_24h_usdt": 167388830.44289,
-        "volume_vs_20d_avg": 0.78665290212752,
+        "change_7d_pct": -8.743570903747244,
+        "change_30d_pct": 1.8640023859230581,
+        "ma7": 1.3884142857142858,
+        "ma25": 1.4705999999999997,
+        "ma99": 1.2678838383838384,
+        "rsi14_daily": 41.68044282207188,
+        "rsi14_4h": 42.13090347510666,
+        "atr14_pct": 4.1402639228726175,
+        "realized_vol_30d_daily_pct": 3.6706596172889974,
+        "volume_24h_usdt": 158676784.66223,
+        "volume_vs_20d_avg": 0.7457101696961453,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-10-13",
-            "close": 1.3733
+            "close": 1.3662
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 4.128740988858959
+            "distance_pct": 4.669887278582929
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 6.96861574310057
+            "distance_pct": 7.524520567998838
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 1.944221947134639
+            "distance_pct": 2.474015517493755
           }
         },
-        "from_90d_high_pct": -19.212894876169184,
-        "from_90d_low_pct": 39.25167308862301
+        "from_90d_high_pct": -19.630566503911982,
+        "from_90d_low_pct": 38.531737984181724
       },
       "news": [
         {
-          "source": "24/7 Wall St.",
-          "title": "A Stripe Company Is Bringing Its Wallets to the XRP Ledger, and Ripple Says AI Agents Already Make One in Four Payments on the Network. - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQVnR2N1RWNTh3QzM1SkJ4b3JNaUVhRWhGQi1qTGtVbE5SX0lvS0I2d2JlVkxaUGZRbDRLRjY2aFhBdTFpbjg1b3c2UEFlcGw4bUxZczdReDZVVEFYaXNuN2l2dnNxcFA5eGhTZU5naUxSV2lhUTBwWW9VRkh0c0tQNWJ4UE1TdHU2aTdjVVVkVGtSY28tUXFIdFdrTzlpc29yWjlUQW9zYTFpc1JOUmpBU25wMmJrRjU4ekt0d1JvSV94RXRMYW1lU29FOEEzcHdISnFUYWV5bW1MVGc5NTNLMzRtdkhGWDhxZWxKZzVUY3pqUFZoTEdLOWR0Y2tYYUJSTU5EcjhpLWxZLWpBeV9OOGt6Mkt2NzMyVFJnWA?oc=5",
-          "published": "2026-10-13T19:02:00+00:00",
+          "source": "Investing.com Canada",
+          "title": "Form 4 Evernorth Holdings Inc: Arrington XRP Capital Fund, LP (10% Owner) For: 9 October - Investing.com Canada",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTzBTWkVaTjV2SGZ4ZFdTdzFkLUhMaDFpV1VLTHM0S1RzQlE4VFo0aHRpV1hDY2E2R0h5N01vSmVkemlTbDBFSnhRT19SVzF6czNqb0VJYVh1Ri0wRUl5MGxpSzFfNjBfX0s1ZE5rUGR3dkhjT0E5b1UxNG55ajhDWkNZcjFPSTJKdWdRc1I5RzJwcGlNLWpTbU9vcHd1SVVYLU5oOHRfQTJsLWtDNzMzU1ctSkxRRzVCUVJVODNoSjVqeGNtTUhZbTRha3VOejJFOUpFZk1vdzhHMlk?oc=5",
+          "published": "2026-10-13T22:48:32+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Crypto News",
-          "title": "Ripple partners with Stripe\u2019s Privy to bring XRP payments to apps - Crypto News",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yemdod1dtRGdBanEwVnhWVHpJckVULV9iRnJxUEU2cTZEUVlIRllONkJ0WWU0dXV2QUY1OERvRlQ0QzhNVjBaSmVWaF9GanhRWVpheFo2RzFoN3o1LVY3Y1BYTzZwZkdpMUpWdXptQzVqNjF4VWhGYVVEenNyQQ?oc=5",
-          "published": "2026-10-13T19:00:00+00:00",
+          "source": "bloomingbit",
+          "title": "Ripple Partners With Stripe Unit Privy to Expand XRPL Wallet Support - bloomingbit",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdE9FOUxRUXZnb0Z3b1pUQjhMRHhxQUQxajNZak5vTER0S0FqRG5HOE1LM3hwSzJ1ZkFyOWVlM1dGUFQtOUhrbTh1MHhpc3VZNmdTbA?oc=5",
+          "published": "2026-10-13T22:30:08+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Altcoin Buzz",
-          "title": "XRP ETFs Narrow $160M Gap on Solana as October Flows Split - Altcoin Buzz",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYjRoQXRYLWJmcGZYcEs1RVNpdl90b09GR1pNTWZPYW1naDM1M1B3NlBfd3RMX0Z0bWU2dnFmeDhtS0lEVWtqU3FiTjBvTXByOVFBajBuUmp6YWZwQWtYMGhxbXlfU0xyaWp1RWlhQTBBc1FjM2g0UF93V3FmX0ltSWFPN1dIT0NuYXlxVw?oc=5",
-          "published": "2026-10-13T18:56:21+00:00",
+          "source": "BigGo Finance",
+          "title": "Ripple Taps Stripe's Privy to Embed XRP Ledger Wallets and Fuel AI-Driven Payments - BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtakFReDNvaWhaUG1FZHVubERPaHpqQTBnb050VWN6UjZ3SkZWQmtJSFBaaU9TcENnODZfWHo4MlR3Q0NOV3RuejZTVlIzd1BhQmZjVDN4OU5KV1VJRG1SZExUa0lVaDZjTVA3Y0hob2N6OG9mR2c?oc=5",
+          "published": "2026-10-13T22:25:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Benzinga",
-          "title": "Ripple Integrates With Stripe-Owned Privy To Expand XRP, RLUSD Payments on XRPL - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTGhHUVF1emVGb2YtV3RCZzA0ZVhtamdweFhSVFFYVTNBQmgycDN1eVRmU2RnNWhRcnIwQXdkbTctSElLVDdFT1JUaHdCSzBxVmZtZUw4d09aV3c4dE5sVzZjOEZ5WGxmNHhqWHFKS2lFUndtMUVsV2E1LWdpb2p5YnF6OFVuWENCWlZZMndkNmpzZG96VlJ2ZDZQWm1CTnluajZqS0taVU1LZE5VLU0xVzR6VHdjU3U0cnlIRnNRak51RUJQczlVTlU3bl9LSWh4OURhYnRGRQ?oc=5",
-          "published": "2026-10-13T18:45:06+00:00",
+          "source": "MarketForces Africa",
+          "title": "Standard Chartered Launches RLUSD Custody Issued On XRP Ledger - MarketForces Africa",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdXQwOUtnMExRZzExOFEycDN2SjlyeElUNkgzV3ZFSW1BUGQ5Rzh3eFJkWmMxM2tyZ2hlbXdqcmc1c1BfcFQwWHc5czRncnFBSXRWWi1zS3U2U1VGUDFlQ2JkZ0NqLVdUUjRNRXBFVU0xNy1FWWlJdGc2Xzk5U1k1OHJYanNvWVBFV1Vfc3ZSUzhPd2c?oc=5",
+          "published": "2026-10-13T22:06:47+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Cryptonews",
-          "title": "XRP Price $1.45 Resistance Is the Next Test for $5 Target - Cryptonews",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1SmpRQnNlZV9SbXFOU3dtVlZQVFhEcFNRZGwyQUNTZ1ZNMWRkZzBUV0pIZkxucGF0bWFMWlduTXVGWmtWRFp3Q2h0bTNYRlFXRmNFYV9UeXFxd0pPcGFQUHBsVWxyUG1QSnVEVlRwaUlYNGM?oc=5",
-          "published": "2026-10-13T18:44:00+00:00",
+          "source": "Robinhood",
+          "title": "XRP price at Oct 13, 2026 at 7pm EDT Crypto Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUppWXpXazNEWWdqRFlYNmhwZVN1M3RRTUNveTFRdFEzTWxSaHlJa25LSVliM0JKLVVNSXI3MDd6UmFyUVFDQmFPS3dTMHh3UFA4SnZKY2RkeXdua0N5QmRZTnc3RklWQlBSVDUtZk1GRFJOUlA1NHlQTlBBWlFIOEtLdWdoX2lpQ2lJVmF5SmZ3dEhXRGpsUldmVUlRbUxnWVpNUUFTbkNjZFNJeEE?oc=5",
+          "published": "2026-10-13T22:02:46+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Altcoin Buzz",
-          "title": "Evernorth XRPN 8-K: SBI, Ripple, Chris Larsen Among Major Holders - Altcoin Buzz",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWmktYUNRM3F0ZkNKNHJpRkdCQmt1UE1HcENYQjE2U1RzZ0xqQlJqRENGUVdBNHhYMWVGXzFnRlhNbk1nMDhsOWxTYmt5TUxMazRvaE5rUUtRNlhLaUE4RXJDOFJWV2xDb3U4UTFGazdkR0ZoRGpMVzhGdTVtOXJLbm40bklSdkhzT256TmNUMHhiWlE?oc=5",
-          "published": "2026-10-13T18:40:45+00:00",
+          "source": "Pluang",
+          "title": "Ripple and Privy partner to enhance XRP Ledger with AI-powered wallet and payment tech. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOclZWU1VVUFlGQXB6UmdTaDR6ajYzMjhLYzBaRHNCSFl1UGxlNEZLeS1IdEh5QU42VG14UWI4WWFPTGZWWW1SOFQzSDQwYkRyaDBDUVdrLWZNdmVmVUhxYkFURS00LUl3RFJDSzg0b3h0eG50UHdZeHl5Vl9PRnIyMmc0eWhCb0IyaGVQMHgzODNSdw?oc=5",
+          "published": "2026-10-13T21:52:45+00:00",
           "summary": "",
           "via": "Google News"
         },
