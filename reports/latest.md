@@ -1,45 +1,45 @@
-# Crypto snapshot — 2026-10-13 01:58 (UTC+3)
+# Crypto snapshot — 2026-10-13 06:33 (UTC+3)
 
 ## Market context
-- BTC: 82,370.00 (-1.54% 24h, -3.96% 7d)
-- Fear & Greed index: 69 (Greed), yesterday 61
+- BTC: 83,208.98 (-0.56% 24h, -2.74% 7d)
+- Fear & Greed index: 57 (Greed), yesterday 69
 
 ## XRP
-**Price:** 1.3532  |  24h -3.94%  |  7d -10.25%  |  30d -0.96%
+**Price:** 1.3702  |  24h -2.51%  |  7d -8.48%  |  30d +2.16%
 
 | Metric | Value |
 |---|---|
-| 24h high / low | 1.4214 / 1.3431 (range 5.83%) |
-| MA7 / MA25 / MA99 (daily) | 1.4087 / 1.4722 / 1.2658 |
-| Price vs MA7 / MA25 / MA99 | -3.94% / -8.09% / +6.91% |
-| RSI14 daily / 4h | 39.1 / 31.9 |
-| ATR14 (avg daily move) | 4.28% |
-| 30d realized vol (daily σ) | 3.64% |
-| 24h volume vs 20d avg | 0.58x (133.2M USDT) |
+| 24h high / low | 1.4214 / 1.3112 (range 8.40%) |
+| MA7 / MA25 / MA99 (daily) | 1.3890 / 1.4708 / 1.2679 |
+| Price vs MA7 / MA25 / MA99 | -1.35% / -6.84% / +8.07% |
+| RSI14 daily / 4h | 42.2 / 41.2 |
+| ATR14 (avg daily move) | 4.09% |
+| 30d realized vol (daily σ) | 3.68% |
+| 24h volume vs 20d avg | 0.78x (166.5M USDT) |
 | 30d high / low | 1.6581 / 1.2468 |
-| 90d high | 1.6999 on 2026-08-22 (-20.40% from it) |
-| 90d low | 0.9862 on 2026-08-14 (+37.21% from it) |
+| 90d high | 1.6999 on 2026-08-22 (-19.40% from it) |
+| 90d low | 0.9862 on 2026-08-14 (+38.94% from it) |
 
-Last 7 daily closes: 10-06 1.4971, 10-07 1.4215, 10-08 1.3805, 10-09 1.3958, 10-10 1.4024, 10-11 1.4103, 10-12 1.3532
+Last 7 daily closes: 10-07 1.4215, 10-08 1.3805, 10-09 1.3958, 10-10 1.4024, 10-11 1.4103, 10-12 1.3422, 10-13 1.3701
 
 **My levels**
 
 | Level | Price | Distance from now |
 |---|---|---|
-| entry | 1.4300 | +5.68% |
-| target | 1.4690 | +8.56% |
-| stop | 1.4000 | +3.46% |
+| entry | 1.4300 | +4.36% |
+| target | 1.4690 | +7.21% |
+| stop | 1.4000 | +2.17% |
 
 **News (last 48h, 12 items)**
 
-- [XRP price at Oct 12, 2026 at 7pm EDT Crypto Prediction Market - Robinhood](https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkpLN0Z2am4ycHVTMzdUOEoxeXc4enoyMXBOQndEMHlTdDRzTFVIazFlNDdVN1J6ZE1NTDVkSzRYdFdCMmpLekg1ZDU2azVPUzRFZGdnMWhicTNPV25pbi1HTnNueTY5OGtNMzVMSlllWWxwNW9ETFdTbmJLc3I0Uy13NkVFN1JHMU5iLWhQX1FpSHFPN0o3NnphVDZNRV83NWZCYXBBMW5PSkJWZ3c?oc=5) — Robinhood, 2026-10-12 22:03 UTC
-- [The Largest XRP Treasury Goes Public, but Its Nasdaq Debut Ends in Red - BeInCrypto](https://news.google.com/rss/articles/CBMib0FVX3lxTE0ydVYtUlk3OHVEWk1DWW5xOE42bEhDRUItN3ZVMXAyUHNUcjRfTC1SVDFFZ2dySHJ3dnJUMC0zMVhuSm15c1lCMFNicjBzaEpCcFlVcTF1ZnNhTVV0T1pieV81RVdCRmk4bkdsVDNEYw?oc=5) — BeInCrypto, 2026-10-12 22:00 UTC
-- [Stellar’s $3.5 Billion RWA Surge Leaves XRP Ledger, Solana and Avalanche Playing Catch-Up - CryptoRank](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXRlUW1ZekZHRGxEY0tSWDFTS3NKZlJSMkFXZGVOOFdndm14dkNfNkNBaFFPQld2NUxXV2JVc1l0dUJlZWZTN3FPRVBKWVJKMUpTYzBJVzEzeUQ0c1NWd09ya0QtM3VpRHFjQm44TFNZdlRpN3A3OFNURFJvS2JCUkpyTlg1c21EQjBDMVdJbFdKbXlQWUY2ZC1ybzYtV3JFWFFEZE0zMkFxd0t4UXBpbk9uc1Z6VUlHUG1tMEE1V2dsQQ?oc=5) — CryptoRank, 2026-10-12 21:18 UTC
+- [XRP price at Oct 13, 2026 at 12am EDT Crypto Prediction Market - Robinhood](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWTFtWGxaYVN5STFvMURKSXE3WFFMSzdWbndRQzN1bTduTFBIQkgtcTUtMGdYNEl5U3MxUE5QcGJSSl81UTFCeWp5X2h3T3liY3RuMGZYQndneUtTWVVPQWNMeTFTV3FOZVdsemlDQ2JXV0NVWmlzNFB3RHhISmN3Mk9iTDJya2g1RTNuNlJOOC12cmhQRUNIWmdFaW1GTkhiOUFIR3BNcWpDRlJ5dVU0?oc=5) — Robinhood, 2026-10-13 03:01 UTC
+- [A 10-Year-Old XRP Ledger Bug Could Mint XRP From Nothing - Memeburn](https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3M0FGM09HQ1IzbHZ1RUxVYXRZdVJtRUlKaEh0LUxLVEpZWE5yelBZVXNZeGJoMnZwRFJIcVNDdGg2WlhBVGFWNGpHZmw?oc=5) — Memeburn, 2026-10-13 02:54 UTC
+- [XRP price rises 2.17% to $1.35 amid short-term rebound despite 24-hour drop - Pluang](https://news.google.com/rss/articles/CBMijgFBVV95cUxQcVlwRVZDRll0SzVaTlVKXzM4X3NhQUZqdFV6Rzg4SVFUdF9MTUVubjNtWHNwaUh4emxGay1ZSTJRcmIwMlhVNS1DYThUYnk1aXR1dGlBSlI0OE5hczFjWVZnU1djQmlLdDRBX0xTQ2p3eXY0ckpmaVVtdkg2REZHS3FDU2VMTWxlcDNyVHBB?oc=5) — Pluang, 2026-10-13 02:05 UTC
+- [Bitcoin, Ethereum, XRP, Dogecoin Decline as Oil Prices Push Higher: Analyst Says 'Pullback Isn't the End - Benzinga](https://news.google.com/rss/articles/CBMikwJBVV95cUxPZHF4dkI0LUFha1ZTM001RXFIVXF3empCNllBdlBaUDZwRkw1QTFKZGNyS3BwcnRhb2tfSzZqOUt1aVJUOFJtYzYzQ3RnN2RhVV9SRThCdlRUc3Y2dy05eWFsbG15SVYxOWMxXzFGSmRnMEZ6VXRFOV9CRFRaRVRxdmFpUGN6c0laTlV3NFNNTW1CY0packVpUUptdHpFdGJiNnA1TGFOdE5nUWN2Rm85TFRwb0dwYXFVNTJub294N1ZSeWE3TmhwVmpTTWlqeGlBVXlHWmtzb1ZzV01LajJEV2JrM2Q4a3ZuSlF3a0pCbHRqNmNPMTQtS1U2RjFCTHRiQ0RwUmtsUnIyeUpiN1BPb2VwWQ?oc=5) — Benzinga, 2026-10-13 01:55 UTC
+- [Evernorth Hits Nasdaq With 473 Million XRP as XRPN Trading Begins - Cryptonews.net](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mdmlSa3c0RjVGSU5BdWF3RFppVnJCNU9abWs4Qm1STElFMVVvVVRMY0lucGo4andrQ0RGNTg1VkhYSUI1cEJEOWVDRGJRNjB2eVNCNWlrMnpHZw?oc=5) — Cryptonews.net, 2026-10-13 01:41 UTC
+- [Analysis: RLUSD Growth Doesn’t Necessarily Lead to Higher XRP Prices - bloomingbit](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1obDJrVWtHTHhFM0hIQ04zMlA4UmxvUGNEcDFlZVQtR3liVTdtR2VUTUM2YVFjQXpodWlsUlVDRzhnc1M0NlBKMVdsWVU0cEhjandjNQ?oc=5) — bloomingbit, 2026-10-13 01:03 UTC
 - [Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It](https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai) — Decrypt, 2026-10-12 21:16 UTC
   - The bank's Dubai branch now offers custody for Ripple's RLUSD stablecoin and plans a link with LMAX that lets institutions post it as trading collateral while the coins stay put.
-- [XRP Traders Are Leaning Long by Two to One, and Whales Have Stopped Sending Coins to Exchanges. One Analyst Says $1.38 Gets Tested Before Any Rally. - Yahoo Finance](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZFVVZEE1MWx4U2xRTGtyMkJPNU1Qak53LVFMMmJxUjFiS0E3QTlldkQzWkRlV2xxTVpiejdtQkpYbkJQLVc3UkdUaVoyQko4UmMxY0psNWx5VXFzVk9jemNfd0pEc2d0c0VUUlBfS1J2ZFMyTUJERlUwUUVIS043RlA1MTg1YVlBcE1RTy1Qd2Y0Y0VKeWtBZQ?oc=5) — Yahoo Finance, 2026-10-12 21:00 UTC
-- [XRP Price Prediction: $1.70 October Forecast Meets AlphaPepe Presale at $2.96M With AI Utility Built In - StreetInsider](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNN1B6N2QxSVY5eW5yTy1SZTI5a25DenlwOHFnS2NVVWhhbU5NdTQ0NTQzWnRkcnBXUC1YVjdpQzJZZTB4UTRrM0hVaHl0VnF6Sk50WVNDQlVFcDRQa29xUUE3eUFkWlh6SnRncVJkWFprd1BlM1MwRzlHRnh4ejAwaG9YTm8zTGxlQ1F4NVVNcV9tS1VmODIxbTlIZF91VzR4U3NXd3ZTNWkzZ3JYRzNrMVJtYjZSdVZEQjFabEF3WkxGVTJNSUpUQ1NSN1VPbWJSSmpsR09RMlp4QVpZWUNQWFVXb2luMWlQaFI2bmk1Vy1OMjJEcHhxU3RNdHFLdw?oc=5) — StreetInsider, 2026-10-12 20:52 UTC
-- [XRP Declines As Standard Chartered Launches RLUSD Custody - MarketForces Africa](https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEY3REhTVGcxNlZsTGwyZkRPb0NYWFZldEo4X1VCQ3JsMkgxZmZVakpFUExUVVBLWUltdGl0V2tEM0YzQ1dhejRfVUdhM2FvNUJ6eTZFU0JFS01GN2JwNG9JTkE1Qm5TcHF3bnZYNzgwZm5Pcy1RN1RzS0NzX1h6bjJ6cHdyV0JjWThYbg?oc=5) — MarketForces Africa, 2026-10-12 20:51 UTC
 - [Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid](https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp) — Decrypt, 2026-10-12 18:09 UTC
   - Evernorth's XRPN shares began trading Monday after its SPAC merger closed, but 80% of SPAC investors cashed out first and its XRP stash is worth roughly 40% less than at signing.
 - [XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015](https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding) — Decrypt, 2026-10-12 15:56 UTC
