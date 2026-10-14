@@ -1,43 +1,43 @@
-# Crypto snapshot — 2026-10-14 18:08 (UTC+3)
+# Crypto snapshot — 2026-10-14 22:22 (UTC+3)
 
 ## Market context
-- BTC: 81,726.73 (-2.22% 24h, -1.91% 7d)
+- BTC: 81,861.95 (-1.71% 24h, -1.75% 7d)
 - Fear & Greed index: 62 (Greed), yesterday 57
 
 ## XRP
-**Price:** 1.3286  |  24h -3.34%  |  7d -6.54%  |  30d -6.64%
+**Price:** 1.3321  |  24h -3.04%  |  7d -6.29%  |  30d -6.39%
 
 | Metric | Value |
 |---|---|
-| 24h high / low | 1.3868 / 1.3278 (range 4.44%) |
-| MA7 / MA25 / MA99 (daily) | 1.3751 / 1.4673 / 1.2701 |
-| Price vs MA7 / MA25 / MA99 | -3.38% / -9.45% / +4.61% |
-| RSI14 daily / 4h | 37.9 / 33.1 |
-| ATR14 (avg daily move) | 4.26% |
+| 24h high / low | 1.3868 / 1.3224 (range 4.87%) |
+| MA7 / MA25 / MA99 (daily) | 1.3756 / 1.4674 / 1.2701 |
+| Price vs MA7 / MA25 / MA99 | -3.16% / -9.22% / +4.88% |
+| RSI14 daily / 4h | 38.2 / 34.4 |
+| ATR14 (avg daily move) | 4.28% |
 | 30d realized vol (daily σ) | 3.53% |
-| 24h volume vs 20d avg | 0.83x (162.8M USDT) |
+| 24h volume vs 20d avg | 0.85x (165.4M USDT) |
 | 30d high / low | 1.6581 / 1.2468 |
-| 90d high | 1.6999 on 2026-08-22 (-21.84% from it) |
-| 90d low | 0.9862 on 2026-08-14 (+34.72% from it) |
+| 90d high | 1.6999 on 2026-08-22 (-21.64% from it) |
+| 90d low | 0.9862 on 2026-08-14 (+35.07% from it) |
 
-Last 7 daily closes: 10-08 1.3805, 10-09 1.3958, 10-10 1.4024, 10-11 1.4103, 10-12 1.3422, 10-13 1.3661, 10-14 1.3286
+Last 7 daily closes: 10-08 1.3805, 10-09 1.3958, 10-10 1.4024, 10-11 1.4103, 10-12 1.3422, 10-13 1.3661, 10-14 1.3317
 
 **My levels**
 
 | Level | Price | Distance from now |
 |---|---|---|
-| entry | 1.4300 | +7.63% |
-| target | 1.4690 | +10.57% |
-| stop | 1.4000 | +5.37% |
+| entry | 1.4300 | +7.35% |
+| target | 1.4690 | +10.28% |
+| stop | 1.4000 | +5.10% |
 
-**News (last 48h, 12 items)**
+**News (last 48h, 11 items)**
 
-- [XRP price at Oct 14, 2026 at 12pm EDT Prediction Market - Robinhood](https://news.google.com/rss/articles/CBMirwFBVV95cUxPQW1ZNzdqSnphNUYtQkRjZmY2b20tLUxjV0JQY3dSVjIwcUEtZjFWLVVPWTB5MDk1STBiMUc1RkdxSEJkOE1NSll5QjQ1SmZLRVROelNucDFvbi1GNEFKR19BeXFqR3NYbXBQLURRU0k2VUV2TGhZaHR5QVdiYVZ5UGVENnlqYWFLaW5ic0ZzUjdGblVFUkZSY0J3dVZPNlA5YTdyLUtUTjVmbWVkc1dj?oc=5) — Robinhood, 2026-10-14 15:05 UTC
-- [US CPI Comes in Hotter Than Expected: How Could This Impact XRP? - Cryptonews.net](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEaWVQRlZnTUVkckRScTNYWGthdWZjWmk3dHgwODNrbUE3S2JwZlpVRWlVWlhRRHVzdlk3a0ZLYmc0TWdIdG5DQ0JzSU5UMlVtMERBb3F6UUw4TjA?oc=5) — Cryptonews.net, 2026-10-14 14:58 UTC
-- [XRP price drops 2.16% to $1.33 with $960K long liquidations in an hour - Pluang](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSzBUcEJVOHhfV3hHMkMxODBNdEFkbDk1LUItRlpsWmR2TzdpV1lVSnhKMUxpZXZ5YzdLNmpnU3hkQjVMejBVcVkwaXJKV3FlVURaeGRMZVJLUzMyOEx4VnYxRFVaNjhUblBKYkVWUVl4NWRqZ1BSSTRjaG92ZWNlMnBKVUx1dk5Cc3Y4?oc=5) — Pluang, 2026-10-14 14:53 UTC
-- [XRP falls to $1.36 after US inflation data rais... - Pluang](https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3NuTzZMTW1TY2RkR2c5YmMtMC1jMWN1ZGExdzB0YkRjZUQtSk1RN1pWczZkUDNPUmRwbEF0UHVaWHR6MGZXa2VpVk4yVHNtdGcxamRoQXVHczBDWmZMM3h4cXZNU19HelJNNi1mTmxVREdDZFdzX2pWeDJUZ2d0RzdCbjI3dnBZWnNQSXczRXJJN19HNGlZcDh5UUY1WFNaTlh5Wm5La3IyWnNTbU5r?oc=5) — Pluang, 2026-10-14 14:53 UTC
-- [XRP Price Forecast Ahead of 2026 US Elections - Cryptonews.net](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yWERKblBFRU1pNlA4VmxpX2Mtem5jaFQyV2gyRlp0TTJMOEhpUWIwWk4tQ25rdExzVWREcU91dEtQTGwyTnlMaFpSaWI3eXVxY0M0TFZQVE9qQkE?oc=5) — Cryptonews.net, 2026-10-14 14:48 UTC
-- [Evernorth Partners With Ripple, Kraken, Coinbase and BitGo to Deploy 473M XRP Treasury - Cryptonews.net](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ncUtHSXNvQWZXeUJDaFZZbXM3RmVYaHp6UGVpQVh6aTNHVFNTZEp5NmNsbnZnUHFXR0lTajdZemdhaURybHBneWIxMTc5ZjBtT1JTT3dVX2ZsUQ?oc=5) — Cryptonews.net, 2026-10-14 14:47 UTC
+- [A Holder Who Bought XRP at the January 2018 Top Has Waited Almost Nine Years to Get Even. By One Count, It Still Has Not Happened. - 24/7 Wall St.](https://news.google.com/rss/articles/CBMilAJBVV95cUxOOWhkLWdHSVQ3c2dYRllLbzA5QkFoaEJfUFlYQzRjSm1qZVNXdEt1LXduVGNiV0c5czY2cUdNZzR1bGgzVGthR3lMb3c4Y0VCN24xWFR6eTlJLTE2STFqRjlZZGYwc2UxSTk2UFNENTBjUnJSVXVaZS1fanlrMEFjSmJJbURlbzBQLUd4NUZubGQ0REdscmRTVzRjSlU4bXQzWGZudVZEZ3BOVUVpT1VqOGp5aS1oSDk4cGRWQjFZa2JaT0VtVkp3WTNHT2tFZzMxM3pLbk5rNGV0alBER1ZCWGRjV09ZcVoyRXlaRS1Gc2VUMXo1QUhicGx5cE5kNmZsa0ZoOFJMNUtRWEJZN01SOTNPaEc?oc=5) — 24/7 Wall St., 2026-10-14 19:00 UTC
+- [Crypto News: Remittix Opens PayFi Testing to Invited Holders as XRP Battles to Hold $1.38 - StreetInsider](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNa20wbng4cjBSV2kyanN3VFB4SDFKMlVBS25aem5sVmJhemtmYkVMT01GSU80N3lwaXFhTEJDcFZhYkxNbXhXSTJQYWVGWmY2WVgxZjlfSV83Tlk3YTZsUm9HdTQ1SzJ1RHBqNWZCdXhRanc3cU54MlRTNmhlUFJPQnFackhuMmowNmNrTFF2V1RwSmp5VUUyU0dwcFNRd3ExZmJHd1JQWGhlSnNlV2g3ZlVjeEdVcHRFZVFnMWdZdWhZOURXTlBiWldYeC1wMlZ6STZidkp1QmE0X1paNy1tQWduQXk3YVdV?oc=5) — StreetInsider, 2026-10-14 18:57 UTC
+- [XRP price at $1.33, Stripe unit Privy builds wallets on the Ledger: what it means for your XRP - CryptoTicker](https://news.google.com/rss/articles/CBMicEFVX3lxTFAzcjhrRkQwam92Qjc0cHRlUm14X0ZBY01Ja0dkVmxrYWRVMHZEX25fR2M4Uy1SYjNYWFhOTkxVb2xQaU1KalNYcXJmYnk0T3RNMlRtQWwxSzRXem9jT2hOYjlmQUpoQ0ljYmM4MXBNVzc?oc=5) — CryptoTicker, 2026-10-14 18:48 UTC
+- [XRP Price In a Turning Point as ETF Records 13 Weeks of Inflows - Cryptonews](https://news.google.com/rss/articles/CBMia0FVX3lxTFBnQ1dnX0t3UmlFQkx2S2pJelBHMFp0aktDOTladDlsSU16MFFRQjJVMWUtdXZxLUY5WV9DZ1gzVXpWMmRoVENUQlY0c2J4bEVpM0RtWkYybnRpaV9IZ19xVkVfbzlXSUdIWnp3?oc=5) — Cryptonews, 2026-10-14 18:16 UTC
+- [Bitcoin, Ethereum, XRP, Dogecoin Lose Over 2% in Cross-Market Selloff - TradingView](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFBJcWRqMklJNW56QVlKSWN5bkFwejIyaDNoWENRdUVqR2xFMVBLMmFWS0tmX2Y4OHhPaksxQzBpdDR3Mk5NNXAtYm1Za1VwVWhnb2NsY3lUWFRXendvWW9lbzdqejhHWHZhaUtNb3RrcmR3QndrWFd0NXJZak5oOXViaG1Uel9OeWNWbXlpX1l2MW1rcEs0RTZ0MHVyT0pjMGsxdThDSGlXejlCTlBMSnExT09TOVptUktCWW95OXFudw?oc=5) — TradingView, 2026-10-14 18:03 UTC
+- [Bitcoin, Ethereum, XRP, Dogecoin Lose Over 2% in Cross-Market Selloff - Benzinga](https://news.google.com/rss/articles/CBMixgFBVV95cUxNbFpkbk1pWmxyeFJmcHNWMW90ZkJ0QmxLRDZKT0Zwa1NhcmhQcDk4UFFKNll5QjZ4dWtZaFBNU1lZVUgxTDFkYWI4MjNKYWNEZklfbTVNLU1DTmJ4cUdDR1FUS3I0U24xMmJoMWc1aXYxQTdvOU1NeVByRTI3OHVvUzZNa2lnRHpqX3ZVa3lqMV9WUThFbk92WWJPc01BNTQ2OTh1ODhTdHh0VnoyLS16QXROWnpzcTZSSS1XSkJWaEtwY1RTdmc?oc=5) — Benzinga, 2026-10-14 18:03 UTC
 - [DriveWealth to use Ripple’s RLUSD for stablecoin settlement, cross-border payments](https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479) — The Block, 2026-10-14 13:00 UTC
   - DriveWealth will use Ripple's RLUSD on the XRP Ledger for stablecoin settlement, collateral funding and custody, starting in Europe.
 - [Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work](https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503) — The Block, 2026-10-14 12:00 UTC
@@ -48,5 +48,3 @@ Last 7 daily closes: 10-08 1.3805, 10-09 1.3958, 10-10 1.4024, 10-11 1.4103, 10-
   - Developers can now build XRPL wallets into apps via Privy, with support for XRP, RLUSD, AI agent payments and x402.
 - [Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It](https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai) — Decrypt, 2026-10-12 21:16 UTC
   - The bank's Dubai branch now offers custody for Ripple's RLUSD stablecoin and plans a link with LMAX that lets institutions post it as trading collateral while the coins stay put.
-- [Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid](https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp) — Decrypt, 2026-10-12 18:09 UTC
-  - Evernorth's XRPN shares began trading Monday after its SPAC merger closed, but 80% of SPAC investors cashed out first and its XRP stash is worth roughly 40% less than at signing.
