@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-13T23:18:25+00:00",
+  "generated_utc": "2026-10-14T04:52:24+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 83312.25,
-      "change_24h_pct": 1.483,
-      "change_7d_pct": -2.6156421168316513
+      "price": 83710.06,
+      "change_24h_pct": 0.321,
+      "change_7d_pct": 0.4659644335618829
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.3662,
-        "change_24h_pct": 1.335,
+        "price": 1.3766,
+        "change_24h_pct": 0.658,
         "high_24h": 1.3824,
-        "low_24h": 1.3112,
-        "range_24h_pct": 5.430140329469202,
-        "change_7d_pct": -8.743570903747244,
-        "change_30d_pct": 1.8640023859230581,
-        "ma7": 1.3884142857142858,
-        "ma25": 1.4705999999999997,
-        "ma99": 1.2678838383838384,
-        "rsi14_daily": 41.68044282207188,
-        "rsi14_4h": 42.13090347510666,
-        "atr14_pct": 4.1402639228726175,
-        "realized_vol_30d_daily_pct": 3.6706596172889974,
-        "volume_24h_usdt": 158676784.66223,
-        "volume_vs_20d_avg": 0.7457101696961453,
+        "low_24h": 1.3492,
+        "range_24h_pct": 2.460717462199824,
+        "change_7d_pct": -3.158635244460073,
+        "change_30d_pct": -3.2675145808446326,
+        "ma7": 1.3819857142857142,
+        "ma25": 1.4692440000000002,
+        "ma99": 1.2705555555555554,
+        "rsi14_daily": 43.22993734872846,
+        "rsi14_4h": 45.91084510417801,
+        "atr14_pct": 3.869782694423112,
+        "realized_vol_30d_daily_pct": 3.5032594946362843,
+        "volume_24h_usdt": 131182064.32779,
+        "volume_vs_20d_avg": 0.6710020066088508,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -36,10 +36,6 @@
         "high_30d": 1.6581,
         "low_30d": 1.2468,
         "last_7_daily_closes": [
-          {
-            "date": "2026-10-07",
-            "close": 1.4215
-          },
           {
             "date": "2026-10-08",
             "close": 1.3805
@@ -62,75 +58,31 @@
           },
           {
             "date": "2026-10-13",
-            "close": 1.3662
+            "close": 1.3661
+          },
+          {
+            "date": "2026-10-14",
+            "close": 1.3766
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 4.669887278582929
+            "distance_pct": 3.8791224756646647
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 7.524520567998838
+            "distance_pct": 6.71218945227372
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 2.474015517493755
+            "distance_pct": 1.6998401859654066
           }
         },
-        "from_90d_high_pct": -19.630566503911982,
-        "from_90d_low_pct": 38.531737984181724
+        "from_90d_high_pct": -19.018765809753514,
+        "from_90d_low_pct": 39.58629081322247
       },
       "news": [
-        {
-          "source": "Investing.com Canada",
-          "title": "Form 4 Evernorth Holdings Inc: Arrington XRP Capital Fund, LP (10% Owner) For: 9 October - Investing.com Canada",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTzBTWkVaTjV2SGZ4ZFdTdzFkLUhMaDFpV1VLTHM0S1RzQlE4VFo0aHRpV1hDY2E2R0h5N01vSmVkemlTbDBFSnhRT19SVzF6czNqb0VJYVh1Ri0wRUl5MGxpSzFfNjBfX0s1ZE5rUGR3dkhjT0E5b1UxNG55ajhDWkNZcjFPSTJKdWdRc1I5RzJwcGlNLWpTbU9vcHd1SVVYLU5oOHRfQTJsLWtDNzMzU1ctSkxRRzVCUVJVODNoSjVqeGNtTUhZbTRha3VOejJFOUpFZk1vdzhHMlk?oc=5",
-          "published": "2026-10-13T22:48:32+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "bloomingbit",
-          "title": "Ripple Partners With Stripe Unit Privy to Expand XRPL Wallet Support - bloomingbit",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdE9FOUxRUXZnb0Z3b1pUQjhMRHhxQUQxajNZak5vTER0S0FqRG5HOE1LM3hwSzJ1ZkFyOWVlM1dGUFQtOUhrbTh1MHhpc3VZNmdTbA?oc=5",
-          "published": "2026-10-13T22:30:08+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "BigGo Finance",
-          "title": "Ripple Taps Stripe's Privy to Embed XRP Ledger Wallets and Fuel AI-Driven Payments - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtakFReDNvaWhaUG1FZHVubERPaHpqQTBnb050VWN6UjZ3SkZWQmtJSFBaaU9TcENnODZfWHo4MlR3Q0NOV3RuejZTVlIzd1BhQmZjVDN4OU5KV1VJRG1SZExUa0lVaDZjTVA3Y0hob2N6OG9mR2c?oc=5",
-          "published": "2026-10-13T22:25:00+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "MarketForces Africa",
-          "title": "Standard Chartered Launches RLUSD Custody Issued On XRP Ledger - MarketForces Africa",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdXQwOUtnMExRZzExOFEycDN2SjlyeElUNkgzV3ZFSW1BUGQ5Rzh3eFJkWmMxM2tyZ2hlbXdqcmc1c1BfcFQwWHc5czRncnFBSXRWWi1zS3U2U1VGUDFlQ2JkZ0NqLVdUUjRNRXBFVU0xNy1FWWlJdGc2Xzk5U1k1OHJYanNvWVBFV1Vfc3ZSUzhPd2c?oc=5",
-          "published": "2026-10-13T22:06:47+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Robinhood",
-          "title": "XRP price at Oct 13, 2026 at 7pm EDT Crypto Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUppWXpXazNEWWdqRFlYNmhwZVN1M3RRTUNveTFRdFEzTWxSaHlJa25LSVliM0JKLVVNSXI3MDd6UmFyUVFDQmFPS3dTMHh3UFA4SnZKY2RkeXdua0N5QmRZTnc3RklWQlBSVDUtZk1GRFJOUlA1NHlQTlBBWlFIOEtLdWdoX2lpQ2lJVmF5SmZ3dEhXRGpsUldmVUlRbUxnWVpNUUFTbkNjZFNJeEE?oc=5",
-          "published": "2026-10-13T22:02:46+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Pluang",
-          "title": "Ripple and Privy partner to enhance XRP Ledger with AI-powered wallet and payment tech. - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOclZWU1VVUFlGQXB6UmdTaDR6ajYzMjhLYzBaRHNCSFl1UGxlNEZLeS1IdEh5QU42VG14UWI4WWFPTGZWWW1SOFQzSDQwYkRyaDBDUVdrLWZNdmVmVUhxYkFURS00LUl3RFJDSzg0b3h0eG50UHdZeHl5Vl9PRnIyMmc0eWhCb0IyaGVQMHgzODNSdw?oc=5",
-          "published": "2026-10-13T21:52:45+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
         {
           "source": "The Block",
           "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
@@ -178,14 +130,32 @@
           "published": "2026-10-12T14:18:49+00:00",
           "summary": "Evernorth\u2019s share price rose by 5% as investors welcomed the Nasdaq debut of the first pure-play XRP digital asset treasury.",
           "via": "Cointelegraph"
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
+          "link": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
+          "published": "2026-10-12T12:09:09+00:00",
+          "summary": "Ripple previously gave LMAX $150 million in financing to integrate RLUSD into its institutional infrastructure.",
+          "via": "CoinDesk"
+        },
+        {
+          "source": "The Block",
+          "title": "Evernorth names former Coinbase investment exec to steer 473 million XRP treasury ahead of Nasdaq debut",
+          "link": "https://www.theblock.co/news/business/2026-10-12-evernorth-former-coinbase-investment-chief-steer-473-million-xrp-treasury-nasdaq-debut-418225",
+          "published": "2026-10-12T12:01:02+00:00",
+          "summary": "Evernorth plans to put its XRP holdings to work through lending, liquidity provision and yield strategies.",
+          "via": "The Block"
         }
       ]
     }
   ],
-  "errors": [],
+  "errors": [
+    "news feed Google News: HTTP Error 503: Service Unavailable"
+  ],
   "fear_greed": {
-    "today": 57,
+    "today": 62,
     "label": "Greed",
-    "yesterday": 69
+    "yesterday": 57
   }
 }
