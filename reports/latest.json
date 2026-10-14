@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-14T19:22:41+00:00",
+  "generated_utc": "2026-10-14T23:13:25+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 81861.95,
-      "change_24h_pct": -1.71,
-      "change_7d_pct": -1.752074276831006
+      "price": 81598.01,
+      "change_24h_pct": -2.008,
+      "change_7d_pct": -2.0688460800359465
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.3321,
-        "change_24h_pct": -3.035,
+        "price": 1.3344,
+        "change_24h_pct": -2.328,
         "high_24h": 1.3868,
-        "low_24h": 1.3224,
-        "range_24h_pct": 4.86993345432547,
-        "change_7d_pct": -6.289131199437204,
-        "change_30d_pct": -6.394490900147565,
-        "ma7": 1.3755714285714284,
-        "ma25": 1.467448,
-        "ma99": 1.2701020202020201,
-        "rsi14_daily": 38.21746276740118,
-        "rsi14_4h": 34.38095359770952,
-        "atr14_pct": 4.275952327315246,
-        "realized_vol_30d_daily_pct": 3.5268875650283054,
-        "volume_24h_usdt": 165418653.52914,
-        "volume_vs_20d_avg": 0.8461236604055591,
+        "low_24h": 1.3191,
+        "range_24h_pct": 5.1322871654916336,
+        "change_7d_pct": -6.127330284910304,
+        "change_30d_pct": -6.2328718993746035,
+        "ma7": 1.3759571428571429,
+        "ma25": 1.467556,
+        "ma99": 1.2701292929292929,
+        "rsi14_daily": 38.467369761159105,
+        "rsi14_4h": 35.997431394517065,
+        "atr14_pct": 4.284964885234669,
+        "realized_vol_30d_daily_pct": 3.522466385106461,
+        "volume_24h_usdt": 170067206.29412,
+        "volume_vs_20d_avg": 0.8699012114687491,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-10-14",
-            "close": 1.3317
+            "close": 1.3344
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 7.349298100743185
+            "distance_pct": 7.164268585131883
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 10.277006230763464
+            "distance_pct": 10.086930455635489
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 5.097214923804505
+            "distance_pct": 4.916067146282965
           }
         },
-        "from_90d_high_pct": -21.63656685687393,
-        "from_90d_low_pct": 35.07402149665384
+        "from_90d_high_pct": -21.501264780281193,
+        "from_90d_low_pct": 35.30723991076861
       },
       "news": [
         {
-          "source": "24/7 Wall St.",
-          "title": "A Holder Who Bought XRP at the January 2018 Top Has Waited Almost Nine Years to Get Even. By One Count, It Still Has Not Happened. - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOOWhkLWdHSVQ3c2dYRllLbzA5QkFoaEJfUFlYQzRjSm1qZVNXdEt1LXduVGNiV0c5czY2cUdNZzR1bGgzVGthR3lMb3c4Y0VCN24xWFR6eTlJLTE2STFqRjlZZGYwc2UxSTk2UFNENTBjUnJSVXVaZS1fanlrMEFjSmJJbURlbzBQLUd4NUZubGQ0REdscmRTVzRjSlU4bXQzWGZudVZEZ3BOVUVpT1VqOGp5aS1oSDk4cGRWQjFZa2JaT0VtVkp3WTNHT2tFZzMxM3pLbk5rNGV0alBER1ZCWGRjV09ZcVoyRXlaRS1Gc2VUMXo1QUhicGx5cE5kNmZsa0ZoOFJMNUtRWEJZN01SOTNPaEc?oc=5",
-          "published": "2026-10-14T19:00:00+00:00",
+          "source": "TechBullion",
+          "title": "XRP Price Prediction: XRP Holds Near $1.38 as Remittix Moves Deeper Into Its Final Launch Phase - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTRIczRHTDEzLVU4VEo4VVJldFpxTHlJNkg1clhJaVJfQjZibmZfd050TUlLWEtlay1zdE1TZk8xWWZzR2liaG9URDU4dGFBckozWTBFU211OVdscXpKVG5Vd2NoalZUYVhfNUVweGktSVdMcl8wVm9sQzhybGtUS0g3VUJxb3ZNQ2EybXl6bnEtX3FGNjNJUU1Fc25CNlhEZFA3Wm15WlNTRldQZDZUUVJSRFl1QzZza0E?oc=5",
+          "published": "2026-10-14T21:58:05+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "StreetInsider",
-          "title": "Crypto News: Remittix Opens PayFi Testing to Invited Holders as XRP Battles to Hold $1.38 - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNa20wbng4cjBSV2kyanN3VFB4SDFKMlVBS25aem5sVmJhemtmYkVMT01GSU80N3lwaXFhTEJDcFZhYkxNbXhXSTJQYWVGWmY2WVgxZjlfSV83Tlk3YTZsUm9HdTQ1SzJ1RHBqNWZCdXhRanc3cU54MlRTNmhlUFJPQnFackhuMmowNmNrTFF2V1RwSmp5VUUyU0dwcFNRd3ExZmJHd1JQWGhlSnNlV2g3ZlVjeEdVcHRFZVFnMWdZdWhZOURXTlBiWldYeC1wMlZ6STZidkp1QmE0X1paNy1tQWduQXk3YVdV?oc=5",
-          "published": "2026-10-14T18:57:37+00:00",
+          "title": "Top 3 Cryptos to Buy Now: XRP Gains Nasdaq Exposure, BNB Holds $744 and Remittix Nears Launch - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZXpyTG1nVldNOGNNRUtPWjFES01JZW12aVdKdF9ZeDFvUm52Tmlxckx6V0N0ODZ6RGxLRDJockVMWnFXUnREbTVZZ3hNTDY4aEVzcVVsNktxWVBPOXFPZVE3VVZjVzB4R0hsTWM5NHhlSWFQVEducTdRU2N1Sm1la1I4VnNuX3dTNG1qVE00eGdYUVkwNnBCR3hvX3V5MklBYTN0NGtEWm5LeFRad3pqT3U4LVBuUHA1a0VlOTI0aWh0Zkw4N0MtMndWbkNEMXVFN0U0OVdiZXA5RktCY2NSWGNQNU81aW8zSV9mVE9YVlc?oc=5",
+          "published": "2026-10-14T21:56:17+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "CryptoTicker",
-          "title": "XRP price at $1.33, Stripe unit Privy builds wallets on the Ledger: what it means for your XRP - CryptoTicker",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzcjhrRkQwam92Qjc0cHRlUm14X0ZBY01Ja0dkVmxrYWRVMHZEX25fR2M4Uy1SYjNYWFhOTkxVb2xQaU1KalNYcXJmYnk0T3RNMlRtQWwxSzRXem9jT2hOYjlmQUpoQ0ljYmM4MXBNVzc?oc=5",
-          "published": "2026-10-14T18:48:15+00:00",
+          "source": "TechBullion",
+          "title": "XRP Price Today: Lawyer Rules Out $1 Return as Pepeto Draws Second-Chance Buyers - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcFM0cl9NUTFJNkJxT1lnbXpoLXk3NFFYMEE2ZTRvRlF2YUtNR0tTWjBPTVNhSWZydGlBWGkwdVQ0LXlsN1R4UDVPNXhCbjRvU3NmclJjLU1PODFTaVk1Zml2SFNEbXpPWEkxVU0wZEd2aDUtMmpVUTZrVWNfOVItRVlhUC1sb1JRMnhRZVN6N1JGbGFyMmRUYnRSdVVrcTU4VWt3NERn?oc=5",
+          "published": "2026-10-14T20:15:37+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Cryptonews",
-          "title": "XRP Price In a Turning Point as ETF Records 13 Weeks of Inflows - Cryptonews",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnQ1dnX0t3UmlFQkx2S2pJelBHMFp0aktDOTladDlsSU16MFFRQjJVMWUtdXZxLUY5WV9DZ1gzVXpWMmRoVENUQlY0c2J4bEVpM0RtWkYybnRpaV9IZ19xVkVfbzlXSUdIWnp3?oc=5",
-          "published": "2026-10-14T18:16:00+00:00",
+          "source": "Yahoo Finance",
+          "title": "Ripple partners with Privy to embed XRP ledger wallets in apps - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWW1QMU4wUXo1TjFRbWhTeV9xLXhXQUgyRmdPZXBMUUdlYTB4NXk0ZW5RZWdBeEF1TFY3RkthSHRjMmx5VTZ4TDJvN0dNOWNUNGVOcl91VFVZb05fMlJsZTMtMnNLZW1ta2sySlMtb2lpY0JiZWljTG5KLWQ2XzlKR3ZEXzE?oc=5",
+          "published": "2026-10-14T20:00:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "TradingView",
-          "title": "Bitcoin, Ethereum, XRP, Dogecoin Lose Over 2% in Cross-Market Selloff - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFBJcWRqMklJNW56QVlKSWN5bkFwejIyaDNoWENRdUVqR2xFMVBLMmFWS0tmX2Y4OHhPaksxQzBpdDR3Mk5NNXAtYm1Za1VwVWhnb2NsY3lUWFRXendvWW9lbzdqejhHWHZhaUtNb3RrcmR3QndrWFd0NXJZak5oOXViaG1Uel9OeWNWbXlpX1l2MW1rcEs0RTZ0MHVyT0pjMGsxdThDSGlXejlCTlBMSnExT09TOVptUktCWW95OXFudw?oc=5",
-          "published": "2026-10-14T18:03:33+00:00",
+          "source": "Crypto News",
+          "title": "Evernorth taps Ripple and three firms for 473 million XRP treasury plans - Crypto News",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3M0JYbXR4OUhrX0kyZ3VkcWRjNGFlZy1JamtzTWR0V1pwSTVsSDJEZjFLSUFnd0Q2SXNRb2NWdjBIMnhEOWFKeDNMUGxJMzBhR1BOX2daZTQtQ05BSHM4TUV6eWQtd0tmT0FKT2NoQVdmUEx1aUxQNEYxanktQQ?oc=5",
+          "published": "2026-10-14T19:51:33+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Benzinga",
-          "title": "Bitcoin, Ethereum, XRP, Dogecoin Lose Over 2% in Cross-Market Selloff - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbFpkbk1pWmxyeFJmcHNWMW90ZkJ0QmxLRDZKT0Zwa1NhcmhQcDk4UFFKNll5QjZ4dWtZaFBNU1lZVUgxTDFkYWI4MjNKYWNEZklfbTVNLU1DTmJ4cUdDR1FUS3I0U24xMmJoMWc1aXYxQTdvOU1NeVByRTI3OHVvUzZNa2lnRHpqX3ZVa3lqMV9WUThFbk92WWJPc01BNTQ2OTh1ODhTdHh0VnoyLS16QXROWnpzcTZSSS1XSkJWaEtwY1RTdmc?oc=5",
-          "published": "2026-10-14T18:03:33+00:00",
+          "source": "24/7 Wall St.",
+          "title": "A Holder Who Bought XRP at the January 2018 Top Has Waited Almost Nine Years to Get Even. By One Count, It Still Has Not Happened. - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOOWhkLWdHSVQ3c2dYRllLbzA5QkFoaEJfUFlYQzRjSm1qZVNXdEt1LXduVGNiV0c5czY2cUdNZzR1bGgzVGthR3lMb3c4Y0VCN24xWFR6eTlJLTE2STFqRjlZZGYwc2UxSTk2UFNENTBjUnJSVXVaZS1fanlrMEFjSmJJbURlbzBQLUd4NUZubGQ0REdscmRTVzRjSlU4bXQzWGZudVZEZ3BOVUVpT1VqOGp5aS1oSDk4cGRWQjFZa2JaT0VtVkp3WTNHT2tFZzMxM3pLbk5rNGV0alBER1ZCWGRjV09ZcVoyRXlaRS1Gc2VUMXo1QUhicGx5cE5kNmZsa0ZoOFJMNUtRWEJZN01SOTNPaEc?oc=5",
+          "published": "2026-10-14T19:00:00+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -162,14 +162,6 @@
           "published": "2026-10-13T16:00:00+00:00",
           "summary": "Developers can now build XRPL wallets into apps via Privy, with support for XRP, RLUSD, AI agent payments and x402.",
           "via": "The Block"
-        },
-        {
-          "source": "Decrypt",
-          "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai\u2014And Let Clients Trade With It Without Moving It",
-          "link": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
-          "published": "2026-10-12T21:16:03+00:00",
-          "summary": "The bank's Dubai branch now offers custody for Ripple's RLUSD stablecoin and plans a link with LMAX that lets institutions post it as trading collateral while the coins stay put.",
-          "via": "Decrypt"
         }
       ]
     }
