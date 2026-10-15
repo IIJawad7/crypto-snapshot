@@ -1,50 +1,48 @@
-# Crypto snapshot — 2026-10-15 10:25 (UTC+3)
+# Crypto snapshot — 2026-10-15 16:25 (UTC+3)
 
 ## Market context
-- BTC: 81,138.94 (-2.79% 24h, -0.75% 7d)
+- BTC: 80,415.22 (-2.56% 24h, -1.64% 7d)
 - Fear & Greed index: 53 (Neutral), yesterday 62
 
 ## XRP
-**Price:** 1.3095  |  24h -4.60%  |  7d -5.14%  |  30d +2.04%
+**Price:** 1.2967  |  24h -4.13%  |  7d -6.07%  |  30d +1.04%
 
 | Metric | Value |
 |---|---|
-| 24h high / low | 1.3868 / 1.2843 (range 7.98%) |
-| MA7 / MA25 / MA99 (daily) | 1.3654 / 1.4634 / 1.2723 |
-| Price vs MA7 / MA25 / MA99 | -4.10% / -10.52% / +2.92% |
-| RSI14 daily / 4h | 36.1 / 31.5 |
-| ATR14 (avg daily move) | 4.45% |
-| 30d realized vol (daily σ) | 2.98% |
-| 24h volume vs 20d avg | 1.12x (211.3M USDT) |
+| 24h high / low | 1.3668 / 1.2843 (range 6.42%) |
+| MA7 / MA25 / MA99 (daily) | 1.3635 / 1.4629 / 1.2722 |
+| Price vs MA7 / MA25 / MA99 | -4.90% / -11.36% / +1.93% |
+| RSI14 daily / 4h | 35.0 / 29.8 |
+| ATR14 (avg daily move) | 4.49% |
+| 30d realized vol (daily σ) | 3.01% |
+| 24h volume vs 20d avg | 1.00x (189.9M USDT) |
 | 30d high / low | 1.6581 / 1.2468 |
-| 90d high | 1.6999 on 2026-08-22 (-22.97% from it) |
-| 90d low | 0.9862 on 2026-08-14 (+32.78% from it) |
+| 90d high | 1.6999 on 2026-08-22 (-23.72% from it) |
+| 90d low | 0.9862 on 2026-08-14 (+31.48% from it) |
 
-Last 7 daily closes: 10-09 1.3958, 10-10 1.4024, 10-11 1.4103, 10-12 1.3422, 10-13 1.3661, 10-14 1.3316, 10-15 1.3095
+Last 7 daily closes: 10-09 1.3958, 10-10 1.4024, 10-11 1.4103, 10-12 1.3422, 10-13 1.3661, 10-14 1.3316, 10-15 1.2964
 
 **My levels**
 
 | Level | Price | Distance from now |
 |---|---|---|
-| entry | 1.4300 | +9.20% |
-| target | 1.4690 | +12.18% |
-| stop | 1.4000 | +6.91% |
+| entry | 1.4300 | +10.28% |
+| target | 1.4690 | +13.29% |
+| stop | 1.4000 | +7.97% |
 
-**News (last 48h, 11 items)**
+**News (last 48h, 10 items)**
 
-- [Ripple Price Forecast: Drops Below $1.3 Amid Heavy Rate Hike Pressure, Risking Test of $1 Mark? - TradingKey](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSG1YZjJsLXI2NzR0NldVZ1h3Y3dpWnk3Ul9sc0JpVXZqTmM0X0lFMXhlMEtWVEZLVFFBVFVlUkoyNkIwMlJ2dVVsMlY3b2RxZGlCUHVVM2p3ZS1lV1VPN2pkNzNUZER2eHNlQWFEUElEb2xVSmpqVjdSZG4yWFpnUTAyUHZBNlZpVlI4V1lFYnRWMm1BYWIxVE1WMUdkczYwUnd3ZDcyQm5CUkFmbHo0UWFoT0VLNFJLbF9nRGp3ZmRIblE?oc=5) — TradingKey, 2026-10-15 06:50 UTC
-- [XRP price drops 2.15% amid $320K long liquidati... - Pluang](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPODQ0ekFNV2FkT1ZycFZLMG16aDJxakJSQnRCdkhnWmI2QmlWMHpidC1IdmZ3dEFVbjYyVUpnVXFQaGp3eW1fTjhiUTN3ZmI3OG1ZdjVZN3dUaUNGcTlXbVpCWHk1Y1RDdjA3QlZDQzZ0eUJPS2h0WVRBNmZMcDM2LVhQQTJ0V1E1c2ww?oc=5) — Pluang, 2026-10-15 06:28 UTC
-- [Why Is XRP Down Today? Bears Target $1.30 Support as Selling Pressure Builds - Brave New Coin](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdHdFQzFzejBVenFZZ2daZHNOTkc1M1lYckw1UWoySnM1aEk3blVaTDNCNnk4RXhIbTlNUUhSNEprQUhkckFiQ19tTHhGOVBud0JlQ2dvVVFIMllPM2dSWEpMbno4NEhWdUdDeWdtNzFVcEZBY2g5dWhHd1VDRWozdW1vV2ZFOUZwY1VBVzE3aEU5YzlYcUctXzNPTkNUaTBUWldhaEpXZ0NjLThZ?oc=5) — Brave New Coin, 2026-10-15 06:18 UTC
-- [Bitcoin, XRP analyst sentiment jumps as Solana bulls hit 91%: CryptoQuant - FXStreet](https://news.google.com/rss/articles/CBMiygFBVV95cUxQNTVtNmUzeUJzMkJTZFcwUHZHcHcwd2hKLVJTY1BQOVE5OHdhTHctZEtCaWU5c0tKRDVxUll1V2lNaUZYdy1HVHd4b3lkS1ZOY0Jyb3VuQm8tTG1yeTZXVlMyR1l5eF81UmNpYWpjaTVnX3U3VkRxVDJ5NEJES2xfd0c2MnRFZW5YcFFFSEVtMUhTVDc2c3hRUktCV3dRWDJVSjRDNGx2c0R2WHZCQktWRHVkbVZOQnZtT01fTnp5UDVRRk5UVlh0VEV3?oc=5) — FXStreet, 2026-10-15 06:05 UTC
-- [US XRP And ZEC Spot ETFs Draw $4.42 Million In Net Inflows - Coinpedia](https://news.google.com/rss/articles/CBMiowFBVV95cUxQM3dMRXcwYnBicER0ODFhN3RYck9VRy1uSEcyZXZ1dm9vdXhvc1JVUVhtU0lsbXZXb2tOalhBeHM0eDBUZDkyS0t2U24wU2U4WlhkcTNqWkRsTGtZeHhLdHZ4eU92NWVLNkJxWUdWbXczR0d3dkYxSlN5R0llNGpaelVySktnMi1PLVNheXNQQ3Y0d1VPeVd5VDJIWUMtVVl4WFJv0gGjAUFVX3lxTFAzd0xFdzBicGJwRHQ4MWE3dFhyT1VHLW5IRzJldnV2b291eG9zUlVRWG1TSWxtdldva05qWEF4czR4MFRkOTJLS3ZTbjBTZThaWGRxM2paRGxMa1l4eEt0dnh5T3Y1ZUs2QnFZR1ZtdzNHR3d2RjFKU3lHSWU0alp6VXJKS2cyLU8tU2F5c1BDdjR3VU95V3lUMkhZQy1VWXhYUm8?oc=5) — Coinpedia, 2026-10-15 05:12 UTC
-- [U.S. XRP and Zcash ETFs see $4.42M net inflows ... - Pluang](https://news.google.com/rss/articles/CBMifkFVX3lxTFB4M0xoaTFWakNuSEpMM0ZHYVgtLXhNZURfWXRwR2c2UXZPckg2QmRqZnZKWnhSZ21iZ1pBOHliS1h6NUxNMG1pSElJZDc5SC02bGxJY1ZNUG5ocjBpYi1sZ2J5UER1QzYzRjg4Qm95MjVnNUV1cURLZS1qdEdZUQ?oc=5) — Pluang, 2026-10-15 04:56 UTC
+- [Ripple’s DriveWealth Deal Sparks XRP Backlash as RLUSD Takes Center Stage - CCN.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMkdxQTZxS3d3Q3pKekRBNGxuVXcyUG9vVW5JUkdYY1l0Tm1neU01V0JiLUpMQTZHS0VwQUc4X0xLcUVPaEFvQ0V6MTRLY0hUbXAyUWFZbFBxaWg5VGJqZm9QclJHVnpoZmRMdGhZdld1WmVrc0wyNlk4ZjJBQmp0YjZQMXlZRGoxdDE5YlRpdWpta2hhQ2lyQWhpUQ?oc=5) — CCN.com, 2026-10-15 13:12 UTC
+- [Litecoin Under $60 or XRP Under $1.35: Better Buy After the Selloff? - 24/7 Wall St.](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNenlwWWloWW9xMFNPT2Q4anE2T3dNeFpwbHFpc2Jnc3RWMkJBTDlzOF8tRUZ6a0ViV3JjQXFNaWtnSndXcHRhZ2RrX21hMTdnY0FCUGdmRmwxaFZtaFFkT0E1QU04ZUlTbW1JRTh2alVGOG1Ob0VEYXJaMFhxV09UdlY0LURiWkhFRXBTUnc3c1NWRXZSek5TdUlzSERRX1R2V2hjVFVuMFhGZERMdVNBREdCTkNOb24wNDFDdktseE4?oc=5) — 24/7 Wall St., 2026-10-15 13:11 UTC
+- [XRP price at Oct 15, 2026 at 10am EDT Prediction Market - Robinhood](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUdQbXl1Z21PMjlORF9yQzhicEstYVF5Q3VwdTBjUFEyb1hfWk1Uel9BSVhWMnBtaEVDZmFTM2NuLWx5V2YtMTRwMllYUmFZRkpoVklSbFo5T256eWRGRThzUDk3cVBiaWhCTHRJclFudlUyN0tzTDlnTVhKOVphQkdjVUJDenlFdkdqcmVGRVJndE5kbWZXbS1vcDd2Mlg5MkFyZTFzNWZDUzBqcXZ3?oc=5) — Robinhood, 2026-10-15 13:07 UTC
+- [XRP open interest drops 33%, Solana open intere... - Pluang](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdHF0STNzcWdJNHZRcXNJTGdEa0pZYUNsMURRM3hrTTVFZmFnWVJXbEUzYmhiSWdLOUhCV1hueVNWOXB0Sy1QSnJhMkdDUGhQTmJlZ2Y3ZkdBVXZpWmFORzJTNmFrdklwdndSSHUzejZXVnhyNUR3TllweHVYR3REWjlGY2VXalV4YmJSUw?oc=5) — Pluang, 2026-10-15 13:06 UTC
+- [Irish police X accounts hit by cyberattack, used to promote XRP cryptocurrency - Firstpost](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSEJjYlpGaFM2NUhZaEZ2ZTN4RnhRZVhsV2FXanVDT0xxSDNQWXlSZlh5WVBsVS1hZjlyMGNxa1JUOVdCMU9oYjRpcWVJY0RkMy05RTNITkY0ZnVVTnVCSVREeTIyRVhkLXJzSWFIVmVVNHJRd2ZyN0VOOVhQQVlEYnNYcWtGdk84SWd3TW52empoNm9hWkR6Sl8tUk1kbGZ2VjhxRVJ2NnphNUVLS2JGeE9XRmV1dlcxbmxhWGhJNNIBxAFBVV95cUxPdEp2Z3NJUXJINE9RZjhoaEF1Xy00dTFqZUVmajFrdFQwSHdlNml0VUJmd0xwNVlwSXF4QnFvMnRkeGxFbnR0cjNELUtScUZFSnVlMXkyMVRqLXp1OVdkTXNGYjJ6ZFhGTmotTG9hY09hWjZkbmNZaDIyNGRBVTMxMFRPZjdPcGFIblFpVzh3bElkU3lSeWJrR05uQVBBeW55RC0yalY0dGlXamtfTzEzWFBJNXZMMldvVktXYjRCVGdwRkNn?oc=5) — Firstpost, 2026-10-15 12:54 UTC
+- [XRP ETF inflows slow sharply to $740K despite $1.8B cumulative investments since 2025 launch - Pluang](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVUE3NjRUMjhSWHpURURDN3NWWXhEcDFjYm14dFNaSlVfNE9vNTVET0RKQjZ2OTFOeFZyckx1aENZSkE5SmNvWG9TRTlBLTdhaUFnVlJhY0g2SnVOYi0wbmhoV29KcEZ1WDd0NUczREgzem82YXgxMnFXd08zNTlmWkR2QUpNcHoxbjFFaG9CVnk1M0JSUDQ0?oc=5) — Pluang, 2026-10-15 12:48 UTC
+- [Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend](https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) — Cointelegraph, 2026-10-15 07:23 UTC
+  - Bitcoin ETFs have recorded $151 million in net outflows since Monday, after investors withdrew $681 million the previous week.
 - [Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide](https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide) — CoinDesk, 2026-10-15 04:25 UTC
   - Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin.
 - [DriveWealth to use Ripple’s RLUSD for stablecoin settlement, cross-border payments](https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479) — The Block, 2026-10-14 13:00 UTC
   - DriveWealth will use Ripple's RLUSD on the XRP Ledger for stablecoin settlement, collateral funding and custody, starting in Europe.
 - [Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work](https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503) — The Block, 2026-10-14 12:00 UTC
   - Evernorth said it is planning a phased move into XRP lending and yield strategies following its Nasdaq debut.
-- [Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million](https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million) — CoinDesk, 2026-10-14 05:24 UTC
-  - The integration will let software pay for online services using XRP and RLUSD, while questions remain about how much real economic activity the transactions represent.
-- [Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger](https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463) — The Block, 2026-10-13 16:00 UTC
-  - Developers can now build XRPL wallets into apps via Privy, with support for XRP, RLUSD, AI agent payments and x402.
