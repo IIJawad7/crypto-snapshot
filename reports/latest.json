@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-15T13:25:16+00:00",
+  "generated_utc": "2026-10-15T18:17:29+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 80415.22,
-      "change_24h_pct": -2.56,
-      "change_7d_pct": -1.638112665426772
+      "price": 82204.57,
+      "change_24h_pct": 0.695,
+      "change_7d_pct": 0.550575534420461
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.2967,
-        "change_24h_pct": -4.133,
-        "high_24h": 1.3668,
-        "low_24h": 1.2843,
-        "range_24h_pct": 6.4237327727166615,
-        "change_7d_pct": -6.070264396957626,
-        "change_30d_pct": 1.0441829657913182,
-        "ma7": 1.3635428571428572,
-        "ma25": 1.4628800000000004,
-        "ma99": 1.2721777777777779,
-        "rsi14_daily": 35.015246162030294,
-        "rsi14_4h": 29.81571902549311,
-        "atr14_pct": 4.494313924273813,
-        "realized_vol_30d_daily_pct": 3.0083665318774027,
-        "volume_24h_usdt": 189884934.10103,
-        "volume_vs_20d_avg": 1.003619565222638,
+        "price": 1.3378,
+        "change_24h_pct": 0.829,
+        "high_24h": 1.3472,
+        "low_24h": 1.284,
+        "range_24h_pct": 4.92211838006229,
+        "change_7d_pct": -3.0930822165881944,
+        "change_30d_pct": 4.24686355489754,
+        "ma7": 1.3694285714285714,
+        "ma25": 1.4645280000000005,
+        "ma99": 1.2725939393939392,
+        "rsi14_daily": 39.15403975010086,
+        "rsi14_4h": 43.211096454888285,
+        "atr14_pct": 4.420497265892003,
+        "realized_vol_30d_daily_pct": 2.964995581326676,
+        "volume_24h_usdt": 185274582.74435,
+        "volume_vs_20d_avg": 0.9792519720482741,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,74 +62,82 @@
           },
           {
             "date": "2026-10-15",
-            "close": 1.2964
+            "close": 1.3376
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 10.27994138968149
+            "distance_pct": 6.891912094483477
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 13.28757615485463
+            "distance_pct": 9.80714606069666
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 7.966376185702173
+            "distance_pct": 4.649424428165627
           }
         },
-        "from_90d_high_pct": -23.719042296605686,
-        "from_90d_low_pct": 31.48448590549584
+        "from_90d_high_pct": -21.301253014883226,
+        "from_90d_low_pct": 35.65199756641657
       },
       "news": [
         {
-          "source": "CCN.com",
-          "title": "Ripple\u2019s DriveWealth Deal Sparks XRP Backlash as RLUSD Takes Center Stage - CCN.com",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMkdxQTZxS3d3Q3pKekRBNGxuVXcyUG9vVW5JUkdYY1l0Tm1neU01V0JiLUpMQTZHS0VwQUc4X0xLcUVPaEFvQ0V6MTRLY0hUbXAyUWFZbFBxaWg5VGJqZm9QclJHVnpoZmRMdGhZdld1WmVrc0wyNlk4ZjJBQmp0YjZQMXlZRGoxdDE5YlRpdWpta2hhQ2lyQWhpUQ?oc=5",
-          "published": "2026-10-15T13:12:23+00:00",
+          "source": "Cryptonews.net",
+          "title": "Ripple (XRP) Is Entering the Field That Has Become Very Hot Recently - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VZ1lGb2lldkdva2RReTdrS1g0N3EtSUdJWVJfSzJ4T0kwRUdURVpzSXBqNXplUTlRaWpMejhLRmxUa0ExUVdSdklHSFkzY19fN3pwR2hBOA?oc=5",
+          "published": "2026-10-15T18:00:07+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "24/7 Wall St.",
-          "title": "Litecoin Under $60 or XRP Under $1.35: Better Buy After the Selloff? - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNenlwWWloWW9xMFNPT2Q4anE2T3dNeFpwbHFpc2Jnc3RWMkJBTDlzOF8tRUZ6a0ViV3JjQXFNaWtnSndXcHRhZ2RrX21hMTdnY0FCUGdmRmwxaFZtaFFkT0E1QU04ZUlTbW1JRTh2alVGOG1Ob0VEYXJaMFhxV09UdlY0LURiWkhFRXBTUnc3c1NWRXZSek5TdUlzSERRX1R2V2hjVFVuMFhGZERMdVNBREdCTkNOb24wNDFDdktseE4?oc=5",
-          "published": "2026-10-15T13:11:00+00:00",
+          "source": "Yahoo Finance",
+          "title": "Brad Garlinghouse and David Schwartz Spotlight XRP\u2019s Next Steps as Viral $1,000 Prediction Resurfaces - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDFmWDV5Yi1xWWczU2pOUnF4QnBORXlIclcyV1FJUk11YlczQWtxcm1wWEZURjhyakZ0YzIySlBLUFRoZlFhUHozRm5sNXNOQzVFSXNHNkdreElSRjlzczVnQXJOTEJJcDlKcXlUOUotRk0xTV9pRllaOHJuRm1fbERJZVJjX3FlT0daTjB6Wlo4WEZCWG5BT3FxUUI3czQzSVhXUkhKQS0yaGc?oc=5",
+          "published": "2026-10-15T17:55:40+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Pluang",
+          "title": "XRP price dips near $1.31 with potential drop t... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbkJkd0VFS0hQSXlscm9KYWFnYjM4Z1FyUFUwNzlxamw2bU0tN1hINFRpY1BscUZhVzliaGtlUm9aQ0pBUTQtREFtVUFwNmVrUWk5ZWhHb1VMSTJRZklDWHNSbDh0LU1tMTU0eVFUQkctWndYOXBCbnFqZGl6S3JfMU9XeXR6MUdWazhLcU8zbGUtY19OaUE?oc=5",
+          "published": "2026-10-15T17:52:09+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Pluang",
+          "title": "Cross River Bank integrates Ripple's RLUSD stab... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdXZYTk9XbWtlRkNXdjhrZEdLY00wSVhyNjVZdFN2Q2pUZ0tIRjJyUEF1Y1pDUEJwVHBaN0pNZmg0bTIycGRuSzZVcjJUTW1POTVMa0toSkw4aUpwcTFCV2VXSlFRa0Z2dm1oOHJNVmlVSUtMdXJYWl9qRE5BamtLRktwb1hZZk1fSjdkcWJPb2NIN2FkbjFqcE4wV1NkVldPcmlQQXB6Z1lWUQ?oc=5",
+          "published": "2026-10-15T17:26:07+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Pluang",
+          "title": "XRP nears key resistance at $1.60 amid mixed si... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rVDdMTUdqREdWdnBud2hKX0k4MFJaeDdsQkMwTV9hUDFoamJZNVpZcFd3M3JIeEZRajZwTjdxS0pjVjg0ai1mQ2E2bURfd0pGMVI3VFNDRE91NDlrNThJSzFmSlR0cXh1N09zSHlPZVprTGZBcHdj?oc=5",
+          "published": "2026-10-15T17:06:07+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Robinhood",
-          "title": "XRP price at Oct 15, 2026 at 10am EDT Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUdQbXl1Z21PMjlORF9yQzhicEstYVF5Q3VwdTBjUFEyb1hfWk1Uel9BSVhWMnBtaEVDZmFTM2NuLWx5V2YtMTRwMllYUmFZRkpoVklSbFo5T256eWRGRThzUDk3cVBiaWhCTHRJclFudlUyN0tzTDlnTVhKOVphQkdjVUJDenlFdkdqcmVGRVJndE5kbWZXbS1vcDd2Mlg5MkFyZTFzNWZDUzBqcXZ3?oc=5",
-          "published": "2026-10-15T13:07:10+00:00",
+          "title": "XRP price at Oct 15, 2026 at 2pm EDT Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ041dWxoR2Q1TzZTWm1reDVLSXA4S1RHNDVrX0gwLUJsZ3FZNTUzbUNJaFJTT3E1SC04OFdKci1sM3VGZjl6UzJwMjBsNnhtRm9oOWRSc1hjQXlVMUlGRU43bFozb3RCa2RYenItZ0ppT1FCWHFfV3M3cTdkV3pKS0RqRl9rQjZLQTNUcTdxQ0Nnc0JHSTN5Z0FQbFRTMVZ1OTZTcjlGVk1QNG1Nd1E?oc=5",
+          "published": "2026-10-15T17:04:09+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Pluang",
-          "title": "XRP open interest drops 33%, Solana open intere... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdHF0STNzcWdJNHZRcXNJTGdEa0pZYUNsMURRM3hrTTVFZmFnWVJXbEUzYmhiSWdLOUhCV1hueVNWOXB0Sy1QSnJhMkdDUGhQTmJlZ2Y3ZkdBVXZpWmFORzJTNmFrdklwdndSSHUzejZXVnhyNUR3TllweHVYR3REWjlGY2VXalV4YmJSUw?oc=5",
-          "published": "2026-10-15T13:06:48+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Firstpost",
-          "title": "Irish police X accounts hit by cyberattack, used to promote XRP cryptocurrency - Firstpost",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSEJjYlpGaFM2NUhZaEZ2ZTN4RnhRZVhsV2FXanVDT0xxSDNQWXlSZlh5WVBsVS1hZjlyMGNxa1JUOVdCMU9oYjRpcWVJY0RkMy05RTNITkY0ZnVVTnVCSVREeTIyRVhkLXJzSWFIVmVVNHJRd2ZyN0VOOVhQQVlEYnNYcWtGdk84SWd3TW52empoNm9hWkR6Sl8tUk1kbGZ2VjhxRVJ2NnphNUVLS2JGeE9XRmV1dlcxbmxhWGhJNNIBxAFBVV95cUxPdEp2Z3NJUXJINE9RZjhoaEF1Xy00dTFqZUVmajFrdFQwSHdlNml0VUJmd0xwNVlwSXF4QnFvMnRkeGxFbnR0cjNELUtScUZFSnVlMXkyMVRqLXp1OVdkTXNGYjJ6ZFhGTmotTG9hY09hWjZkbmNZaDIyNGRBVTMxMFRPZjdPcGFIblFpVzh3bElkU3lSeWJrR05uQVBBeW55RC0yalY0dGlXamtfTzEzWFBJNXZMMldvVktXYjRCVGdwRkNn?oc=5",
-          "published": "2026-10-15T12:54:36+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Pluang",
-          "title": "XRP ETF inflows slow sharply to $740K despite $1.8B cumulative investments since 2025 launch - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVUE3NjRUMjhSWHpURURDN3NWWXhEcDFjYm14dFNaSlVfNE9vNTVET0RKQjZ2OTFOeFZyckx1aENZSkE5SmNvWG9TRTlBLTdhaUFnVlJhY0g2SnVOYi0wbmhoV29KcEZ1WDd0NUczREgzem82YXgxMnFXd08zNTlmWkR2QUpNcHoxbjFFaG9CVnk1M0JSUDQ0?oc=5",
-          "published": "2026-10-15T12:48:45+00:00",
-          "summary": "",
-          "via": "Google News"
+          "source": "Decrypt",
+          "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+          "link": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
+          "published": "2026-10-15T14:27:18+00:00",
+          "summary": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.",
+          "via": "Decrypt"
         },
         {
           "source": "Cointelegraph",
@@ -146,22 +154,6 @@
           "published": "2026-10-15T04:25:15+00:00",
           "summary": "Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin.",
           "via": "CoinDesk"
-        },
-        {
-          "source": "The Block",
-          "title": "DriveWealth to use Ripple\u2019s RLUSD for stablecoin settlement, cross-border payments",
-          "link": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
-          "published": "2026-10-14T13:00:00+00:00",
-          "summary": "DriveWealth will use Ripple's RLUSD on the XRP Ledger for stablecoin settlement, collateral funding and custody, starting in Europe.",
-          "via": "The Block"
-        },
-        {
-          "source": "The Block",
-          "title": "Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work",
-          "link": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503",
-          "published": "2026-10-14T12:00:00+00:00",
-          "summary": "Evernorth said it is planning a phased move into XRP lending and yield strategies following its Nasdaq debut.",
-          "via": "The Block"
         }
       ]
     }
