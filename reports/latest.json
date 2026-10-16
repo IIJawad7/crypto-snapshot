@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-16T19:57:41+00:00",
+  "generated_utc": "2026-10-16T22:50:56+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 81631.65,
-      "change_24h_pct": -0.935,
-      "change_7d_pct": -1.2148524454668852
+      "price": 81792.93,
+      "change_24h_pct": -0.842,
+      "change_7d_pct": -1.0196822069920342
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.3008,
-        "change_24h_pct": -3.185,
+        "price": 1.3101,
+        "change_24h_pct": -2.275,
         "high_24h": 1.3534,
         "low_24h": 1.2891,
         "range_24h_pct": 4.987976107361725,
-        "change_7d_pct": -6.806132683765576,
-        "change_30d_pct": 0.10003847633703877,
-        "ma7": 1.3554571428571427,
-        "ma25": 1.4549960000000002,
-        "ma99": 1.2746626262626262,
-        "rsi14_daily": 35.38448432187286,
-        "rsi14_4h": 35.28300769058575,
-        "atr14_pct": 4.301529945414007,
-        "realized_vol_30d_daily_pct": 2.9973460463155774,
-        "volume_24h_usdt": 107027885.45408,
-        "volume_vs_20d_avg": 0.6263454801989998,
+        "change_7d_pct": -6.139848115775893,
+        "change_30d_pct": 0.8156983455175126,
+        "ma7": 1.3568,
+        "ma25": 1.455372,
+        "ma99": 1.2747575757575758,
+        "rsi14_daily": 36.24550668999654,
+        "rsi14_4h": 39.373742944684835,
+        "atr14_pct": 4.2706663613464615,
+        "realized_vol_30d_daily_pct": 2.9786447981807718,
+        "volume_24h_usdt": 109527385.71296,
+        "volume_vs_20d_avg": 0.6409729829592726,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-10-16",
-            "close": 1.3007
+            "close": 1.3101
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 9.932349323493227
+            "distance_pct": 9.15197313182199
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 12.930504305043055
+            "distance_pct": 12.128845126326237
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 7.626076260762615
+            "distance_pct": 6.86207159758796
           }
         },
-        "from_90d_high_pct": -23.47785163833167,
-        "from_90d_low_pct": 31.90022307848306
+        "from_90d_high_pct": -22.93076063297841,
+        "from_90d_low_pct": 32.84323666599067
       },
       "news": [
         {
-          "source": "StreetInsider",
-          "title": "XRP, SOL, DOGE, HYPE or Remittix: Which Catalyst Stands Out as Crypto Prices Recover? - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOT3hpN3F0VEp6WXA5cGphZVgxOGY0WHNBNnQ4aG5XS1RlZEIzZWZlaTJ2OTl0TkdFOXJ3ZUJfalZ6WTE1ODNhcFNpX1hLUncyNU1aNXFxQmU0ODlMRHJkV1Qwd0d4NllRNEpyRzRBVTF1MUczb3lTeFdiVGhjSFBNc3pSWmEwVGxHMEJGZjBETmkwTTFNMzJ6ZGxIS21HQ1NjUUJiUjdGOUVJdlgzYTNVXzRqNEt6dktYb3UwSmNLdHdRZ2JaMzNkR2ZrblZqQWZFVkx1SlZNZlgxbjQxcmVxcllUTTV6Q3M?oc=5",
-          "published": "2026-10-16T19:51:01+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Pluang",
-          "title": "XRP leads crypto funding rates; Dogecoin sees b... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelBZMVhTZTFKNzBEUkhvbURsRVlGR19uMFV5VExiWU5jQmZQeDM5elNyZE9fa0tqYlhTak1lRzhacHUwYTZib2pRTWVBT0plVzdzaWtrdDdXXzhjUS1oRi11TURobi04TUlFUUZxUXVMZlJzSkJfWkZieGY3amw2M3dwOUVkRmpfcEdhbzB2cG1uQ2JZZHhURkNoR2h6Y05yWS0yQ0lqaw?oc=5",
-          "published": "2026-10-16T19:43:50+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "FXEmpire",
-          "title": "XRP Price Prediction: Social Mentions Favor Bullish Recovery as XRP Bounces Off Key Support - FXEmpire",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN2xDQU15MTc2X0szRGh6MnFjRXhDWU9CMTZ5NzZVanJDMFdIU1FKSmZHOXR1T2F3NzVVbEM2VTNzdEwzM1Z2ZU9NNkpoOWxMbU1IY04wdHBCanRPVGRNTExHLVotWjBjY0tQRF9nNUgyNGxKMUlxQmlCdlJIMmtKLVJscUplUm9SMEwyb2NCOXM0b2h2VTR0RDhXaTVYM1JSV1JyS1NfbGRUSVJublhGUVdiMjVwY0tDZzFhT2haUzN2ZE56VjR5bXF1b2hCWFpYMlBkY1ZBb3Q?oc=5",
-          "published": "2026-10-16T19:20:30+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "roundtable.io",
-          "title": "Analyst identifies key XRP buy signals - roundtable.io",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzV1VabHNQVlY0UG4wdkVsS3RSZm52T1gxWS1GTWV4TEtTc3pRVDNFRjRqcGpoQmV4WVZfZ1ctbmxwcTV1SHFPQVlNek5QbXBuT3dacFhpamh4TlJVOGxxdElPSHFqem1vQXZ0ZjFsMHBjWVU?oc=5",
-          "published": "2026-10-16T19:19:02+00:00",
-          "summary": "Analyst identifies key XRP buy signals  roundtable.io",
+          "source": "Yahoo Finance",
+          "title": "Analyst identifies key XRP buy signals - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUEhkdG1GTTB5X1UyS3pwRF83SnJBNXVEUERGMXI5enlEaWZGZVBIbTRmOE9uMks3MFczcWNfcVUtUEFfUW43YnNMQnY3c3Q3VGplMzhFaXZTZXdodEdyZjJuSmRqSElPWmxDZTlWdFJiQXNsdnQ1aVBLTTJSOUUzczRvd0N0T3pSdXk4YlpkVUJ6d1ZLTndmY0p3cw?oc=5",
+          "published": "2026-10-16T22:11:09+00:00",
+          "summary": "Analyst identifies key XRP buy signals  Yahoo Finance",
           "via": "Google News"
         },
         {
           "source": "Cryptonews.net",
-          "title": "XRP Price Bounces 4% as $184M Buy Orders Flood Binance \u2013 Is a Rebound to $1.42 likely? - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iYUs5OWxqT2M5WU80dWtsM3JBa3lIZENPUFRQaDhUb0N0VnZqWGlQcVdGX1JORFRuVVZVTG9VRTFoMVV6RmVqcUtnZ3ZnV1JqZVU2SHZhVTN0TGs?oc=5",
-          "published": "2026-10-16T19:14:43+00:00",
+          "title": "Binance Founder CZ Voices Support for XRP, ZEC and SOL Amid China Crypto Controversy - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GNWFfSE4wWnlab01PQlhOdThfMlVRT0JIeFE3ckV5SUgzZkR5Y3NRMkdOaGlyb295dkpzVkxoREJDWTNXbE9ubXdOdlpJUk5EYXlNQUZNRQ?oc=5",
+          "published": "2026-10-16T21:39:02+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "TechBullion",
-          "title": "Waiting for the $5 XRP Price Prediction? AlphaPepe Eyes Binance With a Launch Price From $0.08 - TechBullion",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkFYMElrUXRpV2U4UDRGSUpxX3A3NUdBaEJsbjJ4UElNVnpNSGs2dEdCY2VYcDVjaG1fTXJQRmd2T1B2ZHdBdmM3R1FtRloxVm5lZUR4M281d2VjLWdneVFfWnhvaXp3c0hzTENkVkJoS0NyUFIwN21Bc05HY3lTdDl3SlNQeTBBSU5IdzFQQ1VlQmtOeGdOalh6cnNTR3dfUVdfckNRUGlXcWE0amYyZ0RxTW1QVUE?oc=5",
-          "published": "2026-10-16T19:05:10+00:00",
+          "title": "Cryptocurrency News: Strive\u2019s $235M Bitcoin Buy Sparks Buzz as Solana, XRP and Pepeto Target 300x - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2xKSVM4a2RETDViUmJUMHVhU1NaR0lDSEFpbUY0Rjd1cmlMb3dkSS1WTFNaMzlzMzlYeXBEX0JZd3cwX2U3aV8zY0ViOTZkdUdjT3hndDZoTElxYkVrazRUa1ZjQXA5OWpla1hEYXVmU19lOTBWelZIQkxCc1o1ZW1XTEdXekM1SXVyU2xIMHN0cTJQYlRYTlRxZGlLNk9lM0FxRkU5MFpZbUJ4M1c5STE0VnhjVkFzeFE?oc=5",
+          "published": "2026-10-16T20:50:01+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "StreetInsider",
+          "title": "XRP Price Holds $1.33 as a Bank Adopts RLUSD, but Pepeto Could Outrun XRP With Room - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMk1ibU5FVGNfNzFwejZtTHRKME02TjhPN3NzbjJ0d2I4YWpNckJURF9CaWdiWFdoTENHTEV6RC1wYXo2Z0xQc3c2Q3pHRGhKZzVud2FEX2lLLTk4dERtTlc5LXdqb0ttSWw5NnFtdTUzU2xWbE93c0ttNGpXbWVDQ1RIdDNkZWhOcDdsalFVMGpmbWExWnVNSWhweUk1YzcwcGRRbzIxeUs2YlBrYWM2QjVITUxBUmtCeEN2aHhHUVlKdUdTaU9GVjhjSE5yenJrMTA2WVB4SWJHb0w3S3NmWQ?oc=5",
+          "published": "2026-10-16T20:47:11+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Pluang",
+          "title": "Binance's CZ backs XRP, ZEC, and SOL amid Solan... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT3MyS3poOTB2WVk5UThTaFNhVGVnQmtsV2Z1RGhMOUpOb0xEUElIajZtTlM4NERpN3I3TG84eVdLV3JLY3hlNlJGODJiU3B1aENTZDZDSVg5eDlZVjVuSF91RUtIdTdVRmFSa3VfNUtkTFJZN2hqRkp0Wi1UalV0TVRrVVd1aWhZN1c3OVdjY2RsWFY3M080VnZrc09ScW0xZ0dBYzJJU2JLeHBB?oc=5",
+          "published": "2026-10-16T20:46:02+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "YouTube",
+          "title": "MASSIVE! XRP LEDGER + ELON\u2019S X MONEY?! THE SECRET IS OUT! - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1qbDBNaWM0S1J3Z2VSVzdEQVhCcEdXS0dkb0ZiMlVtVWVLUFFQa0M4ZDEtWnJTZl9QMkpacm8ySXdqdw?oc=5",
+          "published": "2026-10-16T20:36:51+00:00",
           "summary": "",
           "via": "Google News"
         },
