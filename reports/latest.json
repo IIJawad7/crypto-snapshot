@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-17T18:30:17+00:00",
+  "generated_utc": "2026-10-17T21:27:51+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 81559.86,
-      "change_24h_pct": 0.177,
-      "change_7d_pct": -1.7213257377299618
+      "price": 81322.01,
+      "change_24h_pct": -0.529,
+      "change_7d_pct": -2.007932196756279
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.2975,
-        "change_24h_pct": -0.292,
+        "price": 1.2916,
+        "change_24h_pct": -1.239,
         "high_24h": 1.3126,
         "low_24h": 1.288,
         "range_24h_pct": 1.9099378881987539,
-        "change_7d_pct": -7.480034227039356,
-        "change_30d_pct": 0.08485035482876935,
-        "ma7": 1.3420285714285716,
-        "ma25": 1.4444240000000002,
-        "ma99": 1.2767212121212121,
-        "rsi14_daily": 35.01554954772557,
-        "rsi14_4h": 37.38097035525887,
-        "atr14_pct": 4.35639422230051,
-        "realized_vol_30d_daily_pct": 2.9827563715476626,
-        "volume_24h_usdt": 51146213.32547,
-        "volume_vs_20d_avg": 0.3058794529240209,
+        "change_7d_pct": -7.900741585852822,
+        "change_30d_pct": -0.3702560937982047,
+        "ma7": 1.3411714285714287,
+        "ma25": 1.4441840000000001,
+        "ma99": 1.276660606060606,
+        "rsi14_daily": 34.458728490103454,
+        "rsi14_4h": 36.36175483428325,
+        "atr14_pct": 4.3766314206078825,
+        "realized_vol_30d_daily_pct": 2.989674086017484,
+        "volume_24h_usdt": 42579178.65444,
+        "volume_vs_20d_avg": 0.2546443817823843,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-10-17",
-            "close": 1.2976
+            "close": 1.2916
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 10.211946050096321
+            "distance_pct": 10.715391762155457
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 13.21772639691714
+            "distance_pct": 13.734902446577891
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 7.899807321772623
+            "distance_pct": 8.392691235676676
           }
         },
-        "from_90d_high_pct": -23.67198070474733,
-        "from_90d_low_pct": 31.56560535388362
+        "from_90d_high_pct": -24.019059944702626,
+        "from_90d_low_pct": 30.96734942202395
       },
       "news": [
         {
-          "source": "Cryptonews.net",
-          "title": "Binance Announces $800,000 XRP Giveaway for RLUSD Users - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WWDM4dk0tTEQ4bkh4Q0VkaTEwcVJhOVJxWGhwR0FsaVBHdFo1amZyZzcyaXlZdGtUNXZvdHAtaHA5dTl0X1V2MFlkVUNCU2xVT29Qd2VTWQ?oc=5",
-          "published": "2026-10-17T18:20:40+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Cryptonews.net",
-          "title": "XRP's $1.30 Retest Triggers First ETF Outflow in 13 Weeks - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jVTF5Q3ZJREtGNzBrUzl6QnpnMkM5eEp2UWdZaXZJVmJoLUxCd3BCc205aVFkcjZJbjlSNGxUZEVyZ2JvbDJJVV8xUjd1UHpnQjQ2SlI2TEh1ZDQ?oc=5",
-          "published": "2026-10-17T18:19:41+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
           "source": "Robinhood",
-          "title": "XRP price at Oct 17, 2026 at 3pm EDT Crypto Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQazhkV2VIeDNUQWJEYzdUUWxDNnYwanRUakJUeUtzUXZ4YWstelhMOXc0ODMwUEJOU3pmaVMweEJraTRUbFY1ZW5vV2JQUnk1LWV0eE9KR1pRbHFNSm5lZjU1SHlXTDFfVTdISzRybTlWVGh6X0s0bXVZMmJMTllYUW9uTktEbG91UTZXd3FsSTMyS0hiMTE3LVZVcnFJRU1rWi1pX29MY0xZUUV5Y1E?oc=5",
-          "published": "2026-10-17T18:07:43+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Pluang",
-          "title": "U.S. spot XRP ETFs end 13-week inflow streak wi... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVRSZ2F6UmR5SDd2UHZ4OVBUYVFRaklLaUZPa3hWVkVSSnRwaW1mYTRXRXBaMWprTjJaUVB5ekNVVXZRbWZDNVZEQnRvNXFEbDJqTDhrV0pfSGVQRjJNZmk2cmJha2dMYk1tTEpfQ0pLb3RWeHJ5dFlFRmJWaFJFOHJQSnQ2bGV0U0dScDNQZVk3ZnJ0?oc=5",
-          "published": "2026-10-17T17:55:37+00:00",
+          "title": "XRP price at Oct 17, 2026 at 6pm EDT Crypto Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdkVtdG1pSXM0Nkx2RWNxNVpJQy1CejdNTnpNWWJnUHBXcTB6OV9TQ01lUjhoRjRIRFBUNjB2d1g0dl9YdXVSU2pQTm5kVEpnR2V2dXIyN3Bzb2hJUVRsNzk2UURCRE5fYXEyTzZTS25iR19ab25lOUpiS2xHY3c5OXlRQVFnU2Q1WE9lMmI1TFp2Zl9pU2VmZHNXN0dLdXRHLVBfXzFNdTlaRWZMVWc?oc=5",
+          "published": "2026-10-17T21:04:15+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "TechBullion",
-          "title": "XRP News: Privy Targets Payments and AI Commerce on XRPL as Remittix's PayFi Launch Countdown Continues - TechBullion",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUE40RzNBbUJ6UHhIdENleUY5MFFha3hIMlpSbzc0TFdKUlByRnNJWlU4a2lxSUtkc1RmbU0wd0ZMVkt5NS1ENzE5RkhDVVV6YndFbnE1ZlVHbzN1eTI0Mlg4VUUzOUNNSjNYYTR1WFN6ZmVpd0ROZS1iR0U1YTV3RGJlY3pHNkxnTkRhY0NEN2RBWVcyaXlTUXU0eHFtaTV5UUFjTzVNVVFZTTRYZGtBRnlqUS1PX2xRTWtPb1R1cjBIa1py?oc=5",
-          "published": "2026-10-17T16:55:25+00:00",
+          "title": "Bitcoin, XRP or Remittix: Best Crypto to Buy as BTC Navigates Volatility and RLUSD Reaches Core Banking? - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU3IxNWF5aU13M3ZfajdadjZ6bGVCTElrQ2hJTEk4eDVZbTJZVUc5b1MyWnI5dk5ON1lRMVVveVBaOFRwanIxX3NtUFQ3eDJ2cUpJTTdiTHc3YTBoeU1PVGdfTkw5T2x5SGExMjZHcDF2bmpDU1A3bXlBdlllX2I4bjhMM2ZNQzc5Znl4WDY3UUVnNmVvMFdoekU1a1NKeDZTV2hsVWpocWdLeThqcGlQQzlHb2U2aWRMM01kWXBXOXBaT2xE?oc=5",
+          "published": "2026-10-17T20:55:02+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "StreetInsider",
-          "title": "XRP Price Prediction: Cross River Embeds RLUSD Into Core Banking as Remittix Tests Its Own Crypto-to-Bank Model - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaWxhV09BNnBsb3FkRlRES2FVM201aHRoRGRDS3NsN0s5QUJrb1NhQmYxSzdhc2s0SHd2TnEza0xtazNVV2JDNS05eVhMMUxxZUFCUm5odTdPRnc4akRNc1ZGQ3hpbWp5bWk0ZVNtaUtlcVRXTEpRbWFWckx3dm5kaDkwYzlaMGJZNlVCenJ0eWh6NFJVNkpvbTY5VGV2ZlJXSTZHMlpHRTR4Y3BwaGRzZHkyUDcxQ2xpYkxKUzc3ay00RVN1RDRES2Y3ZXA2QlV2YkNISFE5a1ROWHdmRTQ0UXhGZnFhTmFfR0pkcjJFc2hmdWJfS0VlTDNGU0xKbzlkNURN?oc=5",
-          "published": "2026-10-17T16:51:05+00:00",
+          "title": "XRP Price Prediction: XRP Trades Near $1.30 as Cross River\u2019s RLUSD Integration Adds a Fresh Remittix Comparison - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQc1VkRXBfUHczTlNaS2lGLUs3QVd0b0FtRU5Md3E4UU5oX3BzNGxxT01jVF9VYXVleFlnRlowb2lQLWp3aDZJU0J4NzMyLTJjVk1ZcEdfN0xvY2VhSFNVV1dpWTdoemhKLU1Ubkg5cGZXTHVwRENjcUNCWkJWMUFUZllJU2dQUlBPcExPeHFBWVBaMVRrcFh5Vi1PTWR4WHR5a014R001YlBFNmFiTXRLZUJzX3F5WlNBc2dZX2FFb3pkNFp3UWJWZHVnZC1keU1sQmY4LUc5Q2pmYXRRM3NkVi1oM2ZUeVUzY2NUemE3T2pSOVZPZ1QzNDU4T2p0NEgycEM2dVQ1VXlSWGQ4aU04cw?oc=5",
+          "published": "2026-10-17T20:27:23+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Pluang",
+          "title": "Bitwise XRP ETF hits $541M in assets after $684M inflows, signaling strong institutional crypto interest. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU2pWdVJTc1JUb2lhTkx6Ymh6Z2hsMko1bHpfYUdGMWhTemJqSTF3VGtmbk43ZXpEdTU4bmJUaE1IelBzNHN3TFRtTHBVVTdMQWpySDVMWU1MTF9KdWlJa1lVa2JNNFdPWEFYR1ZaQXNfQUZ0OG1DTmN5aTF2VUZHZTJCV2Q3NnplYVN3NWthYU1KZjVXY3BUS1lNOA?oc=5",
+          "published": "2026-10-17T19:15:39+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "TechBullion",
+          "title": "Best Crypto Portfolio Picks: Ethereum, XRP and Remittix as ETH Staking and RLUSD Banking Integrations Expand - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaGhmb21hRXpQaS1IWDdyOGpiZkVfbVIzR2pqX3FQZmktOFE1OGxQZ1dTZ0xGRGRvaEV4NTlEWlY5MUZ2YmkzX0NxbXVabE1rdnlkU0owNmtmUzNHRmhjNkNnUUlKN2VRa3YtdlNEa1BVT3lpUzZwdkZ6NElEYk1heHUwcGdkYzVQSEI5NW9hcWRsLUYyWjVjM1RXZ0d2WlVtdDBYOFZBOUNaYWVhVzhvSVpTNHAtdGljNGlxQkhobnFqRGJjOHJaWjhYUQ?oc=5",
+          "published": "2026-10-17T18:55:11+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Benzinga",
+          "title": "XRP Price Forms a Risky Pattern as ETF Outflows Climb and Macro Risks Intensify - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVVJ6alVheU9wSnliQ3VSMUsyXzVrRk1mSTFqbGI5ZUptRlRBWm9qQzZ2cnBxVHBpRmd2QzctVXdseXZOQjFGWXUweFJyMmFsS2pwZ013amVfSGRwTVFhRWpUS1B5RmpLOFdsYWVEWTR1UkI3TVpBT1lib1BuclF0ZXNocDBlc3BkWjVRci1Lei1TUDRQajNqaTloS2dxSE9oT1JSQVhmQUZydnRvMFdNZ3A1YXRGVGh3b3BaTmc5b0NoZDlI?oc=5",
+          "published": "2026-10-17T18:45:21+00:00",
           "summary": "",
           "via": "Google News"
         },
