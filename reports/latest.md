@@ -1,42 +1,42 @@
-# Crypto snapshot — 2026-10-17 18:33 (UTC+3)
+# Crypto snapshot — 2026-10-17 21:30 (UTC+3)
 
 ## Market context
-- BTC: 81,504.01 (-0.20% 24h, -1.79% 7d)
+- BTC: 81,559.86 (+0.18% 24h, -1.72% 7d)
 - Fear & Greed index: 55 (Greed), yesterday 63
 
 ## XRP
-**Price:** 1.2974  |  24h -1.41%  |  7d -7.49%  |  30d +0.08%
+**Price:** 1.2975  |  24h -0.29%  |  7d -7.48%  |  30d +0.08%
 
 | Metric | Value |
 |---|---|
-| 24h high / low | 1.3173 / 1.2891 (range 2.19%) |
+| 24h high / low | 1.3126 / 1.2880 (range 1.91%) |
 | MA7 / MA25 / MA99 (daily) | 1.3420 / 1.4444 / 1.2767 |
-| Price vs MA7 / MA25 / MA99 | -3.32% / -10.18% / +1.62% |
-| RSI14 daily / 4h | 35.0 / 36.5 |
-| ATR14 (avg daily move) | 4.33% |
+| Price vs MA7 / MA25 / MA99 | -3.32% / -10.17% / +1.63% |
+| RSI14 daily / 4h | 35.0 / 37.4 |
+| ATR14 (avg daily move) | 4.36% |
 | 30d realized vol (daily σ) | 2.98% |
-| 24h volume vs 20d avg | 0.37x (62.2M USDT) |
+| 24h volume vs 20d avg | 0.31x (51.1M USDT) |
 | 30d high / low | 1.6581 / 1.2840 |
-| 90d high | 1.6999 on 2026-08-22 (-23.68% from it) |
-| 90d low | 0.9862 on 2026-08-14 (+31.56% from it) |
+| 90d high | 1.6999 on 2026-08-22 (-23.67% from it) |
+| 90d low | 0.9862 on 2026-08-14 (+31.57% from it) |
 
-Last 7 daily closes: 10-11 1.4103, 10-12 1.3422, 10-13 1.3661, 10-14 1.3316, 10-15 1.3349, 10-16 1.3115, 10-17 1.2974
+Last 7 daily closes: 10-11 1.4103, 10-12 1.3422, 10-13 1.3661, 10-14 1.3316, 10-15 1.3349, 10-16 1.3115, 10-17 1.2976
 
 **My levels**
 
 | Level | Price | Distance from now |
 |---|---|---|
-| entry | 1.4300 | +10.22% |
-| target | 1.4690 | +13.23% |
-| stop | 1.4000 | +7.91% |
+| entry | 1.4300 | +10.21% |
+| target | 1.4690 | +13.22% |
+| stop | 1.4000 | +7.90% |
 
 **News (last 48h, 7 items)**
 
-- [XRP ETFs see first weekly outflow in 13 weeks a... - Pluang](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSjJ5WUIzZmdlNTd6ZnNVbzloTXh1cEVvMlBjYl9sb0lhMERYSWxCN1lDR3lXVy11VkFlcTliWW4zemxhdTFuaDgxeENLSHctcVY1elkxYTlxYUhPTnp6NzByT09MYXJsTmNueDcybVRkSGQwUWgxZHJUaW9hck5MdjluMFVwQXBDVDQ5cUxaQV9ERThSaFFJ?oc=5) — Pluang, 2026-10-17 15:24 UTC
-- [Top 3 Cryptos to Buy Now: XRP, Stellar and Remittix as Bank Integrations and Stablecoin Platforms Expand - StreetInsider](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZUtpOGdSbzM0emRCVDlCTVNyMFpqZnZHM25lU2FkeXNwdzg2Q01WNkROeFhfUWNiZWxnWC1yWU1lQkl1OE83SU1vVlkxd0psX1ViYkpqREtraklXY0lYdzR4cUtDMG93MnV3ajdpclFMUG83d3ZLVVZGSmhnMU01MGp1b2tzeUczeUxtRlk0eDdSczJFWHFlM2IyN2hIZWlPYTZDX3NGMzVyWlY3YUhWLVpZRXVvVHQtaElHM0V1dGlfa2RzLXo2c0RzNHZDOWpZUEZGNUtOTWotbmxzVzJmYkVwWFhKSEpCTF9PWFZ2Tzd5SjBlbjRnalFpUnY?oc=5) — StreetInsider, 2026-10-17 14:51 UTC
-- [Crypto Price Analysis, ETH, XRP, HYPE, TIA and Lighter, October 17: Ethereum, XRP and Hyperliquid Remain Under Pressure - CryptoRank](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRUpDVFk0UUZDVTR1bHZSemhIMGxTSmRzNmRMOGxIMnR5Y29RXzF2YWFWWllwTW9zcWR1a1loeGxQQkxJMkpRTjg2MG0wMU9DWFpNTm9QWEh0aG02NEFxcEdEeWNYdEp3WWt1dFdHNThsYTFTb21NUXl2TXZ1bmZua1U0Slgtdm1oanlGX3NfQnY1TUxjODRmV0p2a3ZVeUVvQWZaZF9fNnQxMkhCbFM5Slh0TVBIcjFaN3A4TzBqY0w4aTNTUVAtbE96eUtDdmVQSHFyaGpQX0VvS3F4VWR2SGtxQ2U?oc=5) — CryptoRank, 2026-10-17 14:39 UTC
-- [XRP price hits $1.29 amid $11.31M inflows into U.S. XRP ETFs for the week ending Oct. 9 - Pluang](https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmc0UDJMSlZPYVpnbU91R0dESEc5UnVqZ2JDeTlxTkpJY3FoZU9kaExkSndGd1lQWk1Wdlc5Z2Q2ejYySmo4X2lQYzhQSXNaTDRSRHZXamtublZWNjhsWWFuMFl5S0VHbWhaMmRZMW9ESmtURWhVNVBIclVGUXltXzlRNGw4VjBic2NFejl5TC1Gdm93OVE?oc=5) — Pluang, 2026-10-17 14:26 UTC
-- [XRP price at Oct 17, 2026 at 11am EDT Crypto Prediction Market - Robinhood](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVVRYzBNZkQyYmo5TEFHOTZxMGtpZVB1MEVvVUFDNWt6dVc5MXRpSVRMdFlzV1pFLTM5MzdvbkctcnBDOF9CUmNxUXhYa0VMNEprU3JWdG1GUVcwdDZHZUtMTFE4dHJQb0tXMVl5Z0xkdnVZTC16WEZMbXM0aVZQTG9iOFh0Tnc4Q0stZlkxUTYzTGJUTVVySGs5M0Zjbk5IQlNnbG1aemJrclpldGEw?oc=5) — Robinhood, 2026-10-17 14:06 UTC
-- [New Cryptocurrency Watch: Pepeto Eyes 300x After Hot CPI Report as XRP and DOGE Seek Buyers - TechBullion](https://news.google.com/rss/articles/CBMitgFBVV95cUxOaWc2M3QwekF6TVA2QldEdzBrY3Zzb3ZsX3FGd05IVTNRRU02TGxJci1jelRkYmtOVGxIT2NFcjZrdXdaRnNvSFVDeHdPaHd4VGNnNGRGdUNTMWt1LUNldWZZOU9CeHRrUzhEZ0JzSnIxaFNVSHh2aThURVo3NjFYajJpbUdNalhMNE1weFVfdE5CSkRoQnVQVng4emI2bDdQY3dkc1VQMkVHYWlRRVhFMDJnYlFCQQ?oc=5) — TechBullion, 2026-10-17 13:45 UTC
+- [Binance Announces $800,000 XRP Giveaway for RLUSD Users - Cryptonews.net](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WWDM4dk0tTEQ4bkh4Q0VkaTEwcVJhOVJxWGhwR0FsaVBHdFo1amZyZzcyaXlZdGtUNXZvdHAtaHA5dTl0X1V2MFlkVUNCU2xVT29Qd2VTWQ?oc=5) — Cryptonews.net, 2026-10-17 18:20 UTC
+- [XRP's $1.30 Retest Triggers First ETF Outflow in 13 Weeks - Cryptonews.net](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jVTF5Q3ZJREtGNzBrUzl6QnpnMkM5eEp2UWdZaXZJVmJoLUxCd3BCc205aVFkcjZJbjlSNGxUZEVyZ2JvbDJJVV8xUjd1UHpnQjQ2SlI2TEh1ZDQ?oc=5) — Cryptonews.net, 2026-10-17 18:19 UTC
+- [XRP price at Oct 17, 2026 at 3pm EDT Crypto Prediction Market - Robinhood](https://news.google.com/rss/articles/CBMirgFBVV95cUxQazhkV2VIeDNUQWJEYzdUUWxDNnYwanRUakJUeUtzUXZ4YWstelhMOXc0ODMwUEJOU3pmaVMweEJraTRUbFY1ZW5vV2JQUnk1LWV0eE9KR1pRbHFNSm5lZjU1SHlXTDFfVTdISzRybTlWVGh6X0s0bXVZMmJMTllYUW9uTktEbG91UTZXd3FsSTMyS0hiMTE3LVZVcnFJRU1rWi1pX29MY0xZUUV5Y1E?oc=5) — Robinhood, 2026-10-17 18:07 UTC
+- [U.S. spot XRP ETFs end 13-week inflow streak wi... - Pluang](https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVRSZ2F6UmR5SDd2UHZ4OVBUYVFRaklLaUZPa3hWVkVSSnRwaW1mYTRXRXBaMWprTjJaUVB5ekNVVXZRbWZDNVZEQnRvNXFEbDJqTDhrV0pfSGVQRjJNZmk2cmJha2dMYk1tTEpfQ0pLb3RWeHJ5dFlFRmJWaFJFOHJQSnQ2bGV0U0dScDNQZVk3ZnJ0?oc=5) — Pluang, 2026-10-17 17:55 UTC
+- [XRP News: Privy Targets Payments and AI Commerce on XRPL as Remittix's PayFi Launch Countdown Continues - TechBullion](https://news.google.com/rss/articles/CBMixAFBVV95cUxQUE40RzNBbUJ6UHhIdENleUY5MFFha3hIMlpSbzc0TFdKUlByRnNJWlU4a2lxSUtkc1RmbU0wd0ZMVkt5NS1ENzE5RkhDVVV6YndFbnE1ZlVHbzN1eTI0Mlg4VUUzOUNNSjNYYTR1WFN6ZmVpd0ROZS1iR0U1YTV3RGJlY3pHNkxnTkRhY0NEN2RBWVcyaXlTUXU0eHFtaTV5UUFjTzVNVVFZTTRYZGtBRnlqUS1PX2xRTWtPb1R1cjBIa1py?oc=5) — TechBullion, 2026-10-17 16:55 UTC
+- [XRP Price Prediction: Cross River Embeds RLUSD Into Core Banking as Remittix Tests Its Own Crypto-to-Bank Model - StreetInsider](https://news.google.com/rss/articles/CBMigwJBVV95cUxNaWxhV09BNnBsb3FkRlRES2FVM201aHRoRGRDS3NsN0s5QUJrb1NhQmYxSzdhc2s0SHd2TnEza0xtazNVV2JDNS05eVhMMUxxZUFCUm5odTdPRnc4akRNc1ZGQ3hpbWp5bWk0ZVNtaUtlcVRXTEpRbWFWckx3dm5kaDkwYzlaMGJZNlVCenJ0eWh6NFJVNkpvbTY5VGV2ZlJXSTZHMlpHRTR4Y3BwaGRzZHkyUDcxQ2xpYkxKUzc3ay00RVN1RDRES2Y3ZXA2QlV2YkNISFE5a1ROWHdmRTQ0UXhGZnFhTmFfR0pkcjJFc2hmdWJfS0VlTDNGU0xKbzlkNURN?oc=5) — StreetInsider, 2026-10-17 16:51 UTC
 - [XRP has failed to make holders rich like bitcoin and ether. Here’s why](https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why) — CoinDesk, 2026-10-16 05:53 UTC
   - XRP remains below its 2017-cycle high while bitcoin, ether and other major tokens have surged, enriching their holders.
