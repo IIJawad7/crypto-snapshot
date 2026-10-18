@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-18T14:01:12+00:00",
+  "generated_utc": "2026-10-18T17:22:34+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 81561.07,
-      "change_24h_pct": 0.075,
-      "change_7d_pct": -2.6405247888582783
+      "price": 81158.5,
+      "change_24h_pct": -0.147,
+      "change_7d_pct": -3.1210727259531446
     }
   },
   "coins": [
@@ -13,28 +13,28 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.2823,
-        "change_24h_pct": -1.286,
+        "price": 1.2741,
+        "change_24h_pct": -1.431,
         "high_24h": 1.3063,
-        "low_24h": 1.2701,
-        "range_24h_pct": 2.8501692780096066,
-        "change_7d_pct": -9.076083102885924,
-        "change_30d_pct": -8.164434577096625,
-        "ma7": 1.3232714285714289,
-        "ma25": 1.435544,
-        "ma99": 1.278562626262626,
-        "rsi14_daily": 33.569702333079405,
-        "rsi14_4h": 36.44202334595678,
-        "atr14_pct": 4.438318017265386,
-        "realized_vol_30d_daily_pct": 2.638904839740962,
-        "volume_24h_usdt": 70145818.37301,
-        "volume_vs_20d_avg": 0.4351578548292543,
+        "low_24h": 1.2687,
+        "range_24h_pct": 2.963663592653898,
+        "change_7d_pct": -9.657519676664549,
+        "change_30d_pct": -8.751700923870231,
+        "ma7": 1.3220714285714288,
+        "ma25": 1.4352079999999998,
+        "ma99": 1.2784777777777776,
+        "rsi14_daily": 32.803513218691336,
+        "rsi14_4h": 34.349958304372905,
+        "atr14_pct": 4.512989561258928,
+        "realized_vol_30d_daily_pct": 2.6469181985864307,
+        "volume_24h_usdt": 76002686.09299,
+        "volume_vs_20d_avg": 0.47149162428493796,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
         "low_90d_date": "2026-08-14",
         "high_30d": 1.6581,
-        "low_30d": 1.2701,
+        "low_30d": 1.2687,
         "last_7_daily_closes": [
           {
             "date": "2026-10-12",
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-10-18",
-            "close": 1.2825
+            "close": 1.2741
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 11.518365437105205
+            "distance_pct": 12.236088219135066
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 14.559775403571717
+            "distance_pct": 15.297072443293303
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 9.178819309054042
+            "distance_pct": 9.881484969782584
           }
         },
-        "from_90d_high_pct": -24.56615095005589,
-        "from_90d_low_pct": 30.024335834516336
+        "from_90d_high_pct": -25.048532266603917,
+        "from_90d_low_pct": 29.192861488541876
       },
       "news": [
         {
-          "source": "Pluang",
-          "title": "XRP NFT creator highlights rising trend of phys... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWHRleFZCUmp3VVNBR2kzOUh5dGRSYmctMUUxeVNVYVRQSHl4M3l6YkFia3lQR0NSU1o5TGtyazBiN1VZaFQtazV0TWg4Wnd3ZDFsTnA1T2lWSDkxai1SR1pqUXVpQ1JXVUF3ZFQtenBIRS0td0o4UVBOZUNXTlBpZHlR?oc=5",
-          "published": "2026-10-18T13:34:03+00:00",
+          "source": "Cryptonews.net",
+          "title": "XRP Price Battles $1.30 as $2.77B Futures Market Loses Momentum - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DeDdlaWVzck9WOERBQVQ2WXV1OTBZZGxGa01jNDNYX0pKUWtJdl9qQ19DT0dRUm5EY3Y4TU9yczl1czg3TUZNUFpJOGVab0ZHcHBuWEU3SnlRbkU?oc=5",
+          "published": "2026-10-18T16:15:47+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "ad-hoc-news.de",
-          "title": "XRP's Paper Trail: Where Network Upgrades End and Token Demand Begins - ad-hoc-news.de",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTjhLWW4yenNDOU9mV0FjZDFlOTNiS1pmTnZUUkFiVElNaUdrMWlOT0k2eXR6VlZnUHJReU0tM1ZWUDQzUFg5NmNuSktCUEsyLTd0Z1ByZjNUbi01TlZ6UE9VZWl2aDd5OGZQaXdyR2YwOGdRY2VqNmpqRWNjZG9DMU1vUVJEMXNnUTh4SDRsUW5QX0FNQ2pLVTJrbXk4V1Y3djBxSnpmMWR5R05NZXdaLXV2UUNfay04WXl6Q2gycTFnZ3B6dFJiSHpHbmN2RjVPX01xdlh3TQ?oc=5",
-          "published": "2026-10-18T13:31:01+00:00",
+          "source": "OneSafe",
+          "title": "Unraveling XRP's Market Alchemy - OneSafe",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TcURDbDVLQzBGWHktMk1JZW9SRWJfUV9XNmtRdlVoWEF2MzRIb3BxOFFUbWRHclYwZC1YWm13SmNxVlQxWnRYeUY3Z3FLaHo1cHZ1a3NqLWMwUU44VWdibnhjS2hZeHdBX3daQw?oc=5",
+          "published": "2026-10-18T16:12:57+00:00",
+          "summary": "Unraveling XRP's Market Alchemy  OneSafe",
+          "via": "Google News"
+        },
+        {
+          "source": "Robinhood",
+          "title": "XRP price at Oct 18, 2026 at 1pm EDT Crypto Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXpZS3VrczNRX1FBeUpmS3hnQkFuRWhxWFV1eHlDaHAzRjV2eVZuVjVzdnBZdHZ2UGNSVEtjU0FOb2tCeGVXNERBSkJXYUNYMzFZSVl4aUdjWmliWldkbGt0M01oVzdpNnRqYlEtRWJhRW02Ui1sX0F2b1F5UEFLNEtuYTRTa0ltWl9lMTVudzdVdk1TdExmcWNORE84clNpN0RsMnFhRHprUXZMYVE?oc=5",
+          "published": "2026-10-18T16:03:25+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "TradingView",
-          "title": "XRP ETFs End 13-Week Inflow Run With $1.84 Million In Withdrawals - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMm1uQnRWSjhXRWRpaEZvd0l6U09ueFNvZXhkMjNOdnVObEdwYTg5aklicWJhSE14QU92ak10TXE4MlFKbWEyeVAzekEwZm91UV9FY09Wb09BMGtJNHNycFg0NGVHR3ZidnByQXVUeHZHV1lsUDgzeGhwaHhQOVV4MjBKdUVITC1uaG5IczQyODhRTEVMSk0zWTcxWXVUWlB0RkZYVElOQkNBRzcxVFI4MWIwSC05SjI0VTFOZ19NRQ?oc=5",
-          "published": "2026-10-18T13:00:00+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Pluang",
-          "title": "Binance's CZ supports XRP, Solana amid China's crypto crackdown on Solana's Shanghai event. - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3hWVFFNWDFxc0E5TXNiM0RpUjV3VVUyZXJ6bVViajFaa2xqR2hjNzk2S3dwMWp6QVRQYk93bWFkQzdWT2ZvVElhTW44NFFRRDRiNGp5TVpWcXE3enhDNi1aaTlQN2hHZVNQUnpaZHNSNjh6cnRpXzE0UXcwUDFScS1jLTlmSDMyZ3dWaGFlSmNTWlZBV052blZlRlBaN2VsbGxNY0FnUlltWFU0dkV4Rg?oc=5",
-          "published": "2026-10-18T12:34:09+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "24/7 Wall St.",
-          "title": "Circle Paid Its Partners $819 Million in Six Months. Can Ripple\u2019s RLUSD Compete? - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNkc0emw1Tk5hRW5hdVZFZXR5UnY3MUI2LXl2RkhPNzBveXh1OWk0U3Bwc2dRbi0xMjA5eTB4MUcwdWVWVU45SnN5cEVKejBtY3dXRVN4VG5nQ0RVVXZNQm5oUXdRa1dhUlZmQ1VOWVY2djJvNjItaV9SUTlyMlluT2dESG1iZHVZTFM1YmZyWDVHaktXUkVScHl3MGVHSXNnSTZvNXJKbVlOZUlSbGF4X0V2MENVUnY2NjhpdEFKY2lhMEdxSmtFOFdrRVZqa1ZX?oc=5",
-          "published": "2026-10-18T12:31:00+00:00",
+          "source": "AMBCrypto",
+          "title": "XRP clings to $1.25 as Evernorth\u2019s rumored $655M purchase stays unconfirmed - AMBCrypto",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYTgxeWRGZURyYTd5dUVmdHhNZUxIeDZtYmVUdUhOXzhQWlpMM0M4LXhxUjJsTWgyaGtMU3NyWmNQbmpmR2FVNkdNVmY2YlpxYUtqc1VjN2pLWTZod3JxUVdTWUs0elBaQjAzd013SDc4UGNuS2ozNTFNWm1ZWTRmLU1xcVB2UmRfbWkwRmlTUlgtZnNNRF9EdkstTQ?oc=5",
+          "published": "2026-10-18T16:00:58+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Pluang",
-          "title": "XRP leads domestic crypto trading with 15.99%, ... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT2lfd1R3NTlLUDNUU09BZ0Y0cURuRlV6OHlpb0ZYS1d0N2FFSF9jaTZuS0ZWODBWV19tZ2NKSU5TTXB3M3FRSmlmT3JtZVFMRkVuNmtzeUMyYTAyQ2w1NVRueEt2U1ZOVUNLMUtHNDNMYzhaZS1yakJEcXV3WTFRT09JRE9WV095TVFpMGtQZ3FxTGllZGZrUm90LWRqVmF3d29KLS1wSlVyZF9OSUE?oc=5",
-          "published": "2026-10-18T12:24:28+00:00",
+          "title": "XRP Ledger burned 398 XRP in 24 hours; 1 billio... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fQTFhY0U3Z3VYakF3cFV0b1NmSFhLdF9mS1J5MG5jQmRpVUxyR2Z1YVZHN003YmNLelcyNmowamN6UVFoWTl1RnExUEFoOTRkM0dxRnRqYUtpMlI3TjFkeXRuVFBZWkVkOWNtdEtjMWNfYmVjMkRyWFZR?oc=5",
+          "published": "2026-10-18T15:58:23+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "CryptoRank",
+          "title": "Spot Ripple (XRP) ETFs Reach the End of an Era, Solana (SOL) Funds Can\u2019t Catch a Break - CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObnREQjBJckk1ZDhoTTJ3QUtmdENYUFpqVTBQaWVwbzN1UUVka1RXOW55YXJLMXNjZEl6bkYtVXlqVUY1Nnp4akNxN25IUVFtWFdUbzJMT0ZZbzVNSHdGRG5jYXUxZXdLM2tleml3bG8wSXM0Rlo4RFljQ0dJS3hjSE02RnRlTVlQbVJBUjZja0VTVEtjNlM4RHhnNU5VUk9YMG8xTXVIVmZjWU9yR0ZlQWxsS0xvcFhfbXc?oc=5",
+          "published": "2026-10-18T15:51:10+00:00",
           "summary": "",
           "via": "Google News"
         }

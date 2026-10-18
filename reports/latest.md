@@ -1,40 +1,41 @@
-# Crypto snapshot — 2026-10-18 17:01 (UTC+3)
+# Crypto snapshot — 2026-10-18 20:22 (UTC+3)
 
 ## Market context
-- BTC: 81,561.07 (+0.07% 24h, -2.64% 7d)
+- BTC: 81,158.50 (-0.15% 24h, -3.12% 7d)
 - Fear & Greed index: 53 (Neutral), yesterday 55
 
 ## XRP
-**Price:** 1.2823  |  24h -1.29%  |  7d -9.08%  |  30d -8.16%
+**Price:** 1.2741  |  24h -1.43%  |  7d -9.66%  |  30d -8.75%
 
 | Metric | Value |
 |---|---|
-| 24h high / low | 1.3063 / 1.2701 (range 2.85%) |
-| MA7 / MA25 / MA99 (daily) | 1.3233 / 1.4355 / 1.2786 |
-| Price vs MA7 / MA25 / MA99 | -3.10% / -10.67% / +0.29% |
-| RSI14 daily / 4h | 33.6 / 36.4 |
-| ATR14 (avg daily move) | 4.44% |
-| 30d realized vol (daily σ) | 2.64% |
-| 24h volume vs 20d avg | 0.44x (70.1M USDT) |
-| 30d high / low | 1.6581 / 1.2701 |
-| 90d high | 1.6999 on 2026-08-22 (-24.57% from it) |
-| 90d low | 0.9862 on 2026-08-14 (+30.02% from it) |
+| 24h high / low | 1.3063 / 1.2687 (range 2.96%) |
+| MA7 / MA25 / MA99 (daily) | 1.3221 / 1.4352 / 1.2785 |
+| Price vs MA7 / MA25 / MA99 | -3.63% / -11.23% / -0.34% |
+| RSI14 daily / 4h | 32.8 / 34.3 |
+| ATR14 (avg daily move) | 4.51% |
+| 30d realized vol (daily σ) | 2.65% |
+| 24h volume vs 20d avg | 0.47x (76.0M USDT) |
+| 30d high / low | 1.6581 / 1.2687 |
+| 90d high | 1.6999 on 2026-08-22 (-25.05% from it) |
+| 90d low | 0.9862 on 2026-08-14 (+29.19% from it) |
 
-Last 7 daily closes: 10-12 1.3422, 10-13 1.3661, 10-14 1.3316, 10-15 1.3349, 10-16 1.3115, 10-17 1.2941, 10-18 1.2825
+Last 7 daily closes: 10-12 1.3422, 10-13 1.3661, 10-14 1.3316, 10-15 1.3349, 10-16 1.3115, 10-17 1.2941, 10-18 1.2741
 
 **My levels**
 
 | Level | Price | Distance from now |
 |---|---|---|
-| entry | 1.4300 | +11.52% |
-| target | 1.4690 | +14.56% |
-| stop | 1.4000 | +9.18% |
+| entry | 1.4300 | +12.24% |
+| target | 1.4690 | +15.30% |
+| stop | 1.4000 | +9.88% |
 
 **News (last 48h, 6 items)**
 
-- [XRP NFT creator highlights rising trend of phys... - Pluang](https://news.google.com/rss/articles/CBMiggFBVV95cUxQWHRleFZCUmp3VVNBR2kzOUh5dGRSYmctMUUxeVNVYVRQSHl4M3l6YkFia3lQR0NSU1o5TGtyazBiN1VZaFQtazV0TWg4Wnd3ZDFsTnA1T2lWSDkxai1SR1pqUXVpQ1JXVUF3ZFQtenBIRS0td0o4UVBOZUNXTlBpZHlR?oc=5) — Pluang, 2026-10-18 13:34 UTC
-- [XRP's Paper Trail: Where Network Upgrades End and Token Demand Begins - ad-hoc-news.de](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTjhLWW4yenNDOU9mV0FjZDFlOTNiS1pmTnZUUkFiVElNaUdrMWlOT0k2eXR6VlZnUHJReU0tM1ZWUDQzUFg5NmNuSktCUEsyLTd0Z1ByZjNUbi01TlZ6UE9VZWl2aDd5OGZQaXdyR2YwOGdRY2VqNmpqRWNjZG9DMU1vUVJEMXNnUTh4SDRsUW5QX0FNQ2pLVTJrbXk4V1Y3djBxSnpmMWR5R05NZXdaLXV2UUNfay04WXl6Q2gycTFnZ3B6dFJiSHpHbmN2RjVPX01xdlh3TQ?oc=5) — ad-hoc-news.de, 2026-10-18 13:31 UTC
-- [XRP ETFs End 13-Week Inflow Run With $1.84 Million In Withdrawals - TradingView](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMm1uQnRWSjhXRWRpaEZvd0l6U09ueFNvZXhkMjNOdnVObEdwYTg5aklicWJhSE14QU92ak10TXE4MlFKbWEyeVAzekEwZm91UV9FY09Wb09BMGtJNHNycFg0NGVHR3ZidnByQXVUeHZHV1lsUDgzeGhwaHhQOVV4MjBKdUVITC1uaG5IczQyODhRTEVMSk0zWTcxWXVUWlB0RkZYVElOQkNBRzcxVFI4MWIwSC05SjI0VTFOZ19NRQ?oc=5) — TradingView, 2026-10-18 13:00 UTC
-- [Binance's CZ supports XRP, Solana amid China's crypto crackdown on Solana's Shanghai event. - Pluang](https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3hWVFFNWDFxc0E5TXNiM0RpUjV3VVUyZXJ6bVViajFaa2xqR2hjNzk2S3dwMWp6QVRQYk93bWFkQzdWT2ZvVElhTW44NFFRRDRiNGp5TVpWcXE3enhDNi1aaTlQN2hHZVNQUnpaZHNSNjh6cnRpXzE0UXcwUDFScS1jLTlmSDMyZ3dWaGFlSmNTWlZBV052blZlRlBaN2VsbGxNY0FnUlltWFU0dkV4Rg?oc=5) — Pluang, 2026-10-18 12:34 UTC
-- [Circle Paid Its Partners $819 Million in Six Months. Can Ripple’s RLUSD Compete? - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNkc0emw1Tk5hRW5hdVZFZXR5UnY3MUI2LXl2RkhPNzBveXh1OWk0U3Bwc2dRbi0xMjA5eTB4MUcwdWVWVU45SnN5cEVKejBtY3dXRVN4VG5nQ0RVVXZNQm5oUXdRa1dhUlZmQ1VOWVY2djJvNjItaV9SUTlyMlluT2dESG1iZHVZTFM1YmZyWDVHaktXUkVScHl3MGVHSXNnSTZvNXJKbVlOZUlSbGF4X0V2MENVUnY2NjhpdEFKY2lhMEdxSmtFOFdrRVZqa1ZX?oc=5) — 24/7 Wall St., 2026-10-18 12:31 UTC
-- [XRP leads domestic crypto trading with 15.99%, ... - Pluang](https://news.google.com/rss/articles/CBMirgFBVV95cUxQT2lfd1R3NTlLUDNUU09BZ0Y0cURuRlV6OHlpb0ZYS1d0N2FFSF9jaTZuS0ZWODBWV19tZ2NKSU5TTXB3M3FRSmlmT3JtZVFMRkVuNmtzeUMyYTAyQ2w1NVRueEt2U1ZOVUNLMUtHNDNMYzhaZS1yakJEcXV3WTFRT09JRE9WV095TVFpMGtQZ3FxTGllZGZrUm90LWRqVmF3d29KLS1wSlVyZF9OSUE?oc=5) — Pluang, 2026-10-18 12:24 UTC
+- [XRP Price Battles $1.30 as $2.77B Futures Market Loses Momentum - Cryptonews.net](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DeDdlaWVzck9WOERBQVQ2WXV1OTBZZGxGa01jNDNYX0pKUWtJdl9qQ19DT0dRUm5EY3Y4TU9yczl1czg3TUZNUFpJOGVab0ZHcHBuWEU3SnlRbkU?oc=5) — Cryptonews.net, 2026-10-18 16:15 UTC
+- [Unraveling XRP's Market Alchemy - OneSafe](https://news.google.com/rss/articles/CBMibEFVX3lxTE5TcURDbDVLQzBGWHktMk1JZW9SRWJfUV9XNmtRdlVoWEF2MzRIb3BxOFFUbWRHclYwZC1YWm13SmNxVlQxWnRYeUY3Z3FLaHo1cHZ1a3NqLWMwUU44VWdibnhjS2hZeHdBX3daQw?oc=5) — OneSafe, 2026-10-18 16:12 UTC
+  - Unraveling XRP's Market Alchemy  OneSafe
+- [XRP price at Oct 18, 2026 at 1pm EDT Crypto Prediction Market - Robinhood](https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXpZS3VrczNRX1FBeUpmS3hnQkFuRWhxWFV1eHlDaHAzRjV2eVZuVjVzdnBZdHZ2UGNSVEtjU0FOb2tCeGVXNERBSkJXYUNYMzFZSVl4aUdjWmliWldkbGt0M01oVzdpNnRqYlEtRWJhRW02Ui1sX0F2b1F5UEFLNEtuYTRTa0ltWl9lMTVudzdVdk1TdExmcWNORE84clNpN0RsMnFhRHprUXZMYVE?oc=5) — Robinhood, 2026-10-18 16:03 UTC
+- [XRP clings to $1.25 as Evernorth’s rumored $655M purchase stays unconfirmed - AMBCrypto](https://news.google.com/rss/articles/CBMimwFBVV95cUxQYTgxeWRGZURyYTd5dUVmdHhNZUxIeDZtYmVUdUhOXzhQWlpMM0M4LXhxUjJsTWgyaGtMU3NyWmNQbmpmR2FVNkdNVmY2YlpxYUtqc1VjN2pLWTZod3JxUVdTWUs0elBaQjAzd013SDc4UGNuS2ozNTFNWm1ZWTRmLU1xcVB2UmRfbWkwRmlTUlgtZnNNRF9EdkstTQ?oc=5) — AMBCrypto, 2026-10-18 16:00 UTC
+- [XRP Ledger burned 398 XRP in 24 hours; 1 billio... - Pluang](https://news.google.com/rss/articles/CBMiekFVX3lxTE9fQTFhY0U3Z3VYakF3cFV0b1NmSFhLdF9mS1J5MG5jQmRpVUxyR2Z1YVZHN003YmNLelcyNmowamN6UVFoWTl1RnExUEFoOTRkM0dxRnRqYUtpMlI3TjFkeXRuVFBZWkVkOWNtdEtjMWNfYmVjMkRyWFZR?oc=5) — Pluang, 2026-10-18 15:58 UTC
+- [Spot Ripple (XRP) ETFs Reach the End of an Era, Solana (SOL) Funds Can’t Catch a Break - CryptoRank](https://news.google.com/rss/articles/CBMiugFBVV95cUxObnREQjBJckk1ZDhoTTJ3QUtmdENYUFpqVTBQaWVwbzN1UUVka1RXOW55YXJLMXNjZEl6bkYtVXlqVUY1Nnp4akNxN25IUVFtWFdUbzJMT0ZZbzVNSHdGRG5jYXUxZXdLM2tleml3bG8wSXM0Rlo4RFljQ0dJS3hjSE02RnRlTVlQbVJBUjZja0VTVEtjNlM4RHhnNU5VUk9YMG8xTXVIVmZjWU9yR0ZlQWxsS0xvcFhfbXc?oc=5) — CryptoRank, 2026-10-18 15:51 UTC
