@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-18T23:11:09+00:00",
+  "generated_utc": "2026-10-19T01:15:56+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 81746.0,
-      "change_24h_pct": 0.484,
-      "change_7d_pct": -2.4197737890149007
+      "price": 82430.01,
+      "change_24h_pct": 1.034,
+      "change_7d_pct": 0.70862553451434
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.2977,
-        "change_24h_pct": 0.402,
-        "high_24h": 1.3056,
+        "price": 1.3095,
+        "change_24h_pct": 0.94,
+        "high_24h": 1.3112,
         "low_24h": 1.2562,
-        "range_24h_pct": 3.932494825664712,
-        "change_7d_pct": -7.984116854569956,
-        "change_30d_pct": -7.061519730716892,
-        "ma7": 1.3254428571428574,
-        "ma25": 1.4361519999999999,
-        "ma99": 1.2787161616161615,
-        "rsi14_daily": 35.35722370693314,
-        "rsi14_4h": 45.33931282730709,
-        "atr14_pct": 4.499719283567631,
-        "realized_vol_30d_daily_pct": 2.6381724494307113,
-        "volume_24h_usdt": 83811594.56736,
-        "volume_vs_20d_avg": 0.5199351087161115,
+        "range_24h_pct": 4.378283712784592,
+        "change_7d_pct": -2.4362986142154597,
+        "change_30d_pct": -7.153998865570054,
+        "ma7": 1.3221142857142858,
+        "ma25": 1.427516,
+        "ma99": 1.281070707070707,
+        "rsi14_daily": 37.487792926380365,
+        "rsi14_4h": 48.67907439006617,
+        "atr14_pct": 4.290623465881197,
+        "realized_vol_30d_daily_pct": 2.637500019007064,
+        "volume_24h_usdt": 88939576.54344,
+        "volume_vs_20d_avg": 0.5874741869190259,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -36,10 +36,6 @@
         "high_30d": 1.6581,
         "low_30d": 1.2562,
         "last_7_daily_closes": [
-          {
-            "date": "2026-10-12",
-            "close": 1.3422
-          },
           {
             "date": "2026-10-13",
             "close": 1.3661
@@ -62,72 +58,76 @@
           },
           {
             "date": "2026-10-18",
-            "close": 1.2977
+            "close": 1.3071
+          },
+          {
+            "date": "2026-10-19",
+            "close": 1.3095
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 10.19496031440239
+            "distance_pct": 9.201985490645281
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 13.200277413886097
+            "distance_pct": 12.18022145857196
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 7.88317793018416
+            "distance_pct": 6.911034746086275
           }
         },
-        "from_90d_high_pct": -23.66021530678275,
-        "from_90d_low_pct": 31.585885215980536
+        "from_90d_high_pct": -22.966056826872162,
+        "from_90d_low_pct": 32.78239707969988
       },
       "news": [
         {
-          "source": "Robinhood",
-          "title": "XRP price at Oct 18, 2026 at 8pm EDT Crypto Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHBvdVVZbDdSc0pVblpzM0FfbFR1REQ0ai0zRHJuUV9md1l5TUJUZ1piZmFSeEFxTW5mY2RteUpZektlaG9GNmFMTW5ZMk10SzZMNUxMNTBfYUtiLXJaZzlfdU5SaWo3cWNrdnVCUW95aVFqay1qdGRzLW9aYkF2c25rLWh3TlptSU5WZFBibkpjZHhYcm02MkF0VkJJWWg4ZXBOYnp3dDZvQlBQTkE?oc=5",
-          "published": "2026-10-18T23:04:08+00:00",
+          "source": "StreetInsider",
+          "title": "Crypto News: AlphaPepe Presale Nears Stage Sell Out After $3M Raised as XRP Price Prediction Eyes $27 - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNazZFX2wxT0twWThTd0xkRkJlajdidjJFeUoyWE1zbkFlYWFYbXdyVDB4WHcyaXdhSU5EbjJ4NHE5VzRrUFFRSV90MTFGTEtCd0IyRGNSUmNqWThwX1FiZHRIYmUtZFFUM2J4V0g1cW5OTmtYQjdpVHA0QmI0UEx6NmVGaWUwekZ2NWJQMXJaNEhxLWxqWmFuMlFnbkt4UTRUNE9GQjJxVXhWOG5WRk5nd2V4WUlNMTUtU1Jwb3hTLW1VN0NaZzhDOERKcTdGc1Q4ZWtLZlJkVGlDN2k1Vk83QVJUX3hDNDhicFJyQVppWmk0eC04UGhOTkR3?oc=5",
+          "published": "2026-10-19T01:15:38+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Pluang",
-          "title": "XRP price rises to $1.29 with $240K in short li... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODQ2YWQ4bE1hMFFxb0JtZEpwT0FiaC11TUh6UjlpSVRqbzFPSHZPMUI0OWhVYlJEVWlITEY3aG9iT0pINGUtb05GcC1LeGNQQVRYM3BYSGVKSkFPY2l2QkRDVGRMQmZHZUoybWJ2REJOR3B1aS1Qem5JMUdOOFBRcktEb3pmS3pGTGRaMU1sQWVCQQ?oc=5",
-          "published": "2026-10-18T22:29:18+00:00",
+          "title": "Upbit's weekly crypto trading volume drops 15.5%, with XRP leading over Bitcoin and USDT - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ2N4cVZqYXFKUmluOThPbjdBNFRQOFptUDVDX1lwTkNsMUU4WDE5aGgyNEtaMFQ5UnZvcERILU5KWTJCaXkyOXhma0F0aG1EcFVMU2JJdmNnNGtZcVI4ejY2c2dkSWdESkZZNFlINXE5VTQ5dWZLMEtXOUZMY2owblQxM2pyUEo4TkFvbklGaW1qbGozS3RCSXVpTQ?oc=5",
+          "published": "2026-10-19T01:09:44+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
+          "title": "XRPL payments plunge 72 percent in a day, putting $1 XRP in focus - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaDE0dFptOU1wS2FrQUYxQ2ZCRFRQMUt1aWxEeWM5N0RyaVFSNV9mZThEREYtbVE3VVZQZkctVXNBU3h2b2pyMXdFLVZ0d3ZDaHNVRThpNHE4bHZRTTVGZXdtUV9kZnVUWF9DRzBad2dSN2RYaUhaclNnTUJwaTZTTDB0WWphX3NReFJ3NHRHb044LUN5TWJ2eklVbk51WDJFZTBDZGg3cGlsR0ZlN0NFUkFGYw?oc=5",
+          "published": "2026-10-19T00:48:26+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "TechBullion",
+          "title": "XRP Price Prediction: XRP Holds $1.30 as Banks Adopt RLUSD, Can Pepeto Repeat XRP\u2019s Early Run? - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUTZ1NjlJNkJ1aFZKdGxHZkpjNlc1YW5wcGRuZ3ktdEllWjlBYXJXdjl0TFp3VkJJV25qYlQ4M05rSjNDQkxiRHVIRl9OTC1qampRbGxzZHNraTU5OWVzeGpRYlBpdUhnS2tiWFhjbVJPUkF5WlR2YWkwU3hUMGN3cHdxdDR4Q1ZyZ1lyZ2lLZEJORnU3VTJmTC1vV0pROXVFTFhtT0h4Si1nanpVX3dRWnhMYUM?oc=5",
+          "published": "2026-10-19T00:10:03+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "TradingKey",
+          "title": "XRP (XRPUSD) Is up 3.41% on Oct 19: Here Is Why - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFRlcVdqZzlQOVJMQ1NDSXlRSFFXQ2E3NUY1TWRnQ191MVBsUGRNR3ZyTVowRF9pZTRwWkd2M2t2Wm1TZzFSbjdoSWJzbEM2VnZ3WDdROUxJZGdnUXVSdDh5WUNmandGMmRlTThkbjR6TGV5UlUtcWY2SHNUYlcxMlFaWi1jcm1lMElRTlBn?oc=5",
+          "published": "2026-10-19T00:00:15+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Pluang",
-          "title": "XRP struggles to regain $1.50 amid ETF outflows and market pressure, unlikely to hit target by end of 2026. - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ0N4UFdzZEsxRUc3bFdmaWtya0tqTGNGMlE4LWFUa0t6WENnMXRiU0IyZ3pHUkhZWmE4RnpoMVR6ZnItYVBGZUo2VjlDTUVwWjBIRDFQek1ORW44R2M0azhCTko1bkFGcWFhRG1jU2o1a3Q5VGF5MHVqdEJoblI5YjVGamprNENxSjBmYkQ0SndPYjAxU1ZoVWU1dXg?oc=5",
-          "published": "2026-10-18T21:53:09+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Pluang",
-          "title": "Bitcoin, Ethereum, and XRP must hold key suppor... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZy11SnlHS2lzRWhNNVdxLXlla3VvdWUtVWI5QjJYay03NjAtRks4SEtyTzJLYndBcldmaDFENEV0eEFXQUJLcVJfVkNua3UxQmNySU9Cb3otMmtTMHJwdTE0Yk02RmtZZV9xNDM1SEs1MjFyRU1vQ1gzYmM1QjJVUHg1UHFVbUxuWEdVbjlESHVyOTNLakJmVGh1N2E1a0V0UWVnMg?oc=5",
-          "published": "2026-10-18T21:33:12+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "24/7 Wall St.",
-          "title": "XRP Price Prediction: Can XRP Get Back to $1.50 Before the End of 2026? - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV2lGM1oyQkpYaUJ6dG44U1VqSTlkekk4dUdZLWNMZS1aaGo0WHI2WDhzUzJvaFExUVE4RGFGNk9BTnQ0OUNqZGd1YjlmYXFmYTdDU1Rickp3V1FxNDVDYWpkajMtTnRmcHRpUFBmUVVMUUlqRzF0dDh3VzZFX3ZacGpiU2tUM2ZHSmMyMERnQ2dZU251Mm95djQ1NEhGNHNaSXFORlFSSmw3WG9EQml2cDNkWU12Nmt5R0xTWl9RQndnS1FCTUE?oc=5",
-          "published": "2026-10-18T21:30:00+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Cryptonews.net",
-          "title": "Bitcoin & XRP Price Outlook Ahead of the 2026 U.S. Midterm Elections - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UWWRFU0p4bGZSX0RiTXZHcl9tNElkblFVRDR4dGlZbExXWjc5Yzc1SmxLNGthODBKbmVjR3dVeHktcmlJYWpNeE5vRC11dldjZktGU01IcjI0ZFU?oc=5",
-          "published": "2026-10-18T21:01:04+00:00",
+          "title": "Dogecoin leads positive funding rates; XRP tops open-interest growth in crypto futures snapshot - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdmlyMHFoSnFOTjhrZkxYdGcxOWpoN1dKd21WZkVsQkJTQUJ0RW5fbnhqSmJ3LUlCRXRsdFU3YjRRX09kOHE3WjdUd2JfcUFtdURmMmpYa2lRa2hGT3BlNXJUNUxiM1BvYkh6SG1mX0RJUTJMUURTV3NrYWRqNUc0ejhQY2E4QTZEVWxCWXMtbjJ2SU1VQWV3?oc=5",
+          "published": "2026-10-18T23:33:46+00:00",
           "summary": "",
           "via": "Google News"
         }
@@ -136,8 +136,8 @@
   ],
   "errors": [],
   "fear_greed": {
-    "today": 53,
-    "label": "Neutral",
-    "yesterday": 55
+    "today": 59,
+    "label": "Greed",
+    "yesterday": 53
   }
 }
