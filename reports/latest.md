@@ -1,42 +1,44 @@
-# Crypto snapshot — 2026-10-19 22:55 (UTC+3)
+# Crypto snapshot — 2026-10-20 02:40 (UTC+3)
 
 ## Market context
-- BTC: 81,834.98 (+1.15% 24h, -0.02% 7d)
+- BTC: 82,071.85 (-0.02% 24h, +0.27% 7d)
 - Fear & Greed index: 59 (Greed), yesterday 53
 
 ## XRP
-**Price:** 1.2992  |  24h +3.14%  |  7d -3.20%  |  30d -7.88%
+**Price:** 1.3050  |  24h -0.05%  |  7d -2.77%  |  30d -7.47%
 
 | Metric | Value |
 |---|---|
-| 24h high / low | 1.3220 / 1.2562 (range 5.24%) |
-| MA7 / MA25 / MA99 (daily) | 1.3206 / 1.4271 / 1.2810 |
-| Price vs MA7 / MA25 / MA99 | -1.62% / -8.96% / +1.42% |
-| RSI14 daily / 4h | 36.2 / 45.8 |
-| ATR14 (avg daily move) | 4.43% |
+| 24h high / low | 1.3220 / 1.2936 (range 2.20%) |
+| MA7 / MA25 / MA99 (daily) | 1.3215 / 1.4273 / 1.2810 |
+| Price vs MA7 / MA25 / MA99 | -1.25% / -8.57% / +1.87% |
+| RSI14 daily / 4h | 36.8 / 47.8 |
+| ATR14 (avg daily move) | 4.41% |
 | 30d realized vol (daily σ) | 2.64% |
-| 24h volume vs 20d avg | 0.67x (101.5M USDT) |
+| 24h volume vs 20d avg | 0.58x (87.7M USDT) |
 | 30d high / low | 1.6581 / 1.2562 |
-| 90d high | 1.6999 on 2026-08-22 (-23.57% from it) |
-| 90d low | 0.9862 on 2026-08-14 (+31.74% from it) |
+| 90d high | 1.6999 on 2026-08-22 (-23.23% from it) |
+| 90d low | 0.9862 on 2026-08-14 (+32.33% from it) |
 
-Last 7 daily closes: 10-13 1.3661, 10-14 1.3316, 10-15 1.3349, 10-16 1.3115, 10-17 1.2941, 10-18 1.3071, 10-19 1.2992
+Last 7 daily closes: 10-13 1.3661, 10-14 1.3316, 10-15 1.3349, 10-16 1.3115, 10-17 1.2941, 10-18 1.3071, 10-19 1.3050
 
 **My levels**
 
 | Level | Price | Distance from now |
 |---|---|---|
-| entry | 1.4300 | +10.07% |
-| target | 1.4690 | +13.07% |
-| stop | 1.4000 | +7.76% |
+| entry | 1.4300 | +9.58% |
+| target | 1.4690 | +12.57% |
+| stop | 1.4000 | +7.28% |
 
-**News (last 48h, 7 items)**
+**News (last 48h, 8 items)**
 
-- [XRP Price Prediction: XRP Could Bounce Back to $1.55 as Exchange Inflows Drop to Pre-Rally Levels - FXEmpire](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNckxjRmFIYkFLOTdBaG5TZlJZNnBmakVUNzVGdnpZa0RZZ0pJVHlfNmg4a3JzM0hEVEtIZHdLc09ua3NUQU4xS25mOW9OYnpDU240aTh4OGNhRF9JREdkckxMVDlOcXF1aDZBelQ0MGt5QzBhUFJkU3AwOTRQVW9SUXFBOWRqdnYzbVdRd21nLUQzbTVfOVc5UUoybjd5NzRnVmpPWTh3a09QSWplZ1MwWXFZVFlXRjJaUE1NZUFhZVhaODI4N1g3X2ZvRlVVa19qbzEyUUZ0eFJyRGpuMG53?oc=5) — FXEmpire, 2026-10-19 19:33 UTC
-- [XRP price at Oct 19, 2026 at 4pm EDT Crypto Prediction Market - Robinhood](https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2dyTEROZ0U1SFNyWTBGNG9OSFA0c0pxTDFwVGlfRHl1bXIwc29mcnIzcmthZG9vZktZLVhMb2VsR3J3QmJEUGdGR283WTJFc2x5eUlTTTBJc2o5SkhDcmxQUTBoQVlKS2lJRWZWU2hSdHlSRnIwbEhUTGdnV3d1OG9ab0xSZWpQc1dTUkljc3ItZkRxZmtHMXRVVFREaWpsN3V4U3NSaERBTUptQVE?oc=5) — Robinhood, 2026-10-19 19:07 UTC
-- [XRP’s transaction volume explodes to $49.66B overnight – Will price follow? - AMBCrypto](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOHBvSy05aExJXzVxalFza1VCYkx0Z1hzSWdVUkt0cWxwTlBNU2FkUXlBTDhoV1laeFh0T0ZBa05pN3RSeXpGVzgtWkRwVXFYMjFEbC1PRUpwN1Zad3c3RUFzVXdadnEzY29NMmRVQ3pYYTl3SlBidGFQMXc4dEMyTzhiU18yTm93OW5PUWNMU1VzR3BON0FROQ?oc=5) — AMBCrypto, 2026-10-19 19:00 UTC
-- [Bitcoin Reclaims $81,000 as Ethereum, XRP, Dogecoin Gain 2% on Equity Market Rebound - Benzinga](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdzI4eHZBd1V3ZGExdzE2eENvbVJOYnZHTndjN0poQWF6d2Z3cHZGRE9LQ0lQUnpldnBIMDJYcmNOTnM2ZTR5R1V0TkVpTVNNOV9DRnltZnlGREoweG5XU0hrRXNxZEs3eC0wblZtdmEzU3J3c1lVaFRKbDdEd0NqcFJfS1pvMkFKeWJZUDlfT0w0dkZ1SXNCakFEb19RQ1YxdmJGekVadjVodVNVMEJkRUFmb05WbWRxQXhRUGtxZUZrM2hROWJ4cnNyUlF0SHVzVFlXSzV4UV8?oc=5) — Benzinga, 2026-10-19 18:53 UTC
-- [Legendary Trader Peter Brandt Just Said “XRP Is the Best. Here’s why - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiX2IzMjhuWnFGVEFYdE4xVDBacHYyZ2hOU1JabnhMUko2ZFNRTzhLaTUyRThlcndhbW9UYXNDSzBOb0Y0aWdZQU1jeEdOeENMS2kzb1BFTWpnR0NhR2FVdDVhVdIBY0FVX3lxTFBiX2IzMjhuWnFGVEFYdE4xVDBacHYyZ2hOU1JabnhMUko2ZFNRTzhLaTUyRThlcndhbW9UYXNDSzBOb0Y0aWdZQU1jeEdOeENMS2kzb1BFTWpnR0NhR2FVdDVhVQ?oc=5) — Bitget, 2026-10-19 18:47 UTC
-- [XRP market value drops $6.52B, falling 7.33% fr... - Pluang](https://news.google.com/rss/articles/CBMijgFBVV95cUxQNmNfQnJmMTRXZ3gzTlpJaEk4cDBOcFVjTzVPX1RRLXBqSWg3aURRNzY5WDVoblVKQWZwWDNnbE12WG9SNE9PQW5sb2xhYUUtNHFGTlBqRmwxTUI5MmQ3MjZtUmROTUNDM0NMY1BLZkFIaENaRFA0VlduNXMwcTduMWk2MDZxMjh3Yk1EdkpR?oc=5) — Pluang, 2026-10-19 18:35 UTC
+- [XRP price at Oct 19, 2026 at 8pm EDT Crypto Prediction Market - Robinhood](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSTRWUEdmOElPUkdhNGx4NVNRVlRaa1c0OG9VcnpTT05JRDdiZlU3VW9xSXpxNXlvT01Cc2tJSnIzc2xtMlRocTdnei1wam9Dd0tjX2hrbmlTR2NEdzlOcWV6d3VzMFhHVmlORnlMclByTHlsLTFObDNueTFraUhBcEJITXJHd1NUMWtScy1GUTU5R1MwZEItLXB3cURCOFoxamZkS3N4RVNZN1YxY0E?oc=5) — Robinhood, 2026-10-19 23:11 UTC
+- [XRP Price Eyes Massive Rally As XRPL Transactions Hit $50 Billion - CoinGape](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNkMyU053Y0xtUE93TnROS1dZOHdtSXB4VnF1MC1BUmlJWE91cFFycVdxM0UxZVdYNnZwNGNYcDE3ZlVJOHBueUFRSXZNTml1bTNBMDdkQzlWbWF3RzdYa1VDdjVDVUh5b2RtYUxNYnJaSnpIbXdCaWR5U1pNVlNhNU5qV0wyZWc3dXVNaVFXQQ?oc=5) — CoinGape, 2026-10-19 22:58 UTC
+- [XRP Price Prediction: XRP Eyes $1.40 on Ripple Prime’s 24/7 Push While Pepeto Targets 100x - TechBullion](https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0ZHUmYzeXBlQW5lQlhRTnBOTHdHUG0zVEJvZE9HUWNpanhrT3I3QmtQM3lzR1NZSlpqMVJHbUtLWGpPZEI3ckhUTHNCd3ZSbUROc0ozaXZpMDB1YURsdF9PUk5kY2NGNTMxclNTY0duMXFWZHpOZmx1NmNYbTV5d3V6RnMyajE3UkRkOHBFZWRZOUt5OVhYdzBtNXlJZnpzTWo1TUpIT2RqUjVfOHlzekVn?oc=5) — TechBullion, 2026-10-19 22:55 UTC
+- [XRP Healthcare (XRPH) Price Prediction | Forecast for 2026, 2027, 2028, 2030 & Beyond - MEXC](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xaENsTDh4cm1MNVVkYi1uTENqa3hoSWdKakZ1UnM5cXlFQnRrelN0OVJ3TnVjZnlMdG9wTE84WWlnU3JxYmhMclFJbFlicjl6NFpjbGEtLURMLW1BaTRrMUhn?oc=5) — MEXC, 2026-10-19 22:52 UTC
+- [Ripple's DriveWealth partnership aims to boost XRP usage but impact on XRP demand remains unclear. - Pluang](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVWxSV1VETy0tZEhPWkRXdk93aXFZam1OR0o0alhPMGw1S1hrY0FtTm12SE5GaHRack5SRmx2VHI4bGp6Z1k4VG9meGVuYndpSkY4MVhRaU4zVktpX2cyUVZ1NnJEMWx6V1YxZndRM1RGa1ljb2FLNGt1blVRZUdFeW1IR1dNSXJSdEhwQVlLcUxfZ0NEZUpNbzk1UQ?oc=5) — Pluang, 2026-10-19 22:45 UTC
+- [XRP Gains Traction with Rakuten Pay Adoption and New - Cryptonews.net](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qWTJBQmlTUlNYMzZKTDB1OVE0SURwOFAyZXhnU2dYM0lPYUFqUWxETHVsLWxPYWNMb0hrQ2NMNDlDWU16RHlmUGIzT24xeEFILTZFb2pxSQ?oc=5) — Cryptonews.net, 2026-10-19 21:46 UTC
+- [XRP Ledger Repairs Its Lending Protocol Before It Goes Live](https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live) — Decrypt, 2026-10-19 20:46 UTC
+  - XRP developers published a second amendment to repair the ledger’s new uncollateralized lending feature while the original still awaits validator approval.
 - [XRP Ledger is set to fix its lending code before anyone can use it](https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it) — CoinDesk, 2026-10-19 04:54 UTC
   - Validators have a bug-fix patch on course to go live Friday. The lending system it partly repairs is still 10 votes short of approval.
