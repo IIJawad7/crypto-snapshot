@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-20T15:05:07+00:00",
+  "generated_utc": "2026-10-20T19:15:47+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 83015.01,
-      "change_24h_pct": 0.907,
-      "change_7d_pct": -0.18515312195650502
+      "price": 82530.73,
+      "change_24h_pct": 0.748,
+      "change_7d_pct": -0.7674373865262374
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.3291,
-        "change_24h_pct": 1.784,
+        "price": 1.3231,
+        "change_24h_pct": 1.613,
         "high_24h": 1.3465,
         "low_24h": 1.2865,
         "range_24h_pct": 4.663816556548772,
-        "change_7d_pct": -2.708440084913266,
-        "change_30d_pct": -5.771003190358037,
-        "ma7": 1.3160714285714286,
-        "ma25": 1.4177279999999999,
-        "ma99": 1.2836595959595958,
-        "rsi14_daily": 41.395112646252066,
-        "rsi14_4h": 56.80870473209665,
-        "atr14_pct": 4.471540346502731,
-        "realized_vol_30d_daily_pct": 2.6655598317148517,
-        "volume_24h_usdt": 94003461.65182,
-        "volume_vs_20d_avg": 0.6647169421241743,
+        "change_7d_pct": -3.1476465851694724,
+        "change_30d_pct": -6.1963842609004,
+        "ma7": 1.3152285714285714,
+        "ma25": 1.417492,
+        "ma99": 1.2835999999999999,
+        "rsi14_daily": 40.3576637123251,
+        "rsi14_4h": 54.99330098226761,
+        "atr14_pct": 4.491476935367211,
+        "realized_vol_30d_daily_pct": 2.6546648514710927,
+        "volume_24h_usdt": 104513383.1829,
+        "volume_vs_20d_avg": 0.7390346616990179,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,32 +62,72 @@
           },
           {
             "date": "2026-10-20",
-            "close": 1.3292
+            "close": 1.3233
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 7.591603340606423
+            "distance_pct": 8.07951024110045
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 10.525919795350248
+            "distance_pct": 11.027133247675923
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 5.334436836957335
+            "distance_pct": 5.812107928350074
           }
         },
-        "from_90d_high_pct": -21.813047826342725,
-        "from_90d_low_pct": 34.76982356519975
+        "from_90d_high_pct": -22.166009765280315,
+        "from_90d_low_pct": 34.161427702291626
       },
       "news": [
         {
+          "source": "Robinhood",
+          "title": "XRP price at Oct 20, 2026 at 4pm EDT Crypto Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUG9tb193b1pRU0VybDdqaUo2U01QWUlTalNRLV8zQzlsRHlieUhHOUZmb1ZDT1JEUlFFS3JSRktmdlFrNl9kN0hnVGhrcVBqdUV6UVktYm12M2JqNGUydEFVaGtoYjR6blNCblppRk5LYWFrTGVfeV9fTTlKb1lFbUIwWHVZejgzVEJkeUdSUlFoRzNVbzlia2w4SW9ocjJSUEpkbGRkNy1rd25TQ1E?oc=5",
+          "published": "2026-10-20T19:05:32+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Cryptonews.net",
+          "title": "Top 3 Price Prediction: Bitcoin (BTC), Ethereum (ETH), and XRP (XRP) - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mYnZtZzlZRF9WUFBCU0txUFF0X2tKTm9KQWZZTUUydFZPYzlObnRaMmQzRG43TXM4aEEzdDllUGN4S1QxeHlrQkdNSk1WU051SjVHaC1LTld3SjQ?oc=5",
+          "published": "2026-10-20T18:46:48+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "FXEmpire",
+          "title": "XRP Price Prediction: Recovery Begins for XRP After Breaking $1.31 Resistance - FXEmpire",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONTlaYTJLaUNPVXFULXVCbFdBOWw0RWd5ckFBc1gtd0pCd3JGQm1XQ3djQUtMa3ZWZVRLel9pSFVwRmdtNDloekRyejdMREtTVmQ2b3Q4MHo3TWdSVGVmWDhaUFhvbGZTSklib2Z6Mmt1dkFzbVBUV0RTbFQydGdmTWx0UFd2UjZMVmgwVERJbjlhUmJPMUkwNk5PQTVHd0FwWXN3aVZpX2tGSnhEM0Y3VGxoT3E2cW9QNFZPRzlrajdha2dU?oc=5",
+          "published": "2026-10-20T18:35:37+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
           "source": "Cryptonews",
-          "title": "XRP Price Warning: Leverage Resets as $11.8B in Reserves Loom - Cryptonews",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PNzVJdFpZS0V3ZnBJSFBGU0tRZTJPQWR4N2hJWURNSnUwaEFsTERyYWpEQnZTRE53cDI5elFMWU5wVjJ4UGVPOVBKOFA3YUxlTDlOU20zdDlqTjNfRm5nQXZkUFljcHVfVmJOODVXQjRpb2JUR19n?oc=5",
-          "published": "2026-10-20T14:56:00+00:00",
+          "title": "XRP Price Prediction: Evernorth Teases Surprise Ahead of Ripple Swell - Cryptonews",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLOWpXaTNtMmZGemNjQlBXYjJ0Y3p4bW05OUpXUXJCV1ZlT25KT0dQdnJ0cmdkLXdzZzNrSHQ2UHlRMUNTT3BhaTlfTGRIMk1pRTlfaEJYOW1QRWhubnZMODFmY1VjRlY5MS1Jc1l4UDAwX1ZadEZmcjk1cXo?oc=5",
+          "published": "2026-10-20T18:35:00+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Pluang",
+          "title": "Over 6 billion XRP moved to exchanges in 30 days, signaling potential market shifts but not confirmed sales. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmdzMDZBa3NTNXVlVHhqdEc3cUluYV9uQTlKTDlzX29wX1lsN0FCSWFTSF9odGtfaXZPcGRxSUJpcFBmbmZ2TEh3SmRNNzJucGk2cC0ydm9rRXU3ODFrT2N2MnNlR3BuRXhmUlh6Z28xVU9uamNGNEw1Q1diaWJrMzFrQmtnOGVMZU1ESExEMVE?oc=5",
+          "published": "2026-10-20T17:56:34+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Benzinga",
+          "title": "XRP Whale Activity Hits 5-Year Low: Is a Bigger Price Correction Coming? - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVWF2aVJ4THFMWDNPVDg4eW10YlAyOEJFZ3R3bUNFUnNUWDE4a0ctMGhtNWh2VDczSFlSa05kcENlbTF1dUtuaFZ6bTEyNENWRl9laTE1XzFvMXVubWxZdjJJTjJCN1B4ZDdCV3IwaGNJQV9tckt0MWRfS0NtV2E0ZHUwZkxkcmwxSzlUclhVMkwyQlBfZXZBbktTWVdtNHBKSmxHWkd4Y0RiakpzX0dJekw3QnVsQm5wQ19QZ21xWW9pMm9iWEtQaXZqbW0?oc=5",
+          "published": "2026-10-20T17:50:07+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -98,46 +138,6 @@
           "published": "2026-10-20T14:31:29+00:00",
           "summary": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.",
           "via": "The Block"
-        },
-        {
-          "source": "CryptoRank",
-          "title": "XRP Treasury Firm Evernorth Says Something Special Is Planned for Ripple Swell 2026 - CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ0c4UUVxS3o2UU9SMXIxeVIwZmNfMi0ydjU4UGlqUVRTMTFCUnVpMTlWSVFLd0tPM2xFbk5BWDg3a0JKbzBBLUgtdlZKMmJZc2tFQVNLd2JFQWZ3eXNmdVprLVZRTlA5Y3RBSlJiQ3A0VlZ0OTg1ekhvSGc5ZzZaalhvdGozeDdiUm1hT29CTHMzMVBQWjNFOEVFa0I5bmd6T21jeF9GcThMdHlGc1JsazgxOGlwUXNPNGtSZkR3?oc=5",
-          "published": "2026-10-20T14:15:28+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "TradingKey",
-          "title": "XRP (XRPUSD) Fluctuated Significantly on Oct 20: Key Variables Behind the Move - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjh1aUxBZXVXUFpXckJFN05jajE1QllkT3FYckRXZUhWU0tVWVYwbFREVFlLbGV2TVdwNExubUU3QllIZG83QmhzeHltYXNxUm5jTzlWSUFldWtUelZWLTN0SURqODh3SUZydTk2Z3EwekU5eldWYjB3bGpKSlM4NnhQM3FHUXROU2pfVG5B?oc=5",
-          "published": "2026-10-20T14:10:17+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Crypto News",
-          "title": "XRP whale outflows fall to a five-year low as market momentum weakens: how can holders turn the tide and earn $10,000 a day? - Crypto News",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS3FmRFFEb1FQZlJJQjdJMzRSUGtNSGZPT1QyUTB4bUpTaXRPYk56czBkNGpIck5ocG9TSGNjbEFyaTZRWVFVU3ExRU1iYlRIS1lMZWk1UkYxUl9Jc0RiSjRQN3hMTkk1NTNxWTY1TWQ3d21PakxqbGtGczBGSWdzMWtheWVHQjZ5bFlhUU9UV25OZTJWUEN0TGZ6dm1DX281LVIwSUVLY3E3QkRUM05Ob3U1bHJKbjVhNGJxVUdrUU5kWnprZENibVN0X0hONlNUbW1jS09hMHQ?oc=5",
-          "published": "2026-10-20T14:10:00+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Robinhood",
-          "title": "XRP price at Oct 20, 2026 at 11am EDT Crypto Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDNXSHJ6OWJiZ0R4enNsT0h0b3RPS3lISDZFOTZPLTlXRjhtNmJGMzBsT3ZNYU9lQlQwdEQ4cmE3aUpPQVdqMHJBUDFKcms2YW54R0NSSDllVXZVazF6azVVYms0M3lIMk5lc2dyWDZmUDNNMDJDTjdPdEtVdjlzUTBidVMtdEgxMS1ZSTZQb0RpVHdraE1hcFFNamFPVGc1Q1dVY0JRb0lhdDVYMl9r?oc=5",
-          "published": "2026-10-20T14:02:53+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "24/7 Wall St.",
-          "title": "Solana\u2019s Alpenglow Upgrade Is About to Go Live. Is SOL a Better Buy Than XRP? - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTFF1ckFndkwxRDlKXzU5MzVDNnVFVmF4Nk13TFNxVzJRc19SbjZOczdOQXN1U3BZNm1VYXlaaGhZb0ZVRHlaLTAtdmtubVY5VFozZXhyOXZ3cE1uSXFJdXh4VkE3U2dhaGF5NC02MU5kYmg2N21Qdnk2dTUtLTBKbzNBeV9PakhfaUVNRG5nUk1ORzVQaTFtZGZxQk5teXBpM0tqZTg0d2t1NnBObWtsc2U2ZWlIOTJFdE5LN2pYSzVWQi0teHBoWW9vWS1VZw?oc=5",
-          "published": "2026-10-20T14:00:00+00:00",
-          "summary": "",
-          "via": "Google News"
         },
         {
           "source": "Cointelegraph",
@@ -162,14 +162,6 @@
           "published": "2026-10-19T20:46:05+00:00",
           "summary": "XRP developers published a second amendment to repair the ledger\u2019s new uncollateralized lending feature while the original still awaits validator approval.",
           "via": "Decrypt"
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP Ledger is set to fix its lending code before anyone can use it",
-          "link": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
-          "published": "2026-10-19T04:54:31+00:00",
-          "summary": "Validators have a bug-fix patch on course to go live Friday. The lending system it partly repairs is still 10 votes short of approval.",
-          "via": "CoinDesk"
         }
       ]
     }
