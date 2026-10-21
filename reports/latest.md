@@ -1,43 +1,45 @@
-# Crypto snapshot — 2026-10-21 16:47 (UTC+3)
+# Crypto snapshot — 2026-10-21 21:38 (UTC+3)
 
 ## Market context
-- BTC: 83,687.62 (+2.28% 24h, +2.46% 7d)
+- BTC: 84,778.01 (+2.74% 24h, +3.79% 7d)
 - Fear & Greed index: 63 (Greed), yesterday 55
 
 ## XRP
-**Price:** 1.3565  |  24h +4.15%  |  7d +1.87%  |  30d -11.70%
+**Price:** 1.3946  |  24h +5.65%  |  7d +4.73%  |  30d -9.22%
 
 | Metric | Value |
 |---|---|
-| 24h high / low | 1.3693 / 1.3009 (range 5.26%) |
-| MA7 / MA25 / MA99 (daily) | 1.3206 / 1.4112 / 1.2862 |
-| Price vs MA7 / MA25 / MA99 | +2.72% / -3.87% / +5.47% |
-| RSI14 daily / 4h | 46.1 / 64.6 |
-| ATR14 (avg daily move) | 4.09% |
-| 30d realized vol (daily σ) | 2.15% |
-| 24h volume vs 20d avg | 0.92x (124.6M USDT) |
+| 24h high / low | 1.3992 / 1.3170 (range 6.24%) |
+| MA7 / MA25 / MA99 (daily) | 1.3260 / 1.4127 / 1.2866 |
+| Price vs MA7 / MA25 / MA99 | +5.17% / -1.28% / +8.40% |
+| RSI14 daily / 4h | 51.4 / 72.8 |
+| ATR14 (avg daily move) | 4.13% |
+| 30d realized vol (daily σ) | 2.29% |
+| 24h volume vs 20d avg | 0.92x (125.1M USDT) |
 | 30d high / low | 1.6581 / 1.2562 |
-| 90d high | 1.6999 on 2026-08-22 (-20.20% from it) |
-| 90d low | 0.9862 on 2026-08-14 (+37.55% from it) |
+| 90d high | 1.6999 on 2026-08-22 (-17.96% from it) |
+| 90d low | 0.9862 on 2026-08-14 (+41.41% from it) |
 
-Last 7 daily closes: 10-15 1.3349, 10-16 1.3115, 10-17 1.2941, 10-18 1.3071, 10-19 1.3041, 10-20 1.3358, 10-21 1.3570
+Last 7 daily closes: 10-15 1.3349, 10-16 1.3115, 10-17 1.2941, 10-18 1.3071, 10-19 1.3041, 10-20 1.3358, 10-21 1.3945
 
 **My levels**
 
 | Level | Price | Distance from now |
 |---|---|---|
-| entry | 1.4300 | +5.42% |
-| target | 1.4690 | +8.29% |
-| stop | 1.4000 | +3.21% |
+| entry | 1.4300 | +2.54% |
+| target | 1.4690 | +5.33% |
+| stop | 1.4000 | +0.39% |
 
-**News (last 48h, 9 items)**
+**News (last 48h, 10 items)**
 
-- [XRP Rallies on Ripple SEC Push as ETF Outflows Cloud Evernorth Debut - Cryptonews](https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ0t4eEdwMVRlcm50YjVtSFdNVlB0czZBUnI1ak9SVHZsS25XWEkwOTJhWjJFUlZqa2Qya0RINXlDZTFjYXJBMHRaVW9ZelphZHAwTHNveGQzRF9GTTNrTzI5VnFuV0ZEQWhoM3VfMEZHcWxiV0hMTnNFcTVuODZMaFA1Mjk4MEFwdEFlbGUwVWk3MGFzSFVnQ2xFdTFwdU9LQWJQUA?oc=5) — Cryptonews, 2026-10-21 13:32 UTC
-- [SEC approves $132M XRP capital raise via exchan... - Pluang](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjl2VGpocVpYLU5mUi1Oanl0aG1lUFA5Zl81QklWaWJ4NzZEcEpNcWFZTFk1ZlBtcGZPemx2NFlzbkp0NmZGVmdpWGZYZ2RVU3NJaFQtZWNqc3d2VlQxSWYySnU1TXpxRGpwT3VBdGZ4b0VwRXlMSzZkWFNLdmdUREVR?oc=5) — Pluang, 2026-10-21 13:25 UTC
-- [Over $4 billion flows into XRP in a day; Here’s why - Finbold](https://news.google.com/rss/articles/CBMieEFVX3lxTE5temNNTDdVaDRGeHpkajlHZHVSYmRPYk85d2VsX1pPcHcxSFJJaEtybHluTUJfQlFMUEV1NGtGVnYxVHJkQ1kxMklhQUtqb2RJVEVUaUgyQmhIUDB1emstclgyY2FGXzgtZVVCc2plMTY1cHkycnpJUQ?oc=5) — Finbold, 2026-10-21 13:13 UTC
-- [XRP’s $589 Dream Faces Reality Check as EllioTrades Warns of Top-10 Exit - CCN.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxQLS1Pc2RKejVLWFZHaVFySnVxTU1qTW9LTXZQMXBIUkVfVkJ5dXFmQ2J6RUFsaHc3M3hERmhpQVVTR3FxU0l1TlpxdzBBSEpqSXp2ZDhZWGRJWnBXSGQ5cFVpTGI3c2hjcUp1Rm5xN2F6eXAtdWRLSHhsOHQ1R2lxOVU2RTRMY3hUZjVEamtFaW1fdndkcHFGbWxubVFsOWEzbjBlanhR?oc=5) — CCN.com, 2026-10-21 13:10 UTC
-- [XRP price dips to $1.34 despite major XRP treas... - Pluang](https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXg0RDFOWk1BbXdKeXNwVkdxRG54VGVIX2dWVUNWcVNVSWtJSUR4MXZ5aW9WeEpIR1hqZGIxd1h3UXVjaktHSmV5TEFna3dQWnZ1cE5yV1NZYWhzVHNUdnRpblh3Zlp0Vkc4bGRtSEVkVE9YZkF0LWF1WHFzNmNhdnlBWTdpM1Noem1FV0hKYw?oc=5) — Pluang, 2026-10-21 12:46 UTC
-- [XRP price prediction for November: Can $1.55 come back into view? - Crypto News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXlwTXNPY1EtbzlFMFhUcF9PeGJMcmdtTXNaU1lzLXRnMnJWWUZDWEZ0NXZDLXdqTHo4NVkyNmdUSzFWRExiUHBtNXJqTl9lZjZYdktfWHE1MUw3b1hNY3NQMUIwdUEtVmlzQndRbHpGVnhSa1c0WHNXa1dNbF9QVkNrYVVkRmM5UjVZ?oc=5) — Crypto News, 2026-10-21 12:30 UTC
+- [XRP Treasury Says SEC Clears Capital Raise, but Filing Details Stay Under Wraps - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE53UGcyVFE1LW5tUy1faEtEQm5WQU8wUGs4Uk9jTzFYTXhYYnY5elpDZHdEaDZGdHkzLW56b0pKMUZGY1NEZlFRRWtJWHF0N0VoOU55SFRyQkJ4MkpSaXVPVERyNGFtMkNoT2NsaE5ralZRWmZSREE?oc=5) — BigGo Finance, 2026-10-21 18:17 UTC
+- [XRP Price Prediction: Recovery Begins for XRP as Short Liquidations Spike Near $200M - FXEmpire](https://news.google.com/rss/articles/CBMizgFBVV95cUxOSTU3WFN2XzIybjlFQnAza1luYUJvTldaQXI2WGplX0FpRXJLRFBaOXFjM09Sel9mX1dtTEFaNUVPY1FjbGNDeVNLdTFOX0FIQjVqQUtuSVVvbVM0LWdhVUl1TEdPRmVUNU5Zc21weFpCNzFxUFJUVlR6QXFrNlQ0bFVKS05scTF1VVlqemZrTXZWWlZUMlZaLXRCS2FkY3N2TENBU2FMYzQ1aWJCT1FxdmJ4ZVQydVVjWG54eVUwZ2YxMDlaeGphLWlsa1dNdw?oc=5) — FXEmpire, 2026-10-21 17:54 UTC
+- [XRP Treasury gets SEC approval to raise capital, expanding institutional access to XRP investments. - Pluang](https://news.google.com/rss/articles/CBMilgFBVV95cUxOajd6OG04VEtoQXJyclR5U0p3VlBpV1lzZzZ2dkp4aHZKRzdjeEJyVU1jUzhyVnRta0pmMVdGRmRCU0trcTFJZjZVRlhnZjlBUW9lY2RHVVNUdnhVYzFhUTNGeDJJcFo1ajFlbG9ORFY0eUlNRUxuRnFoLVF2VzdpWlR4VEVpWnZqNGlGOFBXTDhJSEswcHc?oc=5) — Pluang, 2026-10-21 17:53 UTC
+- [XRP News: Ripple Brings RLUSD to Cross River Bank as Remittix's $33M Raise Fuels Its PayFi Expansion Plans - TechBullion](https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUwycDNkYUN2eVUxdVJydXFldGVtYkpGQWpaSWhFV0hCUjhrRGs0OWtKc2M5dFFhYlRDNFBRX3YzNkk2OFI1YUpXY0VhZDBPVzVNai1yNlBfRC1TVloxbGNPZHJOaEVWbVlGd29BbUw5NEEwYnpQcjEtRzR2SW1DMTRuc2x5QVZWRGZvU2E2YU9QUmYxNHJtWFJHNkh2aEw2TnkwTFJ4b1pmMVExSlk0MVdfaHA2TlVmY0tlYWxmNnN5NlprMERj?oc=5) — TechBullion, 2026-10-21 17:40 UTC
+- [Bitcoin Hits Weekly High as Crypto Market Rebounds](https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds) — Decrypt, 2026-10-21 17:31 UTC
+  - Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting "Uptober" back on the table.
+- [Bitcoin, XRP, and Cardano prices rebound amid s... - Pluang](https://news.google.com/rss/articles/CBMilgFBVV95cUxQUTktWE9DYkdCSWJJX1VveFNGTGlWOGU4RWhfM0JBS1k3TkxEX09OQU02QWNDdC1NVTUxQmxvc3JKVDZSU01tMlB2YWhMWVRab3dBXzhSSTBzcDVCSEVMUVdFNmtmYllKTjBDSXRtcXNaWlZyZENNYlFLN21DWmVmSGNsNmY2ZWRKWmxDZWxzVmx1TElYSGc?oc=5) — Pluang, 2026-10-21 17:27 UTC
+- [Cryptocurrencies Price Prediction: Stellar, XRP & Bitcoin – American Wrap 21 October - FXStreet](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcGEwWFFoY3hxNkxZRjhTdEJTVXJlY2lnQlc2dlJvZEZJMl9YdzN5eXZnN1d6bHEyZlBLbkxkZ1ROVkFiM0dxUjVQVC02VHA1M0VmR0dKbl8zOHZQeXFZOG5jZUVQV2FSTjJBR0ViN1ZOS2xURjRSdHpKaGhBbHFMVE5ncXJNUUxZcjcyUVEwQlVnZkN5amVRVzZDOFhjQ1JWYnNkWVY1eXlOeUJqUzhfT01NcEptYVZWcV8tR0JocTR6eW5KendRQ1g1ZGZoQlhTcDBoOA?oc=5) — FXStreet, 2026-10-21 17:15 UTC
 - [Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin](https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin) — CoinDesk, 2026-10-21 05:25 UTC
   - Institutions can trade through Ripple Prime and post RLUSD as collateral. Finding enough buyers and sellers for large positions could prove harder.
 - [Blockchain.com rolls out crypto options as it pursues US derivatives licenses](https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326) — The Block, 2026-10-20 14:31 UTC
