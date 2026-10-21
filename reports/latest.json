@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-21T07:38:22+00:00",
+  "generated_utc": "2026-10-21T13:47:21+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 83055.98,
-      "change_24h_pct": 1.834,
-      "change_7d_pct": 1.6820962167801712
+      "price": 83687.62,
+      "change_24h_pct": 2.283,
+      "change_7d_pct": 2.455387667370079
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.3407,
-        "change_24h_pct": 3.401,
-        "high_24h": 1.3465,
-        "low_24h": 1.2902,
-        "range_24h_pct": 4.363664548132085,
-        "change_7d_pct": 0.6833884049264105,
-        "change_30d_pct": -12.731888303065809,
-        "ma7": 1.3183,
-        "ma25": 1.41052,
-        "ma99": 1.2860383838383838,
-        "rsi14_daily": 43.36040982112846,
-        "rsi14_4h": 60.104160492788495,
-        "atr14_pct": 4.005669103386545,
-        "realized_vol_30d_daily_pct": 2.1197924704539517,
-        "volume_24h_usdt": 106192437.33754,
-        "volume_vs_20d_avg": 0.7836065436030001,
+        "price": 1.3565,
+        "change_24h_pct": 4.154,
+        "high_24h": 1.3693,
+        "low_24h": 1.3009,
+        "range_24h_pct": 5.257898378045978,
+        "change_7d_pct": 1.8699309101832595,
+        "change_30d_pct": -11.70344333788973,
+        "ma7": 1.3206428571428572,
+        "ma25": 1.4111759999999998,
+        "ma99": 1.2862040404040405,
+        "rsi14_daily": 46.07417129007449,
+        "rsi14_4h": 64.6010736715529,
+        "atr14_pct": 4.0904305716391205,
+        "realized_vol_30d_daily_pct": 2.1473162386516065,
+        "volume_24h_usdt": 124623625.6993,
+        "volume_vs_20d_avg": 0.9196124604909152,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,40 +62,72 @@
           },
           {
             "date": "2026-10-21",
-            "close": 1.3406
+            "close": 1.357
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 6.660699634519274
+            "distance_pct": 5.418356063398444
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 9.569627806369807
+            "distance_pct": 8.293402137854766
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 4.423062579249648
+            "distance_pct": 3.2067821599705004
           }
         },
-        "from_90d_high_pct": -21.130654744396725,
-        "from_90d_low_pct": 35.94605556682215
+        "from_90d_high_pct": -20.201188305194417,
+        "from_90d_low_pct": 37.54816467248023
       },
       "news": [
         {
-          "source": "Robinhood",
-          "title": "XRP price at Oct 21, 2026 at 4am EDT Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWs0S3dhT0dvczRydTBPVXBxOS1QR05ub2FPZTNZTTZFb0VJcEJiSXpJOFkwbjkzal9YVFN4NUdTbmducnZtcUNISm15QUNfOEhFR0ZQV2Vpal9JQTg1YzFBZjFmVllSdVlNb0V4UVBRbjdiaFFiU0x2aDhCQlMySExWYkt4dWFzeEh2ZVpteVQ5T1pkbF9MY1RHaVk0Y1BxX3lHN0ctaTVWUzdKZEE?oc=5",
-          "published": "2026-10-21T07:06:09+00:00",
+          "source": "Cryptonews",
+          "title": "XRP Rallies on Ripple SEC Push as ETF Outflows Cloud Evernorth Debut - Cryptonews",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ0t4eEdwMVRlcm50YjVtSFdNVlB0czZBUnI1ak9SVHZsS25XWEkwOTJhWjJFUlZqa2Qya0RINXlDZTFjYXJBMHRaVW9ZelphZHAwTHNveGQzRF9GTTNrTzI5VnFuV0ZEQWhoM3VfMEZHcWxiV0hMTnNFcTVuODZMaFA1Mjk4MEFwdEFlbGUwVWk3MGFzSFVnQ2xFdTFwdU9LQWJQUA?oc=5",
+          "published": "2026-10-21T13:32:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Pluang",
-          "title": "XRP leads losses with a 6.06% drop as all major cryptos fall in Oct 10-16, 2026 - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR2lRSmlSTVVwVmsydzFIQTNodmtOZ3JrTk5ZSk9pQW91dDZtZ0pIMUl5S1JJYWp3aTdJSHdxdVp4dGtPcTN6LVNFQUtFYmN2VU5jNE8wZEhBcjRUdTlmSmoyT1RCV1hhaEdraWpjU09GS0Y2TjJDTXR2ZU9rdEt0bkJwWGRPRjBGbEhqeG50elhLN3dDOHQxSllB?oc=5",
-          "published": "2026-10-21T06:04:30+00:00",
+          "title": "SEC approves $132M XRP capital raise via exchan... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjl2VGpocVpYLU5mUi1Oanl0aG1lUFA5Zl81QklWaWJ4NzZEcEpNcWFZTFk1ZlBtcGZPemx2NFlzbkp0NmZGVmdpWGZYZ2RVU3NJaFQtZWNqc3d2VlQxSWYySnU1TXpxRGpwT3VBdGZ4b0VwRXlMSzZkWFNLdmdUREVR?oc=5",
+          "published": "2026-10-21T13:25:58+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Finbold",
+          "title": "Over $4 billion flows into XRP in a day; Here\u2019s why - Finbold",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5temNNTDdVaDRGeHpkajlHZHVSYmRPYk85d2VsX1pPcHcxSFJJaEtybHluTUJfQlFMUEV1NGtGVnYxVHJkQ1kxMklhQUtqb2RJVEVUaUgyQmhIUDB1emstclgyY2FGXzgtZVVCc2plMTY1cHkycnpJUQ?oc=5",
+          "published": "2026-10-21T13:13:51+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "CCN.com",
+          "title": "XRP\u2019s $589 Dream Faces Reality Check as EllioTrades Warns of Top-10 Exit - CCN.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLS1Pc2RKejVLWFZHaVFySnVxTU1qTW9LTXZQMXBIUkVfVkJ5dXFmQ2J6RUFsaHc3M3hERmhpQVVTR3FxU0l1TlpxdzBBSEpqSXp2ZDhZWGRJWnBXSGQ5cFVpTGI3c2hjcUp1Rm5xN2F6eXAtdWRLSHhsOHQ1R2lxOVU2RTRMY3hUZjVEamtFaW1fdndkcHFGbWxubVFsOWEzbjBlanhR?oc=5",
+          "published": "2026-10-21T13:10:40+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Pluang",
+          "title": "XRP price dips to $1.34 despite major XRP treas... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXg0RDFOWk1BbXdKeXNwVkdxRG54VGVIX2dWVUNWcVNVSWtJSUR4MXZ5aW9WeEpIR1hqZGIxd1h3UXVjaktHSmV5TEFna3dQWnZ1cE5yV1NZYWhzVHNUdnRpblh3Zlp0Vkc4bGRtSEVkVE9YZkF0LWF1WHFzNmNhdnlBWTdpM1Noem1FV0hKYw?oc=5",
+          "published": "2026-10-21T12:46:59+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Crypto News",
+          "title": "XRP price prediction for November: Can $1.55 come back into view? - Crypto News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXlwTXNPY1EtbzlFMFhUcF9PeGJMcmdtTXNaU1lzLXRnMnJWWUZDWEZ0NXZDLXdqTHo4NVkyNmdUSzFWRExiUHBtNXJqTl9lZjZYdktfWHE1MUw3b1hNY3NQMUIwdUEtVmlzQndRbHpGVnhSa1c0WHNXa1dNbF9QVkNrYVVkRmM5UjVZ?oc=5",
+          "published": "2026-10-21T12:30:00+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -108,60 +140,12 @@
           "via": "CoinDesk"
         },
         {
-          "source": "Pluang",
-          "title": "XRP aims to regain $2, eyeing a potential $7-$9 peak in the current cycle. - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbG5icnRNM3QwNkpnVmJKc0hGWUNXR180VXNIVjF4b05pWDVOTlI1b2lWSU1UQklrRU5NczVvT21mX3ZfQlF4OGkyMWZVdmNndGVaR0IwdVhhUlhXT3kxSTFacndXSEFHNkZWM1o0dHhuMnhOX1E0YzIyU3Bsck5jMExoT0gwRkMyZFhXcWZubGZkdG5u?oc=5",
-          "published": "2026-10-21T05:06:17+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "AMBCrypto",
-          "title": "XRP whale outflows hit 5-year low \u2013 Why bulls should watch out - AMBCrypto",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVh1RkIwMHlHVmZsQ2xwZTFHS09TS0lDM2swQjhUZ2YtUVN1YkNlQVVGWEt0UXpJbTdjRjM1a0k1WDBWU2J0UGthX1NkRzJsdU82SmEwZmZlM0htWUdhMGlzTW9FWFBPMC10Z3ptdzYwTGQ4eGFuNjc0TV9JUWtlczgzcjBDV1ljT2pn?oc=5",
-          "published": "2026-10-21T05:00:21+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "TechBullion",
-          "title": "XRP News: 11.81B XRP Stack Up on Exchanges as Pepe Cofounder's Pepeto Presale Tops $11.2M - TechBullion",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUm9VYTE3UmFVekpxNjJQRVBuTWZfdDRzZlRxdUppU0ZXYnN3TnRnSHc0dHljeTMxWElVb3VEcXowekFaRTRYclphbHoxaFpxSnAxMFJhU3lNVkhkTXVZTVAxcUxlSkY2VlpqcFlmcUVfMEp0a2IzU1Nxcy1VSVpwMjVsSHlIYll4YVhmejRUSFNZMVl5dlY1emhNVURnTHQxZ2ZjNWFZYjJnLWcwcmRCTw?oc=5",
-          "published": "2026-10-21T04:35:02+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
-          "title": "Crypto YouTuber warns XRP could drop out of top 10 by 2030 without real-world use growth - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeExvWGVMTnAwTDFkUnB1OXJlWE0tVUZKYlVZX3d5Rm5JU0JjZTN2QktmTkhPc3pBbFlMclBuLUM3X3lzZVkxb1FTanV6M0hMNl9iejF3U2hObURmdDZMTS1CRlZGYmhHQW1kQUNRTGtxVXpGQU1qcWwxSERNZkJuUUxtNGhnQXl1SG0zQmk5aGVLSWFBdjI2b3c2ZnczeGFqVjlXaHlfelAtYkVRSk0wajF5UGZqMGdJUFM2VWlDcEl6VGU1RWEzSGRXR0dWMTQ?oc=5",
-          "published": "2026-10-21T04:30:37+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
           "source": "The Block",
           "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
           "link": "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326",
           "published": "2026-10-20T14:31:29+00:00",
           "summary": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.",
           "via": "The Block"
-        },
-        {
-          "source": "Cointelegraph",
-          "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
-          "link": "https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-10-20T10:20:58+00:00",
-          "summary": "More than 6 billion XRP reached exchanges tracked by CryptoQuant in the 30 days to Oct. 19, the most since March.",
-          "via": "Cointelegraph"
-        },
-        {
-          "source": "Cointelegraph",
-          "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
-          "link": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-10-20T08:12:57+00:00",
-          "summary": "BlackRock\u2019s proposed Bitcoin fund would use options to limit potential losses and gains, adding another strategy to its existing Bitcoin and Ether ETF lineup.",
-          "via": "Cointelegraph"
         },
         {
           "source": "Decrypt",
