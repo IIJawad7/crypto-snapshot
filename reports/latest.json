@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-21T22:20:13+00:00",
+  "generated_utc": "2026-10-22T01:31:16+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 84599.99,
-      "change_24h_pct": 1.864,
-      "change_7d_pct": 3.572365567399749
+      "price": 84228.0,
+      "change_24h_pct": 1.533,
+      "change_7d_pct": 2.409930801439053
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.374,
-        "change_24h_pct": 2.752,
+        "price": 1.3621,
+        "change_24h_pct": 1.931,
         "high_24h": 1.3992,
         "low_24h": 1.3314,
         "range_24h_pct": 5.092383956737279,
-        "change_7d_pct": 3.184139381195572,
-        "change_30d_pct": -10.56434290177699,
-        "ma7": 1.323057142857143,
-        "ma25": 1.4118519999999999,
-        "ma99": 1.2863747474747476,
-        "rsi14_daily": 48.61140888172513,
-        "rsi14_4h": 64.73228388461621,
-        "atr14_pct": 4.195564243602676,
-        "realized_vol_30d_daily_pct": 2.198123534245625,
-        "volume_24h_usdt": 139559895.3578,
-        "volume_vs_20d_avg": 1.0298289592818515,
+        "change_7d_pct": 2.0376058131695407,
+        "change_30d_pct": -13.39098365867616,
+        "ma7": 1.3257285714285716,
+        "ma25": 1.405328,
+        "ma99": 1.28880202020202,
+        "rsi14_daily": 46.89066641152776,
+        "rsi14_4h": 59.834362313346475,
+        "atr14_pct": 3.7006932572603226,
+        "realized_vol_30d_daily_pct": 2.1079597367708685,
+        "volume_24h_usdt": 142856167.27357,
+        "volume_vs_20d_avg": 1.064716121181237,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -36,10 +36,6 @@
         "high_30d": 1.6581,
         "low_30d": 1.2562,
         "last_7_daily_closes": [
-          {
-            "date": "2026-10-15",
-            "close": 1.3349
-          },
           {
             "date": "2026-10-16",
             "close": 1.3115
@@ -62,72 +58,76 @@
           },
           {
             "date": "2026-10-21",
-            "close": 1.3739
+            "close": 1.3654
+          },
+          {
+            "date": "2026-10-22",
+            "close": 1.3621
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 4.075691411935933
+            "distance_pct": 4.984949710006603
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 6.91411935953421
+            "distance_pct": 7.848175611188601
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 1.8922852983988214
+            "distance_pct": 2.7824682475589
           }
         },
-        "from_90d_high_pct": -19.171715983293126,
-        "from_90d_low_pct": 39.322652605962304
+        "from_90d_high_pct": -19.871757162186,
+        "from_90d_low_pct": 38.1160008111945
       },
       "news": [
         {
-          "source": "OneSafe",
-          "title": "Unpacking XRP Shifts in Supply, Value, and Market Forces - OneSafe",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aUXBaU0k5QzNvNlZJY28wcFRycW1xdTRDZm1jMUNpMjhoZXdWbU52SXVMXzd5YXlMbmtNdnF6VjVRR3dadV9CTk1JbFFlVVcydElQUjE4dHBTWENPZm90aHRGZTlpR2VFc1Q1RUxzdkRXYldNak9fME9aQW5wdw?oc=5",
-          "published": "2026-10-21T22:08:07+00:00",
+          "source": "Pluang",
+          "title": "XRP market cap rises $4.1B in 24 hours, hitting about $85.7B amid price gains and liquidations. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUm52WjFmSzVlQ2tCY2lVV3NIOWtBU1NydjQ3MlRZc3FtRFZRdF9hQTB0UFNfQ0p4NWhwakRTX3htaW9qeVFqeFF6YmpfbnVqTDhfMXJOeUhfNnA5am55a3pic2o4dThaUjVIWEFiVXVHRWFWV2V3ZUlCaGZoN0g2cmkxYjh2cDBMSjlHZFlydjdEZkhhNUZkOGRDSE5KRFJlbUtfSnU4TQ?oc=5",
+          "published": "2026-10-22T00:43:39+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Pluang",
-          "title": "XRP reaches $1.38 with $87.3B market cap after SEC case ends and US ETFs launch - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZlZmRkRHSXp0R29CcHVLbGNBTGMtQ2N0NkNvNTlrTGtoa2hHSUFfdlAwYWNxVUhuREVObVFGTERubm52M1ZZTFYwMXFEOWhaWXY3bTgxTnVhaGd1WGIzN2lvTksyU3o0Z0JCaFQ5X0NkN2R1WXJEOE1jWWZKUWZzRTU5WmVlZVhlNDM5TU5R?oc=5",
-          "published": "2026-10-21T22:06:25+00:00",
+          "title": "XRP price rises 2.34% while leverage ratio drops 26.2%, signaling mixed trader behavior - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeDJaSXhlRmxZWnlfandZcFhVbjgtTGhTVWFRc21tb1F6akdzU004eU5rVFAxY1hFcHBHZ3NoOFJEbFFfX3RHTFJ6ODdqcUhmRWw2Y0NpM25RZWVBM01iYU5tUFhEbWZxVV8tc25FODdqNVc1NW11SXQtX2NoRjBMZnpR?oc=5",
+          "published": "2026-10-22T00:04:40+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "TradingKey",
+          "title": "XRP (XRPUSD) Is down 1.40% on Oct 22: What Are the Risk Factors? - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTU5QX3o1T0RyM2Y5dXNFUTR1MW5kV0xjRWxnOEV0OFIybXFnX2hPTVBFa0Mxb2RsT3dlRDBYZjh2dVphMlFjeGJJWHYzX3hRX3QtT0pveDNyTXNFZE5RMWFvUEhuMHBremVaRE9JZnFocHExQ0s1YUtjTDYxSUdFc2hOZjFneng5aE9DWTd3?oc=5",
+          "published": "2026-10-22T00:00:15+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "FXEmpire",
+          "title": "XRP Price Prediction: Recovery Begins for XRP as Short Liquidations Spike Near $200M - FXEmpire",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSTU3WFN2XzIybjlFQnAza1luYUJvTldaQXI2WGplX0FpRXJLRFBaOXFjM09Sel9mX1dtTEFaNUVPY1FjbGNDeVNLdTFOX0FIQjVqQUtuSVVvbVM0LWdhVUl1TEdPRmVUNU5Zc21weFpCNzFxUFJUVlR6QXFrNlQ0bFVKS05scTF1VVlqemZrTXZWWlZUMlZaLXRCS2FkY3N2TENBU2FMYzQ1aWJCT1FxdmJ4ZVQydVVjWG54eVUwZ2YxMDlaeGphLWlsa1dNdw?oc=5",
+          "published": "2026-10-21T23:54:56+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Pluang",
-          "title": "XRP price rises 3.69% to $1.38 after recent dip below $1.28 - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeVY1ZmgzT09JRGxzU2FyQWtZY2dVOUVOTEdlM2tzV0tXZFdEVXoyZVlfWXdUaHczQnYzcHR1dmY2SFJGbUE2T25aTW5qRGt1YmdCLWR1YTlYcEU0TGxjaU93T1pPSTJNcFRIcElzcW5yWUNhc0RvWlNsWTBydlppSEFaZXhOMEJaa19vZ1hKTWk?oc=5",
-          "published": "2026-10-21T21:44:18+00:00",
+          "title": "XRP price falls 11.3% in October despite new pr... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1YyMnVxYXA5NDBzc3BNcDRuZlp2WVI5VDRCVzR3aV9HTjFvc0ZQOW9FVmZLb0p3WmVxeWFFS3AxVkdxTkJNY1l2RnR6WTZSWVg1dlNxV2REU01RZ1ZWYjBDMWk3RjZjbVJ6THFHV1RON3lFcHVvRGh1SWtNc2podEpwWkFkN2JOY3JCRDUwdzVjZzJQN084MUM5VGJmWjAyZ00xNHNsWQ?oc=5",
+          "published": "2026-10-21T23:34:04+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "CryptoTicker",
-          "title": "What Is XRP? Token, Escrow, ETFs and SEC Case Explained - CryptoTicker",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHRUQzMEx4bVpPbGlBaG5fU2lxaml2aFNfUU5vRUxrdUplRHNYbmlzSEhkZGE3Yjhjei1Oc2FuSmphcWpfZEs3Q1psbm5Jd0Nl?oc=5",
-          "published": "2026-10-21T21:42:19+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "TechBullion",
-          "title": "XRP Price News: Ledger Cleanup Fix Targets October 23 as Remittix Plans a 64.3% Final Presale Price Rise - TechBullion",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSThjZDJ3Zjd1Ym1weEctNm9Hb3p2eU1mREdHMGZFM19uYmdzT0Z3bUZTem1rYXlNYS1UYmJXQkRBcFdwSkNoTkpoMjczYTEyYktDWWlYRF9oOVVuSkFDRFhSTWM5R2Jxa1diTV81V0hwY3EtajM5a0VWbU1PclMyMER1Sl8zMDhGN2RHQ1RKdjFZMWdlTTItQ2V5ZlBxUTRsUDhDTl9zdXM4V0xvcEFqN0dUQ2hWcFVqcW03UDdYMTRxLVFodWc?oc=5",
-          "published": "2026-10-21T21:40:50+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Benzinga",
-          "title": "Bitcoin, Ethereum, XRP, Dogecoin Rebound: Can BTC Break $84,000 Resistance? - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMFNRNHhBaW9wQW5ZckJ4MUNoNjBtQ2NZb1c3UnVfR3FSaFlXTGpnOU9SQkQ0WElLd0poYkNaT1UySzJqSnFVY1RtRHhkcmV1ZEJRczZhUE5PaTFBVmd0SW5IU0g1VUNPLVNlT1k0bi1kN3h0V0JkZlpqSzhQNGFuaHZFcGdhcXZFenJ1eEdtQkxZU0l5TGh0NGhSVWg0X2tWa2pQYlNYOUNJSC1uY0haNUdYRUZqZVlWUnNfR25pUXlqTmVldml2UXpn?oc=5",
-          "published": "2026-10-21T21:29:08+00:00",
+          "source": "StreetInsider",
+          "title": "XRP Price Today: XRP Rebounds to $1.34 as Remittix\u2019s Planned 41-Currency Expansion Turns Up the Payments Rivalry - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZHpMbXZ2eHVKMVFpcnRlWnVoN2E5Skx5bGxFNUgzeWNLb1V6QmRyYURTREJIU2dQNnQ4d2wzNXFfZlZWWFRhS0JLa0FTVnBRMFoxc3ljN2FtbVlSZE5CVGFvOWFma2JDb0E0X05KdDJpaC1uZk5LWV9Ib1k0SUxISjFJcUp2OHBiS184d21HYUpEaloxTDJERDREV1F4cldLdGlfc2VlSTVFYnZMV3Zva01hYlhoSjYtQlZZQ051S05GYnNqZ0l1cng2YXR3OHNLYVVta2QtLWhzMEh0Q1hZcGFtRG9hVVlHXzQ0dTJCWkx6S21PSzhUNHRac0h0b0cxZGswY1gwVy0xNVNfSU5rMGxB?oc=5",
+          "published": "2026-10-21T23:26:15+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -152,8 +152,8 @@
   ],
   "errors": [],
   "fear_greed": {
-    "today": 63,
+    "today": 68,
     "label": "Greed",
-    "yesterday": 55
+    "yesterday": 63
   }
 }
