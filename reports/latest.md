@@ -1,43 +1,43 @@
-# Crypto snapshot — 2026-10-22 21:32 (UTC+3)
+# Crypto snapshot — 2026-10-23 01:20 (UTC+3)
 
 ## Market context
-- BTC: 81,166.07 (-4.25% 24h, -1.31% 7d)
+- BTC: 81,380.01 (-3.81% 24h, -1.05% 7d)
 - Fear & Greed index: 68 (Greed), yesterday 63
 
 ## XRP
-**Price:** 1.3040  |  24h -6.45%  |  7d -2.31%  |  30d -17.09%
+**Price:** 1.3084  |  24h -4.73%  |  7d -1.99%  |  30d -16.81%
 
 | Metric | Value |
 |---|---|
-| 24h high / low | 1.3972 / 1.3028 (range 7.25%) |
-| MA7 / MA25 / MA99 (daily) | 1.3174 / 1.4030 / 1.2882 |
-| Price vs MA7 / MA25 / MA99 | -1.02% / -7.06% / +1.23% |
-| RSI14 daily / 4h | 39.8 / 41.9 |
-| ATR14 (avg daily move) | 4.18% |
-| 30d realized vol (daily σ) | 2.24% |
-| 24h volume vs 20d avg | 0.99x (132.7M USDT) |
+| 24h high / low | 1.3764 / 1.2954 (range 6.25%) |
+| MA7 / MA25 / MA99 (daily) | 1.3181 / 1.4032 / 1.2883 |
+| Price vs MA7 / MA25 / MA99 | -0.73% / -6.75% / +1.56% |
+| RSI14 daily / 4h | 40.3 / 43.0 |
+| ATR14 (avg daily move) | 4.21% |
+| 30d realized vol (daily σ) | 2.22% |
+| 24h volume vs 20d avg | 0.92x (123.2M USDT) |
 | 30d high / low | 1.6581 / 1.2562 |
-| 90d high | 1.6999 on 2026-08-22 (-23.29% from it) |
-| 90d low | 0.9862 on 2026-08-14 (+32.22% from it) |
+| 90d high | 1.6999 on 2026-08-22 (-23.03% from it) |
+| 90d low | 0.9862 on 2026-08-14 (+32.67% from it) |
 
-Last 7 daily closes: 10-16 1.3115, 10-17 1.2941, 10-18 1.3071, 10-19 1.3041, 10-20 1.3358, 10-21 1.3654, 10-22 1.3039
+Last 7 daily closes: 10-16 1.3115, 10-17 1.2941, 10-18 1.3071, 10-19 1.3041, 10-20 1.3358, 10-21 1.3654, 10-22 1.3084
 
 **My levels**
 
 | Level | Price | Distance from now |
 |---|---|---|
-| entry | 1.4300 | +9.66% |
-| target | 1.4690 | +12.65% |
-| stop | 1.4000 | +7.36% |
+| entry | 1.4300 | +9.29% |
+| target | 1.4690 | +12.27% |
+| stop | 1.4000 | +7.00% |
 
 **News (last 48h, 8 items)**
 
-- [Bitcoin Drops to $81,000 as ETH, XRP, DOGE Slide Over 4% - Benzinga](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmVpOVIzMDhIM3VHdjhHWVR2NVptdm5Od2RRY2Y4Nk1ldFV4bC1wOHlTLUwwM0YzbF9mVFYtRjZ0YWNpcVBueVEtSjNhYTdvVEVtcWVsblhFdV92Y0hHTnVSMWczbVZsV3YzZ21CeWZ2TFV1NW1KTzRKNDl3eEJyUG5fZlFWZC1OdEhQak9fa2E1dzFsSV8ydk52Z2xyVEVaT0JrSk9FSC0wYzkwM19XeTI0TQ?oc=5) — Benzinga, 2026-10-22 18:16 UTC
-- [XRP price at Oct 22, 2026 at 3pm EDT Prediction Market - Robinhood](https://news.google.com/rss/articles/CBMirgFBVV95cUxQMzc1ay1pdXhnUWc5MmxwYXpIaERjQ2hGN0dZSDFZWlVSTGVQVklBZTVmekd5SDU5RzRYYkNIcVRTeEt0UVl6REFqbDJQZ0Q0cTR0bGxhd0IyTmQ0SVFIUUpvVjlVZmhla09PMlF1Wmd3cGJxTmU1SGx2TXNSbnA3RFY2RF8xXzk2bV9FNTdGcXNwNFdaZF9JTlhlTTU3eklwbThvWnowSGx6a0dFTmc?oc=5) — Robinhood, 2026-10-22 18:05 UTC
-- [Crypto News: Remittix Prepares 41 New Fiat Currencies for PayFi as XRP Ledger’s November Update Revives a $20 XRP Prediction and Ethereum Bulls Target $12,000 - StreetInsider](https://news.google.com/rss/articles/CBMi0wJBVV95cUxNY1BES2dYTTdrZzdkdUk4bTZ6aUJNY0V1RnN6dkktOHU4Q0VnWTZTT3ZuYjFSWDhhckZPdC1ZRnEzbk91bEZrZURjWjMxWnNRSDRkS3RjRjhFVUVVcmU1bWFiZGRhU2RKUExVbnptUmJjQmNUYnh5bDZMMUNPOUhnQktyQ0M5SEh4M3ozd3Ria0hFbm8yLU40bW5VZjFFNXlITXdYUDVpd09jTFdJRmNRcmh2eVJOb19oVEI3N3d4MFo2alNsTDNlNVhFc21QZzJmOF9RVHd4RVFYRldEcVdwTDRELVhIYzBUa1pUeHVTbWUyeGhxMXhiSXNiVGx2WndjNjVnUVN4MU1zaXJuYWFMbDlqSjJRYUE3OThNaGNCSzd2cWUycGlabTIzbGRDcFgyNWk1TTYzMXNXQU1xYmtXckduTjJ0bG1lbFFDcG94bkpkWjg?oc=5) — StreetInsider, 2026-10-22 18:02 UTC
-- [XRP Falls 3% as Whale Deposits Hit a 7-Month High: What's Going On? - Benzinga](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeE96TkVlenlBLU44R3F3VXlxbUtVM2pMZ00wTTdXM0FlYXIzcExOdVRxc3F5dGtqWFV4UkdKUTVDUmRkalFMbWtaYmJCZ0V2dDRKV3VaZG5vTVRfeFM2R3l1bVJUZ29IYjZFVjRsbnlDQTZ3S3ZyN0UyZUdnWWl0ZVlaSTlORTZxWDQwVVBFOEZEdWFCV1NwTlVvcjg5VUZDcjlYZzBDOS0tTlBlOG5peWg2dk9ydmxaWVNVUXJoaUhqejQ?oc=5) — Benzinga, 2026-10-22 17:57 UTC
-- [XRP Price Jumps 5.7% as Ripple's RLUSD Launches in Turkey and Pepeto Presale Hits $11.2M - TechBullion](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcTFXUllNanJGcnBFX1E2UHlydkI1eXh6LVVzYW5wOHlnSTNNODdlOWpQdHB2MEhuQ3lBZm1jMEx6X2RJYVFYLUZkY2JtbW5KR1RHaWptOVZVdmhITk83LVFfeVVqaS1FUXdrOFgzMWI2eTJYSmhybGlidmozejRjZmtqLW9rQVh5UmxlaG1HN2ZfNG1xYnRlVjEtdnBnVzRMYjZ4dXhLbGVibkZ5MXpF?oc=5) — TechBullion, 2026-10-22 17:45 UTC
-- [How Much XRP Would You Need to Become a Millionaire by 2030? - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxQbmttZks0Q2F1R2JpczBJUUNmY2tsUjVibW9wLUZEbk55OHh0blpIVXBFMFo1cTZsMVIxNm1SeDA0WUs0YWduMTYyNEJtWENHTmxFb1BYNVlESHN6dGhhTUNZcmtYQ3lqckxVQnJETW1xcFpSWUZTMTFpLXhSRmVSZFdTU2dNdVFVRHdua2xFemhzSWFuc2tkX2F6SHd0Zw?oc=5) — Yahoo Finance, 2026-10-22 17:30 UTC
+- [A Major All-Time High Was Set on the XRP Network: Two Price Levels Are in the Spotlight - Cryptonews.net](https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UF9NbUhnSmViRVo0VFZJWEtST1dhT2NpMnBvZ1AycDdQeG9ESW1kWEV3LUVJa2dNRWFkWlBsT3QwbUdCZGFjdm9IY21Oc1ZEbXBLcGwtOEtuakU?oc=5) — Cryptonews.net, 2026-10-22 21:54 UTC
+- [XRP News Today: Validators Near Ledger Fix as XRP Hits $1.32 and Pepeto Stakers Eye 300x - TechBullion](https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2VUaF9JMEdfSlJTNXh4NFlrekc5ZkNhcTZQQWlncU5FQ2YxemNIOWpjc3lvY1ZyREp5RVFmY2JFTEt6NDM5YTBpZHhvTkVmcGZrZ3VldndJZmpqdXFtQmxwTEdkcVpJbzhzYUtRbGVXeUFkQzRuRHFVSlBLWnRhNVBOclZTelVWcDlrcDMxS3JfT0lYUnZORC0xTVU0UTVnVVBGanF4ZHYwWHQyeHh6TQ?oc=5) — TechBullion, 2026-10-22 21:50 UTC
+- [XRP ETFs pull in $1.8 billion since launch. Is a rally next? - TheStreet](https://news.google.com/rss/articles/CBMinwFBVV95cUxQYWVDWG96NmpRMUk2ZUpUekJiYUlyREgwOVptaElYUGhZU09KRDlISGVSSWE1VW4yeTc4eWQxb1hMTzYwZDdBYnVqY0l0b1lJX2x6WFllS1E0YkFad0NiOXhBRWRGWE45R0pUR19RNmxRY19nWkdPalhrZ204azJvQlFQdlpBYzRTMHNqN2ROalFFR3B3Y2pqOGFmQ092cWc?oc=5) — TheStreet, 2026-10-22 21:30 UTC
+- [XRP price at Oct 22, 2026 at 6pm EDT Prediction Market - Robinhood](https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUxJOTE3TGlVdU9zVGh3VkYxUWN0dmNtMl9QYlVTbW9jeDRmM1VmZkp4MENkMll4eHNDRFJtMzVsZnFDcHRxNVZLWVdRZTNsZlpSU2FDQzN6TVhzbDF1SHNkOGdlbjJZZ1JQQTNJS2paZUJnYmFhRWM3aWhESWlJTXNhVFRwaFR5ZTJkbTFaeC1vY3lyLXM4c1lvbVVFRXF3VnNtdXZCajhvOWozU0E?oc=5) — Robinhood, 2026-10-22 21:06 UTC
+- [XRP Ledger’s Latest Fix Pushed to November After Voting Setback - CryptoRank](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcF9leVdRNzloXzVpQzMtRGpUTmpCczVseHR0cG0yRy1pQndVYUhZbDMxd09QUFl3NHQzU1RxUVc2cGdsYVJiQ3RRLVdMb1VRc3hBSGJXSFN4UlRSSVlHVnZYNXB4Wm96VlI5Ym1mY2xOMzlfSzc1ZC1DQmVfemM1NjZySzROekJ2OXpNX3FueWxXSVVlVG1GNzVBR0tDTjJTQkE?oc=5) — CryptoRank, 2026-10-22 20:30 UTC
+- [Why are Bitcoin price (BTC USD), Ethereum, XRP and Dogecoin falling despite ETF inflows as crypto liquidat - The Economic Times](https://news.google.com/rss/articles/CBMimwJBVV95cUxNa25LTVd6LU8tSG5uZ2JPcFE1QkNtNWFDbWJkTG40Yi1scVN3eE5MYUNmbDBTV1N1alhnazFtTjdYNjhNMk00UHdwazlPTXJOWnkzU3hxeE5ORVNUQWpZM1NiNlpIam5iZ0k1OUlWeWJSTlE0ZFJBQTBNeXVqd25DdVdwa3dncHlxSEdEMlkxaG9jclVnc2ZRemNLTS1RN3R1YnZzVlpGN3BkajNMam5IeWM2N1haM1I4UE4yUnBQUER3TlRCWlZPaUhmWVpZWU5kM0QxLVkwcXZiUjJfREI2YV82dnJUUHEtUERjckx2bG1jdkRZdnhXZjhFbUNfN3hxZ2oxa3d4Ry1OcnNlS09OQm0ycXo1QlRZblp30gGgAkFVX3lxTE04V2J0Z2xsZUJBWlAwWnpLUC02VEs5LXJUbEsxcWVjYWVfRGhfWXd0bVFBVUh0VFh0cThqUDlKTnpuNkZCWnVhcXJvVDlidUx1UF9oRk56U1Y5bDRRTFZWQjJYc1dlQ2VWZkhXd0YyYmVpaVJ0UjZuYVlFcUZKRTdJc1l2X1ZXVTJ0cnA2TkVMc21SNmdaT1JFSzBhTlVVaEE2Umh0REVmRzUtbjNRbU5JdFZfNDZhOG1FM1pQY3BjNmxTbDF3Q0lUb2cwZEt5R09mN1A0RnlLZTJoMXpRNDVxTzJMQzhrcHliSmlkS3Brd0V4Yk12TVNZRUw0TmxCand4RkgwUVRpaTVXQ1pYZnVqUEx6dnQwdmdVZV80YVBlTw?oc=5) — The Economic Times, 2026-10-22 20:06 UTC
 - [XRP Ledger bug fix moved to November after validator support dipped for two hours](https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours) — CoinDesk, 2026-10-22 04:36 UTC
   - The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It’s now back at 31.
 - [Bitcoin Hits Weekly High as Crypto Market Rebounds](https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds) — Decrypt, 2026-10-21 17:31 UTC
