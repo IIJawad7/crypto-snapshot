@@ -1,43 +1,46 @@
-# Crypto snapshot — 2026-10-22 04:31 (UTC+3)
+# Crypto snapshot — 2026-10-22 10:34 (UTC+3)
 
 ## Market context
-- BTC: 84,228.00 (+1.53% 24h, +2.41% 7d)
+- BTC: 82,306.70 (-0.96% 24h, +0.07% 7d)
 - Fear & Greed index: 68 (Greed), yesterday 63
 
 ## XRP
-**Price:** 1.3621  |  24h +1.93%  |  7d +2.04%  |  30d -13.39%
+**Price:** 1.3402  |  24h -0.09%  |  7d +0.40%  |  30d -14.78%
 
 | Metric | Value |
 |---|---|
-| 24h high / low | 1.3992 / 1.3314 (range 5.09%) |
-| MA7 / MA25 / MA99 (daily) | 1.3257 / 1.4053 / 1.2888 |
-| Price vs MA7 / MA25 / MA99 | +2.74% / -3.08% / +5.69% |
-| RSI14 daily / 4h | 46.9 / 59.8 |
-| ATR14 (avg daily move) | 3.70% |
-| 30d realized vol (daily σ) | 2.11% |
-| 24h volume vs 20d avg | 1.06x (142.9M USDT) |
+| 24h high / low | 1.3992 / 1.3370 (range 4.65%) |
+| MA7 / MA25 / MA99 (daily) | 1.3226 / 1.4045 / 1.2886 |
+| Price vs MA7 / MA25 / MA99 | +1.33% / -4.58% / +4.01% |
+| RSI14 daily / 4h | 44.0 / 52.3 |
+| ATR14 (avg daily move) | 3.89% |
+| 30d realized vol (daily σ) | 2.12% |
+| 24h volume vs 20d avg | 1.23x (165.0M USDT) |
 | 30d high / low | 1.6581 / 1.2562 |
-| 90d high | 1.6999 on 2026-08-22 (-19.87% from it) |
-| 90d low | 0.9862 on 2026-08-14 (+38.12% from it) |
+| 90d high | 1.6999 on 2026-08-22 (-21.16% from it) |
+| 90d low | 0.9862 on 2026-08-14 (+35.90% from it) |
 
-Last 7 daily closes: 10-16 1.3115, 10-17 1.2941, 10-18 1.3071, 10-19 1.3041, 10-20 1.3358, 10-21 1.3654, 10-22 1.3621
+Last 7 daily closes: 10-16 1.3115, 10-17 1.2941, 10-18 1.3071, 10-19 1.3041, 10-20 1.3358, 10-21 1.3654, 10-22 1.3403
 
 **My levels**
 
 | Level | Price | Distance from now |
 |---|---|---|
-| entry | 1.4300 | +4.98% |
-| target | 1.4690 | +7.85% |
-| stop | 1.4000 | +2.78% |
+| entry | 1.4300 | +6.70% |
+| target | 1.4690 | +9.61% |
+| stop | 1.4000 | +4.46% |
 
-**News (last 48h, 8 items)**
+**News (last 48h, 9 items)**
 
-- [XRP market cap rises $4.1B in 24 hours, hitting about $85.7B amid price gains and liquidations. - Pluang](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUm52WjFmSzVlQ2tCY2lVV3NIOWtBU1NydjQ3MlRZc3FtRFZRdF9hQTB0UFNfQ0p4NWhwakRTX3htaW9qeVFqeFF6YmpfbnVqTDhfMXJOeUhfNnA5am55a3pic2o4dThaUjVIWEFiVXVHRWFWV2V3ZUlCaGZoN0g2cmkxYjh2cDBMSjlHZFlydjdEZkhhNUZkOGRDSE5KRFJlbUtfSnU4TQ?oc=5) — Pluang, 2026-10-22 00:43 UTC
-- [XRP price rises 2.34% while leverage ratio drops 26.2%, signaling mixed trader behavior - Pluang](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeDJaSXhlRmxZWnlfandZcFhVbjgtTGhTVWFRc21tb1F6akdzU004eU5rVFAxY1hFcHBHZ3NoOFJEbFFfX3RHTFJ6ODdqcUhmRWw2Y0NpM25RZWVBM01iYU5tUFhEbWZxVV8tc25FODdqNVc1NW11SXQtX2NoRjBMZnpR?oc=5) — Pluang, 2026-10-22 00:04 UTC
-- [XRP (XRPUSD) Is down 1.40% on Oct 22: What Are the Risk Factors? - TradingKey](https://news.google.com/rss/articles/CBMijgFBVV95cUxPTU5QX3o1T0RyM2Y5dXNFUTR1MW5kV0xjRWxnOEV0OFIybXFnX2hPTVBFa0Mxb2RsT3dlRDBYZjh2dVphMlFjeGJJWHYzX3hRX3QtT0pveDNyTXNFZE5RMWFvUEhuMHBremVaRE9JZnFocHExQ0s1YUtjTDYxSUdFc2hOZjFneng5aE9DWTd3?oc=5) — TradingKey, 2026-10-22 00:00 UTC
-- [XRP Price Prediction: Recovery Begins for XRP as Short Liquidations Spike Near $200M - FXEmpire](https://news.google.com/rss/articles/CBMizgFBVV95cUxOSTU3WFN2XzIybjlFQnAza1luYUJvTldaQXI2WGplX0FpRXJLRFBaOXFjM09Sel9mX1dtTEFaNUVPY1FjbGNDeVNLdTFOX0FIQjVqQUtuSVVvbVM0LWdhVUl1TEdPRmVUNU5Zc21weFpCNzFxUFJUVlR6QXFrNlQ0bFVKS05scTF1VVlqemZrTXZWWlZUMlZaLXRCS2FkY3N2TENBU2FMYzQ1aWJCT1FxdmJ4ZVQydVVjWG54eVUwZ2YxMDlaeGphLWlsa1dNdw?oc=5) — FXEmpire, 2026-10-21 23:54 UTC
-- [XRP price falls 11.3% in October despite new pr... - Pluang](https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1YyMnVxYXA5NDBzc3BNcDRuZlp2WVI5VDRCVzR3aV9HTjFvc0ZQOW9FVmZLb0p3WmVxeWFFS3AxVkdxTkJNY1l2RnR6WTZSWVg1dlNxV2REU01RZ1ZWYjBDMWk3RjZjbVJ6THFHV1RON3lFcHVvRGh1SWtNc2podEpwWkFkN2JOY3JCRDUwdzVjZzJQN084MUM5VGJmWjAyZ00xNHNsWQ?oc=5) — Pluang, 2026-10-21 23:34 UTC
-- [XRP Price Today: XRP Rebounds to $1.34 as Remittix’s Planned 41-Currency Expansion Turns Up the Payments Rivalry - StreetInsider](https://news.google.com/rss/articles/CBMikgJBVV95cUxPZHpMbXZ2eHVKMVFpcnRlWnVoN2E5Skx5bGxFNUgzeWNLb1V6QmRyYURTREJIU2dQNnQ4d2wzNXFfZlZWWFRhS0JLa0FTVnBRMFoxc3ljN2FtbVlSZE5CVGFvOWFma2JDb0E0X05KdDJpaC1uZk5LWV9Ib1k0SUxISjFJcUp2OHBiS184d21HYUpEaloxTDJERDREV1F4cldLdGlfc2VlSTVFYnZMV3Zva01hYlhoSjYtQlZZQ051S05GYnNqZ0l1cng2YXR3OHNLYVVta2QtLWhzMEh0Q1hZcGFtRG9hVVlHXzQ0dTJCWkx6S21PSzhUNHRac0h0b0cxZGswY1gwVy0xNVNfSU5rMGxB?oc=5) — StreetInsider, 2026-10-21 23:26 UTC
+- [Wrapped XRP on Flare Is Almost Fully Put to Work as Lending Soaks Up Most, DefiLlama Says - TechBullion](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXVTeGZPZThVc1ljX1hlRmZBa0xuLVdCRGxqV0FyWUhua3FRcHZaWkJzZmd3ZnN4S0pjTHhyNjBiOUxYazVuVXBRdEZvV0g4SW9DX0JxR2V0Y3ZjcjNudjRYNlJ3ZnByaWZMMU9WWnFhU0F5TzNtNUhBUzQ2T1N3bUdZWEpWSDVud0JqRk1LSEozUFBFQWpIYXI5d1pheEQxbFV1RjloZTA5SXNoTF9xQ1kxaw?oc=5) — TechBullion, 2026-10-22 06:29 UTC
+- [Analysis of XRP's Wealth Potential - Intellectia AI](https://news.google.com/rss/articles/CBMidkFVX3lxTE05My1hbG85T3pSdTBieTUyZ0V0YTVSLTh4TUo5ZjlRV3hrUlZOamZEaFBlX0FGbWw5dzhfME9DQzcyRGE5alFod1ZFZFh5NHNVdlJhc2hHSm9hZ3dlOTlDTGlHdEJPdmxJSG16ZUkxMVhxOUJVM3c?oc=5) — Intellectia AI, 2026-10-22 06:28 UTC
+  - Analysis of XRP's Wealth Potential  Intellectia AI
+- [The Myth of XRP’s 1,000-Fold Surge Shatters: $100 Billion Market Cap Ceiling and Stablecoin Substitution - Moomoo](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVlJNaUlqa2ZlOFJfZEF4LW1hMGlUV1hLcG8wZ3JRMjVVVUN3S0NXUWdycmYyWXF1UmRQblR0R0tpZzUxZjZTdnYzNHY3Z2gwOTZUcnUwLTZfYzZ1VTJtZXhva0hCN2syUjlLZXlCU0twQzZ1QVRHU1NKdF90R3R3VUlUeml6d3N0YWx4LUlHSk5lbVlZ?oc=5) — Moomoo, 2026-10-22 06:22 UTC
+- [What if the real $XRP story isn’t total supply—but liquid su - KuCoin](https://news.google.com/rss/articles/CBMickFVX3lxTE9iVllrV0tPU1BPSGhTOHhHVzdCczVabHI2WG9KUFdpb3U4WXpRakxuY0g3WHVDQnM1Vl84N3pNVVFvR1JramZpcFNSYk5vdzVRbnkycm5hbzZqLWgxREZEY0FfMElFSExWUE9MVG5lWEhqdw?oc=5) — KuCoin, 2026-10-22 06:13 UTC
+- [SWAP BTC, ETH, SOL, XRP, DOGE DIRECTLY FOR GRAYSCALE ETF - KuCoin](https://news.google.com/rss/articles/CBMickFVX3lxTE83TF9YUThLcGZqWnprRWxTNHE4SW91TU9Hdy11TjNxVnBMTGU4WGJCQ1BFenRzUFo1MXQ1eEQ0d3hIbUI2R1REQnA5T2wtN29fOHFPTXAwRXpOQ05TLXFiaXZfVDRWX1UtRjhpenF3ZHVzZw?oc=5) — KuCoin, 2026-10-22 06:06 UTC
+- [Crypto Market News: Japan’s Megabanks Report Yen Stablecoin Test Results as XRP and Remittix Enter the Payments Debate - StreetInsider](https://news.google.com/rss/articles/CBMilwJBVV95cUxQQnMwTHhtYUFjaFp0TnNIZzUyNVRBSjFoVnhTVlZsS0tnc2hVc2JkeXZsVUZDUUUzWFU1enpSdmoxN0xlcVpyc3F0VGVOdXZ2ZGdJU1B4bjdDb21vcEtNZGs0bi1XZjQxcG9Ca0ZYYXY5TVI2dEtMaWRDYnRhTHZIRjVVd2NZMzhnbUVhZldoV2ROTnk4dkJjOVFCdmZJTlJQRDlMX2ZhRDJqeDFhRGltYmRsb0N1RHoxVHpNT09rUU50NnRLa3pOaWQ0MWJ3TkEzX2ZMMVE1OFZBQk42UHNiVDV2YTJ6NDYxckNWX1VJaEFSb0ZMZ1EwSmN2NlMwczFTTUxNaV9tSmloZ04zSU41YjdITE9XRWs?oc=5) — StreetInsider, 2026-10-22 05:52 UTC
+- [XRP Ledger bug fix moved to November after validator support dipped for two hours](https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours) — CoinDesk, 2026-10-22 04:36 UTC
+  - The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It’s now back at 31.
 - [Bitcoin Hits Weekly High as Crypto Market Rebounds](https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds) — Decrypt, 2026-10-21 17:31 UTC
   - Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting "Uptober" back on the table.
 - [Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin](https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin) — CoinDesk, 2026-10-21 05:25 UTC
