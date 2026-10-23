@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-22T22:20:03+00:00",
+  "generated_utc": "2026-10-23T01:30:20+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 81380.01,
-      "change_24h_pct": -3.806,
-      "change_7d_pct": -1.0528423716529178
+      "price": 81473.92,
+      "change_24h_pct": -3.393,
+      "change_7d_pct": -0.17364318897701292
     }
   },
   "coins": [
@@ -13,33 +13,29 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.3084,
-        "change_24h_pct": -4.733,
-        "high_24h": 1.3764,
+        "price": 1.3121,
+        "change_24h_pct": -3.875,
+        "high_24h": 1.3652,
         "low_24h": 1.2954,
-        "range_24h_pct": 6.252894858730884,
-        "change_7d_pct": -1.9851674282717835,
-        "change_30d_pct": -16.805493736885612,
-        "ma7": 1.3180571428571428,
-        "ma25": 1.4031799999999999,
-        "ma99": 1.288259595959596,
-        "rsi14_daily": 40.30998163792613,
-        "rsi14_4h": 43.01663505974555,
-        "atr14_pct": 4.207974843866008,
-        "realized_vol_30d_daily_pct": 2.2174242653684795,
-        "volume_24h_usdt": 123221585.65007,
-        "volume_vs_20d_avg": 0.9183783327177143,
+        "range_24h_pct": 5.388297051103885,
+        "change_7d_pct": 0.04574914220358828,
+        "change_30d_pct": -12.584943371085933,
+        "ma7": 1.3182714285714285,
+        "ma25": 1.3958279999999996,
+        "ma99": 1.290541414141414,
+        "rsi14_daily": 40.849569354663245,
+        "rsi14_4h": 44.22854148933669,
+        "atr14_pct": 4.0597778745644595,
+        "realized_vol_30d_daily_pct": 2.079943862039313,
+        "volume_24h_usdt": 118399793.35944,
+        "volume_vs_20d_avg": 0.950610545327443,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
         "low_90d_date": "2026-08-14",
-        "high_30d": 1.6581,
+        "high_30d": 1.63,
         "low_30d": 1.2562,
         "last_7_daily_closes": [
-          {
-            "date": "2026-10-16",
-            "close": 1.3115
-          },
           {
             "date": "2026-10-17",
             "close": 1.2941
@@ -62,72 +58,76 @@
           },
           {
             "date": "2026-10-22",
-            "close": 1.3084
+            "close": 1.3094
+          },
+          {
+            "date": "2026-10-23",
+            "close": 1.312
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 9.293793946805252
+            "distance_pct": 8.98559561009069
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 12.274533781718144
+            "distance_pct": 11.957930035820441
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 7.000917150718422
+            "distance_pct": 6.6991845133755
           }
         },
-        "from_90d_high_pct": -23.030766515677392,
-        "from_90d_low_pct": 32.6708578381667
+        "from_90d_high_pct": -22.81310665333255,
+        "from_90d_low_pct": 33.04603528696006
       },
       "news": [
         {
-          "source": "Cryptonews.net",
-          "title": "A Major All-Time High Was Set on the XRP Network: Two Price Levels Are in the Spotlight - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UF9NbUhnSmViRVo0VFZJWEtST1dhT2NpMnBvZ1AycDdQeG9ESW1kWEV3LUVJa2dNRWFkWlBsT3QwbUdCZGFjdm9IY21Oc1ZEbXBLcGwtOEtuakU?oc=5",
-          "published": "2026-10-22T21:54:55+00:00",
+          "source": "TradingKey",
+          "title": "XRP (XRPUSD) Is up 1.02% on Oct 23: Key Drivers to Watch - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYzFhZl9aWk1mRTJjNTUzVFRPQkVqTEhqUmtpV19fbW9neWdBaFVQWGtwQ184dmFTRDhVV0JyMkRneDhrSzNOdTNWZ3duWkpRLWNNNGRpQTJTWmdFUzJuTE5vT2ZKYnV2eDcwS18xbFRKLU5mUC12YTJMZ3Z5QW44d19UN3RfaG4tWjNRX2xB?oc=5",
+          "published": "2026-10-23T00:55:15+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "TechBullion",
-          "title": "XRP News Today: Validators Near Ledger Fix as XRP Hits $1.32 and Pepeto Stakers Eye 300x - TechBullion",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2VUaF9JMEdfSlJTNXh4NFlrekc5ZkNhcTZQQWlncU5FQ2YxemNIOWpjc3lvY1ZyREp5RVFmY2JFTEt6NDM5YTBpZHhvTkVmcGZrZ3VldndJZmpqdXFtQmxwTEdkcVpJbzhzYUtRbGVXeUFkQzRuRHFVSlBLWnRhNVBOclZTelVWcDlrcDMxS3JfT0lYUnZORC0xTVU0UTVnVVBGanF4ZHYwWHQyeHh6TQ?oc=5",
-          "published": "2026-10-22T21:50:03+00:00",
+          "source": "Yahoo Finance Australia",
+          "title": "XRP ETFs pull in $1.8 billion since launch. Is a rally next? - Yahoo Finance Australia",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LSFhkenlFa204UHJjR0cxWmJ6Skp4RENoUjFMSVdpVGozOXpXU0Z2dW1GLU1mNXltUlZVZHVpc3hOZG44c0x5YTREcFNIUUdqT1VWTmlaQlRJUUkxWUhxQ1N0VDJZS2JsSTVNanJPS0pYek1Z?oc=5",
+          "published": "2026-10-23T00:30:00+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "TheStreet",
-          "title": "XRP ETFs pull in $1.8 billion since launch. Is a rally next? - TheStreet",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYWVDWG96NmpRMUk2ZUpUekJiYUlyREgwOVptaElYUGhZU09KRDlISGVSSWE1VW4yeTc4eWQxb1hMTzYwZDdBYnVqY0l0b1lJX2x6WFllS1E0YkFad0NiOXhBRWRGWE45R0pUR19RNmxRY19nWkdPalhrZ204azJvQlFQdlpBYzRTMHNqN2ROalFFR3B3Y2pqOGFmQ092cWc?oc=5",
-          "published": "2026-10-22T21:30:00+00:00",
+          "source": "FXEmpire",
+          "title": "XRP Price Prediction: Bears Position for Further Downside as XRP Hits Sell Wall at $1.36 - FXEmpire",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR0o1OGhERHU5NlFKSm1ZQ0p2eFUxbkFrbS1MX09yZmlvODlxTHNzNnlFbDNLUTJMb05VbVJoa1ZRSDA0RE5sR0pGZ3RES2RDRTdkTGo5TmVJcHNVbHVHSjh3enR5R09LMUhfZUZLZmZiVmdVM2w2bllwVWJ3ZzRlVWdlTUNWRUwzVlRKTkdHQ2VjWnRjVG1CVkpndUg1R29OTzBIZENPUjlZTTRYeW03eFQ2LUVRSDl2b2FMUmpZcEFlQmg4cFMtbkFRbjFxam5Qb1dN?oc=5",
+          "published": "2026-10-23T00:12:48+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "CryptoSlate",
+          "title": "XRPL recovers from network slowdown as critical security upgrade faces two-week delay - CryptoSlate",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVWl6el9RaXJxRFMxQjFZdTJiWEFJN1o3RlQ1WUtoVkV1YjBteGJWT2l0eVQtREhEYWJvcEd5bmZVWDUtQ0JCMzFPQnFFREVjMS1ST2laSThjQWVmdTBQUXh1RzhJZl84cU1ka2xuUGZBV1ZlcGdrZHRTWUp5SEhqa2pHU2p5OTlYa1NnejdGRXFOOFQzTDgwcDJVZ04ta21hY253OGNyNGFqUV9rOVdr?oc=5",
+          "published": "2026-10-22T23:40:48+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "SC Media",
+          "title": "XRP Ledger updates delayed following validator support fluctuation - SC Media",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLXpPLWtYc1pteGhUMDR4MHJtVDc1anZ6MHh5eVc2X3F4QWUwTDZSZ3BpRzk0cDd3UVlmU2FBTmc0YUE5RjhrMzdnQm9CYW5PclI5ZWJ2X05vM0NZYkFwM1NFZ0t3UzYzeU9LQV9Ma3hNbnhNU2NUczdWekpZQWk1S1ozSkdBRGVTdk5CdFMwclQwcDlZcFNRYmdwdnk?oc=5",
+          "published": "2026-10-22T23:36:10+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Robinhood",
-          "title": "XRP price at Oct 22, 2026 at 6pm EDT Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUxJOTE3TGlVdU9zVGh3VkYxUWN0dmNtMl9QYlVTbW9jeDRmM1VmZkp4MENkMll4eHNDRFJtMzVsZnFDcHRxNVZLWVdRZTNsZlpSU2FDQzN6TVhzbDF1SHNkOGdlbjJZZ1JQQTNJS2paZUJnYmFhRWM3aWhESWlJTXNhVFRwaFR5ZTJkbTFaeC1vY3lyLXM4c1lvbVVFRXF3VnNtdXZCajhvOWozU0E?oc=5",
-          "published": "2026-10-22T21:06:27+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "CryptoRank",
-          "title": "XRP Ledger\u2019s Latest Fix Pushed to November After Voting Setback - CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcF9leVdRNzloXzVpQzMtRGpUTmpCczVseHR0cG0yRy1pQndVYUhZbDMxd09QUFl3NHQzU1RxUVc2cGdsYVJiQ3RRLVdMb1VRc3hBSGJXSFN4UlRSSVlHVnZYNXB4Wm96VlI5Ym1mY2xOMzlfSzc1ZC1DQmVfemM1NjZySzROekJ2OXpNX3FueWxXSVVlVG1GNzVBR0tDTjJTQkE?oc=5",
-          "published": "2026-10-22T20:30:16+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "The Economic Times",
-          "title": "Why are Bitcoin price (BTC USD), Ethereum, XRP and Dogecoin falling despite ETF inflows as crypto liquidat - The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNa25LTVd6LU8tSG5uZ2JPcFE1QkNtNWFDbWJkTG40Yi1scVN3eE5MYUNmbDBTV1N1alhnazFtTjdYNjhNMk00UHdwazlPTXJOWnkzU3hxeE5ORVNUQWpZM1NiNlpIam5iZ0k1OUlWeWJSTlE0ZFJBQTBNeXVqd25DdVdwa3dncHlxSEdEMlkxaG9jclVnc2ZRemNLTS1RN3R1YnZzVlpGN3BkajNMam5IeWM2N1haM1I4UE4yUnBQUER3TlRCWlZPaUhmWVpZWU5kM0QxLVkwcXZiUjJfREI2YV82dnJUUHEtUERjckx2bG1jdkRZdnhXZjhFbUNfN3hxZ2oxa3d4Ry1OcnNlS09OQm0ycXo1QlRZblp30gGgAkFVX3lxTE04V2J0Z2xsZUJBWlAwWnpLUC02VEs5LXJUbEsxcWVjYWVfRGhfWXd0bVFBVUh0VFh0cThqUDlKTnpuNkZCWnVhcXJvVDlidUx1UF9oRk56U1Y5bDRRTFZWQjJYc1dlQ2VWZkhXd0YyYmVpaVJ0UjZuYVlFcUZKRTdJc1l2X1ZXVTJ0cnA2TkVMc21SNmdaT1JFSzBhTlVVaEE2Umh0REVmRzUtbjNRbU5JdFZfNDZhOG1FM1pQY3BjNmxTbDF3Q0lUb2cwZEt5R09mN1A0RnlLZTJoMXpRNDVxTzJMQzhrcHliSmlkS3Brd0V4Yk12TVNZRUw0TmxCand4RkgwUVRpaTVXQ1pYZnVqUEx6dnQwdmdVZV80YVBlTw?oc=5",
-          "published": "2026-10-22T20:06:41+00:00",
+          "title": "XRP price at Oct 22, 2026 at 8pm EDT Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ05wSVg0Z0dfLWxRUm04NTZxdWFid0hVMy14c1ozZ3U2dkF0NjlTOXJ6Q3E2NkRFanNxWHRVeWh5eGE0bXpoQ0pKQ3JaMS1sRkVfX1VLOFFtaEtqNGdOdkVlQ3lQRUVsdVZCcUw2WmIzdHZDVExUTDhZZ3VaTU5IaWdHMVhnSi1BbHlDSF9YV0oxLV81QnlzdGdnMW9aUmVHRERveURBZG9BQ0pfSmc?oc=5",
+          "published": "2026-10-22T23:27:14+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -152,8 +152,8 @@
   ],
   "errors": [],
   "fear_greed": {
-    "today": 68,
-    "label": "Greed",
-    "yesterday": 63
+    "today": 50,
+    "label": "Neutral",
+    "yesterday": 68
   }
 }
