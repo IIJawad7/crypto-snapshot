@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-23T07:31:06+00:00",
+  "generated_utc": "2026-10-23T13:25:43+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 81769.98,
-      "change_24h_pct": -0.609,
-      "change_7d_pct": 0.18910591156302559
+      "price": 81857.85,
+      "change_24h_pct": 0.068,
+      "change_7d_pct": 0.2967690996480643
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.3257,
-        "change_24h_pct": -1.207,
-        "high_24h": 1.3432,
+        "price": 1.3195,
+        "change_24h_pct": -0.332,
+        "high_24h": 1.3328,
         "low_24h": 1.2954,
-        "range_24h_pct": 3.689979928979459,
-        "change_7d_pct": 1.0827296988181523,
-        "change_30d_pct": -11.678880746169206,
-        "ma7": 1.3202285714285715,
-        "ma25": 1.3963759999999996,
-        "ma99": 1.2906797979797977,
-        "rsi14_daily": 43.03572003312478,
-        "rsi14_4h": 49.327304861439224,
-        "atr14_pct": 4.104031293440662,
-        "realized_vol_30d_daily_pct": 2.099639309465858,
-        "volume_24h_usdt": 100802119.3981,
-        "volume_vs_20d_avg": 0.809322001097478,
+        "range_24h_pct": 2.887139107611536,
+        "change_7d_pct": 0.6099885627144364,
+        "change_30d_pct": -12.091938707528316,
+        "ma7": 1.3193428571428572,
+        "ma25": 1.3961279999999996,
+        "ma99": 1.2906171717171717,
+        "rsi14_daily": 42.0667253797843,
+        "rsi14_4h": 46.8974824413089,
+        "atr14_pct": 4.123315108536784,
+        "realized_vol_30d_daily_pct": 2.08864318879105,
+        "volume_24h_usdt": 95363512.96889,
+        "volume_vs_20d_avg": 0.7656564128662764,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,82 +62,82 @@
           },
           {
             "date": "2026-10-23",
-            "close": 1.3257
+            "close": 1.3195
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 7.867541676095624
+            "distance_pct": 8.374384236453203
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 10.809383721807354
+            "distance_pct": 11.330049261083763
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 5.604586256317412
+            "distance_pct": 6.10079575596818
           }
         },
-        "from_90d_high_pct": -22.01305959174068,
-        "from_90d_low_pct": 34.42506590955183
+        "from_90d_high_pct": -22.377786928642863,
+        "from_90d_low_pct": 33.796390184546745
       },
       "news": [
         {
+          "source": "The Paypers",
+          "title": "Arf and Ripple bring RLUSD settlement liquidity to XRPL - The Paypers",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTE5yTlFkRkhzemJ1bENUVjlWZXk0NnFVVjQ3dmk2azJxcC1xOHpud0FUdEdWMTBOQ0dHbjhVWUNMcldycUpRVVpiV1JqWTJUX01WQ2U4TEc2akwwX2VQcDZZekhqa3FVN1ZxZDltZ3JyMDFNSndHWTJjRUdkTzZtbHpFY3JfZHJWQTd6amxfRzVjU01VcHQ4OWF1cHJaMkw5MjdvckItMk5rMjQ5dnhLTDF4bUw?oc=5",
+          "published": "2026-10-23T13:05:55+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "The Block",
+          "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
+          "link": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
+          "published": "2026-10-23T12:55:26+00:00",
+          "summary": "Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement.",
+          "via": "The Block"
+        },
+        {
+          "source": "FXStreet",
+          "title": "What's next as XRP bulls defend $1.30 support? - FXStreet",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNEFuQWdlSEFFS243allMNDZDd25BSzdlWHN1SnMtek5nMHFOXzBUOW56REFXa1JvWm1yTlgxaWZIb2pCTm1iWkptSTNwSndsMGlmSG9IbUNEX2lIUFBkVmxDT3plNG5sQ0RhTmVDTV9zUm4wdnZnaUNzZFFBUFdmRndIc1dLN0hYRFFTblh3SmN2dFRZcWtlMHdEUUdic2Y5UXh3SG1QQ3J1eU8tWDVBdmpCeXByRmlmV2JYUEJCUGN3cmlqWHdma3pxb1FIaUpFaUl0TEIzWEJjRkRxaTU3Tm5xY0ZlaVFWaXB3?oc=5",
+          "published": "2026-10-23T12:13:17+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "TechBullion",
+          "title": "How Developers Pull Live Token Data From the XRP Ledger With a Free API - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUjdvdS0zV0gtaVhnOWRreG1BVWxWVUsxaUhoWFk4MXJkX0d0WTlwREFVNmNCdWR5bXJybUtHTEk4Y1VoZ0tfRG5BVmtNN2x6NVBON29LR3JiNGpFLXpuNHl2VTZ1NEp3cS1xYXVEMW1fZGFTcUxjLVFHVUxreVlJazUzVzR2ck9SNG9mbGhjYW9MSDB0SlE0VVIxb04?oc=5",
+          "published": "2026-10-23T12:06:00+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Benzinga",
+          "title": "Ripple Partners With Arf to Bring RLUSD Liquidity to XRP Ledger - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOckhNOHNaX0tPdU1xWFdoemJDa1VoVDFnMEdwS19FY08yOWpxZ1BtY2FkTW1WRWRueVp6UHBpZTNHUC1YMERySFRhQnE0WGwwVC1mTmJCVkdlaTJiS1RCU2tpMWdMWjdTSE1ZV2VudnVkNl9NaEI1SDZhT1ZkTUZKT3dpTDhpYnctUXBENVdBeXg4QzBxc0NZZlBkRXpLZjBXQXg5ajJPTlFvUmlDb3FNdUdZd2NvRFBOSEY1X0w1R2Zoc3M?oc=5",
+          "published": "2026-10-23T11:59:02+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
           "source": "Robinhood",
-          "title": "XRP price at Oct 23, 2026 at 4am EDT Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObUdCUFlVdV9YMWhwaVNqa2tKbmVVYVpzdm93VkxuazFIX0p4QWVQQnRudlR1ZGV2cTZtV3J0UVFjX3hGNk5XVFhkdE1KaFNiNFh3VVJlVHV0eUxfTEcwVldxdjFvOTJyQXk2QVVKWmhrZm5mY1lKT0w4WmhocHNCOWdnWGVLQlBOWW5Gdm1GOV9hWXJkamVKX0p0V2F4T0wzRkg2eXhVdEJHc1paV2c?oc=5",
-          "published": "2026-10-23T07:15:23+00:00",
+          "title": "XRP price at Oct 23, 2026 at 8am EDT Crypto Prediction Market - Robinhood",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbzdjam1kVDZEZGRPQVB0TW5xdzU2OXlFRDVwMl9EMjBCTzFDWEI2UFczck0za0dVTDVvelpYZGdLaGlOYUZ2UlNGaUo4NTg1WWZlVWk4UUxoc1ZVMmt6ZmdGZWNSQ19kWU5kVllEQkFmSGxxb0ZFc2prdkJjZDlVdXhfWlVTeHFaemNxOEV1cHFQWlJRcWpnLUVIWHd5ZHE5ZzhQOXJQMDhMQmdwNFE?oc=5",
+          "published": "2026-10-23T11:40:34+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Pluang",
-          "title": "XRP Ledger stablecoin market cap drops 13.2% to $999.8M, led by Ripple USD decline. - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWkQ2V01fS01UOVpSYW9GOVlSNVlLQ3VwTHpmNlZiUmVwOHcwZ0dtUTlBMzhlR1RkNlBnN0IySDdyRS16TlZVQVVneHhpSG9QdEJ6LUdRTWtfMXRLR21oVWdQUEpIMGxZM0J0RFZPOWw5M0NaQThoTlFyV1F0YlpCWFducFI3c2JJUzRrRWlETzdtZEZM?oc=5",
-          "published": "2026-10-23T06:28:21+00:00",
+          "source": "99Bitcoins",
+          "title": "Ripple Partner Arf Brings Its $10 Billion Payments Lending Business to the XRP Ledger - 99Bitcoins",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVnhWMzQwb2JWUGJUOTk5UU9vSmxQaklqQlJYOUYxcHU4UEFqQ0ZEMnpPMndqN2ZZWkpocldhQVZtZkVRVmZwRWE0WjRxMzFmZ3dDTTNhYWtPRmZGNU9pVTdmOV82ekRwdl9EcGd0Zm0wMFh2akVGdFJTSTlmTlM2Qy1rRWpxcnZqN1NYXw?oc=5",
+          "published": "2026-10-23T11:39:22+00:00",
           "summary": "",
           "via": "Google News"
-        },
-        {
-          "source": "Brave New Coin",
-          "title": "Ripple Makes a Shock SEC Move After $150M XRP Fight as OCC Unveils GENIUS Act Rules - Brave New Coin",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1dNNE43b0JURldPdlpSdW0xLUZpNGo2X09pRlpQVlhscU9IV2FhODJHRHl5V1dvVmp4UlAtWThISWpnbEZfWHJKbmZiSk4yZWEwajB5U0Z3YXg3X3hKMmQzMVVXTkV3enBJMTJQSzZ0MUJvN1BwdnV5cnM0U0xUa2Y3Tml6U3pSVC1nT1JNM1RvWWdTbS0zbGd5Q3FZakxiQ1hndlUySl9Tamo3Z1VsZk15VmFXZFk?oc=5",
-          "published": "2026-10-23T06:02:10+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "CoinGape",
-          "title": "XRPL Stablecoin Market Cap Drops Below $1 Billion After 13% Weekly Decline - CoinGape",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGF5dlpyblVBUFFJNnI3NS1TOEE4ZGgzREZ6X2NXQ0FEZzYtOGJBVU1JdUwteHJ6RjFXNk1TVC1RRDhRRWF1SUp4NlZ3aGE0VUwtVjU4a1BpRVhDZXdFM2tlVTZVYm9odFg1NlhzT1ZLX19pTW5iWUJreHoyS3FtMlRJdFg3Q0VzazRFa0JwNlhIdEd6aFJTc3dB?oc=5",
-          "published": "2026-10-23T06:00:07+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "StreetInsider",
-          "title": "XRP Price Prediction: Can XRP Push Past $1.40 as Ripple Prime Expands and Remittix Plans 41 More Fiat Currencies? - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOa0VDdlQ4c25OM1ZyWDdVSkJxdUhISnlMNUtoUUIwMGoxLTNSWk5LazNXNFZILTB0ZmlCVmNRWXQ3cDBLblBzclVtZzJkZlFaM3pNOEZvb2RQMm1wSWVaOEdTd0NsbkduNU91MDNtWTdTVElWQ1AwWW1WRnpXOFFzdkpjZzEySHp3dWh1cHVSVXlnNFVpOEx3T2gwdlNONDRlazYwRXlGRTdheVNqa0dnaktQa2FtVndhZFIwVi1Fb1NrZjN6NEJIMm4tNDI4Ny1GeTVkRnZwcnEzR2MtbmdocXdnVk9KM21BRGhqUG1iMmZWam8wdjZhbkJaeWNWbGxSZWV5bE1tcw?oc=5",
-          "published": "2026-10-23T05:32:04+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "BeInCrypto",
-          "title": "XRP Holders Hit a Record 8.24 Million, So Why Is the Price Still Sliding? - BeInCrypto",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ueFhsRDU0QlFFay1tODJzOUVEZ0JYOWFPcTJVN3BydzVSVHpCZUV4WVRfZFFVX3AwLVczUXFDZUVYSHlYZFVTbUlEdERpVmZSNGk1bGJKMmZBTk5NVlpTclN3bUJlUmN5NG9hTA?oc=5",
-          "published": "2026-10-23T04:37:00+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-          "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
-          "published": "2026-10-22T04:36:20+00:00",
-          "summary": "The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It\u2019s now back at 31.",
-          "via": "CoinDesk"
         },
         {
           "source": "Decrypt",
