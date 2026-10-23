@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-23T18:20:18+00:00",
+  "generated_utc": "2026-10-23T22:09:44+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 81608.32,
-      "change_24h_pct": 0.465,
-      "change_7d_pct": -0.008968869202019558
+      "price": 81338.0,
+      "change_24h_pct": -0.15,
+      "change_7d_pct": -0.340179896892312
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.3122,
-        "change_24h_pct": 0.475,
+        "price": 1.3071,
+        "change_24h_pct": -0.099,
         "high_24h": 1.3307,
-        "low_24h": 1.2954,
-        "range_24h_pct": 2.7250270186814696,
-        "change_7d_pct": 0.053373999237504854,
-        "change_30d_pct": -12.578281145902725,
-        "ma7": 1.3183000000000002,
-        "ma25": 1.3958359999999996,
-        "ma99": 1.2905434343434343,
-        "rsi14_daily": 40.88269021207217,
-        "rsi14_4h": 44.39072347508985,
-        "atr14_pct": 4.168027521936987,
-        "realized_vol_30d_daily_pct": 2.080109208005908,
-        "volume_24h_usdt": 93715536.04556,
-        "volume_vs_20d_avg": 0.7524251039482118,
+        "low_24h": 1.3,
+        "range_24h_pct": 2.3615384615384594,
+        "change_7d_pct": -0.3354937094929622,
+        "change_30d_pct": -12.9180546302465,
+        "ma7": 1.3175714285714286,
+        "ma25": 1.3956319999999998,
+        "ma99": 1.290491919191919,
+        "rsi14_daily": 40.15498153169629,
+        "rsi14_4h": 43.07432423248805,
+        "atr14_pct": 4.197951845415697,
+        "realized_vol_30d_daily_pct": 2.077050400277752,
+        "volume_24h_usdt": 88374322.25537,
+        "volume_vs_20d_avg": 0.7095414636162656,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-10-23",
-            "close": 1.3122
+            "close": 1.3071
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 8.977290047248898
+            "distance_pct": 9.402494070843858
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 11.949397957628417
+            "distance_pct": 12.386198454594144
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 6.6910531931108075
+            "distance_pct": 7.1073368525744085
           }
         },
-        "from_90d_high_pct": -22.807223954350253,
-        "from_90d_low_pct": 33.05617521800852
+        "from_90d_high_pct": -23.107241602447203,
+        "from_90d_low_pct": 32.539038734536604
       },
       "news": [
         {
-          "source": "Yahoo Finance",
-          "title": "Has XRP Bottomed? We Asked Claude AI Where the Selling Stops - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeEZhci1CaElXSHVxRnVzS3d0dTJYc0ZGZlBpR3ZzOXV0RDc3dVlRSUF3em1JR1NpOXBFWjZTVEhGT0tsZFk2LXViN2pReW1Rb1RMMlZZYXczcXRRcmV5Z3NOQlhNQlRHNVFoTXNTUkNDWXZDVlF2RlpzcDJYaVowMHIxZzZ3eTZUcGJPSGxoMVlWLWd4c2Uyaw?oc=5",
-          "published": "2026-10-23T16:41:01+00:00",
+          "source": "StreetInsider",
+          "title": "Cryptocurrency News: Remittix Pairs Its $33 Million Raise With a 300 Million RTX Burn as XRP Ledger\u2019s November Update Revives a $10 XRP Price Prediction - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPSWVtdG1ENzhvNERBVUctT1l4cm1VaWktMTVscDU2N1lSYzFsV0MzWXpBbko0WlNLVGQ0czBKdGFFN0wxLW5tOWFLd0JlaVVPNjFUNVE4QmU5SGFZR0hxZ2Z6bjJCRHhETkJhcUxocmJxaEQzMnJxd0dCUUVUMzlnamFaazcyODg4WDcxYjlTcTVyVkRlZzVNM0NoLXdMSnd5WjlVVXhBNzFhcDJleTNwSnZoWjVHd2NHc0RCYk9NczByMHRFNzZIRDhqQzRYOUF2a2Y1WDdCaUJjUV9wYzhXd0JNWUM5ME1nTlhSaHQ4c0tkREhfUDdVRXIxZjN0c2pLbDJDY3BBYUM0NUE5LXlzSUpWNHFUREtZakpKTnMtTXRFSUY1YU5aMUFfcTlrV1ctc0tUX19FTHhmamlGaW5tUUNYYmo4UzJL?oc=5",
+          "published": "2026-10-23T22:00:37+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "24/7 Wall St.",
-          "title": "Has XRP Bottomed? We Asked Claude AI Where the Selling Stops - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMFNmYkprVlcwNkM1YXQ3VjZQTGxYRUVRWTJfbjhUaUxicVg2UzliamFxWk9WakNtbTl4ck5acExJdGFPN09CYmwtbkxYMVVyakh5ZXRtVDg1dURpMmRBQTBaOVV3RzZYWExWREVNN0pHZHdMdHBzTGsxVWk2VnAzZlZWZUdPMzQwbmdOZFloTjBkMk9zSk5fREViaFhrRXozRGw2TDFwcGtud0ZCcFVCRjZsc1VVbjlyMlE?oc=5",
-          "published": "2026-10-23T16:41:00+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "24/7 Wall St.",
-          "title": "XRP News: Ripple Joined DTCC's Tokenization Push This Week. Can It Pull XRP Out of Its October Slide? - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbkh2c2xsMzVncDA4RE1qZmNjYW9zaUY2Wnh2NlRjeW9HeDdiQkNkNDBLRl9CUVFGdWlIYm9xYTUtd0lJOVYwWHFpMFNHVXNlZ2Z6cURXa0liV0NIMzFOdld6NHRmNk9NMnEzS3B3OEdmWFNlWGxlcGZRaHp1eWlkNnVzdUJsa3NPSGJRd1FXZkt0alcyZXFMQ3R1Q3lYb0wxZ05IakQzVml1RVN3dTF4WFFfUl9zb1pUY3hqWXk4MVA0SS1PZG83b2kyUVVsY3Fyd05XTlNoVFd3dW90d2tRSi1SdTNZa1ZYUGtWbA?oc=5",
-          "published": "2026-10-23T16:33:00+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "24/7 Wall St.",
-          "title": "Ripple Is Part of a Stablecoin Push by 3 Asian Central Banks. Where Does That Leave XRP? - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMzd3VkNwT2tuZmNZVnYzVzRjLURMWHF5aGZiQ0JPcXZBTG1kVE51NEc5cWVLd0xrSkVQNXUxS2NjQUFiTFFtNm96SFU2X0hIa0FJUHdHaVZHNWpMQzdTVTlVSHl2T3ZlbXVSa19CbkJmV0tzWHY4ckttVnBua1QwVTRxXzJWRmVESXVGSjBTaFpSNFZrSmtEa0VZaXR4eUxrM0NjMG9QTVQ0OXBERlpHVWx6VU1EYWhaT0pfWEZmcE1mdDI4UkwtMEhrUmhGcXdDNVJqV1lfc0FZaWF0SEE?oc=5",
-          "published": "2026-10-23T16:11:00+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "FXStreet",
-          "title": "Cryptocurrencies Price Prediction: Bitcoin, XRP & Ethereum \u2013 American Wrap 23 October - FXStreet",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSGNlb3RtRHU4YTVMVmxOdFVkWGh5UWxxSUR1NEJnRkxNTW5hRWd0MXM2MWh1VHVfcVBRajZaVVVkeVdIN0tHaUs4UW52QlBJTUZCdkFPaXBwQ1dxYkxyTmFjbU1PZ3hHTjVJdGhqQzlhay01bUVkQUdkdUJkNnlNQXRRaGZfRzlPVERCemdjWmthekY2SUJiY2J0eV9GSEYyUzU0VF9NTm5OdnpuMFBaUG1mUlV3eUhUel9SYXRyRWJWd3dPZHl1Ui1JWTQwY2szZ1prYmR3?oc=5",
-          "published": "2026-10-23T15:45:32+00:00",
+          "source": "MarketForces Africa",
+          "title": "XRP Upside Rises To 35% As Ledger Upgrade Delayed To Nov. - MarketForces Africa",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORXVZTHVVLWI0WEpNV1hoY0xPWDZhTVlJUGlWY2t1MTdwUVhHNmZ3eW5lV2o4RV8xM0RXQzFpWjlJX3JpNV9SZmVTOXMyQ3UzTE02aEUtY3NXLUZOd1pPNUpzdUJCUV9tX3FibEpOclBuc0lIdVhCcTF5NlBveTZDcnpDZUJPdWp2Q1E?oc=5",
+          "published": "2026-10-23T20:35:47+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Cryptonews.net",
-          "title": "Evernorth XRP Holdings to Target Higher XRP Per Share, CEO Says - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KeWk4NTZNcFJ4MGtjZEwzWHZlY0hZRWd0eHdFeDRpSnJRRjNkbklNYlBJNW9fQjdNcVZ0RThwU1AzZTQ2emhWb01rNlBldkQ4WTV2MjB3bGl1UQ?oc=5",
-          "published": "2026-10-23T15:44:16+00:00",
+          "title": "XRP Price Forecast as Whale Selling Pressure Outweighs ETF Inflows \u2013 Is a Crash to $1 Imminent? - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nRjl5UE1rclZod2ZvR09JLTZqUlZtaHFpWG5GSi1QMGhRRFdqbmdUbUxvN2Nzc2M4UkNDN3hXQ0tzdHhIVEd1ZU56ZGo3NnZSMHJ0bEZiMGZUTjg?oc=5",
+          "published": "2026-10-23T20:08:33+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "XRP vs Cardano: Which Has the Better Path to Recovery in 2026? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmZKN2xROEN2SU5PZzRLelZhR2tvX2dRamo2RnAtekMtSjd4bnNGXzJVYWNNUU1vS1A2cEc4eVM1V1pOVHlWaXJHZXJFOC05S2Via1Q2cGhlQmRpME5YdnYwcHREeEt5UHdRZ3hwUHN5Unl5MXg1bU4wY1k3dzJkaEQ1RW53aW1lcnhQT2FfNEVCdXRhdmc?oc=5",
+          "published": "2026-10-23T20:00:24+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "24/7 Wall St.",
+          "title": "XRP vs Cardano: Which Has the Better Path to Recovery in 2026? - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTI5ZHdMbElZeFpUWGVIOXNoYlR0U1EweG5iZ2lPdEJSUVV5WXE3WkNwWGg0YW1oLVl3V1B3cWVpVC1EVTJzUkg0azhyVXpfem81QUxVSkpka0REYkJONzFTWjhvbUg5ZlVwWmhkdVZIWU1VaUI4NUJjZFBFNmxRUzdMSHdhaXJWUXl3Qkp6QW9OU2twdlJQNGdSRTVldXB3NkEyUUpLb2pYN1lyTHZXdzN4Y0pYNU1tVmNV?oc=5",
+          "published": "2026-10-23T20:00:00+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "TOKENPOST",
+          "title": "XAO DAO Approves Proposal 66 to Deploy 80% of XRP Treasury to Firelight - TOKENPOST",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvSFlEdmpnd3lKMmFweV8teGtsMmFqNG1ua3BWY0ZxLVhQd0dZUTFQTzltY0xRQ2JPaEQtTlhHX0lMNDNmODZGazBHWlFqcHdNWVRvVGx4WXA?oc=5",
+          "published": "2026-10-23T19:54:27+00:00",
           "summary": "",
           "via": "Google News"
         },

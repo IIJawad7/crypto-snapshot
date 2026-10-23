@@ -1,42 +1,42 @@
-# Crypto snapshot — 2026-10-23 21:20 (UTC+3)
+# Crypto snapshot — 2026-10-24 01:09 (UTC+3)
 
 ## Market context
-- BTC: 81,608.32 (+0.47% 24h, -0.01% 7d)
+- BTC: 81,338.00 (-0.15% 24h, -0.34% 7d)
 - Fear & Greed index: 50 (Neutral), yesterday 68
 
 ## XRP
-**Price:** 1.3122  |  24h +0.47%  |  7d +0.05%  |  30d -12.58%
+**Price:** 1.3071  |  24h -0.10%  |  7d -0.34%  |  30d -12.92%
 
 | Metric | Value |
 |---|---|
-| 24h high / low | 1.3307 / 1.2954 (range 2.73%) |
-| MA7 / MA25 / MA99 (daily) | 1.3183 / 1.3958 / 1.2905 |
-| Price vs MA7 / MA25 / MA99 | -0.46% / -5.99% / +1.68% |
-| RSI14 daily / 4h | 40.9 / 44.4 |
-| ATR14 (avg daily move) | 4.17% |
+| 24h high / low | 1.3307 / 1.3000 (range 2.36%) |
+| MA7 / MA25 / MA99 (daily) | 1.3176 / 1.3956 / 1.2905 |
+| Price vs MA7 / MA25 / MA99 | -0.79% / -6.34% / +1.29% |
+| RSI14 daily / 4h | 40.2 / 43.1 |
+| ATR14 (avg daily move) | 4.20% |
 | 30d realized vol (daily σ) | 2.08% |
-| 24h volume vs 20d avg | 0.75x (93.7M USDT) |
+| 24h volume vs 20d avg | 0.71x (88.4M USDT) |
 | 30d high / low | 1.6300 / 1.2562 |
-| 90d high | 1.6999 on 2026-08-22 (-22.81% from it) |
-| 90d low | 0.9862 on 2026-08-14 (+33.06% from it) |
+| 90d high | 1.6999 on 2026-08-22 (-23.11% from it) |
+| 90d low | 0.9862 on 2026-08-14 (+32.54% from it) |
 
-Last 7 daily closes: 10-17 1.2941, 10-18 1.3071, 10-19 1.3041, 10-20 1.3358, 10-21 1.3654, 10-22 1.3094, 10-23 1.3122
+Last 7 daily closes: 10-17 1.2941, 10-18 1.3071, 10-19 1.3041, 10-20 1.3358, 10-21 1.3654, 10-22 1.3094, 10-23 1.3071
 
 **My levels**
 
 | Level | Price | Distance from now |
 |---|---|---|
-| entry | 1.4300 | +8.98% |
-| target | 1.4690 | +11.95% |
-| stop | 1.4000 | +6.69% |
+| entry | 1.4300 | +9.40% |
+| target | 1.4690 | +12.39% |
+| stop | 1.4000 | +7.11% |
 
 **News (last 48h, 7 items)**
 
-- [Has XRP Bottomed? We Asked Claude AI Where the Selling Stops - Yahoo Finance](https://news.google.com/rss/articles/CBMimAFBVV95cUxQeEZhci1CaElXSHVxRnVzS3d0dTJYc0ZGZlBpR3ZzOXV0RDc3dVlRSUF3em1JR1NpOXBFWjZTVEhGT0tsZFk2LXViN2pReW1Rb1RMMlZZYXczcXRRcmV5Z3NOQlhNQlRHNVFoTXNTUkNDWXZDVlF2RlpzcDJYaVowMHIxZzZ3eTZUcGJPSGxoMVlWLWd4c2Uyaw?oc=5) — Yahoo Finance, 2026-10-23 16:41 UTC
-- [Has XRP Bottomed? We Asked Claude AI Where the Selling Stops - 24/7 Wall St.](https://news.google.com/rss/articles/CBMiugFBVV95cUxNMFNmYkprVlcwNkM1YXQ3VjZQTGxYRUVRWTJfbjhUaUxicVg2UzliamFxWk9WakNtbTl4ck5acExJdGFPN09CYmwtbkxYMVVyakh5ZXRtVDg1dURpMmRBQTBaOVV3RzZYWExWREVNN0pHZHdMdHBzTGsxVWk2VnAzZlZWZUdPMzQwbmdOZFloTjBkMk9zSk5fREViaFhrRXozRGw2TDFwcGtud0ZCcFVCRjZsc1VVbjlyMlE?oc=5) — 24/7 Wall St., 2026-10-23 16:41 UTC
-- [XRP News: Ripple Joined DTCC's Tokenization Push This Week. Can It Pull XRP Out of Its October Slide? - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbkh2c2xsMzVncDA4RE1qZmNjYW9zaUY2Wnh2NlRjeW9HeDdiQkNkNDBLRl9CUVFGdWlIYm9xYTUtd0lJOVYwWHFpMFNHVXNlZ2Z6cURXa0liV0NIMzFOdld6NHRmNk9NMnEzS3B3OEdmWFNlWGxlcGZRaHp1eWlkNnVzdUJsa3NPSGJRd1FXZkt0alcyZXFMQ3R1Q3lYb0wxZ05IakQzVml1RVN3dTF4WFFfUl9zb1pUY3hqWXk4MVA0SS1PZG83b2kyUVVsY3Fyd05XTlNoVFd3dW90d2tRSi1SdTNZa1ZYUGtWbA?oc=5) — 24/7 Wall St., 2026-10-23 16:33 UTC
-- [Ripple Is Part of a Stablecoin Push by 3 Asian Central Banks. Where Does That Leave XRP? - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMzd3VkNwT2tuZmNZVnYzVzRjLURMWHF5aGZiQ0JPcXZBTG1kVE51NEc5cWVLd0xrSkVQNXUxS2NjQUFiTFFtNm96SFU2X0hIa0FJUHdHaVZHNWpMQzdTVTlVSHl2T3ZlbXVSa19CbkJmV0tzWHY4ckttVnBua1QwVTRxXzJWRmVESXVGSjBTaFpSNFZrSmtEa0VZaXR4eUxrM0NjMG9QTVQ0OXBERlpHVWx6VU1EYWhaT0pfWEZmcE1mdDI4UkwtMEhrUmhGcXdDNVJqV1lfc0FZaWF0SEE?oc=5) — 24/7 Wall St., 2026-10-23 16:11 UTC
-- [Cryptocurrencies Price Prediction: Bitcoin, XRP & Ethereum – American Wrap 23 October - FXStreet](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSGNlb3RtRHU4YTVMVmxOdFVkWGh5UWxxSUR1NEJnRkxNTW5hRWd0MXM2MWh1VHVfcVBRajZaVVVkeVdIN0tHaUs4UW52QlBJTUZCdkFPaXBwQ1dxYkxyTmFjbU1PZ3hHTjVJdGhqQzlhay01bUVkQUdkdUJkNnlNQXRRaGZfRzlPVERCemdjWmthekY2SUJiY2J0eV9GSEYyUzU0VF9NTm5OdnpuMFBaUG1mUlV3eUhUel9SYXRyRWJWd3dPZHl1Ui1JWTQwY2szZ1prYmR3?oc=5) — FXStreet, 2026-10-23 15:45 UTC
-- [Evernorth XRP Holdings to Target Higher XRP Per Share, CEO Says - Cryptonews.net](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KeWk4NTZNcFJ4MGtjZEwzWHZlY0hZRWd0eHdFeDRpSnJRRjNkbklNYlBJNW9fQjdNcVZ0RThwU1AzZTQ2emhWb01rNlBldkQ4WTV2MjB3bGl1UQ?oc=5) — Cryptonews.net, 2026-10-23 15:44 UTC
+- [Cryptocurrency News: Remittix Pairs Its $33 Million Raise With a 300 Million RTX Burn as XRP Ledger’s November Update Revives a $10 XRP Price Prediction - StreetInsider](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPSWVtdG1ENzhvNERBVUctT1l4cm1VaWktMTVscDU2N1lSYzFsV0MzWXpBbko0WlNLVGQ0czBKdGFFN0wxLW5tOWFLd0JlaVVPNjFUNVE4QmU5SGFZR0hxZ2Z6bjJCRHhETkJhcUxocmJxaEQzMnJxd0dCUUVUMzlnamFaazcyODg4WDcxYjlTcTVyVkRlZzVNM0NoLXdMSnd5WjlVVXhBNzFhcDJleTNwSnZoWjVHd2NHc0RCYk9NczByMHRFNzZIRDhqQzRYOUF2a2Y1WDdCaUJjUV9wYzhXd0JNWUM5ME1nTlhSaHQ4c0tkREhfUDdVRXIxZjN0c2pLbDJDY3BBYUM0NUE5LXlzSUpWNHFUREtZakpKTnMtTXRFSUY1YU5aMUFfcTlrV1ctc0tUX19FTHhmamlGaW5tUUNYYmo4UzJL?oc=5) — StreetInsider, 2026-10-23 22:00 UTC
+- [XRP Upside Rises To 35% As Ledger Upgrade Delayed To Nov. - MarketForces Africa](https://news.google.com/rss/articles/CBMiigFBVV95cUxORXVZTHVVLWI0WEpNV1hoY0xPWDZhTVlJUGlWY2t1MTdwUVhHNmZ3eW5lV2o4RV8xM0RXQzFpWjlJX3JpNV9SZmVTOXMyQ3UzTE02aEUtY3NXLUZOd1pPNUpzdUJCUV9tX3FibEpOclBuc0lIdVhCcTF5NlBveTZDcnpDZUJPdWp2Q1E?oc=5) — MarketForces Africa, 2026-10-23 20:35 UTC
+- [XRP Price Forecast as Whale Selling Pressure Outweighs ETF Inflows – Is a Crash to $1 Imminent? - Cryptonews.net](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nRjl5UE1rclZod2ZvR09JLTZqUlZtaHFpWG5GSi1QMGhRRFdqbmdUbUxvN2Nzc2M4UkNDN3hXQ0tzdHhIVEd1ZU56ZGo3NnZSMHJ0bEZiMGZUTjg?oc=5) — Cryptonews.net, 2026-10-23 20:08 UTC
+- [XRP vs Cardano: Which Has the Better Path to Recovery in 2026? - Yahoo Finance](https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmZKN2xROEN2SU5PZzRLelZhR2tvX2dRamo2RnAtekMtSjd4bnNGXzJVYWNNUU1vS1A2cEc4eVM1V1pOVHlWaXJHZXJFOC05S2Via1Q2cGhlQmRpME5YdnYwcHREeEt5UHdRZ3hwUHN5Unl5MXg1bU4wY1k3dzJkaEQ1RW53aW1lcnhQT2FfNEVCdXRhdmc?oc=5) — Yahoo Finance, 2026-10-23 20:00 UTC
+- [XRP vs Cardano: Which Has the Better Path to Recovery in 2026? - 24/7 Wall St.](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTI5ZHdMbElZeFpUWGVIOXNoYlR0U1EweG5iZ2lPdEJSUVV5WXE3WkNwWGg0YW1oLVl3V1B3cWVpVC1EVTJzUkg0azhyVXpfem81QUxVSkpka0REYkJONzFTWjhvbUg5ZlVwWmhkdVZIWU1VaUI4NUJjZFBFNmxRUzdMSHdhaXJWUXl3Qkp6QW9OU2twdlJQNGdSRTVldXB3NkEyUUpLb2pYN1lyTHZXdzN4Y0pYNU1tVmNV?oc=5) — 24/7 Wall St., 2026-10-23 20:00 UTC
+- [XAO DAO Approves Proposal 66 to Deploy 80% of XRP Treasury to Firelight - TOKENPOST](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvSFlEdmpnd3lKMmFweV8teGtsMmFqNG1ua3BWY0ZxLVhQd0dZUTFQTzltY0xRQ2JPaEQtTlhHX0lMNDNmODZGazBHWlFqcHdNWVRvVGx4WXA?oc=5) — TOKENPOST, 2026-10-23 19:54 UTC
 - [Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard](https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492) — The Block, 2026-10-23 12:55 UTC
   - Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement.
