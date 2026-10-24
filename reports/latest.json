@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-24T10:58:02+00:00",
+  "generated_utc": "2026-10-24T14:31:49+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 80666.0,
-      "change_24h_pct": -1.251,
-      "change_7d_pct": -1.0124303236282106
+      "price": 80360.37,
+      "change_24h_pct": -1.469,
+      "change_7d_pct": -1.3874776907988884
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.2815,
-        "change_24h_pct": -2.873,
-        "high_24h": 1.3283,
-        "low_24h": 1.2734,
-        "range_24h_pct": 4.311292602481531,
-        "change_7d_pct": -0.9736496406769102,
-        "change_30d_pct": -16.503778994005724,
-        "ma7": 1.3140571428571428,
-        "ma25": 1.3867879999999995,
-        "ma99": 1.2923151515151514,
-        "rsi14_daily": 37.374939299744675,
-        "rsi14_4h": 35.1896602231688,
-        "atr14_pct": 4.413567861601568,
-        "realized_vol_30d_daily_pct": 2.0168907056914893,
-        "volume_24h_usdt": 90412056.56477,
-        "volume_vs_20d_avg": 0.7177410642709048,
+        "price": 1.2765,
+        "change_24h_pct": -2.75,
+        "high_24h": 1.3199,
+        "low_24h": 1.2652,
+        "range_24h_pct": 4.323427126146062,
+        "change_7d_pct": -1.360018545707442,
+        "change_30d_pct": -16.8295543393276,
+        "ma7": 1.3133142857142859,
+        "ma25": 1.3865799999999995,
+        "ma99": 1.292262626262626,
+        "rsi14_daily": 36.83663111665566,
+        "rsi14_4h": 33.68598926945543,
+        "atr14_pct": 4.477436540269506,
+        "realized_vol_30d_daily_pct": 2.021304535498196,
+        "volume_24h_usdt": 89395243.55957,
+        "volume_vs_20d_avg": 0.7096690385229458,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,72 @@
           },
           {
             "date": "2026-10-24",
-            "close": 1.2816
+            "close": 1.2764
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 11.587982832618016
+            "distance_pct": 12.02506854680767
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 14.63129145532578
+            "distance_pct": 15.08029768899335
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 9.24697619976589
+            "distance_pct": 9.674892283587933
           }
         },
-        "from_90d_high_pct": -24.61321254191422,
-        "from_90d_low_pct": 29.94321638612858
+        "from_90d_high_pct": -24.907347491028887,
+        "from_90d_low_pct": 29.436219833705124
       },
       "news": [
         {
-          "source": "Pluang",
-          "title": "Solana outperforms XRP with higher transactions and stablecoin use, boosting optimism for its price. - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZkxOUUUwLWJBd3cyelllcHJlRGVUUEUxU01nS3ZRLU41aGxWWU1Va3JKTTc3U3dpaUprZVVFZk9ERlJKMW1MVExha0lHNUVQWTRsT3U4N0xPbndkRlNIQU5SYVNMdzZSZy1SMVdSUjduUE5LZmVjd1JfU0w0ZUlIUHdoSFZDWVNNbUsxeTUtTjdlMTkwYTZGN0VvcnBYMUt6eGlyLXhB?oc=5",
-          "published": "2026-10-24T10:54:51+00:00",
+          "source": "Brave New Coin",
+          "title": "XRP\u2019s Hidden Value Advantage? David Schwartz Drops Bombshell on XRPL Adoption - Brave New Coin",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVzFfQzQwMHVmVTJBY3IxbWVzdVItXzJYZG9hWlBhcGFNSXdIeGlJZjRmcDJhdTV1V2NwVnBwc2pVSFVzVXpvdmlnblJ0aDFXRDF4ZHZVVU1OUFBsSVpGYVFVUGJLR0cydG5abWN0a3Y2Ri1jbjBSNVNIbmF6b0Z3OXRoMkUxQ3BZSzNISFg4c0xyOEZQVmtHemx4djRjZTZ3VGJ0Z2xoZjdLTVJHUlE?oc=5",
+          "published": "2026-10-24T14:17:40+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Cryptonews.net",
-          "title": "Over 5 Billion XRP Moves Out of Exchange Platforms - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HV0lWa01BMTZkTnhldk1xcDQyYkxzM1JKdzlpdXBuM2UzcTVlY2ZtTEE5a2dLSUt6Sm1PV3A0LU1aNlBmeHpaTzdvZFdhR1V2cnZfWnZkVQ?oc=5",
-          "published": "2026-10-24T10:49:57+00:00",
+          "title": "Kalshi Traders Cut XRP $2 Year-End Odds to 14% as Bearish Signals Emerge - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tMTdxSDg3akwtQ25rRFgzTlhxSHlIUHpBYncyamNpVDVjOXE2NlNSNFQwZHE3UTMxWXI5NFhDYllsUmVqak0zQ2w2dFNSMVVfeVZxVWYwQXN2R0k?oc=5",
+          "published": "2026-10-24T14:00:35+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
           "source": "Cryptonews.net",
-          "title": "XRPL Success Without High XRP Demand Is Very Unlikely: David Schwartz - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qWVNHU0ZyeXkxMUhPci05Y0ZGa01KZVFCSW8wcjFGVkRWSVdJNzNZYkh5VDJReUNWTXFrc3pRZXJJRUpLNU53d0FrMDFaWDRkWHlCMEMzS2F5dw?oc=5",
-          "published": "2026-10-24T10:49:51+00:00",
+          "title": "1 XRP for 1 BTC? This Date Remains Etched in XRPL History - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLbXVTR1RIdFltUHAtS21GUklrR2E3c0hmN3FwekphaFRieGlWblY5MTRpRkJOTl94RHRCbTRpZ2RiTWF2MHpBWTNmc2VMLWpLdUlsT0RSRXJQQQ?oc=5",
+          "published": "2026-10-24T13:59:35+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "Cryptonews.net",
-          "title": "Crypto Price Analysis, BTC, XRP, NEAR, SOL and ZEC, October 24: Bitcoin RSI Falls Below 46 as XRP Loses Daily Support - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UQ3JTVnJWTFJFQW9HbzVVZHRueHBHRWJ4R3ZKd0xnUXhSUE1QdGkxUDl2U2pCT2ZfN3ZfUkJRbU9QZDBaTzBzRHhWbGtDcTNWU29mYVI0dHFrSkE?oc=5",
-          "published": "2026-10-24T10:49:45+00:00",
+          "source": "Yahoo Finance",
+          "title": "Franklin Templeton Just Put $150 Million on the XRP Ledger. Why Is It All in One Wallet? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTmFweWtqR1dvR1NQeVc1WjJiMk5ERjNzX0FKRDZBU2NVMUFjNEFRX1kxalNFSmtGMHZDekczdmZJdk5Sd0psRkEtWVFfRkRNcVNlMmUtSXdiN0RxVjdzS1VERXVseEVDQ1VnOFNLc0U4czJfNXo1Q1hhOFV0cHFzeWMzSUlzNFM4WEFad1VHWjJWcVBlTkpJelU0NU8?oc=5",
+          "published": "2026-10-24T13:55:52+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "The Motley Fool",
-          "title": "Better Buy: Solana vs. XRP - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xbmxEaVE5VVMyMjVUSnhoZEhjWFBtMnk4aTV4Zy1jdWJYdl90V0lTdDR0alNYQXN3cDFERkZDaHREMFFPeDhIN1Y2VkpROU9SRlcxeWNGOEU2WW1mT19PSDhYOVRMTUN1Z0Y2RFFSV1ZEcEpFd3c?oc=5",
-          "published": "2026-10-24T10:43:57+00:00",
-          "summary": "Better Buy: Solana vs. XRP  The Motley Fool",
+          "source": "24/7 Wall St.",
+          "title": "XRP Analysis: XRP Shorts on Bitfinex Have Doubled in Two Weeks. Could a Squeeze Follow? - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZm9FN0tCZ2FvNXhHQXZIcXMwQ284WHFVZ2w4Q1R0RlJvclRmOTNwbjA3dXBuSTZZTWdCMkZ2WHFvVXBmbFpYcll1ckc3WVI3UWEtajhLZUhYRmhraWFURTItNjB5d01zMjd2MVRrdC1wb1ZWN0dzYUVoMC1zS2pJOFJVRTRtQnVpTDNvLUVBampPbjNFZ3pPdnZmVGNzTmFvWDZpY3RuQkdwQVdYOVk1TUg4MHJYRVlwTFVDNXBVZFhqYWVmQURSTkJDV0hqa0FRUEtfei1xem51VWs?oc=5",
+          "published": "2026-10-24T13:42:00+00:00",
+          "summary": "",
           "via": "Google News"
         },
         {
-          "source": "The Motley Fool",
-          "title": "Is Stripe's New Stablecoin Card a Major Threat to XRP? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjdTX05LTGhzTk1UaUI0RDdvQXNWaWUtOXgzMlhPOTNOQl9rbkNpWElSVTJURDRWM1BFZVp3YkxpcTVSVTFJaVNQUTNkblVpTnBaVFlOSVdkaGJfWkVoRjA1bklJckFqN2dFTWZxMXZRZHVWUU5TVzJncWtUaGFZS2RnMmRETFBKR0xiYTZqSkswdDl6SUJuTw?oc=5",
-          "published": "2026-10-24T10:25:51+00:00",
+          "source": "StreetInsider",
+          "title": "XRP Price Prediction: Ledger Fix Slips Into November as Remittix\u2019s 41-Currency PayFi Plan Adds a New Catalyst - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPc3EtMFUyMTBlX2tNUmVzcHBNLVN6U2ZPbkhpR18wUFYxb19tWTBPV1FoYzFMakJQaVVnTm1oSlZhUU1xZHl2Z05BMDY2RUpPR3QxOFZVUmRjd0hBSVNvbjZRSTNFUGNXb0tWR0RiOGZ3ejZqbWpyUHJtZ1RqMTJnaFh1VG9UNDJyU2hTaERrMHBwZFVvZkQxcGc0eFJDMGliajlZb1NoeVlCaWV6SXpZZzE5b0hubGt1RTZzdWtGSllMWGpGMG5PeXNHcWl1d0NhM0o0WXU1Y0JRY1FwV29WVFEwdHV1MVVic1VoNndmazJtZUtSb3h1aHgtQS0yamxtM0pVZGpNRDNGTFE?oc=5",
+          "published": "2026-10-24T13:26:10+00:00",
           "summary": "",
           "via": "Google News"
         },
