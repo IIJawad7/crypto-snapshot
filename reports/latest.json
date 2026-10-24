@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-24T05:51:59+00:00",
+  "generated_utc": "2026-10-24T10:58:02+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 80764.01,
-      "change_24h_pct": -1.323,
-      "change_7d_pct": -0.8921594324971194
+      "price": 80666.0,
+      "change_24h_pct": -1.251,
+      "change_7d_pct": -1.0124303236282106
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.289,
-        "change_24h_pct": -2.915,
-        "high_24h": 1.3307,
-        "low_24h": 1.2817,
-        "range_24h_pct": 3.823047515019118,
-        "change_7d_pct": -0.3940962831311401,
-        "change_30d_pct": -16.01511597602293,
-        "ma7": 1.3151142857142857,
-        "ma25": 1.3870839999999995,
-        "ma99": 1.292389898989899,
-        "rsi14_daily": 38.16869482681483,
-        "rsi14_4h": 36.90728261483202,
-        "atr14_pct": 4.334478554804389,
-        "realized_vol_30d_daily_pct": 2.0153063200022516,
-        "volume_24h_usdt": 91499195.73125,
-        "volume_vs_20d_avg": 0.7263713781030092,
+        "price": 1.2815,
+        "change_24h_pct": -2.873,
+        "high_24h": 1.3283,
+        "low_24h": 1.2734,
+        "range_24h_pct": 4.311292602481531,
+        "change_7d_pct": -0.9736496406769102,
+        "change_30d_pct": -16.503778994005724,
+        "ma7": 1.3140571428571428,
+        "ma25": 1.3867879999999995,
+        "ma99": 1.2923151515151514,
+        "rsi14_daily": 37.374939299744675,
+        "rsi14_4h": 35.1896602231688,
+        "atr14_pct": 4.413567861601568,
+        "realized_vol_30d_daily_pct": 2.0168907056914893,
+        "volume_24h_usdt": 90412056.56477,
+        "volume_vs_20d_avg": 0.7177410642709048,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,40 +62,72 @@
           },
           {
             "date": "2026-10-24",
-            "close": 1.289
+            "close": 1.2816
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 10.938712179984478
+            "distance_pct": 11.587982832618016
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 13.96431342125679
+            "distance_pct": 14.63129145532578
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 8.611326609775016
+            "distance_pct": 9.24697619976589
           }
         },
-        "from_90d_high_pct": -24.172010118242248,
-        "from_90d_low_pct": 30.70371121476374
+        "from_90d_high_pct": -24.61321254191422,
+        "from_90d_low_pct": 29.94321638612858
       },
       "news": [
         {
-          "source": "Cryptonews.net",
-          "title": "XRP to $2 Delayed? Why Bollinger Bands Warn Ripple Bulls to Wait 2 Years - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXcWg3ODk1UzlNRHgtWEgtYjgxeVJfeUM4TXNfc2h6VGFGR2pJSmRpN052SFhHOWJ0UDFXVTAwbEt1enZpOW02MTMzZjJaQnRwRGhndVo0WjdGV2s?oc=5",
-          "published": "2026-10-24T05:38:14+00:00",
+          "source": "Pluang",
+          "title": "Solana outperforms XRP with higher transactions and stablecoin use, boosting optimism for its price. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZkxOUUUwLWJBd3cyelllcHJlRGVUUEUxU01nS3ZRLU41aGxWWU1Va3JKTTc3U3dpaUprZVVFZk9ERlJKMW1MVExha0lHNUVQWTRsT3U4N0xPbndkRlNIQU5SYVNMdzZSZy1SMVdSUjduUE5LZmVjd1JfU0w0ZUlIUHdoSFZDWVNNbUsxeTUtTjdlMTkwYTZGN0VvcnBYMUt6eGlyLXhB?oc=5",
+          "published": "2026-10-24T10:54:51+00:00",
           "summary": "",
           "via": "Google News"
         },
         {
-          "source": "CryptoPotato",
-          "title": "Bitcoin (BTC) Tanks Toward $80K, Ripple (XRP) Loses Key Support: Weekend Watch - CryptoPotato",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUGRoaHRWLW5LOTRrZm5UOWY5YTZaZUlxeF9FQWdwbzFwQ1lMS1FSdS1WVmo2dkRVb3FTNjhQQ2Raakk2SFpaYi1hN1huMzVMT2ZHbTNQejhRZEV5LTY3VHRaTVJOcGl0ZUFNQmRLYzRjWjNZWXZxc1J2aTZGS3NhSU4yMkp6RElqVDdsZ2JGOWxZUmFHeS15dnhEbXpKQQ?oc=5",
-          "published": "2026-10-24T04:47:00+00:00",
+          "source": "Cryptonews.net",
+          "title": "Over 5 Billion XRP Moves Out of Exchange Platforms - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HV0lWa01BMTZkTnhldk1xcDQyYkxzM1JKdzlpdXBuM2UzcTVlY2ZtTEE5a2dLSUt6Sm1PV3A0LU1aNlBmeHpaTzdvZFdhR1V2cnZfWnZkVQ?oc=5",
+          "published": "2026-10-24T10:49:57+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Cryptonews.net",
+          "title": "XRPL Success Without High XRP Demand Is Very Unlikely: David Schwartz - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qWVNHU0ZyeXkxMUhPci05Y0ZGa01KZVFCSW8wcjFGVkRWSVdJNzNZYkh5VDJReUNWTXFrc3pRZXJJRUpLNU53d0FrMDFaWDRkWHlCMEMzS2F5dw?oc=5",
+          "published": "2026-10-24T10:49:51+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "Cryptonews.net",
+          "title": "Crypto Price Analysis, BTC, XRP, NEAR, SOL and ZEC, October 24: Bitcoin RSI Falls Below 46 as XRP Loses Daily Support - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UQ3JTVnJWTFJFQW9HbzVVZHRueHBHRWJ4R3ZKd0xnUXhSUE1QdGkxUDl2U2pCT2ZfN3ZfUkJRbU9QZDBaTzBzRHhWbGtDcTNWU29mYVI0dHFrSkE?oc=5",
+          "published": "2026-10-24T10:49:45+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "The Motley Fool",
+          "title": "Better Buy: Solana vs. XRP - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xbmxEaVE5VVMyMjVUSnhoZEhjWFBtMnk4aTV4Zy1jdWJYdl90V0lTdDR0alNYQXN3cDFERkZDaHREMFFPeDhIN1Y2VkpROU9SRlcxeWNGOEU2WW1mT19PSDhYOVRMTUN1Z0Y2RFFSV1ZEcEpFd3c?oc=5",
+          "published": "2026-10-24T10:43:57+00:00",
+          "summary": "Better Buy: Solana vs. XRP  The Motley Fool",
+          "via": "Google News"
+        },
+        {
+          "source": "The Motley Fool",
+          "title": "Is Stripe's New Stablecoin Card a Major Threat to XRP? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjdTX05LTGhzTk1UaUI0RDdvQXNWaWUtOXgzMlhPOTNOQl9rbkNpWElSVTJURDRWM1BFZVp3YkxpcTVSVTFJaVNQUTNkblVpTnBaVFlOSVdkaGJfWkVoRjA1bklJckFqN2dFTWZxMXZRZHVWUU5TVzJncWtUaGFZS2RnMmRETFBKR0xiYTZqSkswdDl6SUJuTw?oc=5",
+          "published": "2026-10-24T10:25:51+00:00",
           "summary": "",
           "via": "Google News"
         },
@@ -106,38 +138,6 @@
           "published": "2026-10-24T04:45:43+00:00",
           "summary": "Two subscriptions on Thursday nearly quadrupled the fund\u2019s tokens on the network. The receiving wallet shares its authorized signers with the issuer.",
           "via": "CoinDesk"
-        },
-        {
-          "source": "StreetInsider",
-          "title": "XRP Price Prediction: XRP, Ethereum, BNB or Remittix With Its $0.28 Entry and November Launch Catalyst? - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNc2lybUNhVVRhTExtM3NVVkx5RzBXejRUVTlUNmFsRGdZMUlTNFFicE10a3dYalppNVVnSzRnSXpzaGgtX0JrSUlHb0R3aGk0TDk1STd0OHk0cVFBcC1LNnNwT3RTZ24tcnBJU3Ntd1dNUlJ3U2hRMTgxcE52U1VvVkxlVmFUdy1JT3d2Tl82amx2R1ZOcHZpU1FRRW9kX285VGN5LWk1M1ZIdnZ2WDFIcTNaUEpudWxsc0QxUHA0bl9FdmdzazJVTERhSk9mZzR6TEtES2lIRVJOSDYyUk9KbzZvLUtqRm9nNWtwV2dYWWo4Smg0MFg3amxfVklYUU0?oc=5",
-          "published": "2026-10-24T03:52:25+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "TechBullion",
-          "title": "XRP Price Today: Ripple Adds $10B Annual Payments Partner as Analysts Eye 100x for Pepeto - TechBullion",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZDVYSVF3VGtxUVBybUI0dGlhMHR1dHlkc0dYMUlzMzAySTN5c2Rwb3FvQWJTbWRQYVNVdzZVTm9qcE42dXVOei1EdWNBdEItZExHcUkzQzFIUTZSM29kaWc4SlZ5cmtIUVFvNnVVMGtfSEtVOU9OWEE1WGlVLVBwSEs2YjlWaDh4SGFpcExWQzNSV3ZkdEdYTWxiN1NfVHQtS01jLTdJMWFiV0ZMcjJ1UDR3?oc=5",
-          "published": "2026-10-24T01:50:05+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "TradingKey",
-          "title": "XRP (XRPUSD) Is down 1.59% on Oct 24: What Are the Risk Factors? - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdDk1aV9vYnlwQmVQVm9keG9UX2tGNXJWV2l6azNfeUQtWTdXd3duODlmeEp2M1hOZ1Q0M0dtUDNzWHFtR1otQmVFTkZCcnZpdk5wM2pySHlMWUhRbndnOFlNWWhBSkRrNzBiR0EyZzJvZ3dUb2dlSXdUTVc1QWpwR2kwaTdPR05oV2tfMTNn?oc=5",
-          "published": "2026-10-24T01:00:16+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "FXEmpire",
-          "title": "XRP Price Prediction: New Wallet Count Explodes as XRP Recovers Above $1.31 - FXEmpire",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1dsVlJDT0NDSmFMS18xdGRuQ2lxTnAyb1lad2VHM1FtZDdoSTZ5UjRDTTMxY25FNkxvaEVTTWNTTy1xRkYxcm9RbHRIYzBqQ3lzb3VNUzg0UW56TnhwQi1SZk8zT0toTktWYWxRb0Y0VGZSMnZnMUwwWFUzbDZDUzJ3Y1MtaWZXSXJwbWdscVcwZEhYaTh3bFlMY2NWdVdncGVDXzRneHVkYnhXVFFncEJQYjBYVWp4QmZIUmFtbkF1QQ?oc=5",
-          "published": "2026-10-24T00:31:44+00:00",
-          "summary": "",
-          "via": "Google News"
         },
         {
           "source": "The Block",
