@@ -1,43 +1,43 @@
-# Crypto snapshot — 2026-10-24 17:31 (UTC+3)
+# Crypto snapshot — 2026-10-24 21:08 (UTC+3)
 
 ## Market context
-- BTC: 80,360.37 (-1.47% 24h, -1.39% 7d)
+- BTC: 80,256.03 (-1.59% 24h, -1.52% 7d)
 - Fear & Greed index: 51 (Neutral), yesterday 50
 
 ## XRP
-**Price:** 1.2765  |  24h -2.75%  |  7d -1.36%  |  30d -16.83%
+**Price:** 1.2754  |  24h -2.65%  |  7d -1.45%  |  30d -16.90%
 
 | Metric | Value |
 |---|---|
-| 24h high / low | 1.3199 / 1.2652 (range 4.32%) |
-| MA7 / MA25 / MA99 (daily) | 1.3133 / 1.3866 / 1.2923 |
-| Price vs MA7 / MA25 / MA99 | -2.80% / -7.94% / -1.22% |
-| RSI14 daily / 4h | 36.8 / 33.7 |
-| ATR14 (avg daily move) | 4.48% |
+| 24h high / low | 1.3136 / 1.2546 (range 4.70%) |
+| MA7 / MA25 / MA99 (daily) | 1.3132 / 1.3865 / 1.2923 |
+| Price vs MA7 / MA25 / MA99 | -2.88% / -8.02% / -1.30% |
+| RSI14 daily / 4h | 36.7 / 35.4 |
+| ATR14 (avg daily move) | 4.54% |
 | 30d realized vol (daily σ) | 2.02% |
-| 24h volume vs 20d avg | 0.71x (89.4M USDT) |
-| 30d high / low | 1.6300 / 1.2562 |
-| 90d high | 1.6999 on 2026-08-22 (-24.91% from it) |
-| 90d low | 0.9862 on 2026-08-14 (+29.44% from it) |
+| 24h volume vs 20d avg | 0.82x (102.7M USDT) |
+| 30d high / low | 1.6300 / 1.2546 |
+| 90d high | 1.6999 on 2026-08-22 (-24.97% from it) |
+| 90d low | 0.9862 on 2026-08-14 (+29.32% from it) |
 
-Last 7 daily closes: 10-18 1.3071, 10-19 1.3041, 10-20 1.3358, 10-21 1.3654, 10-22 1.3094, 10-23 1.2950, 10-24 1.2764
+Last 7 daily closes: 10-18 1.3071, 10-19 1.3041, 10-20 1.3358, 10-21 1.3654, 10-22 1.3094, 10-23 1.2950, 10-24 1.2754
 
 **My levels**
 
 | Level | Price | Distance from now |
 |---|---|---|
-| entry | 1.4300 | +12.03% |
-| target | 1.4690 | +15.08% |
-| stop | 1.4000 | +9.67% |
+| entry | 1.4300 | +12.12% |
+| target | 1.4690 | +15.18% |
+| stop | 1.4000 | +9.77% |
 
 **News (last 48h, 8 items)**
 
-- [XRP’s Hidden Value Advantage? David Schwartz Drops Bombshell on XRPL Adoption - Brave New Coin](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVzFfQzQwMHVmVTJBY3IxbWVzdVItXzJYZG9hWlBhcGFNSXdIeGlJZjRmcDJhdTV1V2NwVnBwc2pVSFVzVXpvdmlnblJ0aDFXRDF4ZHZVVU1OUFBsSVpGYVFVUGJLR0cydG5abWN0a3Y2Ri1jbjBSNVNIbmF6b0Z3OXRoMkUxQ3BZSzNISFg4c0xyOEZQVmtHemx4djRjZTZ3VGJ0Z2xoZjdLTVJHUlE?oc=5) — Brave New Coin, 2026-10-24 14:17 UTC
-- [Kalshi Traders Cut XRP $2 Year-End Odds to 14% as Bearish Signals Emerge - Cryptonews.net](https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tMTdxSDg3akwtQ25rRFgzTlhxSHlIUHpBYncyamNpVDVjOXE2NlNSNFQwZHE3UTMxWXI5NFhDYllsUmVqak0zQ2w2dFNSMVVfeVZxVWYwQXN2R0k?oc=5) — Cryptonews.net, 2026-10-24 14:00 UTC
-- [1 XRP for 1 BTC? This Date Remains Etched in XRPL History - Cryptonews.net](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLbXVTR1RIdFltUHAtS21GUklrR2E3c0hmN3FwekphaFRieGlWblY5MTRpRkJOTl94RHRCbTRpZ2RiTWF2MHpBWTNmc2VMLWpLdUlsT0RSRXJQQQ?oc=5) — Cryptonews.net, 2026-10-24 13:59 UTC
-- [Franklin Templeton Just Put $150 Million on the XRP Ledger. Why Is It All in One Wallet? - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTmFweWtqR1dvR1NQeVc1WjJiMk5ERjNzX0FKRDZBU2NVMUFjNEFRX1kxalNFSmtGMHZDekczdmZJdk5Sd0psRkEtWVFfRkRNcVNlMmUtSXdiN0RxVjdzS1VERXVseEVDQ1VnOFNLc0U4czJfNXo1Q1hhOFV0cHFzeWMzSUlzNFM4WEFad1VHWjJWcVBlTkpJelU0NU8?oc=5) — Yahoo Finance, 2026-10-24 13:55 UTC
-- [XRP Analysis: XRP Shorts on Bitfinex Have Doubled in Two Weeks. Could a Squeeze Follow? - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZm9FN0tCZ2FvNXhHQXZIcXMwQ284WHFVZ2w4Q1R0RlJvclRmOTNwbjA3dXBuSTZZTWdCMkZ2WHFvVXBmbFpYcll1ckc3WVI3UWEtajhLZUhYRmhraWFURTItNjB5d01zMjd2MVRrdC1wb1ZWN0dzYUVoMC1zS2pJOFJVRTRtQnVpTDNvLUVBampPbjNFZ3pPdnZmVGNzTmFvWDZpY3RuQkdwQVdYOVk1TUg4MHJYRVlwTFVDNXBVZFhqYWVmQURSTkJDV0hqa0FRUEtfei1xem51VWs?oc=5) — 24/7 Wall St., 2026-10-24 13:42 UTC
-- [XRP Price Prediction: Ledger Fix Slips Into November as Remittix’s 41-Currency PayFi Plan Adds a New Catalyst - StreetInsider](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPc3EtMFUyMTBlX2tNUmVzcHBNLVN6U2ZPbkhpR18wUFYxb19tWTBPV1FoYzFMakJQaVVnTm1oSlZhUU1xZHl2Z05BMDY2RUpPR3QxOFZVUmRjd0hBSVNvbjZRSTNFUGNXb0tWR0RiOGZ3ejZqbWpyUHJtZ1RqMTJnaFh1VG9UNDJyU2hTaERrMHBwZFVvZkQxcGc0eFJDMGliajlZb1NoeVlCaWV6SXpZZzE5b0hubGt1RTZzdWtGSllMWGpGMG5PeXNHcWl1d0NhM0o0WXU1Y0JRY1FwV29WVFEwdHV1MVVic1VoNndmazJtZUtSb3h1aHgtQS0yamxtM0pVZGpNRDNGTFE?oc=5) — StreetInsider, 2026-10-24 13:26 UTC
+- [XRP Ledger's value driven by low fees and XRP's unique network role, says Ripple CTO emeritus. - Pluang](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOElneWxkNDJpdlgwSDA0RkgwUEI3ZlpjY3VyWHFJTkZ4MHJNZnMwbncxVmotNXExTE1XQ2cyNGFFMkxIMmhpX1VoX2Nzems2ZnF3M3JFclZ5Szl6d0NwRGx1ZnlsUzJqbEEyUmphUXBabTdEZ1I1ZVFZV0ZKamdWaGFCZUtSOVdBN3dtZ0pVMllkRVlRelZlY3liS20?oc=5) — Pluang, 2026-10-24 17:46 UTC
+- [XRP Price Prediction: XRP Wallets Hit a Record 8.24M as Analysts See Pepeto Heading - StreetInsider](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZXpjeUJMRVJQZWtlZDJiTmNmdl9XM0otZGdDbHcyd0RlMHZjaGZDOWJ5NDExRGMwOF9VZW1pQzc2MUNRM3lQcXJJTk5KamhmWTZULUJkMHNQWnEySFlMQVlubmt1TzVLZnhiLVBOOV9iWTZvWHBueHNxQW9DNjJERjlwZHNBWlRhZDFscS1IeFB0MkRUU1Vaei11bGg4SlM4SWRXSlh3MVVGcmh1WmRzM2x1eEVlb0k3MDhQZ3hjMExtaXZFSmFFT0h6ZURrZE9yZkNseGxwODVKWFRhNUE?oc=5) — StreetInsider, 2026-10-24 17:28 UTC
+- [XRP price at Oct 24, 2026 at 1pm EDT Crypto Prediction Market - Robinhood](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVpIUHppQnFtbnh0SVE3dEZtSUNERnBwS2Y5N0d1bFdjNlA0aHNXdk1yUE5EeTJ1amVUQjF0MFFtbGNaNTZua0JBV20zMXVmbzlNV3c2Yi1QMERPOGtJZnRianNyVDlxUmFVeHdyU1V5SFQ1eDRwMDlfSm1mdlhoMzJvQk9mYlJieFdmMTZ2bjdwc0lLemRpOTdhOHpSMGhyUkZRTmQwVzREdEtiRWc?oc=5) — Robinhood, 2026-10-24 16:53 UTC
+- [XRP price prediction ahead of next week’s 1 billion-token unlock by Ripple - Finbold](https://news.google.com/rss/articles/CBMimgFBVV95cUxOMW9CZnZDUk5odFpjNjYyalBUUDBDdURnX2hQNDdjWl9zWExDU0t1N2xsSnJERWhwZHZWZlBYUkpweXBTdW1Oc0RidTk1RXVVYkNnNUJpNHBWWDl1QS16Y3NOTHVPaU4xaTcyd3BPdHU5UVFpYlc5UzRHLWtoZ21oOVNvSWFjd2QyRWRCdXlFd3E0Q194R2hSUnN3?oc=5) — Finbold, 2026-10-24 16:14 UTC
+- [XRP Price Prediction 2026: XRP Near $1.32 and ETH Near $2,400 as Remittix Earn Targets Up to 22% APY - StreetInsider](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZ2ktaDRSU2tpU05XTWlpZWpFbTdVZFZJNzJVVnB0RHJlRGFhaERqUjF3N3dmeGY1c0hqV1YwYW9sSDN1Q0hIeXlOZWZNSTZvYjAteWJka0YzU2YzVWE3Q0N2VThTYU5uREc4SW5FZFZuZ0JZVG9vRm8xdC1qS2RSZVU4UlpYbE95NHJqV0xKdFJ0Z3B2VmU5akk5SG9jUXQwRG1oemZQYmNVQmJ2aUN1RVBxN2pYWDVWbWdFcVNWVGFwRmNZUlhid0dDeFpSQmhvXzcwRmRBNTRHVnFOLWZMdk5md2QxaThBMGh3T19UNkZNdkYyYTB5N011WXNLNkU?oc=5) — StreetInsider, 2026-10-24 16:12 UTC
+- [October 2026 Crypto Watchlist: Remittix Tops $33M as Ethereum Nears $2,400, XRP $1.32 and Render $1.79 - StreetInsider](https://news.google.com/rss/articles/CBMihwJBVV95cUxNcVpMY1R2a19sT3l5bkYyRlA3X1pVWmJ2VW92OFlzMmNUeEhnRVk2T2FScDgyVlVXR21vbldodEhWUkZaNVY1MWJnVVZ3RWtyT1NFMFhtTzhaRTBXMlVPM21PUjREQWcwNXRWYjd1Y3R6am5WcVc1SW5pcTZVdWtLcDRpLWdlVXp3T3dSM1N3UVhpcXdGQ2FxZlZPb0Jad2ZBQmRyM19lbmR5Rm1zZnp2a1lkNW1LeDVaUmxmaWp5N3RnZ0lMZ2o0TlkwMVNpbndJa0owWUpJOF9qVnNabXVjZDR3anRiUWEtUWJyODhEWW9WRFl5TGFSRkhIWnI5QWM5cUZSYllIMA?oc=5) — StreetInsider, 2026-10-24 16:12 UTC
 - [Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet](https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet) — CoinDesk, 2026-10-24 04:45 UTC
   - Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer.
 - [Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard](https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492) — The Block, 2026-10-23 12:55 UTC
