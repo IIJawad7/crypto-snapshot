@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-24T00:41:05+00:00",
+  "generated_utc": "2026-10-24T05:51:59+00:00",
   "news_hours": 48,
   "context": {
     "BTC": {
-      "price": 80637.33,
-      "change_24h_pct": -0.902,
-      "change_7d_pct": -1.0476121055762566
+      "price": 80764.01,
+      "change_24h_pct": -1.323,
+      "change_7d_pct": -0.8921594324971194
     }
   },
   "coins": [
@@ -13,22 +13,22 @@
       "symbol": "XRP",
       "analysis": {
         "pair": "XRPUSDT",
-        "price": 1.2841,
-        "change_24h_pct": -2.074,
+        "price": 1.289,
+        "change_24h_pct": -2.915,
         "high_24h": 1.3307,
         "low_24h": 1.2817,
         "range_24h_pct": 3.823047515019118,
-        "change_7d_pct": -0.7727378100610416,
-        "change_30d_pct": -16.334375814438364,
-        "ma7": 1.3144142857142858,
-        "ma25": 1.3868879999999997,
-        "ma99": 1.2923404040404038,
-        "rsi14_daily": 37.639381167730306,
-        "rsi14_4h": 35.649852451250766,
-        "atr14_pct": 4.3426746915571774,
-        "realized_vol_30d_daily_pct": 2.0157409632342684,
-        "volume_24h_usdt": 98643259.48243,
-        "volume_vs_20d_avg": 0.7830849195798341,
+        "change_7d_pct": -0.3940962831311401,
+        "change_30d_pct": -16.01511597602293,
+        "ma7": 1.3151142857142857,
+        "ma25": 1.3870839999999995,
+        "ma99": 1.292389898989899,
+        "rsi14_daily": 38.16869482681483,
+        "rsi14_4h": 36.90728261483202,
+        "atr14_pct": 4.334478554804389,
+        "realized_vol_30d_daily_pct": 2.0153063200022516,
+        "volume_24h_usdt": 91499195.73125,
+        "volume_vs_20d_avg": 0.7263713781030092,
         "high_90d": 1.6999,
         "high_90d_date": "2026-08-22",
         "low_90d": 0.9862,
@@ -62,72 +62,80 @@
           },
           {
             "date": "2026-10-24",
-            "close": 1.2841
+            "close": 1.289
           }
         ],
         "levels": {
           "entry": {
             "price": 1.43,
-            "distance_pct": 11.3620434545596
+            "distance_pct": 10.938712179984478
           },
           "target": {
             "price": 1.469,
-            "distance_pct": 14.39919009422943
+            "distance_pct": 13.96431342125679
           },
           "stop": {
             "price": 1.4,
-            "distance_pct": 9.025776808659746
+            "distance_pct": 8.611326609775016
           }
         },
-        "from_90d_high_pct": -24.460262368374607,
-        "from_90d_low_pct": 30.206854593388766
+        "from_90d_high_pct": -24.172010118242248,
+        "from_90d_low_pct": 30.70371121476374
       },
       "news": [
+        {
+          "source": "Cryptonews.net",
+          "title": "XRP to $2 Delayed? Why Bollinger Bands Warn Ripple Bulls to Wait 2 Years - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXcWg3ODk1UzlNRHgtWEgtYjgxeVJfeUM4TXNfc2h6VGFGR2pJSmRpN052SFhHOWJ0UDFXVTAwbEt1enZpOW02MTMzZjJaQnRwRGhndVo0WjdGV2s?oc=5",
+          "published": "2026-10-24T05:38:14+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "CryptoPotato",
+          "title": "Bitcoin (BTC) Tanks Toward $80K, Ripple (XRP) Loses Key Support: Weekend Watch - CryptoPotato",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUGRoaHRWLW5LOTRrZm5UOWY5YTZaZUlxeF9FQWdwbzFwQ1lMS1FSdS1WVmo2dkRVb3FTNjhQQ2Raakk2SFpaYi1hN1huMzVMT2ZHbTNQejhRZEV5LTY3VHRaTVJOcGl0ZUFNQmRLYzRjWjNZWXZxc1J2aTZGS3NhSU4yMkp6RElqVDdsZ2JGOWxZUmFHeS15dnhEbXpKQQ?oc=5",
+          "published": "2026-10-24T04:47:00+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+          "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+          "published": "2026-10-24T04:45:43+00:00",
+          "summary": "Two subscriptions on Thursday nearly quadrupled the fund\u2019s tokens on the network. The receiving wallet shares its authorized signers with the issuer.",
+          "via": "CoinDesk"
+        },
+        {
+          "source": "StreetInsider",
+          "title": "XRP Price Prediction: XRP, Ethereum, BNB or Remittix With Its $0.28 Entry and November Launch Catalyst? - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNc2lybUNhVVRhTExtM3NVVkx5RzBXejRUVTlUNmFsRGdZMUlTNFFicE10a3dYalppNVVnSzRnSXpzaGgtX0JrSUlHb0R3aGk0TDk1STd0OHk0cVFBcC1LNnNwT3RTZ24tcnBJU3Ntd1dNUlJ3U2hRMTgxcE52U1VvVkxlVmFUdy1JT3d2Tl82amx2R1ZOcHZpU1FRRW9kX285VGN5LWk1M1ZIdnZ2WDFIcTNaUEpudWxsc0QxUHA0bl9FdmdzazJVTERhSk9mZzR6TEtES2lIRVJOSDYyUk9KbzZvLUtqRm9nNWtwV2dYWWo4Smg0MFg3amxfVklYUU0?oc=5",
+          "published": "2026-10-24T03:52:25+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "TechBullion",
+          "title": "XRP Price Today: Ripple Adds $10B Annual Payments Partner as Analysts Eye 100x for Pepeto - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZDVYSVF3VGtxUVBybUI0dGlhMHR1dHlkc0dYMUlzMzAySTN5c2Rwb3FvQWJTbWRQYVNVdzZVTm9qcE42dXVOei1EdWNBdEItZExHcUkzQzFIUTZSM29kaWc4SlZ5cmtIUVFvNnVVMGtfSEtVOU9OWEE1WGlVLVBwSEs2YjlWaDh4SGFpcExWQzNSV3ZkdEdYTWxiN1NfVHQtS01jLTdJMWFiV0ZMcjJ1UDR3?oc=5",
+          "published": "2026-10-24T01:50:05+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
+        {
+          "source": "TradingKey",
+          "title": "XRP (XRPUSD) Is down 1.59% on Oct 24: What Are the Risk Factors? - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdDk1aV9vYnlwQmVQVm9keG9UX2tGNXJWV2l6azNfeUQtWTdXd3duODlmeEp2M1hOZ1Q0M0dtUDNzWHFtR1otQmVFTkZCcnZpdk5wM2pySHlMWUhRbndnOFlNWWhBSkRrNzBiR0EyZzJvZ3dUb2dlSXdUTVc1QWpwR2kwaTdPR05oV2tfMTNn?oc=5",
+          "published": "2026-10-24T01:00:16+00:00",
+          "summary": "",
+          "via": "Google News"
+        },
         {
           "source": "FXEmpire",
           "title": "XRP Price Prediction: New Wallet Count Explodes as XRP Recovers Above $1.31 - FXEmpire",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1dsVlJDT0NDSmFMS18xdGRuQ2lxTnAyb1lad2VHM1FtZDdoSTZ5UjRDTTMxY25FNkxvaEVTTWNTTy1xRkYxcm9RbHRIYzBqQ3lzb3VNUzg0UW56TnhwQi1SZk8zT0toTktWYWxRb0Y0VGZSMnZnMUwwWFUzbDZDUzJ3Y1MtaWZXSXJwbWdscVcwZEhYaTh3bFlMY2NWdVdncGVDXzRneHVkYnhXVFFncEJQYjBYVWp4QmZIUmFtbkF1QQ?oc=5",
           "published": "2026-10-24T00:31:44+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "StreetInsider",
-          "title": "XRP Price Prediction: UMB Private Wealth Reveals XRP ETF Stake as Remittix\u2019s Raise Reaches $33M - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcWVrcmJlOWVKOFYtTXJzanJLTnlRNnhzdHBjekVZSHJTbkxkQ3NidlFzdzhnV1VBYmtVM0FnU0Zxb1BZTTZiS25qeVJVOGlUWGl2aVJZd0Jzc004NUJXMmZpVUVKRmJ3QkR6ZFV0d2tudW5MSUdYc3VXeGtuS0t6WnVJUmNwZ2RfNHlRbWZVZG1VVThnLW1qeEJ3RXBpRnRLVk96dUdMUi1OckZsTmo0WlMwZXdzM3E0d3ZtRFlkM2FWSlJYZ2cxeVlNdW9yd0FyamxtZFVTbDQ2WWFQSHVtUVRJMHZ4eW44V0JOR1hERE1oSS0yc0NDdHVyNA?oc=5",
-          "published": "2026-10-23T23:32:10+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "KuCoin",
-          "title": "$XRP has reversed ;) but ... with a general predominance of - KuCoin",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vX0lwdHJwS1BWOGpqVk5JYzh2RjVTZ1FGVUFjdXd1Q0Q4aHppbzZISE1MbVBCUUhmQkhyb0dkVV8tclVRWnVqVjdscTFXMmdLNWl1eTB1VGFSWnZrLTMxQV9zb19ENHZBVnl0Rlc3SVUtdw?oc=5",
-          "published": "2026-10-23T23:07:17+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Robinhood",
-          "title": "XRP price at Oct 23, 2026 at 7pm EDT Prediction Market - Robinhood",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQakk2M2hScXhFVjlSaG1FUzJCVFZ5TFBtWnJ0OXNjZVRBbUs3SElmNUtjMngyYW1HcS1XZks0TklNVXMxcm9EYnd5N0hhcjl1TThMeUZ4OEF1LVBkQ1ZyTmpydUc2M1draXJpOWpnTG9fYWRvdmFWSjlLYzdqWlZFa0c2aXdaamV5dTMwT3VxM0toeW52aHVIMVBBenhqWngxOW1wZmpHWUJEeWh3bGc?oc=5",
-          "published": "2026-10-23T22:46:17+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "Cryptonews.net",
-          "title": "Ripple CEO Brad Garlinghouse Mourns Loss of Father - Cryptonews.net",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JNlpCbTJwQVdZMFM0TGM5Y2NuZlBNUXhrRmR2QXBtMmVibE95LXNtWUlDOE8xX3JHSHQ1bVFGWXJCSU1pckRGSlNLbEpOVDRpMk11SHN3?oc=5",
-          "published": "2026-10-23T22:38:11+00:00",
-          "summary": "",
-          "via": "Google News"
-        },
-        {
-          "source": "MarketForces Africa",
-          "title": "XRP Upside Rises To 35% As Ledger Upgrade Delayed To Nov. - MarketForces Africa",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORXVZTHVVLWI0WEpNV1hoY0xPWDZhTVlJUGlWY2t1MTdwUVhHNmZ3eW5lV2o4RV8xM0RXQzFpWjlJX3JpNV9SZmVTOXMyQ3UzTE02aEUtY3NXLUZOd1pPNUpzdUJCUV9tX3FibEpOclBuc0lIdVhCcTF5NlBveTZDcnpDZUJPdWp2Q1E?oc=5",
-          "published": "2026-10-23T20:35:47+00:00",
           "summary": "",
           "via": "Google News"
         },
